@@ -1,0 +1,39 @@
+- title: 소개
+  sid: intro
+  subsections:
+          - title: 공지사항
+            ssid: notice
+          - title: 인사말
+            ssid: greeting
+          - title: 운영위원
+            ssid: member
+          - title: 연구회규정
+            ssid: rule
+- title: 참여
+  sid: participate
+  subsections:
+          - title: 회원가입
+            ssid: join
+          - title: 논문지투고
+            ssid: submit
+- title: 행사
+  sid: events
+  subsections:
+  - title: 학술대회
+    ssid: conf
+  - title: 계절학교
+    ssid: school
+- title: 자료
+  sid: data
+  subsections:
+  - title: 논문지
+    ssid: journal
+  - title: 번역용례
+    ssid: term
+- title: 연결
+  sid: conn
+  subsections:
+  - title: 관련연구실
+    ssid: link
+  - title: 연락처
+    ssid: contact

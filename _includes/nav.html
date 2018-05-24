@@ -1,0 +1,16 @@
+<div class="nav">
+  <table width="85pt" style="margin-top:20px; margin-left:5px;">
+    {% for sec in site.data.sections %}
+
+    <tr><th align="left">{{ sec.title }} </th> </tr>
+    {% for subsec in sec.subsections %}
+    {% assign subsec_url = "/" | prepend:sec.sid | append:subsec.ssid %}
+
+    <tr><td align="right">
+	<a href={{site.url}}/{{ subsec_url }} >{{ subsec.title }}</a>
+    </td></tr>
+
+    {% endfor %}
+    {% endfor %}
+    </table>
+</div>
