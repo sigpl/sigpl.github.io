@@ -1,0 +1,122 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/style.css">
+<title>SIGPL 2008 추계학술대회</title>
+</head>
+<body>
+
+<table width="660"><tr><td>
+
+<h1 align="center">
+<span style="text-decoration: none">정보과학회 프로그래밍언어연구회 (SIGPL)
+<br>2008 추계학술대회
+</span>
+</h1>
+<center><table><tr><th align="left">
+- 일시: 2008년 12월 13일 (토) 1:00-5:00
+<br>- 장소: 성균관대학교 자연과학캠퍼스 반도체관 330110호
+</td></tr></table>
+</center>
+<br>
+
+안녕하십니까?  한국정보과학회 프로그래밍언어연구회(SIGPL)는 2008
+프로그래밍언어연구회 추계학술대회를 성균관대학교 자연과학캠퍼스(수원)에서
+개최합니다.  회원 여러분의 많은 참여와 관심을 부탁드립니다.
+
+<br><br><b>한국정보과학회 프로그래밍언어연구회 운영위원장 최진영</b>
+
+<h2> 프로그램  </h2>
+<ul>
+<li> 프로그램
+<table border="1pt" bordercolor="#808080" cellspacing="0"><tr><td>
+<table>
+<tr><td>
+13:00
+  </td><td colspan="2"> 
+  등록
+</td></tr><tr><td rowspan="2">
+13:30
+  </td><td bgcolor="#ffddcc" colspan="2">
+  총회</td></tr><tr><td width="60%">
+   2008년 프로그래밍언어 연구회 총희</td><td>
+  　</td></tr><tr><td>
+14:20
+  </td><td colspan="2"> 휴식
+</td></tr><tr><td rowspan="4">
+14:30
+  </td><td bgcolor="#ffddcc" colspan="2">
+  논문발표 I</td></tr><tr><td>
+   재겨냥성 어셈블러와 링커 개발 <img src="/mail/good.gif">
+  </td><td>
+  김호균, 정지문, 이종원, 박상현, 윤종희, 백윤흥 (서울대)</td></tr><tr><td>
+   IR 시뮬레이터
+  </td><td>
+  최영규, 안민욱, 윤종희, 김용주, 김대호, 백윤흥 (서울대)</td></tr><tr><td>
+   상황 인식 기반의 개인 맞춤형 추천 시스템
+  </td><td>
+  윤혜진, 신현정, 창병모 (숙명여대)</td></tr><tr><td>
+15:30
+  </td><td colspan="2"> 휴식
+</td></tr><tr><td>
+15:45
+  </td><td colspan="2" bgcolor="#ffddcc"> 논문발표 
+	II</td></tr><tr><td rowspan="3"></td><td>
+함수 간추림을 이용해 메모리 누수를 찾아내는 분석기<img src="/mail/good.gif">
+</td><td>
+정영범, 이광근 (서울대)</td></tr><tr><td>
+컨텍스트를 구분하지 않는 분석이 오히려 느린 이유와 속도를 높이는 방법
+</td><td>
+오학주, 이광근 (서울대)</td></tr><tr><td>
+프로그램 유사도 산정을 위한 육안보정 반자동화<img src="/mail/good.gif"></td><td>
+안효천, 이욱세, Yan Bin Tang (한양대학교)</td></tr><tr><td>
+16:45
+  </td><td colspan="2"> 폐회
+</td></tr></table>
+</td></tr></table>
+참고:  <a href="cfp.html">논문모집공고</a>
+</ul>
+ 
+<h2> 등록안내 </h2>
+<ul>
+<li> 등록비 (사전 등록 마감: <font color="red">2008년 12월 12일</font>)
+<table border="1" bordercolor="#808080" cellspacing="0">
+<tr><th>　</th><th>사전등록 (회원)</th><th>사전등록
+(비회원)</th><th>현장등록 (회원 및 비회원)</th></tr>
+<tr align="center"><th>학생</th><td>20,000원</td><td>25,000원</td><td>25,000원</td></tr>
+<tr align="center"><th>일반</th><td>30,000원</td><td>40,000원</td><td>40,000원</td></tr>
+</table>
+<li>영수증은 당일 등록과 동시에 등록 데스크에서 발급
+<li>현장에서 회원 가입 가능
+<li>등록 방법: <a href="/pay/conf.php">등록페이지</a>를 통하여 등록
+</ul>
+
+
+<h2> 준비위원회 </h2>
+<ul>
+<li> 조직위원장: 한환수 교수 (성균관대, <img src="/mail/hshan.jpg">)
+<li> 학술위원장: 신승철 교수 (한국기술교육대, <img src="/mail/scshin.jpg">)
+<li> 문의: 총무 이재진 교수 (서울대, <img src="/mail/jlee.jpg">)
+</ul>
+
+<h2> 장소안내 </h2>
+<ul>
+<li> 성균관대학교 자연과학캠퍼스 오시는 길 (경기도 수원시 장안구 천천동 300)
+<br> <img src="skku-direction.gif">
+<li> 행사 장소 (반도체관 330110호)  오시는 길
+<br> <img src="campus-direction.jpg" width="600">
+
+
+<li><b>시내버스</b> <a href="http://traffic.local.naver.com/Bus/Bus_NO_Search.asp?CID=1&LMenu=2&BusNO=3003&BLID=9581"><b>3003번</b></a>: 강남역 3번출구 방면 (탑승), 성균관대역 (하차)
+  <ul>
+  <li> 역에서 도보 20분 소요
+  </ul>
+<li> <b>지하철</b>: 1호선 성균관대역에서 하차 (4호선 이용시 금정역에서 1호선 수원행 환승)
+  <ul>
+  <li> 역에서 도보 20분 소요
+  </ul>
+
+</td></tr><tr><td>
+
+　</td></tr></table>
+</body>
+</html>

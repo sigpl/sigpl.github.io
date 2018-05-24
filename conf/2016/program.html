@@ -1,0 +1,448 @@
+---
+layout: default
+title: SIGPL 2016 동계 워크숍
+---
+
+<h2> 초청강연(1) - 사회 : 허충길 교수(서울대학교)</h2>
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    Bernd Burgstaller 교수(연세대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    13:35-14:25
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  Stream Program Orchestration for Multicore Architectures
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+  Stream processing is a programming paradigm where computations are expressed as independent actors that communicate via FIFO data channels. Stream programming languages facilitate application domains characterized by regular sequences of data, such as digital signal processing, audio, video, graphics and networking. Recently, the stream programming paradigm has been applied with real-time streaming analytics applications in the Cloud. Although stream programs contain an abundance of parallelism, obtaining an efficient mapping onto a parallel architecture is nevertheless a difficult problem.
+  <p>
+    In this talk we will discuss stream program optimizations that eliminate stream program bottlenecks and deploy stream graphs onto shared-memory multicore architectures. We employ a data rate transfer model which permits the computation of closed forms for data rate transfer functions of actors. A combinatorial optimization problem uses these closed forms to maximize the throughput of a stream program. Although this problem is inherently NP-hard, our 2-approximation algorithm achieves results close to the optimal solution. The talk will conclude with challenges and open problems for the deployment of streaming applications in the Cloud.
+  </p>
+  <p>
+    About the speaker
+  </p>
+  <p>
+    Bernd Burgstaller is an Associate Professor at the Department of Computer Science at Yonsei University. He completed his PhD in static program analysis at the Vienna University of Technology in 2005 and continued as a postdoc at the University of Sydney until 2007. Before pursuing an academic career, Bernd Burgstaller worked in industry as programmer and software architect for Philips Consumer Electronics, Vienna.
+  </p>
+</td>
+
+</table>
+<h2> 초청강연(2) - 사회 : 최광훈 교수(연세대학교)</h2>
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    배현섭 대표(슈어소프트)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    14:30-15:20
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  Analysis and testing for mission critical software
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+  차량 ECU, 철도 신호제어, 원자력발전소 계측제어, 항공기 비행제어 등 mission critical 시스템에 탑재되는 소프트웨어의 오류는 인간의 생명과 직결된다. 따라서 엄격한 품질표준 및 규제기준을 준수해야한다. 국제 표준은 mission critical software에 대해서 다양한 리뷰, 분석, 테스팅을 요구한다. 이 발표에서는 mission critical software에 대한 국제 표준을 중심으로 분석 및 테스팅 요건을 살펴보고 이를 충족하기 위한 기술 및 도구를 사례 중심으로 설명한다. 또한 향후 필요 기술 및 발전 방향을 고찰한다.
+</td>
+
+</table>
+
+<h2> 기업체 발표 - 사회 : 안준선 교수(항공대학교)</h2>
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    신승철 대표(코드마인드)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    15:35-16:00
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  	CodeMind: An On-the-Fly Static Analyzer using Source Code Querying
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+  정적분석도구의 정확도와 속도는 꾸준히 개선되고 있다. 그러나 대규모 소스코드의 검사는 여전히 몇 시간을 기다려야 하고, 거짓경보를 가려내는 일은 시간과 노력이 많이 필요하다. 이를 도와줄 방도가 무엇인지 분석엔진과 사용자 인터페이스 양쪽에 대해 고민한다.
+</td>
+
+</table>
+
+<h2> 마일스톤(1) - 좌장 : 박성우 교수(포항공대)</h2>
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    이병철 교수(광주과학기술원)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    16:05-16:30
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  Adaptive Correction of Sampling Bias in Dynamic Call Graphs
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+This talk introduces a practical low-overhead adaptive technique of correcting sampling bias in profiling dynamic call graphs. Timer-based sampling keeps the overhead low but sampling bias lowers the accuracy when either observable call events or sampling actions are not equally spaced in time. To mitigate sampling bias, our adaptive correction technique weights each sample by monitoring time-varying spacing of call events and sampling actions. We implemented and evaluated our adaptive correction technique in Jikes RVM, a high-performance virtual machine. In our empirical evaluation, our technique significantly improved the sampling accuracy without  measurable overhead and resulted in effective feedback directed inlining.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    안기영박사 (Portland State University 졸업)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    16:30-16:55
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  Type Inference Prototyping Engines from Relational specifications of type systems (TIPER)
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+TIPER aims to automatically generate Type Inference Prototyping Engine from Relational specifications of type systems. Our ultimate goal for the TIPER project is to build a framework that automates type system implementations just as parser implementations are automated by parser generators, ever since Yacc was developed in the 70's. This project will reduce the high-cost of type system implementations supporting type inference so that advancements in type systems research would become much more available to the developers as a cost-effective technology to support in language implementations. This talk will introduce our preliminary results on specifying various degrees of parametric polymorphism found in functional languages using logic programming and briefly introduce the plans and progress regarding the TIPER project -- <a href = "http://kyagrd.github.io/tiper/"> homepage</a>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    오학주 교수(고려대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    16:55-17:20
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  Machine Learning Approaches to Adaptive Program Analysis
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+프로그램 분석에서 정확도와 비용사이의 적절한 균형을 머신러닝 기법을 이용해 달성해오고 있는 연구를 소개한다. 정적 프로그램 분석 기술을 효과적으로 사용하기 위해서는 큰 프로그램을 정확하게 분석 할 수 있어야 한다. 이를 위해서는 비용이 큰 정확도 향상 기법들을 대상 프로그램에서 효과적인 부분에만 선별적으로 적용할 수 있는 기술이 필요하다. 이 발표에서는 이 문제를 머신 러닝 기법들을 활용해서 해결할 수 있음을 보이고, 최근 성과와 함께 현재 진행중인 연구 내용들을 소개한다.
+</td>
+<h2> Light talk(1) - 좌장 : 임현승 교수(강원대학교)</h2>
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    채권수(고려대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    17:30-17:35
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  Learning to Adapt Program Analysis with Automatic Feature Construction
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+프로그램 분석에서 정확도와 비용사이의 균형을 잡는 전략을 전자동으로 학습할 수 있는 방법에 대해 소개한다. 최근 주어진 코드베이스로부터 정적 분석 전략을 효과적으로 학습하는 기법이 제시되었는데, 이 방식을 활용하는데 있어서 가장 큰 걸림돌은 새로운 분석에 적용할 때마다 머신 러닝에서 활용할 적절한 프로그램 특성(“features”)을 사용자가 제공 해야 한다는 것이다. 이러한 feature를 디자인 하는 작업은 매우 번거로운 작업일뿐만 아니라 프로그램 분석과 머신 러닝 모두에 익숙한 전문가만이 할 수 있는 작업이다. 이러한 단점을 해결할 것으로 기대하는 새로운 러닝 기법을 소개한다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    이민아(고려대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    17:35-17:40
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  Efficiently Learning an Adaptation Strategy of Program Analysis with Ordinal Comparison
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+정적 분석 선별적 적용 전략 학습을 적은 비용으로 할 수 있는 아이디어를 소개한다. 주어진 코드베이스에서 가장 잘 동작하는 분석 전략을 찾는 과정은 최적화 문제(optimization problem)를 푸는 과정에 해당한다. 그런데 이러한 최적화 문제에서 사용하는 목적함수(objective function)은 정적 분석기로 코드베이스 전체를 분석하는 과정을 수반하기 때문에 한번 계산하는 비용이 매우 크다. 이러한 상황에서도 러닝을 효과적으로 하기 위한 간단하면서도 효과적인 기법을 소개한다.
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    전현구(충남대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    17:40-17:45
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  정적 분석을 이용한 크래시 필터링
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+크래시는 프로그램에 대한 예외상황이 처리되지 못해 비정상적으로 종료되는 현상으로 공격 가능성으로 이어질 가능성이 있음. 생성된 많은 크래시중 공격가능성이 있는 크래시를 정적 오염분석을 이용해 자동으로 분류하여, 공격을 사전에 예방하는대 도움을 줄 수 있다.
+</td>
+<h2> 마일스톤(2) - 좌장 : 오학주 교수(고려대학교)</h2>
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    임현승 교수(강원대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+    10:00-10:25
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+  XML 프로그램을 위한 거꾸로 타입 추론 기법
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+XML 타입체킹은 XML이 표준으로 도입된 이후부터 꾸준히 제기되어 온 문제이다. W3C 표준 XML 언어들은 XML 문서를 탐색하고 정보를 추출하기 위해 XPath 축 표현식을 이용한다. XPath 축 표현식은 강력하지만 타입체킹이 어렵다. 본 발표에서는 XPath를 사용하는 W3C 표준 XML 질의 언어인 XQuery를 위한 거꾸로 타입 추론 기법을 소개한다. 거꾸로 타입 추론은 프로그램과 그 프로그램의 실행 결과로 생성될 XML 문서의 타입이 주어졌을 때, 프로그램이 입력으로 취할 수 있는 XML 문서의 타입을 추론한다. 본 연구에서 제안하는 시스템은 기존 연구와 달리 XPath 축 표현식의 타입을 정확하게 추론하는 것으로 사료된다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    허충길 교수(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+10:25-10:50
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+Towards verified compilation for the LLVM compiler
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+In this talk, I will give a high-level overview of my group's long-term project, called LLVMberry. The goal of the project is to develop a practical tool for formally guaranteeing the absence of compiler bugs in the LLVM compiler. More specifically, we develop a verified translation validator for the LLVM compiler. The validator checks the absence of optimization bugs in any given compilation result. 
+<p>
+In the talk, I will show how we make our validator to be (i) formally sound (ie, generating a machine-checked proof of correctness of any compilation result passing the validator); (ii) complete by design (ie, validation succeeds for any compilation result unless one makes a mistake in the design or implementation of the compiler or validator); and (iii) practical (ie, validation cost is cheap enough for validator users; and development cost is cheap enough for validator writers).
+</p>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+강지훈(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+11:00-11:25
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+C/C++ 동시성 메모리 모델
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+C/C++ 동시성 메모리 모델은 오랫동안 제련된 아이디어를 집약한 좋은 모델이지만, 아직 뚱딴지같은 행동(out-of-thin-air behavior)을 허용 하는 단점이 있다. 뚱딴지같은 행동이란 대입하지도 않은 값이 메모리에 저장되는 행동을 말한다. 이런 행동은 (1) 프로그래머가 이해하기 힘들며, (2) 좋은 검증 기법을 고안하기 힘들고, (3) 컴파일이 어려우며, (4) 시스템의 보안을 위협한다. 
+<p>
+우리는 뚱딴지같은 행동이 없는 C/C++ 동시성 메모리 모델을 제시한다.
+</p>
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+김윤승(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+11:25-11:50
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+Lightweight verification of separate compilation
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+CompCert와 같은 검증된 컴파일러는 검증에 필요한 노력을 줄이기 위해 모든 소스 코드를 모아서 컴파일하는 경우만 가정하고 증명하였다. 그러나 실제로는 소스 코드를 각각 컴파일 후 링크하는 분할 컴파일 기법이 주로 사용된다. 분할 컴파일의 옳음을 정형적으로 증명하기 위한 연구가 있어왔으나 모두 이론과 구현이 복잡하여 실제에 적용하기에는 어려움이 있다. 우리는 동일한 검증된 컴파일러를 사용한다는 가정 하에 매우 간단히 분할 컴파일의 옳음을 증명할 수 있는 기법을 고안하였고, 이를 CompCert 2.4 버전에 적용하였다. 분할 컴파일을 검증하는 연구를 통해 CompCert에 존재했던 관련 버그를 찾아내기도 하였다.
+</td>
+
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+고유선(연세대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+11:50-12:15
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+Program transformation of the synchronous data flow programming model
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+Because of a growing interest in Big Data stream processing in the Cloud, the synchronous data flow (SDF) programming model is being revisited for its abundance of parallelism expressed through independent actors that communicate via FIFO data channels. FIFO data channels isolate the producer from the consumer, which is desirable as an abstraction mechanism for actor communication. However, the FIFO queue abstraction obscures data flow information which disrupts standard compiler optimizations. In this talk, program transformations that shift FIFO queue management from run-time to compile time will be introduced. The transformation eliminates splitters and joiners, and facilitates the formation of static single assignment form. Our transformation is conducted in two steps, (1) a local direct access transformation which explicates the token-flow within an actor, and (2) a global direct access transformation which resolves queue accesses across the whole program. We employ static program analysis to determine the token-flow within an actor and enhance the effectiveness of the transformation.
+</td>
+<h2> 마일스톤(3) - 좌장: 이병철 교수(광주과학기술원)</h2>
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+김진영(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+13:30-13:55
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+정적의미분석 결과를 기계학습에 활용한 안드로이드 악성 앱 탐지
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+정적의미분석 결과를 기계학습에 활용하여 안드로이드 악성앱을 탐지하는 연구에 대해 발표한다. 우리의 분류기는 안드로이드 악성앱 정적분석기 ScanDal을 통한 앱 의미분석 결과를 특징(feature)으로 활용하며, 알려진 악성앱과 일반앱으로부터 학습한다. 분류기가 사용하는 의미기반 특징들을 설명하고 이 특징들이 악성앱과 일반앱을 가르는 데 어떤 도움을 주는지 보인다. 의미분석에 기반한 특징을 이용하면 악성앱 분류를 더 잘할 수 있으며, 특히 알려지지 않은 악성앱을 탐지하는 데 강점이 있음을 보인다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+이우석(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+13:55-14:20
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+부울논리가 함수호출경로를 만들어주네요, 알람분류에 유용해요
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+본 발표에서는 소스-싱크 분석기의 알람이 참 혹은 거짓인지 사용자가 판단하는데 도움을 주는 시스템을 소개한다.  소스란 우리가 관심있는 값이 생성되는 지점, 싱크란 그 값이 쓰이는 지점을 의미한다. 분석기가 근사 해답을 주기 때문에, 사용자는 소스-싱크 경로의 실재 가능성을 육안으로 판단해야 한다. 이 사용자 판별과정은 가능한 경로의 갯수와 길이가 커질수록 어렵다.  이를 해결하기 위해 우리는 최단 소스-싱크 함수호출경로를 사용자에게 제시하고, 그것이 실재할 수 없는 경로인 경우, 사용자에게 그 이유를 논리식 형태로 제공받아 다른 최단 경로를 제공하는 사용자 상호작용 시스템을 만들었다. 사용자 제약식은 부울논리식이며 그 안에서 부울변수는 어떤 함수 호출이 경로에 포함되는지 아닌지를 의미한다.  이를 포맷스트링 버그 탐지 분석기에 적용한 결과, 15개의 C 오픈소스 프로그램에서 실제하는 버그를 시스템을 이용해 빠르게 찾을 수 있었다. 많은 경우 필요한 사용자 상호작용 횟수는 1-4번에 불과했다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+허기홍(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+14:20-14:45
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+기계학습을 이용한 효율적인 관계분석
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+관계분석에서 정확도 상승에 기여할만한 관계만을 분석전에 선별하는 이야기이다. 관계분석은 프로그램에 나타나는 여러 변수 사이의 수학적 관계 (예. x - y <= 1)를 추적하는 분석이다. 이는  비관계분석에 비해 정확하지만 프로그램이 커지고 변수가 많아질수록 그 비용이 기하급수적으로 증가하는 문제가 있다. 하지만 사실 알고보면 최종 정확도 상승에 기여하는 변수관계는 그리 많지가 않다. 이 연구에서는 관계 분석시 정확도 상승에 기여할만한 변수 관계를 기존 프로그램의 분석결과를 학습하여 알아내고 새로운 프로그램을 관계분석할 때 필요한 변수만 선별해 내는 방법을 탐구한다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+조성근(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+14:45-15:10
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+ZooBerry: 분석기/검산기 자동 생성 시스템
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+현재 개발 중인 분석기/검산기 자동 생성 시스템, ZooBerry를 소개한다. ZooBerry는 사용자로부터 고수준의 분석 명세를 입력 받아, 여러 최적화 기술이 적용된 분석기와 분석 결과가 올바른지 확인하는 검산기를 출력한다. 덕분에 사용자는 분석하고자 하는 성질에만 집중하면서도, 고성능이면서 올바름이 보장되는 분석기를 얻을 수 있다. 이 발표에서는 ZooBerry의 내부 구조와 개발 과정에서 만난 어려움들을 공유하겠다.
+</td>
+<h2> Light talk(2) - 좌장: 임현승 교수(강원대학교)</h2>
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+권기창(광주과학기술원)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+15:20-15:25
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+An Efficient Choice of Java Object Model with Preemptable Code Offloading
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+Although the technology for mobile device is constantly improving for the last ten years, the battery capacity is a major problem for using the mobile devices. Since it remains alive either only couple of hours for laptops or at most one day for smartphones. Code offoading is a kind of increasing energy effciency to live longer. In this paper, we evaluate Java object models with preemptable code offoading. We suggest the choice of Java object model.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+    강성중(광주과학기술원)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+15:25-15:30
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+JeannieCL: Granting JNI with parallel environment
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+his talk introduces JeannieCL, which integrates two frameworks - Jeannie and OpenCL. Jeannie enables to use JNI programming without including jni.h header, using only one source code. Using OpenCL, this is expected to be parallelized. We can look for better performance for arallelized Java-C program. 
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+고봉석(광주과학기술원)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+15:30-15:35
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+Empirical Study of Real World Multilingual Programs and Their Bugs
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+This talk discusses plans and methodology for analyzing usage of multilingual programs and their program errors. High-level programming languages can support foreign function interface (FFI) to imporve their performance or use legacy codes. Multilingual programs have multilingual program bugs and many researchers develop various debugging tool to find bugs. First, I analyze papers for multilingual programs. Unfortunately there are no benchmarks for multilingual program bug research. Therefore many researchers select test program with ad-hoc process or random selection.  Then I find multilingual programs each Ubuntu version to analyze trend of multilingual program. My next plan is that collecting real world multilingual program bugs with bug tracking system. If this study success, I can provide real world multilingual program bugs in benchmark form.
+</td>
+
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+안수민(광주과학기술원)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+15:35-15:40
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+Empirical Analysis of Ocaml/C Program Errors
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+Bugs appearing in multilingual programs are hard to be analyzed because they usually from foreign function interfaces. We present empirical analysis of the OCaml/C program errors, occurring on Ocaml’s foreign function calls to C. In this paper, we concentrate on LablGtk, which is an OCaml interface to GTK+ 1.2 and 2.x. It provides a strongly-typed, yet comfortable, object-oriented interface compatible with GTK+’s dynamic typing thorugh OCaml’s rich type system. Most widgets and methods are available, along with many examples. And our results of analysis would be used to fix bugs that are not fixed yet and help to make auto debugging system on multilingual programs, O-Saffire or MUSEUM.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+한승훈(광주과학기술원)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+15:40-15:45
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+Source code level debugger for jikes RVM
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+The Jikes RVM is a virtual machine for reasearch. When researching with Jikes RVM, sometime we want to debug Jikes RVM in source code level. But there are no debugger presenting source code. This talk about idea about implementation of source code level debugger for Jikes RVM.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+박창희(KAIST)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+15:45-15:50
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+스트링 도메인에 간단한 정규식을 활용하여 효율적으로 jQuery 정적 분석하기
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+jQuery는 가장 많이 쓰이는 JavaScript 라이브러리인 반면 현재 존재하는 최첨단 JavaScript 정적 분석기들은 jQuery를 이용하는 간단한 프로그램 마저 합리적인 시간내에 분석을 해내지 못 하고 있습니다. 이 발표에서는 jQuery를 이용하는 프로그램 분석을 좀더 효율적으로 하기 위해 간단한 정규식의 활용 방안에 대해서 말씀드릴 예정입니다. 기존 분석기들에서 사용하는 상수 스트링 도메인에 간단한 정규식을 추가하여 분석기의 표현력을 높임으로써 분석의 정확도와 속도를 동시에 높일 수 있음을 설명드리고 정규식 추가 방법 및 관련된 문제점에 대해서도 말씀드릴 예정입니다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+이홍기(KAIST)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+15:50-15:55
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+JavaScript 정적분석을 위한 함수문맥 구분방법
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+정적분석에서 함수간 분석을 할 때, 함수문맥을 어떻게 구분하는지에 따라 다양한 함수문맥 구분방법이 존재한다. 함수문맥을 구분하지 않거나, 호출위치이력을 이용하는 방법을 주로 사용하고 있으며, 객체지향언어에서는 객체민감 함수문맥 구분법을 정적분석에서 함수 문맥을 구분하는데 이용하고 있다. JavaScript에서는 값들을 더 정확하게 유지하기위해, 함수 호출위치와 인자의 값까지 이용하여 구분하는 함수문맥 구분법을 제안하였다. 하지만 지금까지 제안된 JavaScript 정적분석을 위한 함수문맥 구분방법은 특정 기술을 잘 적용하기 위한 방안으로, 복잡한 JavaScript 프로그램을 분석하기에는 적절하지 않다. 우리는 함수 호출위치를 활용하는 함수문맥구분 방식이 아닌, 함수 호출상태를 이용한 함수문맥구분 방식을 이용하여 복잡한 JavaScript 프로그램을 분석하고자 한다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+윤용호(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+15:55-16:00
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+LLVM 컴파일러의 Alias Analysis 패스 검산하기
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+LLVM 컴파일러에 검증된 검산기를 장착하는 연구의 한 꼭지로, Alias Analysis 패스에 대해 검산하는 연구를 발표한다. Alias Analysis는 메모리 읽기, 쓰기가 얽힌 명령어들에 대해 최적화를 하기 위해서 여러 곳에서 사용된다. 어떤 두 포인터가 같은 주소를 가리킬 수 있는지, 혹은 어떤 함수가 특정 포인터의 영역을 건드릴 수 있는지 등등을 알려준다. 최적화 자체에 대한 검산과 최적화 근거로 사용되는 분석에 대한 검산을 분리하는 방식으로 앞으로의 확장을 편리하게 할 수 있다. 예를 들어, 현재 O1에서 O3까지의 옵션에서 기본적으로 사용되는 분석들 외에 새로운 분석이 추가될 경우에도 쉽게 대처할 수 있다. Alias Analysis 결과를 검산하는 방법과, 이를 최적화 검산에 활용할 수 있도록 하는 구조를 소개한다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+최재승(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+16:00-16:05	
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+바이너리 실행 파일의 버퍼 오버런 분석
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+이 발표는 바이너리 실행 파일에서 버퍼 오버런 오류를 찾아내는 분석기를 소개한다. 정적 분석은 프로그램 소스에서 오류를 찾아내는데 성공적으로 사용되어 왔다. 그러나 오늘날 많은 소프트웨어는 소스 코드 없이 바이너리 파일로만 공개되곤 한다. 따라서 바이너리 형태로도 정적 분석이 가능하다면 유용할 것이다. 소스 코드에는 선언된 배열의 크기와 같은 high-level 정보가 드러나지만, 바이너리에는 이러한 정보가 드러나지 않기 때문에 버퍼 오버런을 정의하고 탐지하는데 어려움이 있다. 이러한 문제를 해결하기 위한 아이디어와, 구현된 분석기의 실험 결과를 소개한다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+이동권(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+16:05-16:10
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+달라지는 실행흐름에 의한 변경 영향을 빠짐없이 잡아내기
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+이번 발표에서는 오염분석(taint analysis)을 기반으로 한 PL/SQL변경영향분석기 설계에 대해 말씀드리고자 합니다. 먼저 분석기설계의 큰 그림에 대해 말씀드릴 예정입니다. 저는 오염전파경로(taint propagation path)가 포함된 PL/SQL 의미구조(Concrete Semantics)를 새로이 정의하였습니다. 이 새로운 의미구조를 통해 프로그램에서 변경된 부분을 오염원(taint source)으로 잡고 실행도중 어떤 곳으로 오염이 전파되는지 알 수 있습니다. 또한 이 오염전파결과를 통해 어떤 지점에 변경영향이 생겼는지를 알 수 있습니다. 다음으로는 단순한 오염분석만으로는 찾아내기 힘들었던 변경영향지점에 대해 몇가지 소개를 해 드리고, 어떻게 이 문제를 해결했는지 소개해드리고자 합니다. 분기문(if/while), 예외처리(exception handling)이나 배열변경(assigning collecting values)에 의해 생기는 변경영향은 겉으로 드러나지 않는 이유에 의해 생기기 때문에 단순히 오염전파결과를 통해 정확히 짚어내기 힘들었습니다. 그 이유와 해결책에 대해서 소개해 드리도록 하겠습니다.
+</td>
+<tr><th style="width:90px">발표</th>
+  <th style="width:330px">
+김종권(서울대학교)
+  </th><th style="width:110px">시간</th><th style="width:110px">
+16:10-16:15
+  </th></tr>
+<tr align="center"><th>제목 </th>
+<td colspan="3" align="left"> 
+부울논리가 함수호출경로를 만들어주네요, 알람분류에 유용해요
+</td>
+<tr align="center"><th>요약 </th>
+<td colspan="3" align="left"> 
+본 발표에서는 소스-싱크 분석기의 알람이 참 혹은 거짓인지 사용자가 판단하는데 도움을 주는 시스템을 소개한다.  소스란 우리가 관심있는 값이 생성되는 지점, 싱크란 그 값이 쓰이는 지점을 의미한다. 분석기가 근사 해답을 주기 때문에, 사용자는 소스-싱크 경로의 실재 가능성을 육안으로 판단해야 한다. 이 사용자 판별과정은 가능한 경로의 갯수와 길이가 커질수록 어렵다.  이를 해결하기 위해 우리는 최단 소스-싱크 함수호출경로를 사용자에게 제시하고, 그것이 실재할 수 없는 경로인 경우, 사용자에게 그 이유를 논리식 형태로 제공받아 다른 최단 경로를 제공하는 사용자 상호작용 시스템을 만들었다. 사용자 제약식은 부울논리식이며 그 안에서 부울변수는 어떤 함수 호출이 경로에 포함되는지 아닌지를 의미한다.  이를 포맷스트링 버그 탐지 분석기에 적용한 결과, 15개의 C 오픈소스 프로그램에서 실제하는 버그를 시스템을 이용해 빠르게 찾을 수 있었다. 많은 경우 필요한 사용자 상호작용 횟수는 1-4번에 불과했다.
+</td>

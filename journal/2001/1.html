@@ -1,0 +1,124 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <body>
+<h1>프로그래밍언어논문지 제15권 제1호 (2001년)</h1><br>
+<h2>권두언:
+    <span class="small">[<a href="1/00.pdf">.PDF</a> 135KB]</span>
+  </ul>
+<h2>논문</h2>
+  <ul>
+    <li><b><a href="#01">Proving Exception Stackability and Linearity in a Ordered Logical</a></b>
+<br>Jeff Polakow, Kwangkeun Yi
+    <li><b><a href="#02">ZG-machine을 위한 비재귀적 메모리 재사용</a></b>
+<br>우균
+    <li><b><a href="#03">Mobile C 컴파일러에서의 에러 복구</a></b>
+<br>오세만, 김정숙
+    <li><b><a href="#04">s-extended PLR(k) 문법</a></b>
+<br>이경옥
+    <li><b><a href="#05">테스트 시스템에서 혼합 디버깅 시스템 내려받기</a></b>
+<br>고훈준, 유원희
+  </ul>
+ 	<hr>
+<h1>본문</h1>
+<a name="01"></a>
+<h2>Proving Exception Stackability and Linearity in a Ordered Logical    <span class="small">[<a href="1/01.pdf">.PDF</a> 243KB]</span>
+</h2>
+  <ul>
+    <li>저자:  Jeff Polakow, Kwangkeun Yi
+    <li>요약:
+    <br>
+We formally prove the stachability and linearity of exception handlers
+of ML-stype semantics using a novel proof technique via an ordered
+logical framework(OLF). We first transform exceptions into
+continuation-passing-stype(CPS) terms and formalize the exception
+properties as a judgement on the CPS terms. Then, rather than directly
+proving that the progerties hold for terms, we prove our theorem for
+the representations of the CPS terms and transform in OLF. We rely
+upon the correctness of our representations to transfer the results
+back to the actual CPS terms and transfrom. Our work can be seen as
+two-fold : we present a theoretical justification of using the stack
+mechanism to implement exceptions of ML-like semntics; and we
+demonstrate the value of an ordered logical framework as a conceptual
+tool in the theoretical study of programming language.
+  </ul><a name="02"></a>
+<h2>ZG-machine을 위한 비재귀적 메모리 재사용    <span class="small">[<a href="1/02.pdf">.PDF</a> 2905KB]</span>
+</h2>
+  <ul>
+    <li>저자:  우균
+    <li>요약:
+    <br>
+ZG-machine은 태그 옮김이라는 간단한 부호화 기법을 통해 공간 효율을 높인
+G-machine으로서 G-machine과 비교하여 힙 공간을 평균 30% 절약할 수
+있었다. 그러나 ZG-machine은 G-machine에 비해 수행시간 부담이 다소
+증가하였는데, 수행시간의 증가는 주어진 힙 크기에 따라 다르게
+나타났다. 실험 결과를 분석한 결과 이 실행시간 증가는 ZG-machine의
+메모리 재사용 체계의 비효율성 때문인 것으로 판단되었다. 현재
+ZG-machine의 메모리 재사용 체계는 비효율적인 재귀적 알고리즘을 사용하고
+있는데, 그 이유는 태그 옮김 기법에 따른 노드 구조 해체로 인해 비재귀적
+알고리즘을 직접 적용하기 힘들기 때문이다. 본 논문에서는 ZG-machine을
+위한 비재귀적 메모리 재사용 알고리즘을 제안하고, 이 알고리즘의 성능을
+실험을 통해 확인한다. 비재귀적 메모리 재사용 알고리즘은 재귀 호출에
+필요한 별도의 스택공간을 사용하지 않는다는 점에서 더 경제적이고 함수
+호출에 걸리는 시간을 줄일 수 있다는 면에서 더 빠를 것으로
+기대되었는데, 실험 결과에 따르면 비재귀적 메모리 재사용 알고리즘은
+다량의 힙을 소모하는 프로그램에 대해서만 제한적으로 속도 향상을 보이는
+것으로 나타났다.
+  </ul><a name="03"></a>
+<h2>Mobile C 컴파일러에서의 에러 복구    <span class="small">[<a href="1/03.pdf">.PDF</a> 2317KB]</span>
+</h2>
+  <ul>
+    <li>저자:  오세만, 김정숙
+    <li>요약:
+    <br>
+에러 복구(Error Recovery)란 파싱하는 도중에 에러가 일어났을 때,
+계속하여 파싱할 수 있도록 문법적인 에러를 처리하는 작업을
+말한다. 이것은 소스 프로그램에 있는 문법적인 에러를 가능한 많이 찾아서
+보고하는 것을 목적으로 하며 이와 같은 처리는 컴파일러 제작에 있어서
+매우 중요한 일이다. 에러 복구에 관한 연구는 이론적으로는 많은 연구
+결과가 있었으나 실질적인 방법이 되지 못하고 적용하기에는 많은 제약점이
+있다.  본 연구에서는 LR 파서에서 간단하면서도 실질적으로 적용할 수 있는
+에러 복구 방법을 제안하고자 한다. 이 방법은 크게 2가지 경우로 구분하여
+처리하며 서로 보완적인 역할을 한다. 첫째, 패닉 방법(panic method)은
+입력의 일정 부분을 삭제하고 상태 스택을 조정하는 방법으로 에러가 일어난
+모든 경우에 적용할 수 있는 방법이다. 둘째, 수정 방법(modifying
+method)은 직접 파싱 테이블을 수정하여 해당하는 에러를 개별적으로
+처리하는 방법이다.  본 논문에서 제안한 에러 복구 방법은 실질적인 규모의
+컴파일러에 쉽게 적용할 수 있을 뿐 아니라 컴파일러 수업 시간에 제작하는
+실험용 컴파일러에도 간단하게 적용할 수 있는 방법이다. 또한, Mobile C
+프로그램을 GVM(Game Virtual Machine) 코드로 번역하는 실제적인 규모의
+컴파일러에 제안된 방법을 사용하여 실험하였다
+  </ul><a name="04"></a>
+<h2>s-extended PLR(k) 문법    <span class="small">[<a href="1/04.pdf">.PDF</a> 948KB]</span>
+</h2>
+  <ul>
+    <li>저자:  이경옥
+    <li>요약:
+    <br>
+본 논문에서는 PLR(k) 문법과 비좌순환(non-left recursive)
+k-transformable 문법을 포함하는 s-extended PLR(k) 문법을 정의하고, 이
+문법에 대한 LL 커버링 문법 변환을 제안한다.
+  </ul><a name="05"></a>
+<h2>테스트 시스템에서 혼합 디버깅 시스템 내려받기    <span class="small">[<a href="1/05.pdf">.PDF</a> 3719KB]</span>
+</h2>
+  <ul>
+    <li>저자:  고훈준, 유원희
+    <li>요약:
+    <br>
+테스트 시스템은 반도체 제품을 웨이퍼(wafer) 또는 완성된 제품 상태
+하에서 전기적 특성과 성능을 검사하고 그 결과를 산출해내는
+검사장치이다. 테스트 시스템은 하드웨어와 소프트웨어로 구성되어 있으며,
+특히 시스템을 제어하고 사용자 인터페이스 및 각종 자료를 처리하는
+소프트웨어는 그 중요성이 한층 더 부각되고 있다. 특히, 테스트 시스템
+내에서 프로그램을 컴파일하고 디버깅하는 기술 개발은 매우 어려운
+실정이다. 디버깅 기술은 엔지니어가 테스트 프로그램의 오류를 빨리 찾아
+수정하게 함으로써 정확한 제품 생산과 생산량을 높이게 한다. 따라서
+테스트 시스템의 디버깅 기술은 매우 중요하다.  본 논문에서는 기존
+알고리즈믹 디버깅 이론의 문제점을 지적하고 이 문제점을 해결할 수 있는
+혼합 디버깅 방법을 제안한다. 그리고 테스트 관리 프로그램에 혼합 디버깅
+방법을 적용함으로서 엔지니어가 테스트 프로그램을 편리하고 효율적으로
+디버깅하여 산업현장에서 일의 능률을 높이고자 한다.
+  </ul><hr>프로그래밍언어 연구회
+</body></html>

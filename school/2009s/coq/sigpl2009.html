@@ -1,0 +1,2230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<link href="coqdoc.css" rel="stylesheet" type="text/css"/>
+<title>sigpl2009</title>
+</head>
+
+<body>
+
+<div id="page">
+
+<div id="header">
+</div>
+
+<div id="main">
+
+<h1 class="libtitle">Library sigpl2009</h1>
+
+<div class="code">
+</div>
+
+<div class="doc">
+<a name="lab1"></a><h1 class="section">Coq for Sigpl Folk</h1>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+Basic definitions of type and term constructions using
+   inductive types and recursive function construction.
+
+<br/> <br/>
+   Mostly written by Gyesik Lee based on the lecture notes
+   by Sungwoo Park.
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab2"></a><h1 class="section">Contents</h1>
+
+
+<ul>
+<li> Propositional Logic
+
+<ul>
+<li> Natural deduction system
+
+</li>
+<li> Logical equivalence
+
+</li>
+</ul>
+
+</li>
+<li> First-Order Logic
+
+<ul>
+<li> Universal quantification
+
+</li>
+<li> Existential quantification
+
+</li>
+</ul>
+
+</li>
+<li> Dataypes
+
+<ul>
+<li> First-order logic with datatypes
+
+</li>
+<li> Inductive definitions
+
+</li>
+<li> Recursive functions
+
+</li>
+</ul>
+
+</li>
+</ul>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab3"></a><h1 class="section">Chapter 1 Propositional Logic.</h1>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+We use sections to distinguish several similar cases 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Section</span> <a name="propositional_logic"><span class="id" type="section">propositional_logic</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab4"></a><h2 class="section">1.1 natural_deduction_system</h2>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+We use propositional variables <span class="inlinecode"><span class="id" type="var">A</span>, <span class="id" type="var">B</span>, <span class="id" type="var">C</span></span>, etc. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Variables</span> <a name="propositional_logic.A"><span class="id" type="variable">A</span></a> <a name="propositional_logic.B"><span class="id" type="variable">B</span></a> <a name="propositional_logic.C"><span class="id" type="variable">C</span></a> : <span class="id" type="keyword">Prop</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Sorts in Coq: there are three sorts
+
+<br/> <br/>
+
+<ul>
+<li> <span class="inlinecode"><span class="id" type="keyword">Prop</span></span> : representing the class of logical statements,
+
+</li>
+</ul>
+
+
+<ul>
+<li> <span class="inlinecode"><span class="id" type="keyword">Set</span></span> : mainly used to describe data types and program specifications
+
+</li>
+</ul>
+
+
+<ul>
+<li> <span class="inlinecode"><span class="id" type="keyword">Type</span></span> : the sort "<span class="inlinecode"><span class="id" type="keyword">Set</span></span>" itself is of type "<span class="inlinecode"><span class="id" type="keyword">Type</span></span>",
+   more accurately of type "<span class="inlinecode"><span class="id" type="var">Type_0</span></span>".
+   Then <span class="inlinecode"><span class="id" type="var">Type_0</span></span> is of type <span class="inlinecode"><span class="id" type="var">Type_1</span></span>, and so on.
+
+</li>
+</ul>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+Basic connectives are already implemented in Coq 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">conj</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">and</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">not</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">and_ind</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">and_rec</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">and_rect</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Examples of inductive types and their induction principles.
+
+<br/> <br/>
+
+<ul>
+<li> If an inductive type is defined then some induction principles
+   related to the inductive type are also automatically generated.
+
+</li>
+</ul>
+
+
+<ul>
+<li> The induction principle corresponds to the elimination rules
+   and will be used afterwards as the bases of the tactics such as
+   induction or elim.
+
+</li>
+</ul>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab5"></a><h3 class="section">Natural numbers</h3>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Inductive</span> <a name="natural"><span class="id" type="inductive">natural</span></a> : <span class="id" type="keyword">Set</span> :=<br/>
+| <a name="nZ"><span class="id" type="constructor">nZ</span></a> : <a class="idref" href="sigpl2009.html#natural"><span class="id" type="inductive">natural</span></a><br/>
+| <a name="nS"><span class="id" type="constructor">nS</span></a> : <a class="idref" href="sigpl2009.html#natural"><span class="id" type="inductive">natural</span></a> -&gt; <a class="idref" href="sigpl2009.html#natural"><span class="id" type="inductive">natural</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">natural</span> = <span class="id" type="var">nat</span></span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">nat</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab6"></a><h3 class="section">Implication</h3>
+
+   The introductio rule for implication is a special case
+   of dependent product types and already implemented in Coq.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp1"><span class="id" type="lemma">E_imp1</span></a> : <span class="id" type="var">A</span> -&gt; <span class="id" type="var">A</span>.<br/>
+<span class="id" type="keyword">Proof</span>.<br/>
+<span class="id" type="tactic">intro</span>.<br/>
+</div>
+
+<div class="doc">
+The tactic "<span class="inlinecode"><span class="id" type="tactic">intro</span></span>" corresponds to introduction rule. 
+</div>
+<div class="code">
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H</span>.<br/>
+</div>
+
+<div class="doc">
+"<span class="inlinecode"><span class="id" type="tactic">exact</span></span>" means the exact proof term. 
+</div>
+<div class="code">
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp2"><span class="id" type="lemma">E_imp2</span></a> : <span class="id" type="var">A</span> -&gt; <span class="id" type="var">B</span> -&gt; <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">intros</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp3"><span class="id" type="lemma">E_imp3</span></a> : (<span class="id" type="var">A</span> -&gt; <span class="id" type="var">B</span>) -&gt; (<span class="id" type="var">A</span> -&gt; <span class="id" type="var">B</span>).<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H1</span>.<br/>
+</div>
+
+<div class="doc">
+The tactic "<span class="inlinecode"><span class="id" type="tactic">apply</span></span>" corresponds to elimination. 
+</div>
+<div class="code">
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab7"></a><h3 class="section">Remark</h3>
+
+
+<ul>
+<li> Giving concrete names to the assumptions is recommended.
+
+</li>
+</ul>
+
+
+<ul>
+<li> It is better for the computational part,
+   names chosen by Coq could cause confusion.
+
+</li>
+</ul>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab8"></a><h3 class="section">Conjunction</h3>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">and</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp_conj1"><span class="id" type="lemma">E_imp_conj1</span></a> : (<span class="id" type="var">A</span> -&gt; (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">C</span>)) -&gt; ((<span class="id" type="var">A</span> /\ <span class="id" type="var">B</span>) -&gt; <span class="id" type="var">C</span>).<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H1</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H2</span>.<br/>
+</div>
+
+<div class="doc">
+"<span class="inlinecode"><span class="id" type="tactic">elim</span></span>" is based on the induction rule
+   along the line of the corresponding inductive type.
+
+<br/> <br/>
+   In this case, the elimination rule for the conjunction <span class="inlinecode">/\</span>.
+
+</div>
+<div class="code">
+<span class="id" type="tactic">intros</span> <span class="id" type="var">H3</span> <span class="id" type="var">H4</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H3</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+</div>
+
+<div class="doc">
+"<span class="inlinecode"><span class="id" type="tactic">tauto</span></span>" is a tactic which automatically proves
+   propositional tautologies. 
+
+</div>
+<div class="code">
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp_conj1'"><span class="id" type="lemma">E_imp_conj1'</span></a> : (<span class="id" type="var">A</span> -&gt; (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">C</span>)) -&gt; ((<span class="id" type="var">A</span> /\ <span class="id" type="var">B</span>) -&gt; <span class="id" type="var">C</span>).<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp_conj1''"><span class="id" type="lemma">E_imp_conj1''</span></a> : (<span class="id" type="var">A</span> -&gt; (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">C</span>)) -&gt; ((<span class="id" type="var">A</span> /\ <span class="id" type="var">B</span>) -&gt; <span class="id" type="var">C</span>).<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="tactic">tauto</span></span> is relatively powerful. 
+</div>
+<div class="code">
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp_conj"><span class="id" type="lemma">E_imp_conj</span></a> : ((<span class="id" type="var">A</span> /\ <span class="id" type="var">B</span>) -&gt; <span class="id" type="var">C</span>) -&gt; (<span class="id" type="var">A</span> -&gt; (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">C</span>)).<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp_conj'"><span class="id" type="lemma">E_imp_conj'</span></a> : ((<span class="id" type="var">A</span> /\ <span class="id" type="var">B</span>) -&gt; <span class="id" type="var">C</span>) -&gt; (<span class="id" type="var">A</span> -&gt; (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">C</span>)).<br/>
+<span class="id" type="tactic">intros</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">split</span>.<br/>
+</div>
+
+<div class="doc">
+"<span class="inlinecode"><span class="id" type="tactic">split</span></span>" is a special case of the tactic "<span class="inlinecode"><span class="id" type="var">constructor</span></span>"
+   where there is only one constructor for inductive types
+
+<br/> <br/>
+   <span class="inlinecode"><span class="id" type="var">constructor</span></span> applies introduction rules for each constructor
+   of an inductive type.
+
+</div>
+<div class="code">
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H0</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp_conj''"><span class="id" type="lemma">E_imp_conj''</span></a> : ((<span class="id" type="var">A</span> /\ <span class="id" type="var">B</span>) -&gt; <span class="id" type="var">C</span>) -&gt; (<span class="id" type="var">A</span> -&gt; (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">C</span>)).<br/>
+<span class="id" type="tactic">intros</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">split</span>; [<span class="id" type="tactic">exact</span> <span class="id" type="var">H0</span> | <span class="id" type="tactic">exact</span> <span class="id" type="var">H1</span>].<br/>
+</div>
+
+<div class="doc">
+" <span class="inlinecode">;</span>" is a tactical, i.e., combination of
+   tactics which should be applied continuously. 
+
+<br/> <br/>
+   <span class="inlinecode"> [... | ... | ... ] </span> depends on how may subgoals are
+   created after the previous tactic.
+
+</div>
+<div class="code">
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp_conj2"><span class="id" type="lemma">E_imp_conj2</span></a> : ((<span class="id" type="var">A</span> /\ <span class="id" type="var">B</span>) -&gt; <span class="id" type="var">C</span>) -&gt; (<span class="id" type="var">A</span> -&gt; (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">C</span>)).<br/>
+<span class="id" type="tactic">intros</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">split</span>; <span class="id" type="tactic">assumption</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp_conj2'"><span class="id" type="lemma">E_imp_conj2'</span></a> : ((<span class="id" type="var">A</span> /\ <span class="id" type="var">B</span>) -&gt; <span class="id" type="var">C</span>) -&gt; (<span class="id" type="var">A</span> -&gt; (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">C</span>)).<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab9"></a><h3 class="section">Disjuction</h3>
+
+   Disjuction <span class="inlinecode">\/</span> has two constructors 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">or</span>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#or_ind"><span class="id" type="definition">or_ind</span></a>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">or_ind</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_or1"><span class="id" type="lemma">E_or1</span></a> : <span class="id" type="var">A</span> -&gt; (<span class="id" type="var">A</span> \/ <span class="id" type="var">B</span>).<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="var">left</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">left</span></span> or <span class="inlinecode"><span class="id" type="var">right</span></span> is the introduction rule
+   where there are two constructor. 
+
+</div>
+<div class="code">
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_or1'"><span class="id" type="lemma">E_or1'</span></a> : <span class="id" type="var">A</span> -&gt; (<span class="id" type="var">A</span> \/ <span class="id" type="var">B</span>).<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab10"></a><h2 class="section">Remark</h2>
+
+   Basic way of using proof tactics
+
+<br/> <br/>
+
+<ul>
+<li> bottom-up proof: introduction first, then elimination
+
+</li>
+</ul>
+
+
+<ul>
+<li> It is because a normalized proof has a form of a sandglass.
+
+</li>
+</ul>
+
+
+<ul>
+<li> Cf. The Sandglass Theorem. 
+
+</li>
+</ul>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+The following example shows the the order of tactics
+   is important.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_or2'"><span class="id" type="lemma">E_or2'</span></a> : <span class="id" type="var">A</span> \/ <span class="id" type="var">B</span> -&gt; <span class="id" type="var">B</span> \/ <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="var">left</span>.<br/>
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">Admitted</span></span> denotes that we assume that the claim is accepted. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_or2"><span class="id" type="lemma">E_or2</span></a> : <span class="id" type="var">A</span> \/ <span class="id" type="var">B</span> -&gt; <span class="id" type="var">B</span> \/ <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="var">right</span>; <span class="id" type="tactic">assumption</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="tactic">assumption</span></span> tries to find an assumption whose type
+   matches exactly modulo beta-conversion to the conclusion.
+
+<br/> <br/>
+   But it is recommended to avoid using <span class="inlinecode"><span class="id" type="tactic">assumption</span></span> if you
+   want to have a more efficient proof terms.
+   Instead, the tactic <span class="inlinecode"><span class="id" type="tactic">exact</span></span> is recommended.
+
+<br/> <br/>
+   The same holds for <span class="inlinecode"><span class="id" type="tactic">tauto</span></span> or <span class="inlinecode"><span class="id" type="tactic">auto</span></span> which will be introduced
+   later.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab11"></a><h3 class="section">Truth and Falsehood</h3>
+
+</div>
+<div class="code">
+<span class="id" type="keyword">Print</span> <span class="id" type="var">True</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">False</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Elimination rule for <span class="inlinecode"><span class="id" type="var">True</span></span> is not interesting. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">True_ind</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Elimination rule for <span class="inlinecode"><span class="id" type="var">False</span></span> is omnipotent 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">False_ind</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+The following lemma is called "intuitionistic" falsehood rule. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="false_all"><span class="id" type="lemma">false_all</span></a> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#False"><span class="id" type="inductive">False</span></a> -&gt; <span class="id" type="var">C</span>.<br/>
+<span class="id" type="tactic">intro</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H</span>.<br/>
+</div>
+
+<div class="doc">
+Look at the induction principle for False
+   by using <span class="inlinecode"><span class="id" type="keyword">Print</span> <span class="id" type="var">False</span></span>.
+
+</div>
+<div class="code">
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+ <span class="inlinecode"><span class="id" type="var">A</span> &lt;-&gt; <span class="id" type="var">B</span></span> stands for <span class="inlinecode">(<span class="id" type="var">A</span> -&gt; <span class="id" type="var">B</span>) /\ (<span class="id" type="var">B</span> -&gt; <span class="id" type="var">A</span>)</span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="and_true"><span class="id" type="lemma">and_true</span></a> : <span class="id" type="var">A</span> /\ <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#True"><span class="id" type="inductive">True</span></a> &lt;-&gt; <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">split</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H</span>; <span class="id" type="tactic">elim</span> <span class="id" type="var">H</span>; <span class="id" type="tactic">intros</span>; <span class="id" type="tactic">assumption</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">intro</span>; <span class="id" type="tactic">split</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">exact</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#I"><span class="id" type="constructor">I</span></a>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="or_false"><span class="id" type="lemma">or_false</span></a> : <span class="id" type="var">A</span> \/ <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#False"><span class="id" type="inductive">False</span></a> &lt;-&gt; <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab12"></a><h3 class="section">Negation of a proposition</h3>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">not</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="absurdity'"><span class="id" type="lemma">absurdity'</span></a> : <span class="id" type="var">A</span> -&gt; ~ <span class="id" type="var">A</span> -&gt; <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#False"><span class="id" type="inductive">False</span></a>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">unfold</span> <span class="id" type="var">not</span> <span class="id" type="keyword">in</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H2</span>; <span class="id" type="tactic">exact</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="absurdity''"><span class="id" type="lemma">absurdity''</span></a> : <span class="id" type="var">A</span> -&gt; ~ <span class="id" type="var">A</span> -&gt; <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#False"><span class="id" type="inductive">False</span></a>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="var">contradiction</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">contradiction</span></span> looks for assumptions
+   from where <span class="inlinecode"><span class="id" type="var">False</span></span> can be deduced.
+
+</div>
+<div class="code">
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab13"></a><h2 class="section">1.2 Logical equivalence</h2>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+Triple negation is equivalent to one simple negation. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="triple_non"><span class="id" type="lemma">triple_non</span></a> : ~ ~ ~ <span class="id" type="var">A</span> &lt;-&gt; ~ <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">split</span>; <span class="id" type="tactic">intro</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H3</span>.<br/>
+<span class="id" type="var">contradiction</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="var">contradiction</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">End</span> <a class="idref" href="sigpl2009.html#propositional_logic"><span class="id" type="section">propositional_logic</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab14"></a><h1 class="section">Chapter 2. Proof Terms</h1>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab15"></a><h2 class="section">Proof Terms</h2>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Section</span> <a name="proof_terms"><span class="id" type="section">proof_terms</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Print shows the proof terms constructed
+   by exactly following the term construction rules.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Variables</span> <a name="proof_terms.A"><span class="id" type="variable">A</span></a> <a name="proof_terms.B"><span class="id" type="variable">B</span></a> <a name="proof_terms.C"><span class="id" type="variable">C</span></a> : <span class="id" type="keyword">Prop</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Elimination rule for conjuction 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_conj"><span class="id" type="lemma">E_conj</span></a> : <span class="id" type="var">A</span> /\ <span class="id" type="var">B</span> -&gt; <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">H2</span> <span class="id" type="var">H3</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">E_conj</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Compare <span class="inlinecode"><span class="id" type="var">E_conj</span></span> with <span class="inlinecode"><span class="id" type="var">and_ind</span></span>. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#and_ind"><span class="id" type="definition">and_ind</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab16"></a><h3 class="section"><span class="inlinecode"><span class="id" type="var">prod</span></span> type vs. <span class="inlinecode"><span class="id" type="var">and</span></span> type</h3>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">prod</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">fst</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">snd</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">prod_ind</span>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#and_ind"><span class="id" type="definition">and_ind</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+lambda abstraction corresponds to <span class="inlinecode"><span class="id" type="keyword">fun</span></span> syntax in Coq 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="identity"><span class="id" type="lemma">identity</span></a> : <span class="id" type="var">A</span> -&gt; <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">x</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">x</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">identity</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab17"></a><h3 class="section">alpha-conversion</h3>
+
+   alpha-conversion is already implemented 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="alpha_conv"><span class="id" type="lemma">alpha_conv</span></a> : (<span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>: <span class="id" type="keyword">Prop</span>, <span class="id" type="var">x</span>) -&gt; <span class="id" type="keyword">forall</span> <span class="id" type="var">y</span>:Prop, <span class="id" type="var">y</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+however ... 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="alpha_conv'"><span class="id" type="lemma">alpha_conv'</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>: <span class="id" type="keyword">Prop</span>, <span class="id" type="var">x</span> -&gt; <span class="id" type="keyword">forall</span> <span class="id" type="var">y</span>:Prop, <span class="id" type="var">y</span>.<br/>
+<span class="id" type="tactic">intros</span>.<br/>
+</div>
+
+<div class="doc">
+no chance, so be careful with parentheses 
+</div>
+<div class="code">
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp5"><span class="id" type="lemma">E_imp5</span></a> : <span class="id" type="var">A</span> -&gt; <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">x</span>; <span class="id" type="tactic">assumption</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">E_imp5</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="E_imp5'"><span class="id" type="lemma">E_imp5'</span></a> : <span class="id" type="var">A</span> -&gt; <span class="id" type="var">A</span>.<br/>
+<span class="id" type="tactic">auto</span>.<br/>
+</div>
+
+<div class="doc">
+"<span class="inlinecode"><span class="id" type="tactic">auto</span></span>" has the ability of using proved lemmas from
+   the uploaded library.
+
+</div>
+<div class="code">
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">E_imp5'</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="or_left"><span class="id" type="lemma">or_left</span></a> : <span class="id" type="var">A</span> -&gt; <span class="id" type="var">A</span> \/ <span class="id" type="var">B</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">x</span>.<br/>
+<span class="id" type="var">left</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">x</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">or_left</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="or_right"><span class="id" type="lemma">or_right</span></a> : <span class="id" type="var">B</span> -&gt; <span class="id" type="var">A</span> \/ <span class="id" type="var">B</span>.<br/>
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#or_ind"><span class="id" type="definition">or_ind</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="truth"><span class="id" type="lemma">truth</span></a> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#True"><span class="id" type="inductive">True</span></a>.<br/>
+<span class="id" type="tactic">exact</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#I"><span class="id" type="constructor">I</span></a>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">truth</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="falsehood"><span class="id" type="lemma">falsehood</span></a> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#False"><span class="id" type="inductive">False</span></a> -&gt; <span class="id" type="var">C</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">e</span>; <span class="id" type="tactic">elim</span> <span class="id" type="var">e</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">falsehood</span>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#False_ind"><span class="id" type="definition">False_ind</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">End</span> <a class="idref" href="sigpl2009.html#proof_terms"><span class="id" type="section">proof_terms</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab18"></a><h1 class="section">Chapter 3. First order Logic</h1>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab19"></a><h2 class="section">3.1 Terms</h2>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+Loading standard or personal libraries are
+   sometimes necessary 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Require</span> <span class="id" type="keyword">Import</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Arith.Arith.html#"><span class="id" type="library">Arith</span></a>.<br/>
+<span class="id" type="keyword">Require</span> <span class="id" type="keyword">Import</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Bool.Bool.html#"><span class="id" type="library">Bool</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Section</span> <a name="Terms"><span class="id" type="section">Terms</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Constructors for natural numbers are <span class="inlinecode"><span class="id" type="var">O</span></span> and <span class="inlinecode"><span class="id" type="var">S</span></span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">nat</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Constructor for boolean values are <span class="inlinecode"><span class="id" type="var">true</span></span> and <span class="inlinecode"><span class="id" type="var">false</span></span> of type <span class="inlinecode"><span class="id" type="var">bool</span></span>.
+
+<br/> <br/>
+   Don't confuse them with <span class="inlinecode"><span class="id" type="var">True</span></span> and <span class="inlinecode"><span class="id" type="var">False</span></span> of type <span class="inlinecode"><span class="id" type="keyword">Prop</span></span>. 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">bool</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">End</span> <a class="idref" href="sigpl2009.html#Terms"><span class="id" type="section">Terms</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab20"></a><h2 class="section">3.3 Universal quantification</h2>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Section</span> <a name="universal"><span class="id" type="section">universal</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">eq</span>.<br/>
+<span class="id" type="keyword">Check</span> (@<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#eq"><span class="id" type="inductive">eq</span></a> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>).<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="zero_zero"><span class="id" type="lemma">zero_zero</span></a> : 0 = 0.<br/>
+<span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="one_one"><span class="id" type="lemma">one_one</span></a> : 1 = 1.<br/>
+<span class="id" type="tactic">auto</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+and so on, however how to prove
+   <span class="inlinecode"><span class="id" type="var">n</span> = <span class="id" type="var">n</span></span> for all natural numbers <span class="inlinecode"><span class="id" type="var">n</span></span>?
+
+<br/> <br/>
+   We need quantification. 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="all_all"><span class="id" type="lemma">all_all</span></a> : <span class="id" type="keyword">forall</span> (<span class="id" type="var">n</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>), <span class="id" type="var">n</span> = <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">n</span>.<br/>
+</div>
+
+<div class="doc">
+This means that <span class="inlinecode"><span class="id" type="var">n</span></span> is arbitrary, but fixed. 
+</div>
+<div class="code">
+<span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+substitution is already implemented 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Variables</span>  <a name="universal.A"><span class="id" type="variable">A</span></a> <a name="universal.B"><span class="id" type="variable">B</span></a> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a> -&gt; <span class="id" type="keyword">Prop</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="all_and"><span class="id" type="lemma">all_and</span></a> :<br/>
+&nbsp;&nbsp;(<span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>:nat, <span class="id" type="var">A</span> <span class="id" type="var">x</span> /\ <span class="id" type="var">B</span> <span class="id" type="var">x</span>) -&gt;<br/>
+&nbsp;&nbsp;(<span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>:nat, <span class="id" type="var">A</span> <span class="id" type="var">x</span>) /\ (<span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>:nat, <span class="id" type="var">B</span> <span class="id" type="var">x</span>).<br/>
+
+<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H</span>; <span class="id" type="tactic">split</span>; <span class="id" type="tactic">intro</span> <span class="id" type="var">x</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">cut</span> (<span class="id" type="var">A</span> <span class="id" type="var">x</span> /\ <span class="id" type="var">B</span> <span class="id" type="var">x</span>).<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">elim</span> (<span class="id" type="var">H</span> <span class="id" type="var">x</span>).<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">End</span> <a class="idref" href="sigpl2009.html#universal"><span class="id" type="section">universal</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab21"></a><h2 class="section">3.4 Existential quantification</h2>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Section</span> <a name="existential"><span class="id" type="section">existential</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Variables</span> <a name="existential.A"><span class="id" type="variable">A</span></a> <a name="existential.B"><span class="id" type="variable">B</span></a> <a name="existential.C"><span class="id" type="variable">C</span></a> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a> -&gt; <span class="id" type="keyword">Prop</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">ex</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">exists</span> (<span class="id" type="var">x</span>:A), <span class="id" type="var">P</span>  = <span class="id" type="var">ex</span> <span class="id" type="var">A</span> (<span class="id" type="keyword">fun</span> <span class="id" type="var">x</span>:A =&gt; <span class="id" type="var">P</span> <span class="id" type="var">x</span>)</span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Theorem</span> <a name="ex_imp_ex"><span class="id" type="lemma">ex_imp_ex</span></a> : <br/>
+&nbsp;&nbsp;<span class="id" type="keyword">forall</span> (<span class="id" type="var">A</span> : <span class="id" type="keyword">Type</span>) (<span class="id" type="var">P</span> <span class="id" type="var">Q</span> :A -&gt; <span class="id" type="keyword">Prop</span>),<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;(<span class="id" type="var">exists</span> <span class="id" type="var">x</span>, <span class="id" type="var">P</span> <span class="id" type="var">x</span>) -&gt; (<span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>:A, <span class="id" type="var">P</span> <span class="id" type="var">x</span> -&gt; <span class="id" type="var">Q</span> <span class="id" type="var">x</span>) -&gt; (<span class="id" type="var">exists</span> <span class="id" type="var">x</span>, <span class="id" type="var">Q</span> <span class="id" type="var">x</span>).<br/>
+
+<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">A'</span> <span class="id" type="var">P</span> <span class="id" type="var">Q</span> <span class="id" type="var">H</span> <span class="id" type="var">H0</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">a</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="var">exists</span> <span class="id" type="var">a</span>.<br/>
+</div>
+
+<div class="doc">
+Instantiation of a concrete example. Then a proof that
+   the instnatiation satisfies the required property should follow.
+
+</div>
+<div class="code">
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H0</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="exnot_notall"><span class="id" type="lemma">exnot_notall</span></a> : <br/>
+&nbsp;&nbsp;(<span class="id" type="var">exists</span> <span class="id" type="var">x</span>, ~ <span class="id" type="var">A</span> <span class="id" type="var">x</span>) -&gt; ~ <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>, <span class="id" type="var">A</span> <span class="id" type="var">x</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">red</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H1</span>.<br/>
+</div>
+
+<div class="doc">
+This corresponds to <span class="inlinecode"><span class="id" type="var">ex_ind</span></span> 
+</div>
+<div class="code">
+<span class="id" type="tactic">intros</span> <span class="id" type="var">x</span> <span class="id" type="var">H3</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H3</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">End</span> <a class="idref" href="sigpl2009.html#existential"><span class="id" type="section">existential</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab22"></a><h2 class="section">3.5 Examples</h2>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Section</span> <a name="examples"><span class="id" type="section">examples</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Variables</span> <a name="examples.A"><span class="id" type="variable">A</span></a> <a name="examples.B"><span class="id" type="variable">B</span></a> : <span class="id" type="keyword">Type</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">nat</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">eq</span>.<br/>
+<span class="id" type="keyword">Check</span> (@<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#eq"><span class="id" type="inductive">eq</span></a> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>).<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="eq_reflexive"><span class="id" type="lemma">eq_reflexive</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>:A, <span class="id" type="var">x</span> = <span class="id" type="var">x</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">x</span>; <span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#refl_equal"><span class="id" type="constructor">refl_equal</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="eq_transitive"><span class="id" type="lemma">eq_transitive</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">l</span> <span class="id" type="var">m</span> <span class="id" type="var">n</span> : <span class="id" type="var">A</span>, <span class="id" type="var">l</span> = <span class="id" type="var">n</span> -&gt; <span class="id" type="var">n</span> = <span class="id" type="var">m</span> -&gt; <span class="id" type="var">l</span> = <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">l</span> <span class="id" type="var">m</span> <span class="id" type="var">n</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">rewrite</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">rewrite</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#trans_equal"><span class="id" type="definition">trans_equal</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="eq_transitive'"><span class="id" type="lemma">eq_transitive'</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">l</span> <span class="id" type="var">m</span> <span class="id" type="var">n</span> : <span class="id" type="var">A</span>, <span class="id" type="var">l</span> = <span class="id" type="var">n</span> -&gt; <span class="id" type="var">n</span> = <span class="id" type="var">m</span> -&gt; <span class="id" type="var">l</span> = <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">l</span> <span class="id" type="var">m</span> <span class="id" type="var">n</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">subst</span> <span class="id" type="var">l</span>.<br/>
+<span class="id" type="tactic">assumption</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#sym_eq"><span class="id" type="lemma">sym_eq</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">le</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">lt</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">le_n_Sn</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="le_n_Sn'"><span class="id" type="lemma">le_n_Sn'</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span>:nat, <span class="id" type="var">n</span> &lt;= <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Peano.html#le_S"><span class="id" type="constructor">le_S</span></a>.<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Peano.html#le_n"><span class="id" type="constructor">le_n</span></a>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="le_n_Sn''"><span class="id" type="lemma">le_n_Sn''</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span>:nat, <span class="id" type="var">n</span> &lt;= <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="var">constructor</span> 2.<br/>
+<span class="id" type="var">constructor</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">constructor</span></span> applies the constructors used for
+   the definition of inductive types.
+
+</div>
+<div class="code">
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="le_n_Sn3"><span class="id" type="lemma">le_n_Sn3</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span>:nat, <span class="id" type="var">n</span> &lt;= <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">repeat</span> <span class="id" type="var">constructor</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="eq_not_lt"><span class="id" type="lemma">eq_not_lt</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span>, <span class="id" type="var">n</span> = <span class="id" type="var">m</span> -&gt; ~ <span class="id" type="var">n</span> &lt; <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Arith.Lt.html#le_not_lt"><span class="id" type="lemma">le_not_lt</span></a>.<br/>
+<span class="id" type="tactic">rewrite</span> <span class="id" type="var">H</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="tactic">rewrite</span></span> corresponds to <span class="inlinecode"><span class="id" type="var">eq_ind</span></span>. 
+</div>
+<div class="code">
+<span class="id" type="var">constructor</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="eq_not_lt'"><span class="id" type="lemma">eq_not_lt'</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span>, <span class="id" type="var">n</span> = <span class="id" type="var">m</span> -&gt; ~ <span class="id" type="var">n</span> &lt; <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">subst</span> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">unfold</span> <span class="id" type="var">lt</span> <span class="id" type="keyword">in</span> <span class="id" type="var">H2</span>.<br/>
+</div>
+
+<div class="doc">
+Unfolding definitions. 
+</div>
+<div class="code">
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab23"></a><h3 class="section">Inductively defined predicates</h3>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">Nat</span></span> predicate 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Inductive</span> <a name="Nat"><span class="id" type="inductive">Nat</span></a> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a> -&gt; <span class="id" type="keyword">Prop</span> :=<br/>
+| <a name="Zero"><span class="id" type="constructor">Zero</span></a> : <a class="idref" href="sigpl2009.html#Nat"><span class="id" type="inductive">Nat</span></a> 0<br/>
+| <a name="Succ"><span class="id" type="constructor">Succ</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span>:nat, <a class="idref" href="sigpl2009.html#Nat"><span class="id" type="inductive">Nat</span></a> <span class="id" type="var">n</span> -&gt; <a class="idref" href="sigpl2009.html#Nat"><span class="id" type="inductive">Nat</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>).<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="sigpl2009.html#Nat_ind"><span class="id" type="definition">Nat_ind</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Nat2"><span class="id" type="lemma">Nat2</span></a> : <a class="idref" href="sigpl2009.html#Nat"><span class="id" type="inductive">Nat</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> 0)).<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="sigpl2009.html#Succ"><span class="id" type="constructor">Succ</span></a>.<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="sigpl2009.html#Succ"><span class="id" type="constructor">Succ</span></a>.<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="sigpl2009.html#Zero"><span class="id" type="constructor">Zero</span></a>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Nat2'"><span class="id" type="lemma">Nat2'</span></a> : <a class="idref" href="sigpl2009.html#Nat"><span class="id" type="inductive">Nat</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> 0)).<br/>
+<span class="id" type="tactic">repeat</span> <span class="id" type="var">constructor</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Nat_all"><span class="id" type="lemma">Nat_all</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>:nat, <a class="idref" href="sigpl2009.html#Nat"><span class="id" type="inductive">Nat</span></a> <span class="id" type="var">x</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">x</span>.<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">x</span>; <span class="id" type="var">constructor</span>; <span class="id" type="tactic">try</span> <span class="id" type="tactic">assumption</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Nat_eq"><span class="id" type="lemma">Nat_eq</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span>:nat, <a class="idref" href="sigpl2009.html#Nat"><span class="id" type="inductive">Nat</span></a> <span class="id" type="var">x</span> -&gt; <span class="id" type="var">exists</span> <span class="id" type="var">y</span>, <a class="idref" href="sigpl2009.html#Nat"><span class="id" type="inductive">Nat</span></a> <span class="id" type="var">y</span> /\ <span class="id" type="var">x</span> = <span class="id" type="var">y</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">x</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="var">exists</span> <span class="id" type="var">x</span>; <span class="id" type="tactic">split</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#sym_eq"><span class="id" type="lemma">sym_eq</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="not_zero_succ"><span class="id" type="lemma">not_zero_succ</span></a> : ~ (<span class="id" type="var">exists</span> <span class="id" type="var">x</span>:nat, <span class="id" type="var">x</span> = 0 /\ <span class="id" type="var">x</span> = <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> 0).<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">x</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">elim</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">H2</span> <span class="id" type="var">H3</span>.<br/>
+<span class="id" type="tactic">subst</span> <span class="id" type="var">x</span>.<br/>
+<span class="id" type="tactic">elim</span> <a class="idref" href="sigpl2009.html#eq_not_lt"><span class="id" type="lemma">eq_not_lt</span></a> <span class="id" type="keyword">with</span> 0 1.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H3</span>.<br/>
+<span class="id" type="tactic">unfold</span> <span class="id" type="var">lt</span>.<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Peano.html#le_n"><span class="id" type="constructor">le_n</span></a>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">End</span> <a class="idref" href="sigpl2009.html#examples"><span class="id" type="section">examples</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab24"></a><h2 class="section">3.6 Proof terms</h2>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">Nat_eq</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">not_zero_succ</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab25"></a><h1 class="section">Chapter 4. Datatypes</h1>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab26"></a><h2 class="section">4.1 Basic constructors for datatypes</h2>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+Function type (<span class="inlinecode"><span class="id" type="var">A</span> -&gt; <span class="id" type="var">B</span></span>) is a special case of <span class="inlinecode">\Pi (<span class="id" type="var">x</span>:A). <span class="id" type="var">B</span></span> where
+   <span class="inlinecode"><span class="id" type="var">x</span></span> does not occur free in <span class="inlinecode"><span class="id" type="var">B</span></span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">prod</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">fst</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">snd</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab27"></a><h3 class="section">Disjoint sum</h3>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">sum</span>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#sum_ind"><span class="id" type="definition">sum_ind</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab28"></a><h3 class="section">unit</h3>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">unit</span>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#unit_ind"><span class="id" type="definition">unit_ind</span></a>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#unit_rect"><span class="id" type="definition">unit_rect</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab29"></a><h3 class="section">empty type</h3>
+
+   Not really interesting. <span class="inlinecode"><span class="id" type="var">False</span></span> is much more important. 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">Empty_set</span>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#Empty_set_ind"><span class="id" type="definition">Empty_set_ind</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab30"></a><h3 class="section">sumbool : <span class="inlinecode"><span class="id" type="keyword">if</span> ... <span class="id" type="keyword">then</span> ... <span class="id" type="keyword">else</span></span></h3>
+
+   <span class="inlinecode"><span class="id" type="keyword">if</span>...<span class="id" type="keyword">then</span>...<span class="id" type="keyword">else</span></span> is a case distinction based on
+   inductive types which has exactly two constructors.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">sumbool</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Arith.Peano_dec.html#eq_nat_dec"><span class="id" type="lemma">eq_nat_dec</span></a>.<br/>
+<span class="id" type="keyword">Lemma</span> <a name="eq_bool_dec"><span class="id" type="lemma">eq_bool_dec</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">t</span> <span class="id" type="var">s</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#bool"><span class="id" type="inductive">bool</span></a>, {<span class="id" type="var">t</span> = <span class="id" type="var">s</span>} + {<span class="id" type="var">t</span> &lt;&gt; <span class="id" type="var">s</span>}.<br/>
+
+<br/>
+<span class="id" type="var">double</span> <span class="id" type="tactic">induction</span> <span class="id" type="var">t</span> <span class="id" type="var">s</span>.<br/>
+
+<br/>
+<span class="id" type="var">left</span>; <span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="var">right</span>; <span class="id" type="tactic">discriminate</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="tactic">discriminate</span></span> compares the head of terms.
+   The comparison is made purely syntactically.
+
+<br/> <br/>
+   That, different name, then different. 
+
+</div>
+<div class="code">
+<span class="id" type="var">right</span>; <span class="id" type="tactic">discriminate</span>.<br/>
+<span class="id" type="var">left</span>; <span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+There is a difference between <span class="inlinecode"><span class="id" type="keyword">Qed</span></span> and <span class="inlinecode"><span class="id" type="keyword">Defined</span></span>.
+
+<br/> <br/>
+   <span class="inlinecode"><span class="id" type="keyword">Qed</span></span> makes the proof opaque while <span class="inlinecode"><span class="id" type="keyword">Defined</span></span> makes it transparent.
+
+<br/> <br/>
+   This difference will be clear when one wants to
+   use some information from proofs.
+
+<br/> <br/>
+   In this tuturial, however, not discussed in detail.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Bool.Bool.html#bool_dec"><span class="id" type="lemma">bool_dec</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Some functions on boolean values from the library <span class="inlinecode"><span class="id" type="var">Init.Datatyes</span></span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">orb</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">andb</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">implb</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+The following two definitions are equivalent. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Fixpoint</span> <a name="neg_bool"><span class="id" type="definition">neg_bool</span></a> (<span class="id" type="var">n</span>:nat) : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#bool"><span class="id" type="inductive">bool</span></a> :=<br/>
+&nbsp;&nbsp;<span class="id" type="keyword">if</span> <span class="id" type="var">n</span> <span class="id" type="keyword">then</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#false"><span class="id" type="constructor">false</span></a> <span class="id" type="keyword">else</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#true"><span class="id" type="constructor">true</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Fixpoint</span> <a name="neg_bool'"><span class="id" type="definition">neg_bool'</span></a> (<span class="id" type="var">n</span>:nat) : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#bool"><span class="id" type="inductive">bool</span></a> :=<br/>
+&nbsp;&nbsp;<span class="id" type="keyword">if</span> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Arith.Peano_dec.html#eq_nat_dec"><span class="id" type="lemma">eq_nat_dec</span></a> <span class="id" type="var">n</span> 0) <span class="id" type="keyword">then</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#false"><span class="id" type="constructor">false</span></a> <span class="id" type="keyword">else</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#true"><span class="id" type="constructor">true</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Eval</span> <span class="id" type="tactic">compute</span> <span class="id" type="keyword">in</span> (<a class="idref" href="sigpl2009.html#neg_bool"><span class="id" type="definition">neg_bool</span></a> 0).<br/>
+<span class="id" type="keyword">Eval</span> <span class="id" type="tactic">compute</span> <span class="id" type="keyword">in</span> (<a class="idref" href="sigpl2009.html#neg_bool"><span class="id" type="definition">neg_bool</span></a> 1).<br/>
+<span class="id" type="keyword">Eval</span> <span class="id" type="tactic">compute</span> <span class="id" type="keyword">in</span> (<a class="idref" href="sigpl2009.html#neg_bool'"><span class="id" type="definition">neg_bool'</span></a> 0).<br/>
+<span class="id" type="keyword">Eval</span> <span class="id" type="tactic">compute</span> <span class="id" type="keyword">in</span> (<a class="idref" href="sigpl2009.html#neg_bool'"><span class="id" type="definition">neg_bool'</span></a> 1).<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab31"></a><h2 class="section">4.3 Primitive recursion</h2>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+Recursive definition of a function is always made
+   along the line of an inductive type. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Fixpoint</span> <a name="double"><span class="id" type="definition">double</span></a> (<span class="id" type="var">n</span>:nat) : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a> :=<br/>
+&nbsp;&nbsp;<span class="id" type="keyword">match</span> <span class="id" type="var">n</span> <span class="id" type="keyword">with</span><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;| 0 =&gt; 0<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;| <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">m</span> =&gt; <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> (<a class="idref" href="sigpl2009.html#double"><span class="id" type="definition">double</span></a> <span class="id" type="var">m</span>))<br/>
+&nbsp;&nbsp;<span class="id" type="keyword">end</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">plus</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+When there are more than one inductive types in arguments,
+   then the argument on which the recursion is based should be
+   mentioned concretely by using <span class="inlinecode"><span class="id" type="keyword">struct</span></span> 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Fixpoint</span> <a name="plus'"><span class="id" type="definition">plus'</span></a> (<span class="id" type="var">n</span> <span class="id" type="var">m</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>){<span class="id" type="keyword">struct</span> <span class="id" type="var">n</span>} :=<br/>
+&nbsp;&nbsp;<span class="id" type="keyword">match</span> <span class="id" type="var">n</span> <span class="id" type="keyword">with</span><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;| 0 =&gt; <span class="id" type="var">m</span><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;| <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">p</span> =&gt; <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Peano.html#plus"><span class="id" type="definition">plus</span></a> <span class="id" type="var">p</span> <span class="id" type="var">m</span>)<br/>
+&nbsp;&nbsp;<span class="id" type="keyword">end</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">plus</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab32"></a><h3 class="section">Lists</h3>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Require</span> <span class="id" type="keyword">Import</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Lists.List.html#"><span class="id" type="library">List</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">list</span></span> is a polymorphic type 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">list</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Lists.List.html#list_ind"><span class="id" type="definition">list_ind</span></a>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Lists.List.html#list_rect"><span class="id" type="definition">list_rect</span></a>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Lists.List.html#list_rec"><span class="id" type="definition">list_rec</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">append</span></span> is predefined in the <span class="inlinecode"><span class="id" type="var">List</span></span> library 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">app</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Fixpoint</span> <a name="append"><span class="id" type="definition">append</span></a> (<span class="id" type="var">A</span>:Type) (<span class="id" type="var">l</span> <span class="id" type="var">m</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Lists.List.html#list"><span class="id" type="inductive">list</span></a> <span class="id" type="var">A</span>) {<span class="id" type="keyword">struct</span> <span class="id" type="var">l</span>}: <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Lists.List.html#list"><span class="id" type="inductive">list</span></a> <span class="id" type="var">A</span> :=<br/>
+&nbsp;&nbsp;<span class="id" type="keyword">match</span> <span class="id" type="var">l</span> <span class="id" type="keyword">with</span><br/>
+&nbsp;&nbsp;| <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Lists.List.html#nil"><span class="id" type="constructor">nil</span></a> =&gt; <span class="id" type="var">m</span><br/>
+&nbsp;&nbsp;| <span class="id" type="var">a</span> :: <span class="id" type="var">l1</span> =&gt; <span class="id" type="var">a</span> :: <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Lists.List.html#app"><span class="id" type="definition">app</span></a> <span class="id" type="var">l1</span> <span class="id" type="var">m</span><br/>
+&nbsp;&nbsp;<span class="id" type="keyword">end</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">length</span></span> measures the lengths of lists. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">length</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab33"></a><h2 class="section">4.4 First-order logic with datatypes</h2>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+This part is already done above because in CIC, everything has a type. 
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab34"></a><h3 class="section">4.5 Natural deduction for perdicates</h3>
+
+   and 4.6 Induction on terms 
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab35"></a><h3 class="section"><span class="inlinecode"><span class="id" type="var">less</span> <span class="id" type="var">than</span></span> and <span class="inlinecode"><span class="id" type="var">equal</span> <span class="id" type="var">to</span></span></h3>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+"less than" is already defined, but new, equivalent definition is
+   of course possible. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">lt</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">le</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Inductive</span> <a name="LT"><span class="id" type="inductive">LT</span></a> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a> -&gt; <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a> -&gt; <span class="id" type="keyword">Prop</span> :=<br/>
+| <a name="Zlt"><span class="id" type="constructor">Zlt</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span>, <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> 0 (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>)<br/>
+| <a name="Slt"><span class="id" type="constructor">Slt</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span>, <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> <span class="id" type="var">n</span> <span class="id" type="var">m</span> -&gt; <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>) (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">m</span>).<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Elimination rule for <span class="inlinecode"><span class="id" type="var">LT</span></span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="sigpl2009.html#LT_ind"><span class="id" type="definition">LT_ind</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="LT_n_Sn"><span class="id" type="lemma">LT_n_Sn</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span>, <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> <span class="id" type="var">n</span> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>).<br/>
+
+<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">n</span>; <span class="id" type="var">constructor</span>; <span class="id" type="tactic">try</span> <span class="id" type="tactic">assumption</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="LT_S_m"><span class="id" type="lemma">LT_S_m</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span>, <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> <span class="id" type="var">n</span> <span class="id" type="var">m</span> -&gt; <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> <span class="id" type="var">n</span> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">m</span>).<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">induction</span> 1; <span class="id" type="var">constructor</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">assumption</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">lt</span></span> and <span class="inlinecode"><span class="id" type="var">LT</span></span> are equivalent 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="lt_LT"><span class="id" type="lemma">lt_LT</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>, <span class="id" type="var">n</span> &lt; <span class="id" type="var">m</span> &lt;-&gt; <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> <span class="id" type="var">n</span> <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">unfold</span> <span class="id" type="var">lt</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span>; <span class="id" type="tactic">split</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">induction</span> 1.<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="sigpl2009.html#LT_n_Sn"><span class="id" type="lemma">LT_n_Sn</span></a>.<br/>
+
+<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="sigpl2009.html#LT_S_m"><span class="id" type="lemma">LT_S_m</span></a>; <span class="id" type="tactic">exact</span> <span class="id" type="var">IHle</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">induction</span> 1 <span class="id" type="keyword">as</span> [ | <span class="id" type="var">n</span> <span class="id" type="var">m</span> <span class="id" type="var">H</span> <span class="id" type="var">IH</span>];<span class="id" type="tactic">apply</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Arith.Le.html#le_n_S"><span class="id" type="lemma">le_n_S</span></a>; [<span class="id" type="tactic">apply</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Arith.Le.html#le_O_n"><span class="id" type="lemma">le_O_n</span></a> | <span class="id" type="tactic">assumption</span>].<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="tactic">induction</span> ... <span class="id" type="keyword">as</span> [...  | ...]</span> uses the introduction pattern
+   for variables and assumptions which should be introduced.
+
+</div>
+<div class="code">
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Attention: In the name of a theorem,
+   <span class="inlinecode"><span class="id" type="var">O</span></span> is the capital alphabet <span class="inlinecode"><span class="id" type="var">O</span></span>, not the numeral <span class="inlinecode">0</span>.
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+elimination of <span class="inlinecode"><span class="id" type="var">LT</span></span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="not_LT_m_O"><span class="id" type="lemma">not_LT_m_O</span></a> : <span class="id" type="keyword">forall</span> (<span class="id" type="var">m</span>:nat), <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> <span class="id" type="var">m</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a> -&gt; <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#False"><span class="id" type="inductive">False</span></a>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">m</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">cut</span> (<span class="id" type="var">m</span> &lt; <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a>).<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Arith.Lt.html#lt_n_O"><span class="id" type="lemma">lt_n_O</span></a>.<br/>
+<span class="id" type="tactic">elim</span> <a class="idref" href="sigpl2009.html#lt_LT"><span class="id" type="lemma">lt_LT</span></a> <span class="id" type="keyword">with</span> <span class="id" type="var">m</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a>; <span class="id" type="tactic">intros</span>.<br/>
+<span class="id" type="tactic">exact</span> (<span class="id" type="var">H1</span> <span class="id" type="var">H</span>).<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="not_LT_m_O'"><span class="id" type="lemma">not_LT_m_O'</span></a> : <span class="id" type="keyword">forall</span> (<span class="id" type="var">m</span>:nat) (<span class="id" type="var">P</span>:Prop), <a class="idref" href="sigpl2009.html#LT"><span class="id" type="inductive">LT</span></a> <span class="id" type="var">m</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a> -&gt; <span class="id" type="var">P</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">m</span> <span class="id" type="var">P</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">elim</span> <a class="idref" href="sigpl2009.html#not_LT_m_O"><span class="id" type="lemma">not_LT_m_O</span></a> <span class="id" type="keyword">with</span> <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab36"></a><h3 class="section"><span class="inlinecode"><span class="id" type="var">EQ</span></span> : equality</h3>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">eq</span></span> is a polymorphic type which stands for the
+   equality modulo beta-conversion of two terms of the same type.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">eq</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Definition</span> <a name="Eq"><span class="id" type="definition">Eq</span></a> := @<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#eq"><span class="id" type="inductive">eq</span></a> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Inductive</span> <a name="EQ"><span class="id" type="inductive">EQ</span></a> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a> -&gt; <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a> -&gt; <span class="id" type="keyword">Prop</span> :=<br/>
+| <a name="Zeq"><span class="id" type="constructor">Zeq</span></a> : <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a><br/>
+| <a name="Seq"><span class="id" type="constructor">Seq</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span>, <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">n</span> <span class="id" type="var">m</span> -&gt; <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>) (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">m</span>).<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">Eq</span></span> and <span class="inlinecode"><span class="id" type="var">eq</span></span> are equivalent 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="EQ_n"><span class="id" type="lemma">EQ_n</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span>, <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">n</span> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">n</span> <span class="id" type="keyword">as</span> [ | <span class="id" type="var">n</span> <span class="id" type="var">IH</span>]; <span class="id" type="var">constructor</span>; <span class="id" type="tactic">apply</span> <span class="id" type="var">IH</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Eq_EQ"><span class="id" type="lemma">Eq_EQ</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>, <a class="idref" href="sigpl2009.html#Eq"><span class="id" type="definition">Eq</span></a> <span class="id" type="var">n</span> <span class="id" type="var">m</span> &lt;-&gt; <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">n</span> <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">unfold</span> <span class="id" type="var">Eq</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">n</span> <span class="id" type="var">m</span>; <span class="id" type="tactic">split</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">induction</span> 1.<br/>
+
+<br/>
+<span class="id" type="tactic">apply</span> <a class="idref" href="sigpl2009.html#EQ_n"><span class="id" type="lemma">EQ_n</span></a>.<br/>
+
+<br/>
+<span class="id" type="tactic">induction</span> 1.<br/>
+
+<br/>
+<span class="id" type="tactic">exact</span> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#refl_equal"><span class="id" type="constructor">refl_equal</span></a> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a>).<br/>
+
+<br/>
+<span class="id" type="tactic">rewrite</span> <span class="id" type="var">IHEQ</span>.<br/>
+<span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="not_EQ_S_O"><span class="id" type="lemma">not_EQ_S_O</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">m</span>, ~ <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">m</span>).<br/>
+</div>
+
+<div class="doc">
+similar to <span class="inlinecode"><span class="id" type="var">not_LT_m_O</span></span> 
+</div>
+<div class="code">
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="not_EQ_O_S"><span class="id" type="lemma">not_EQ_O_S</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">m</span>, ~ <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">m</span>) <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#O"><span class="id" type="constructor">O</span></a>.<br/>
+</div>
+
+<div class="doc">
+similar to <span class="inlinecode"><span class="id" type="var">not_LT_m_O</span></span> 
+</div>
+<div class="code">
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab37"></a><h2 class="section">4.6 Induction on terms</h2>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+Each inductive type usually has induction principles
+   for each sort: <span class="inlinecode"><span class="id" type="keyword">Prop</span></span>, <span class="inlinecode"><span class="id" type="keyword">Set</span></span>, <span class="inlinecode"><span class="id" type="keyword">Type</span></span>.
+
+<br/> <br/>
+   The induction principles will be automatically created by Coq
+   when an inductive type is defined.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat_ind"><span class="id" type="definition">nat_ind</span></a>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat_rec"><span class="id" type="definition">nat_rec</span></a>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat_rect"><span class="id" type="definition">nat_rect</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="sigpl2009.html#LT_ind"><span class="id" type="definition">LT_ind</span></a>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Peano.html#le_ind"><span class="id" type="definition">le_ind</span></a>.<br/>
+
+<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#bool_ind"><span class="id" type="definition">bool_ind</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Some examples of proofs using induction. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="le_n'"><span class="id" type="lemma">le_n'</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span>, <span class="id" type="var">n</span> &lt;= <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">n</span>; <span class="id" type="var">constructor</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab38"></a><h3 class="section">4.7 Examples</h3>
+
+   and 4.8 Induction on predicates 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Exp1"><span class="id" type="lemma">Exp1</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>, <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">n</span> <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">n</span> <span class="id" type="keyword">as</span> [| <span class="id" type="var">n</span> <span class="id" type="var">IHn</span>]; <span class="id" type="var">constructor</span>; <span class="id" type="tactic">exact</span> <span class="id" type="var">IHn</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+however, <span class="inlinecode"><span class="id" type="var">eq</span></span> don't need induction 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Exp1'"><span class="id" type="lemma">Exp1'</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>, <span class="id" type="var">n</span> = <span class="id" type="var">n</span>.<br/>
+<span class="id" type="tactic">intro</span> <span class="id" type="var">n</span>; <span class="id" type="tactic">exact</span> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#refl_equal"><span class="id" type="constructor">refl_equal</span></a> <span class="id" type="var">n</span>).<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Exp2"><span class="id" type="lemma">Exp2</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span> <span class="id" type="var">y</span> <span class="id" type="var">z</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>, <span class="id" type="var">x</span> = <span class="id" type="var">y</span> -&gt; <span class="id" type="var">y</span> = <span class="id" type="var">z</span> -&gt; <span class="id" type="var">x</span> = <span class="id" type="var">z</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+in fact, no need for induction 
+</div>
+<div class="code">
+<span class="id" type="tactic">intros</span> <span class="id" type="var">x</span> <span class="id" type="var">y</span> <span class="id" type="var">z</span> <span class="id" type="var">H1</span> <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">rewrite</span> <span class="id" type="var">H1</span>; <span class="id" type="tactic">rewrite</span> &lt;- <span class="id" type="var">H2</span>.<br/>
+<span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+However, <span class="inlinecode"><span class="id" type="tactic">rewrite</span></span> tactic use an induction on <span class="inlinecode"><span class="id" type="var">eq</span></span>.
+   Look at the proof term of <span class="inlinecode"><span class="id" type="var">Exp2</span></span> such as <span class="inlinecode"><span class="id" type="var">eq_ind</span></span>. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">Exp2</span>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#eq_ind"><span class="id" type="definition">eq_ind</span></a>.<br/>
+<span class="id" type="keyword">Check</span> <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Logic.html#eq_ind_r"><span class="id" type="definition">eq_ind_r</span></a>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Working with <span class="inlinecode"><span class="id" type="var">EQ</span></span>, we need induction 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Exp2'"><span class="id" type="lemma">Exp2'</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span> <span class="id" type="var">y</span> , <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">x</span> <span class="id" type="var">y</span> -&gt; <span class="id" type="keyword">forall</span> <span class="id" type="var">z</span>:nat, <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">y</span> <span class="id" type="var">z</span> -&gt; <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">x</span> <span class="id" type="var">z</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+the following proof differs from that of the text.
+
+<br/> <br/>
+   Note that we start with induction on the first premise
+   instead of using induction on <span class="inlinecode"><span class="id" type="var">x</span></span>.
+
+<br/> <br/>
+   This corresponds to <span class="inlinecode"><span class="id" type="keyword">Section</span> 4.8 <span class="id" type="keyword">Induction</span> <span class="id" type="var">on</span> <span class="id" type="var">predicates</span></span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="tactic">induction</span> 1.<br/>
+
+<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">destruct</span> <span class="id" type="var">z</span>; <span class="id" type="tactic">intro</span> <span class="id" type="var">H1</span>.<br/>
+<span class="id" type="tactic">elim</span> (<a class="idref" href="sigpl2009.html#not_EQ_O_S"><span class="id" type="axiom">not_EQ_O_S</span></a>) <span class="id" type="keyword">with</span> <span class="id" type="var">m</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H1</span>.<br/>
+
+<br/>
+<span class="id" type="var">constructor</span>.<br/>
+<span class="id" type="tactic">apply</span> <span class="id" type="var">IHEQ</span>.<br/>
+<span class="id" type="tactic">inversion</span> <span class="id" type="var">H1</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="tactic">inversion</span></span> derives all necessary conditions for each
+   constructor of an inductive type.
+
+</div>
+<div class="code">
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H3</span>.<br/>
+<span class="id" type="keyword">Defined</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Compare <span class="inlinecode"><span class="id" type="var">Exp2</span></span> and <span class="inlinecode"><span class="id" type="var">Exp2'</span></span> 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">Exp2'</span>.<br/>
+<span class="id" type="keyword">Print</span> <span class="id" type="var">Exp2</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+Caution: the following way should be handled with care
+
+<br/> <br/>
+   It also demonstrates that arbitrary use of "<span class="inlinecode"><span class="id" type="tactic">intros</span></span>" could
+   cause problems. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Exp2''"><span class="id" type="lemma">Exp2''</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span> <span class="id" type="var">y</span> <span class="id" type="var">z</span>, <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">x</span> <span class="id" type="var">y</span> -&gt; <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">y</span> <span class="id" type="var">z</span> -&gt; <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">x</span> <span class="id" type="var">z</span>.<br/>
+<span class="id" type="tactic">induction</span> 1.<br/>
+<span class="id" type="var">admit</span>.<br/>
+</div>
+
+<div class="doc">
+<span class="inlinecode"><span class="id" type="var">admit</span></span> is a tactic to assume that a case is resolved.
+
+<br/> <br/>
+   In this case we used <span class="inlinecode"><span class="id" type="var">admit</span></span> since it is easy to prove.
+
+<br/> <br/>
+   But the next inductive case is problematic.
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">z</span>.<br/>
+
+<br/>
+<span class="id" type="var">admit</span>.<br/>
+<span class="id" type="tactic">intro</span>.<br/>
+<span class="id" type="var">constructor</span>.<br/>
+</div>
+
+<div class="doc">
+and ??? 
+</div>
+<div class="code">
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+here is the solution 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="Exp2'''"><span class="id" type="lemma">Exp2'''</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">x</span> <span class="id" type="var">y</span> <span class="id" type="var">z</span>, <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">x</span> <span class="id" type="var">y</span> -&gt; <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">y</span> <span class="id" type="var">z</span> -&gt; <a class="idref" href="sigpl2009.html#EQ"><span class="id" type="inductive">EQ</span></a> <span class="id" type="var">x</span> <span class="id" type="var">z</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">x</span> <span class="id" type="var">y</span> <span class="id" type="var">z</span> <span class="id" type="var">H</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+The problem above is caused by the position of "<span class="inlinecode"><span class="id" type="var">z</span></span>".
+
+<br/> <br/>
+   If you use "<span class="inlinecode"><span class="id" type="tactic">intro</span> <span class="id" type="var">z</span></span>" then it means that "<span class="inlinecode"><span class="id" type="var">z</span></span>" is arbitrary,
+   but it is fixed.
+   But the proof above demands that some induction hypothesis
+   should hold for "all <span class="inlinecode"><span class="id" type="var">z</span></span>".
+
+<br/> <br/>
+   That is <span class="inlinecode"><span class="id" type="var">z</span></span> is made fixed too early, and we need to revoke
+   the introduction of z. 
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="tactic">generalize</span> <span class="id" type="var">z</span>; <span class="id" type="tactic">clear</span> <span class="id" type="var">z</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+or simply use <span class="inlinecode"><span class="id" type="tactic">generalize</span> <span class="id" type="tactic">dependent</span> <span class="id" type="var">z</span></span>. 
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+now we can do the same proof as for <span class="inlinecode"><span class="id" type="var">Exp'</span></span> 
+</div>
+<div class="code">
+<span class="id" type="tactic">induction</span> <span class="id" type="var">H</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">tauto</span>.<br/>
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab39"></a><h2 class="section">Induction on inductive predicates</h2>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="lt_le"><span class="id" type="lemma">lt_le</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">p</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>, <span class="id" type="var">n</span> &lt; <span class="id" type="var">p</span> -&gt; <span class="id" type="var">n</span> &lt;= <span class="id" type="var">p</span>.<br/>
+<span class="id" type="tactic">unfold</span> <span class="id" type="var">lt</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">n</span> <span class="id" type="var">p</span> <span class="id" type="var">H</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">H</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">repeat</span> <span class="id" type="var">constructor</span>.<br/>
+
+<br/>
+<span class="id" type="var">constructor</span>.<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">IHle</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+The following lemma shows why induction on inductive predicates
+   is important. 
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="lt_le'"><span class="id" type="lemma">lt_le'</span></a> : <span class="id" type="keyword">forall</span> <span class="id" type="var">n</span> <span class="id" type="var">p</span> : <a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#nat"><span class="id" type="inductive">nat</span></a>, <span class="id" type="var">n</span> &lt; <span class="id" type="var">p</span> -&gt; <span class="id" type="var">n</span> &lt;= <span class="id" type="var">p</span>.<br/>
+<span class="id" type="tactic">unfold</span> <span class="id" type="var">lt</span>.<br/>
+<span class="id" type="tactic">intros</span> <span class="id" type="var">n</span> <span class="id" type="var">p</span> <span class="id" type="var">H</span>.<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">n</span>. <span class="id" type="var">admit</span>.<br/>
+
+<br/>
+<span class="id" type="tactic">induction</span> <span class="id" type="var">p</span>.<br/>
+<span class="id" type="tactic">elim</span> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Arith.Le.html#le_Sn_O"><span class="id" type="lemma">le_Sn_O</span></a> (<a class="idref" href="http://www.lix.polytechnique.fr/coq/distrib/8.2pl1/stdlib/Coq.Init.Datatypes.html#S"><span class="id" type="constructor">S</span></a> <span class="id" type="var">n</span>)).<br/>
+<span class="id" type="tactic">exact</span> <span class="id" type="var">H</span>.<br/>
+</div>
+
+<div class="doc">
+don't know how to go further ... 
+</div>
+<div class="code">
+<span class="id" type="var">Admitted</span>.<br/>
+
+<br/>
+</div>
+
+<div class="doc">
+<a name="lab40"></a><h3 class="section">4.9 Definitional equality</h3>
+
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+This section corresponds to <span class="inlinecode"><span class="id" type="keyword">Section</span> 7.1.2.2 <span class="id" type="var">Conversion</span> <span class="id" type="var">Strategies</span></span>
+   in Coq'Art 
+</div>
+<div class="code">
+
+<br/>
+</div>
+
+<div class="doc">
+There are 4 conversion forms of reductions to perfom:
+
+<br/> <br/>
+
+<ul>
+<li> <span class="inlinecode"><span class="id" type="var">beta</span></span> to reduce all expressions of the form "<span class="inlinecode">(<span class="id" type="keyword">fun</span> <span class="id" type="var">x</span> : <span class="id" type="var">T</span> =&gt; <span class="id" type="var">e</span>) <span class="id" type="var">v</span></span>",
+
+</li>
+</ul>
+
+
+<ul>
+<li> <span class="inlinecode"><span class="id" type="var">delta</span></span> to reduce definitions of constants and functions,
+
+</li>
+</ul>
+
+
+<ul>
+<li> <span class="inlinecode"><span class="id" type="var">iota</span></span> to reduce pattern matching expressions and recursive functions,
+
+</li>
+</ul>
+
+
+<ul>
+<li> <span class="inlinecode"><span class="id" type="var">zeta</span></span> to reduce expressions of the form "<span class="inlinecode"><span class="id" type="keyword">let</span> <span class="id" type="var">x</span> = <span class="id" type="var">v</span> <span class="id" type="keyword">in</span> <span class="id" type="var">e</span></span>".
+
+</li>
+</ul>
+
+</div>
+<div class="code">
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="simpl_pattern_example"><span class="id" type="lemma">simpl_pattern_example</span></a> : 3 * 3 + 3 * 3 = 18.<br/>
+<span class="id" type="tactic">simpl</span> (3 * 3) <span class="id" type="tactic">at</span> 2.<br/>
+
+<br/>
+<span class="id" type="var">lazy</span> <span class="id" type="var">beta</span> <span class="id" type="var">iota</span> <span class="id" type="var">delta</span> [<span class="id" type="var">mult</span>].<br/>
+<span class="id" type="var">cbv</span> <span class="id" type="var">beta</span> <span class="id" type="var">iota</span> <span class="id" type="var">delta</span> [<span class="id" type="var">plus</span>].<br/>
+<span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+<span class="id" type="keyword">Lemma</span> <a name="simpl_pattern_example'"><span class="id" type="lemma">simpl_pattern_example'</span></a> : 3 * 3 + 3 * 3 = 18.<br/>
+<span class="id" type="tactic">simpl</span>; <span class="id" type="tactic">reflexivity</span>.<br/>
+<span class="id" type="keyword">Qed</span>.<br/>
+
+<br/>
+</div>
+</div>
+
+<div id="footer">
+<hr/><a href="index.html">Index</a><hr/>This page has been generated by <a href="http://www.lix.polytechnique.fr/coq/">coqdoc</a>
+</div>
+
+</div>
+
+</body>
+</html>

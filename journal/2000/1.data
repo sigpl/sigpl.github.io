@@ -1,0 +1,172 @@
+2000
+
+14
+1
+
+{
+01
+ZG-machine을 위한 비 재귀적 메모리 재사용
+우균
+
+ZG-machine은 태그 옮김이라는 간단한 부호화 기법을 통해 공간 효율을 높인
+G-machine으로서 Gmachine과 비교하여 힙 공간을 평균 30% 절약할 수
+있었다. 그러나 ZG-machine은 G-machine에 비해 수행시간 부담이 다소
+증가하였는데, 수행시간의 증가는 주어진 힙 크기에 따라 다르게
+나타났다. 실험 결과를 분석한 결과 이 실행시간 증가는 ZG-machine의
+메모리 재사용 체계의 비효율성 때문인 것으로 판단되었다. 현재
+ZG-machine의 메모리 재사용 체계는 비효율적인 재귀적 알고리즘을 사용하고
+있는데, 그 이유는 태그 옮김 기법에 따른 노드 구조 해체로 인해 비재귀적
+알고리즘을 직접 적용하기 힘들기 때문이다. 본 논문에서는 ZG-machine을
+위한 비재귀적 메모리 재사용 방법을 제안한다.
+}
+{
+02
+Set-Based Access Conflict Analysis for Structured Workflow Definition
+이민규, 한동수, 김재용
+
+An error-comprising workflow definition might provoke serious problems
+to an enterprise especially when it is involved with mission critical
+business processes. Concurrency of workflow processes is known as one
+of the major sources causing such an invalid workflow process
+definition. So the conflicts caused by concurrent workflow processes
+should be considered deliberately when defining concurrent workflow
+processes. However it is very difficult to ascertain whether a
+workflow process is free from conflicts or not without any
+experimental executions at runtime. While will be very tedious and
+time consuming work to process designers. If we can analyze the
+conflicts immanent in concurrent work definition prior to runtime, it
+will be very helpful to business process designers and many other
+users of workflow management system. In this paper, we propose a
+set-based constraint system to analyze possible read-write conflicts
+and write-write conflicts between activities which reads and writes to
+the shared variables in a workflow process definition. The system is
+composed of two phases. In the first phase, it generates set
+constraints from a structured workflow definition. In the second
+phase, it finds the minimal solution of the set constraints.
+}
+{
+03
+유무선 통합 WML 저작도구의 설계 및 구현
+이소영, 배민오
+
+WML을 지원하는 환경은 작은 디스플레이를 포함하여 제한된 사용자
+입력설비, 작은 네트워크 용량, 메모리 자원과 제한된 처리 자원을 위하여
+설계되었으므로, WML 응용업무 제작에는 휴대용 장비의 기본적인 제약으로
+인해서 다음과 같은 기술적인 난제들이 있다. WML 응용업무는 기본적으로
+3x12텍스트 스크린을 기반으로 제작되므로, 작은 화면에 다양한 정보의
+신속한 표현이 요구된다. 휴대형 장비의 특성상 사용자의 다양한 설정
+정보(customization information)을 비롯한 거의 모든 정보가 서버 쪽에
+저장되므로 이의 원활한 이용이 요구된다. 모든 wml 응용프로그램의 제작
+시에 일관성 있는 사용자 인터페이스의 유지와 이용의 용이성을 위하여
+사용자 인터페이스 가이드 라인을 따를 것이 강력히 권고되고 있다.  wml
+응용업무는 데크/카드의 작동으로 구성되는데, 여러 개의 데크와 데크
+내부에 4가지 종류로 구분되는 수십 혹은 수백개의 카드가 이용된다. 데크와
+데크, 카드와 카드, 데크와 카드사이에 하이퍼 링크가 필요한데 이러한 모든
+링크들을 단순히 수작업으로 관리하는데는 많은 어려움이 따른다. 위에서
+언급된 다양한 기술적 측면들을 모두 만족시키는 WML 응용업무를 단순한
+편집기와 WML SDK(Software Development Kit)만을 이용하여 수작업으로
+제작하려면 기술과 시간 또 많은 비용의 투자가 필요하다. 또한
+WML응용업무는 그 제공정보의 특성상 빠른 시간 안에 개발과 공급이
+이루어져야 한다. 따라서 위의 기술적 측면들을 만족시키는 WML전용저작
+도구의 개발이 절실히 요구된다.이에 본 논문에서 WML 전용저작도구의
+설계와 구현기술에 대해 소개하고자 한다.
+}
+{
+04
+인터넷 상에서 BASIC 프로그래밍 실습 환경
+이재성, 창병모
+
+프로그래밍 학습을 원하는 학습자들은 컴파일러나 인터프리터와 같은
+처리기를 먼저 갖추어야 한다. 이는 설치에 대한 부담과 업그레이드 문제 등
+학습자에게 학습 이외의 부담이 주게된다. 본 논문에서는 별도의
+언어처리기를 설치하지 않아도 웹 상에서 프로그래밍 실습이 가능한 실습
+환경을 구현하였다. 구현된 시스템에서는 BASIC 언어에 대한 학습이
+가능하고, 웹 상에서도 실행이 가능하도록 애플릿 형태의 BASIC
+인터프리터를 제공해준다. 또한 애플릿으로 구현된 편집창과 BASIC
+인터프리터간의 통신을 통해 파일을 주고받아 학습자가 좀 더 편리하게
+학습할 수 있는 환경을 제공해 준다.
+}
+{
+05
+자바 언어를 위한 예외 상황 분석 비교 연구
+조장우, 창병모
+
+JDK 자바 컴파일러의 예외 상황 분석은 프로그래머의 선언에 의존하는
+프로시저-내 분석이다. 이 분석은 프로그래머가 실제 발생하지 않는
+예외들이나 실제 발생하는 예외보다 광범위한 예외들을 선언하는 경우
+적절한 예외 처리를 하지 못하는 문제가 발생한다. 이러한 문제의 해결을
+위해 [2,6]에서 프로그래머의 선언과 무관한 프로시저-간 예외 상황
+분석기가 제시되었다. 본 논문에서는 이 두 분석 방법을 설계 구현하고
+실험을 통해서 비교한다.
+}
+{
+06
+CPW로 바뀐 모듈과 CPS로 바뀌지 않은 모듈의 연동
+김정택, 이광근
+
+지금까지 CPS 변환을 사용하기 위해서는 프로그램 전체에 적용해야 하는
+것으로 알려져 왔다. CPS 변환을 하면 좋지 않은 부분까지 바꾸어야 하기
+때문에 CPS 변환 후에 적용해야 하는 유용한 기술들을 사용하기 힘든 경우도
+있었다. 이 논문에서는 CPS 변환을 프로그램의 일부분에만 적용하는 방법을
+제기하여 CPS 변환을 필요한 프로그램 부분에만 적용하고 나머지 부분과는
+서로 연동을 통해서 접속할 수 있도록 한다. 이 연동방법은 프로그램의
+타입정보를 이용하여 정의되며, 프로그램 전체의 의미를 변화시키지
+않는다.
+}
+{
+07
+모나드 프로그래밍 응용
+변석우
+
+이론적 특성을 유지하면서 side-effect, 입출력, 예외처리, 비결정성 등의
+특성을 표현하는 것은 순수 함수형 언어의 오랜 숙제였다. Wadler는 Moggi가
+프로그래밍 언어 의미론 연구를 하면서 처음 제시한 모나드 이론을
+Haskell에 적용시켰으며, 지난 수년간의 프로그래밍을 통하여 모나드
+프로그래밍의 유용함이 다양한 분야에서 입증되고 있다. 이제 모나드는
+Haskell에서 side-effect, 입출력, 예외처리, 비결정성 등의 특성을
+표현하는 표준 기법으로서 인정받고 있다. 본 고에서는 모나드 프로그래밍의
+기본 원리와 이 프로그래밍 기법의 응용 사례를 소개한다.
+}
+{
+08
+Validated - XML 파서 생성기
+신경희, 유재우
+
+XML이 차세대인터넷언어로 등장하므로서 XML을 이용한 문서들이 많이 생기고
+있다. XML은 구조 중심으로 문서를 작성하는 언어이므로, 올바른 문서인지
+확인 작업이 반드시 필요하다. 이러한 처리는 XML 파서에 의해 처리된다. 본
+논문에서는 문서구조가 다른 여러가지 XML문서의 적합성을 점검하는
+validated-XML 파서 생성기를 설계 구현한다. XML 파서 생성기는 구조에
+따른 문서를 파싱하는 컴파일러-컴파일러로서, 프로그래밍 언어관점에서
+설계하였다. XML파서생성기는 내부적으로 문서형정의 파서와 문서파서로
+구성되고 이 2개의 파서는 서로 연동되어 XML 문서를 동적인 환경에서
+대화식으로 처리할 수 있으며, 편집기와 브라우저와 같은 어플리케이션과의
+인터페이스가 가능하다.
+}
+{
+09
+Modularized Control Flow Analyses
+이욱세, 이광근
+
+We show that for control-flow-analysis of higher-order programs,
+modularizing CFA makes them unsound with respect to the original
+whole-program CFAs; the derived modular analyses can give more
+accurate results than the original CFAs do. We then show the
+correctness of such modularized CFAs can be proven with respect to
+whole-program CFAs that are polyvariant at module-leval. We show that
+the above two results are true for any k in kCFA; we present safe
+modularized kCFAs, proven by the above approach.
+}
+
+X 논문
+<
+- 01
+- 02
+- 03
+- 04
+- 05
+- 06
+- 07
+- 08
+- 09
+>

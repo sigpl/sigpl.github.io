@@ -1,0 +1,89 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <body>
+<h1>프로그래밍언어논문지 제17권 제2호 (2003년 7월)</h1><br>
+<table><tr><td width="200" align="center">
+<a href="2/cover.jpg">
+<img border="0" width="150" src="2/cover_thumb.jpg"></a>&nbsp;</td><td><h2>목차:
+    <span class="small">[<a href="2/toc.pdf">.PDF</a> 227KB]</span>
+</h2><h2>권두언:
+    <span class="normal">김도형</span>
+    <span class="small">[<a href="2/preface.pdf">.PDF</a> 158KB]</span>
+</h2><h2>논문</h2>
+  <ul>
+    <li><b><a href="#R01">A Loop Transformation for Nested Loops with Non-uniform and Flow Dependences</a></b>
+<br>정삼진
+    <li><b><a href="#R02">계산 진행 방식 변화를 통한 점증적 유효변수 찾기 알고리즘의 수행속도 향상</a></b>
+<br>윤정한, 한태숙 
+  </ul>
+<h2>튜토리얼</h2>
+  <ul>
+    <li><b>고차함수 프로그래밍의 원리와 보편성</b>
+    <span class="small">[<a href="2/T01.pdf">.PDF</a> 2603KB]</span>
+    <br>변석우
+    <li><b>다익스트라의 '프로그래밍의 수련(修練)': 여덟 번째, 유클리드 알고리즘의 재고찰(再考察) </b>
+    <span class="small">[<a href="2/T02.pdf">.PDF</a> 1991KB]</span>
+    <br>김도형
+  </ul>
+<h2>특별기고</h2>
+  <ul>
+    <li><b>엣져 위베 다익스트라(Edsger Wybe Dijkstra, 1930년 5월 11일 ― 2002년 8월 6일)</b>
+    <span class="small">[<a href="2/S01.pdf">.PDF</a> 2414KB]</span>
+    <br>김도형
+  </ul>
+</td></tr></table>
+<hr>
+<h1>본문</h1>
+<a name="R01"></a>
+<h2>A Loop Transformation for Nested Loops with Non-uniform and Flow Dependences    <span class="small">[<a href="2/R01.pdf">.PDF</a> 2425KB]</span>
+</h2>
+  <ul>
+    <li>저자:  정삼진
+    <li>요약:
+    <br>
+Several methods are proposed in order to parallelize loops with
+non-uniform and flow dependences, but most of such approaches perform
+poorly due to irregular and complex dependence constraints. This paper
+proposes an improved tiling method of nested loops with non-uniform
+and flow dependences for maximizing parallelism. Our approach is based
+on the Convex Hull theory which has adequate information to handle
+non-uniform dependences, and also based on minimum dependence distance
+tiling method. We will first show how to find the incrementing minimum
+dependence distance. Next, we will propose how to tile the iteration
+space efficiently according to the incrementing minimum dependence
+distance and how to transform it into parallel loops. Comparison with
+some other methods shows more parallelism than other existing methods.
+  </ul><a name="R02"></a>
+<h2>계산 진행 방식 변화를 통한 점증적 유효변수 찾기 알고리즘의 수행속도 향상    <span class="small">[<a href="2/R02.pdf">.PDF</a> 5006KB]</span>
+</h2>
+  <ul>
+    <li>저자:  윤정한, 한태숙 
+    <li>요약:
+    <br>
+자료흐름 분석(DFA: Data Flow Analysis)를 수행하는 방식에는 크게 점증적
+방법(iterative method)와 구역합침 방법(elimination method)가
+있다. 구역합침 방법과 달리 추가적인 작업 및 정보가 필요 없고, 구현이
+간단하다는 장점 때문에 실제 컴파일러에서 주로 사용되고 있는 방법은
+점증적 방법이다. 하지만 널리 사용되고 있는 것과는 달리 이에 관한 연구는
+그리 활발하지 않았다. 80년대에 정해진 내용에 따라 깊이 우선
+순서(depth-first order)로 반복하는 특성은 변하지 않은 채 20년이 넘게
+사용되어 오고 있다. 지금까지의 알고리즘만으로도 속도 면에서 충분하다고
+생각해 왔기 때문이다. 하지만 컴파일 과정에서 DFA가 사용되는 경우는
+참으로 많다. 비슷한 구조의 것들이 여러 개가 있게 되는 DFA의 경우 조금의
+속도 향상도 전체적으로는 큰 영향을 끼칠수 있게 된다. 
+<br>이에 대해 본
+논문에서는 점증적 DFA 방법론(iterative DFA framework)에서 계산 진행
+방식에 대한 개선점을 찾아보았다. 일단 전체 방법론에 대해 적용하기보다
+유효변수 조사(LVA: live variable analysis)의 경우에 대해서 새로운 계산
+진행 방식을 알고리즘을 적용, 실험하였다. 자주 사용되는 분석으로써
+대표적인 LVA는 Zephyr 컴파일러의 경우 전체 컴파일 시간에서 약 7%를
+차지하고 있다. 이 LVA에 새로운 계산순서를 적용한 결과 기존 알고리즘보다
+36.4%빨리 완료함을 알 수 있었다. 이는 전체 컴파일 시간에서 2.6%를
+줄이는 효과를 가져왔다. 이와 같은 시도들이 DFA 전체에 적용된다면 컴파일
+시간 단축에 큰 효과가 있을 것이다. 이는 JIT(Just in Time) 컴파일
+시스템에서는 프로그램의 성능과 직결되므로 그 영향력이 크게 작용한다.
+  </ul><hr>프로그래밍언어 연구회
+</body></html>

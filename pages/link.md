@@ -14,3 +14,4 @@ permalink: /conn/link/
 - [한국기술교육대학교 프로그래밍언어 연구실](http://pllab.kut.ac.kr){:target="_blank"}
 - [한양대학교 프로그래밍언어 연구실](http://plasse.hanyang.ac.kr){:target="_blank"}
 - [KAIST 프로그래밍언어 연구실](http://pllab.kaist.ac.kr){:target="_blank"}
+- [서울대학교 소프트웨어 원리 연구실](http://sf.snu.ac.kr){:target="_blank"}

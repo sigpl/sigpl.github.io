@@ -1,0 +1,32 @@
+---
+layout: default
+title: conf
+permalink: /events/conf/
+---
+
+<h1>학술대회</h1>
+
+<p>
+연구회는 매년 프로그래밍언어 분야의 논문을 발표하는 학술대회를 갖고
+있습니다. 학술대회에서는 한 해 동안 각 분야에서 노력한 연구결과들을
+함께 모여서 경청하고 다양한 방향을 제안하는 자리입니다.
+학술대회 논문은 프로그래밍언어논문지로 출판됩니다.
+</p>
+
+<table width="100%">
+  <tr><th>년도</th><th>행사명</th><th>날짜</th><th>장소</th><th>비고</th></tr>
+  {% for conf in site.data.confs %}
+  <tr>
+    <th>{{ conf.year }}</th>
+    <td>
+      {% if conf.page %}
+      <a href={{site.url}}/conf/{{conf.year}}/> {{ conf.title }} </a>
+      {% else %}
+      {{ conf.title }}
+      {% endif %}
+    </td>
+    <td>{{ conf.date }}</td>
+    <td>{{ conf.loc }}</td>
+    <td>{{ conf.etc }}</td>
+  {% endfor %}
+</table>

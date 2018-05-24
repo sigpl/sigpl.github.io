@@ -1,0 +1,33 @@
+---
+layout: default
+title: school
+permalink: /events/school/
+---
+
+<h1>계절학교</h1>
+
+<p>
+  연구회는 매년 프로그래밍언어 분야의 기반 기술을 단기적으로 교육하는
+  계절학교를 열고 있습니다. 매년 프로그래밍 언어 분야에서 폭넓게 
+  다루어지고 있는 주제를 선정한 후, 해당 분야 전문가들을 초빙하여
+  학습의 기회를 넓히고 있습니다. 최근에는 산업체 전문가들을 초빙하여
+  업계의 경험을 듣는 기회가 늘고 있습니다. 프로그래밍 언어 분야 연구자가
+  아니더라도 관심있는 분들은 언제든지 참여하실 수 있습니다.
+</p>
+
+<table width="100%">
+  <tr><th>날짜</th><th>행사명</th><th>장소</th><th>비고</th></tr>
+  {% for sc in site.data.schools %}
+  <tr>
+    <th>{{ sc.date }}</th>
+    <td>
+      {% if sc.season %}
+      <a href={{site.url}}/school/{{sc.season}}/> {{ sc.title }} </a>
+      {% else %}
+      {{ sc.title }}
+      {% endif %}
+    </td>
+    <td>{{ sc.loc }}</td>
+    <td>{{ sc.etc }}</td>
+  {% endfor %}
+</table>

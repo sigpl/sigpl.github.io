@@ -1,0 +1,90 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 11:55:51 1월 31, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 8:18:09 1월 19, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body {
+  background: white;
+  margin: 3em 3em 3em 3em;
+}
+
+body, td, th, .normal {
+  font-family: "맑은 고딕", "굴림", sans-serif;
+  font-size: 10.5pt;
+  line-height: 150%;
+  font-weight: normal;
+}
+
+td, th {
+  padding: 1pt 2pt;
+  vertical-align: top;
+}
+
+p {
+  text-align: justify;
+}
+
+pre {
+  margin: 0 0 0 0;
+  font-family: "돋움체", san-serif;
+  font-size: 9pt;
+  color: #000080;
+}
+
+h1 {
+  font-size: 16pt;
+  text-decoration: underline;
+  margin: 20pt 0 8pt 0;
+}
+h2 {
+  font-size: 13pt;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+}
+
+ul {
+  list-style: square;
+
+}
+
+.small {
+  font-size: 8pt;
+  text-decoration: none;
+}
+
+
+table.show {
+	border-width: 0;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+table.show th, table.show td {
+	border-width: 1px;
+	padding: 0 5px 0 5px;
+	border-style: solid;
+	border-color: #aaaaaa; 
+}
+h1, a:link, a:visited {
+  color: #386033;
+  font-weight: bold;
+}
+a:hover, a:active {
+  background-color: #90d080;
+  font-weight: bold;
+  color: black;
+}
+th {
+  background: #e5fce0;
+}
+
+

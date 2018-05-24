@@ -1,0 +1,83 @@
+2008
+10
+22
+1
+{
+R01
+파서생성기 생성기의 구현
+김태경, 박성우 (포항공과대학교) 
+1-13
+언어의 문법 표현으로부터 구문 분석기(Parser, 이하 파서)를 자동으로
+생성해주는 파서생성기(Parser-Generator)에 대한 연구는 오래전부터
+이루어져 왔고, 이미 다양한 프로그래밍 언어를 위한 파서생성기가 개발되어
+널리 이용되고 있다. 하지만 기존의 파서생성기들은 특정한 하나의 언어에
+대응되도록 개발되어왔기 때문에 컴파일러 개발자들은 새로운 언어를
+설계할 때마다 그에 맞는 파서생성기를 새롭게 개발해야만 했다. 본
+논문에서는 간단한 문법 번역 모듈(Translation Module) 입력을 통해
+사용자가 원하는 언어에 대응되는 파서 생성기를 생성해주는 파서생성기
+생성기(Parser-Generator Generator)의 구현에 대해 소개한다.
+}
+{
+R02
+공유 메모리 기반 멀티 코어 시뮬레이터 병렬화
+박현식, 한환수 (한국과학기술원)
+15-42
+<p>
+Multiple core designs have become commonplace in the processor market,
+and are hence a major focus in modern computer architecture
+research. Thus, for both product development and research, multiple
+core processor simulation environments are necessary. A well-known
+positive feedback property of computer design is that we use today's
+computers to design tomorrow's. Thus, with the emergence of chip 
+multiprocessors, it is natural to re-examine simulation environments
+written to exploit parallelism.  
+</p>
+<p> In this paper we present a programming methodology for directly
+converting existing uniprocessor simulators into parallelized
+multiple-core simulators. Our method not only takes significantly less
+development effort compared to some prior used programming techniques,
+but also possesses advantages by retaining a modular and
+comprehensible programming structure. We demonstrate our case by
+applying this method to existing simulator (the SimpleScalar tool set)
+and developing simple kernel thread library package for simulated
+program. And also we demonstrate the upper limit of scalability when
+using relaxation of synchronization method. Our SimpleScalar-based
+framework achieves a parallel speedup of 1.44X on a dual-CPU quad-core
+(4-way) Xeon server. And also present better scalability when using
+relaxation of synchronization method.
+</p>
+}
+{
+R03
+윈도우즈 플랫폼에서의 프로그램간 실행시간 상호연동 기술에 대한 조사 
+신승철, 노상훈, 권민혁, 임용수, 김성민 (한국기술교육대학교)
+43-51
+프로그램 상호연동 기술은 웹브라우져, 문서편집기 등 다양한 종류의
+응용프로그램 에서 사용되며 그 필요성이 높아지고 있다. 프로그램간
+상호연동은 컴파일 시간에 이미 결정되기도 하지만, 내장 스크립트 언어를
+통한 상호연동 처럼 실행 시간에만 결정할 수 있는 경우도 있다. 본
+논문에서는 실행 시간에 상호연동 할 수 있는 방법에 초점을 맞추어
+설명한다. 또한 국내 PC에서 널리 사용되고 있는 윈도우즈 운영체제를
+중심으로 여러 플랫폼에 실제로 구현된 상호연동 기술의 사례를
+조사하였다.  그리고 마지막으로 이 상호연동 기술들이 인터프리터
+언어에서의 상호연동에 어떻게 응용될 수 있는지 제시한다.
+}
+
+C<
+
+X< 목차
+! toc
+X>
+
+X< 편집사
+! preface
+X>
+
+X 연구논문
+<
+- R01
+- R02
+- R03
+>
+
+C>

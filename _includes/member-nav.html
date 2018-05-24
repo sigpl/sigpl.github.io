@@ -1,1 +1,8 @@
-<!-- TODO -->
+<h1>역대 운영위원</h1>
+
+<p>
+  {% for yr in site.data.members %}
+  <a href={{site.url}}/intro/member/{{yr.year}}/ > {{ yr.year }} </a>
+  {% endfor %}
+
+</p>

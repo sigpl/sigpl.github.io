@@ -1,0 +1,151 @@
+- kind: 학술논문지
+  title: 프로그래밍언어논문지
+  list:
+  - name: 23
+    year: 2009
+    vol:
+    - num: 1
+      page: true
+  - name: 22
+    year: 2008
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+  - name: 21
+    year: 2007
+    vol:
+    - num: 1
+      page: true
+  - name: 20
+    year: 2006
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+  - name: 19
+    year: 2005
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+  - name: 18
+    year: 2004
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+    - num: 3
+      page: true
+  - name: 17
+    year: 2003
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+    - num: 3
+      page: true
+  - name: 16
+    year: 2002
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+    - num: 3
+      page: true
+  - name: 15
+    year: 2001
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+  - name: 14
+    year: 2000
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+- kind: 분과연구회보
+  title: 프로그래밍언어연구회지
+  list:
+  - name: 13
+    year: 1999
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+  - name: 12
+    year: 1998
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+  - name: 11
+    year: 1997
+    vol:
+    - num: 1
+  - name: 10
+    year: 1996
+    vol:
+    - num: 1
+      page: true
+  - name: 9
+    year: 1995
+    vol:
+    - num: 1
+      page: true
+  - name: 8
+    year: 1994
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+      page: true
+
+- kind: 분과소식지
+  title: 프로그래밍언어소식
+  list:
+  - name: 7
+    year: 1993
+    vol:
+    - num: 1
+    - num: 2
+    - num: 3
+  - name: 6
+    year: 1992
+    vol:
+    - num: 1
+    - num: 2
+  - name: 5
+    year: 1991
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+  - name: 4
+    year: 1990
+    vol:
+    - num: 1
+      page: true
+    - num: 2
+  - name: 2
+    year: 1988
+    vol:
+    - num: 1
+      page: true
+  - name: 1
+    year: 1987
+    vol:
+    - num: 1
+    - num: 2
+      page: true

@@ -1,0 +1,150 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <body>
+<h1>프로그래밍언어논문지 제20권 제2호 (2006년 11월)</h1><br>
+<table><tr><td width="200" align="center">
+<a href="2/cover.jpg">
+<img border="0" width="150" src="2/cover_thumb.jpg"></a>&nbsp;</td><td><h2>목차:
+    <span class="small">[<a href="2/toc.pdf">.PDF</a> 330KB]</span>
+</h2><h2>편집사:
+    <span class="small">[<a href="2/preface.pdf">.PDF</a> 174KB]</span>
+</h2><h2>연구논문</h2>
+  <ul>
+    <li><b><a href="#R01">Retargetable Compilation Technique for Optimal Placement of Scaling Shifts in a Fixed-Point Processor</a></b>
+<br>Sanghyun Park, Minwook Ahn, Doosan Cho, Jounhee Yoon, Yunheng Paek (Seoul National University)
+    <li><b><a href="#R02">온톨로지 기반의 시맨틱 어노테이터 구현</a></b>
+<br>박재훈, 유재규, 전양승, 정영식, 한성국 (원광대학교)
+    <li><b><a href="#R03">다단계 프로그램에 대한 흐름을 고려한 분석</a></b>
+<br>김덕환, 이광근 (서울대학교)
+    <li><b><a href="#R04">C 프로그램에서 사용되지 않는 자료를 찾는 정적 분석기의 개발</a></b>
+<br>황의권, 이광근 (서울대학교)
+    <li><b><a href="#R05">가벼운 모양분석을 통한 메모리 누수 탐지</a></b>
+<br>이욱세, 정승철 (한양대학교); 김태호 (한국전자통신연구원)
+    <li><b><a href="#R06">XML 기반의 문서통합 시스템 설계</a></b>
+<br>유재규, 박재훈, 전양승, 정영식, 한성국 (원광대학교)
+  </ul>
+</td></tr></table>
+<hr>
+<h1>본문</h1>
+<a name="R01"></a>
+<h2>Retargetable Compilation Technique for Optimal Placement of Scaling Shifts in a Fixed-Point Processor    <span class="small">[<a href="2/R01.pdf">.PDF</a> 745KB]</span>
+</h2>
+  <ul>
+    <li>저자:  Sanghyun Park, Minwook Ahn, Doosan Cho, Jounhee Yoon, Yunheng Paek (Seoul National University)
+    <li>쪽: 1-16
+    <li>요약:
+    <br>
+In the past decade, several tools have been developed to automate the
+floating-point to fixed-point conversion for DSP systems. In the
+conversion process, they first determine the integer/fractional word
+lengths for each fixed-point variable, and attempt to optimize the
+SQNR of the fixed-point code while precluding overflows. In this
+attempt, a number of scaling shifts need to be inserted into the code,
+and inevitably they alter the original code sequence. Recently, we
+have observed that a compiler can often be adversely affected by this
+alteration of the source code, and consequently fails to generate
+efficient machine code for its target processor. In this paper, we
+discuss how we circumvent this problem with a simple peephole
+optimization technique that safely migrates scaling shifts to other
+places within the code so that the compiler can have a higher chance
+to produce better code. We consider our technique to be safe in that
+it does not introduce new overflows, yet preserving (sometimes even
+improving) the original SQNR. We implemented this technique on our
+retargetable compiler, Soargen. The experimental results on a
+commercial fixed-point DSP processor exhibit that our technique is
+effective enough to achieve tangible improvement on code size and
+speed for a set of benchmarks.
+  </ul><a name="R02"></a>
+<h2>온톨로지 기반의 시맨틱 어노테이터 구현    <span class="small">[<a href="2/R02.pdf">.PDF</a> 1203KB]</span>
+</h2>
+  <ul>
+    <li>저자:  박재훈, 유재규, 전양승, 정영식, 한성국 (원광대학교)
+    <li>쪽: 17-22
+    <li>요약:
+    <br>
+이미 축적된 방대한 컨텐츠에 의미 기반 메타데이터 구축을 수작업으로 하는
+것은 거의 불가능하다. 온톨로지나 시맨틱 웹 개념이 없는 일반 사용자가
+자신의 컨텐츠에 효과적인 의미 정보를 부착을 하기란 매우
+어렵다. 실질적인 KM, EDM, Semantic Portal, Semantic Search Engine
+구현과 활성화를 위해서 필수적인 기술인 시맨틱 어노테이션은 자연언어
+처리와 텍스트 마이닝 기술에 기반 한다. 사람이름, 기업명, 주소 등의
+개체명 인식과 사건, 원인, 결과, 상황 등의 정보 추출 기술에 기반하고
+Semantic Annotation Tool은 다양한 온톨로지에 대한 적응력을 필요하며,
+방대한 언어자원이 필수적이다. 이에 본 논문에서는 수많은 정보들에 태그를
+붙여 컴퓨터가 의미처리를 할 수 있는 지식기반의 시맨틱 어노테이터를
+구현한다.
+  </ul><a name="R03"></a>
+<h2>다단계 프로그램에 대한 흐름을 고려한 분석    <span class="small">[<a href="2/R03.pdf">.PDF</a> 688KB]</span>
+</h2>
+  <ul>
+    <li>저자:  김덕환, 이광근 (서울대학교)
+    <li>쪽: 23-34
+    <li>요약:
+    <br>
+고차 함수를 지원하는 다단계 프로그래밍 언어에 대한 흐름을 고려한 집합
+제약식 분석을 제안한다. 다단계 프로그램이란 프로그램 텍스트를 값처럼
+다루는 프로그램이다. 최근에 다양한 언어 특징을 포함한 다단계 프로그램을
+위한 let-다형 타입 체계와 그 추론 시스템이 제시되었다. 그러나, 타입
+체계는 일반적으로 프로그램에서 실제로 실행되지 않는 부분에 대해서도
+보수적으로 타입 검사를 수행하는 단점을 지니고 있다. 이 논문에서는
+프로그램의 실행의 흐름을 고려하는 단순 타입 체계보다 정교한 프로그램
+분석을 고안한다.
+  </ul><a name="R04"></a>
+<h2>C 프로그램에서 사용되지 않는 자료를 찾는 정적 분석기의 개발    <span class="small">[<a href="2/R04.pdf">.PDF</a> 349KB]</span>
+</h2>
+  <ul>
+    <li>저자:  황의권, 이광근 (서울대학교)
+    <li>쪽: 35-40
+    <li>요약:
+    <br>
+우리는 Airac5의 틀을 기반으로 C 프로그램에서 사용되지 않는 자료를 찾는
+정적 프로그램 분석기 Umirac을 고안하고 구현하였다. Umirac은 구간 집합
+도메인을 이용한 요약해석을 통하여 프로그램에서 정의되었지만 사용되지
+않는 변수, 구조체의 필드, 그리고 버퍼의 구간에 대한 정보를
+분석한다. 우리는 리눅스 커널 프로그램과 임베디드 시스템 소프트웨어를
+대상으로 실험을 수행하여 실제 프로그램 상에서 불필요하게 정의된
+자료들을 찾을 수 있었다. 또한 Umirac과 Airac7의 수행속도를 비교한 결과
+구간 집합 분석을 하는 Umirac이 구간 분석을 하는 Airac7의 60-86%정도의
+속도를 보여주었다.
+  </ul><a name="R05"></a>
+<h2>가벼운 모양분석을 통한 메모리 누수 탐지    <span class="small">[<a href="2/R05.pdf">.PDF</a> 593KB]</span>
+</h2>
+  <ul>
+    <li>저자:  이욱세, 정승철 (한양대학교); 김태호 (한국전자통신연구원)
+    <li>쪽: 41-50
+    <li>요약:
+    <br>
+최근 독보적인 연구들을 통해서 포인터를 다루는 복잡한 프로그램에 대한
+포인터 오류 및 메모리 누수 탐지 기술이 획기적으로 진화하여, 복잡한
+포인터 프로그램의 오류를 감지할 수 있는 기술이 마련되었다. 그러나,
+복잡한 자료구조를 위해 비용이 비싸게 설계되었는데, 비교적 단순한 메모리
+구조만을 사용하고 있는 실제 현장에 적용하기 어려운 점이 있다. 본
+논문에서는 트리 정도 단순한 모양의 단순한 자료구조를 사용하는 포인터
+프로그램의 메모리 오류 발견 및 누수 탐지를 위한 저렴한 분석기를
+제안하고자 한다. 문법기반 모양분석 기술을 단순화하여 트리에 대해서만
+정밀하게 분석하는 분석기를 고안하였고, 실제 코드에 적용한 사례를 보아
+가격과 성능이 만족스러울 것이라고 예상된다.
+  </ul><a name="R06"></a>
+<h2>XML 기반의 문서통합 시스템 설계    <span class="small">[<a href="2/R06.pdf">.PDF</a> 536KB]</span>
+</h2>
+  <ul>
+    <li>저자:  유재규, 박재훈, 전양승, 정영식, 한성국 (원광대학교)
+    <li>쪽: 51-55
+    <li>요약:
+    <br>
+국내외적으로 정보통신망의 구축이 활발히 진행됨에 따라 이를 이용하여
+개인이나 기업과 기관에서 업무의 효율성을 높이기 위하여 전자적으로
+문서를 교환하여야 할 필요성이 증대되고 있다. 본 논문에서는 XML기반으로
+문서를 통합하는 시스템을 설계하였다. 문서를 개인별로 산출물을 작성하는
+문서의 경우 개별적으로 작성한 후 작성된 파일을 종합하여 하나의 문서로
+통합하는 작업을 거치게 된다. 이러한 수동적인 방법을 컴퓨터 시스템을
+이용하여 통합하는 과정을 자동화하고자 한다. 본 논문에서는 내용과 관련된
+태그를 직접 만들 수 있고, XML 문서들을 하나의 큰 문서로 병합할 수
+있으며, 어떠한 종류의 응용프로그램과도 통합될 수 있는 범용적
+데이터베이스라고도 할 수 있는 XML의 특성을 이용하여 좀 더 확장성이
+좋아지게 하였다.
+  </ul><hr>프로그래밍언어 연구회
+</body></html>

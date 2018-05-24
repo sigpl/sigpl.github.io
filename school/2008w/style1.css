@@ -1,0 +1,49 @@
+A{
+    color: #bb0000; 
+    font-weight: bold; 
+    font-size: small; 
+    text-decoration: none;
+}
+
+A.nav{
+    color: #bb0000;
+    font-weight: bold; 
+    font-size: small;
+    text-decoration:none;
+}
+
+A.white{
+    color: #ffffff; 
+    font-size: small;
+    text-decoration:none;
+}
+
+A.skyblue{
+    color: #0077aa; 
+    font-weight: normal; 
+    font-size: small;
+    text-decoration:none;
+}
+
+body, table, .text {
+  font-family: "¸¼Àº °íµñ" "Tahoma";
+  background: white;
+  font-size: 10pt;
+}
+
+h1 {
+  font-size: 14pt;
+  text-align: center;
+  color: "#00006f";
+}
+h2 {
+  font-size: 12pt;
+  color: "white";
+  text-align: center;
+  background: #3366ff;
+}
+h3 {
+  font-size: 16pt;
+  color: "#000040";
+  text-decoration: underline;
+}

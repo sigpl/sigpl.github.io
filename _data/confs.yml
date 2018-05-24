@@ -1,0 +1,143 @@
+- year: 2017
+  page: true
+  date: 07.08-11
+  loc: 강원대학교 공과대학 사이버랩
+  title: SIGPL Summer Workshop 2017
+  etc: 초청 11편, 기업체 1편, 특허청 1편
+- year: 2016
+  page: true
+  date: 02.18-19
+  loc: 전북대학교 박물관
+  title: SIGPL Winter Workshop 2016
+  etc: 초청 2편, 기업체 1편, 마일스톤 12편, 라이트 토크 14편
+- year: 2013
+  page: true
+  date: 06.28
+  loc: 디오션리조트 콘도 지하2층 오동도
+  title: 'KCC 2013: 분과 워크샵'
+  etc: 초청강연 4편
+- year: 2012
+  page: true
+  date: 11.02-04
+  loc: 제주샤인빌리조트
+  title: 프로그래밍언어연구회 학술대회
+  etc: 
+- year: 2011
+  page: true
+  date: 09.24
+  loc: 서울대학교
+  title: 프로그래밍언어연구회 학술대회
+  etc: 초청강연 3편 논문 3편 기업체 1편
+- year: 2008
+  page: true
+  date: 12.13
+  loc: 성균관대학교
+  title: 프로그래밍언어연구회 추계학술대회
+  etc: 논문6편
+- year: 2007
+  page: true
+  date: 04.28
+  loc: 동덕여자대학교
+  title: 프로그래밍언어연구회 춘계학술대회
+  etc: 논문4편 초청강연2편
+- year: 2006
+  page: true
+  date: 11.18
+  loc: 경북대학교
+  title: 프로그래밍언어연구회 추계학술대회
+  etc: 논문6편 초청강연1편
+- year: 2005
+  page: true
+  date: 11.19
+  loc: 한국항공대학교
+  title: 프로그래밍언어연구회 추계학술대회
+  etc: 논문7편 초청강연1편
+- year: 2004
+  page: true
+  date: 11.20
+  loc: 고려대학교
+  title: 프로그래밍언어연구회 추계학술대회
+  etc: 논문6편 사례연구1편
+- year: 2003
+  page: true
+  date: 11.22
+  loc: 동국대학교
+  title: 프로그래밍언어연구회 추계학술대회
+  etc: 논문8편 튜토리얼1강좌
+- year: 2002
+  page: true
+  date: 11.09
+  loc: 한양대학교
+  title: 프로그래밍언어연구회 학술발표대회
+  etc: 논문6편 튜토리얼1강좌
+- year: 2001
+  page: true
+  date: 11.17
+  loc: 숙명여자대학교
+  title: 프로그래밍언어연구회 학술대회
+  etc: 논문8편 튜토리얼1강좌
+- year: 2000 
+  date: 09.22-23
+  loc: 숭실대학교
+  title: 전문분과합동추계학술발표회
+  etc: 논문41편(9편)
+- year: 1999 
+  date: 09.10-11
+  loc: 포항공과대학교
+  title: 전문분과합동추계학술발표회
+  etc: 논문40편(9편)
+- year: 1998 
+  date: 09.25-26
+  loc: 부산대학교
+  title: 추계학술논문발표회
+  etc: 논문13편
+- year: 1997 
+  date: 11.15
+  loc: 홍익대학교
+  title: 정기총회 및 추계학술발표회
+  etc: 논문6편
+- year: 1996 
+  date: 11.23
+  loc: 홍익대학교
+  title: 총회 및 학술발표회
+  etc: 초청강연2편 논문3편
+- year: 1995 
+  date: 10.21
+  loc: 중앙대학교
+  title: 프로그래밍언어 총회 및 학술발표회
+  etc: 논문4편
+- year: 1994 
+  date: 10.15
+  loc: 홍익대학교
+  title: 정기총회 및 추계학술발표회
+  etc: 논문8편
+- year: 1993 
+  date: 10.30
+  loc: 아주대학교
+  title: 프로그래밍언어 추계학술발표회
+  etc: 논문10편
+- year: 1992 
+  date: 10.10
+  loc: 숭실대학교
+  title: 추계 PL 학술 발표회
+  etc: 논문10편
+- year: 1991 
+  date: 10.12
+  loc: 동국대학교
+  title: 프로그래밍언어연구회 추계학술발표회
+  etc: 논문3편
+- year: 1989 
+  date: 09.23
+  loc: 서울대학교
+  title: 정기총회 및 논문 발표회
+  etc: 논문3편
+- year: 1988 
+  date: 09.10
+  loc: 충남대학교
+  title: 제1차 PL 추계학술발표회
+  etc: 논문4편
+- year: 1987 
+  date: 10.17
+  loc: 한국과학기술원
+  title: 초청강연 및 특별강좌
+  etc: PL일반

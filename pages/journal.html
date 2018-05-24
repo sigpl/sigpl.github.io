@@ -1,0 +1,39 @@
+---
+layout: default
+title: journal
+permalink: /data/journal/
+---
+
+<h1>논문지</h1>
+<p>
+  연구회는 1987년도에 연구회 소식지를 발간하기 시작하여, 
+  1994년도부터는 분과연구회보로 격상하여 발간하였습니다.
+  2000년도부터는 학술논문지로 격상하여 지금의 "프로그래밍언어논문지"
+  형태로 발간하고 있습니다.
+</p>
+
+<table>
+  {% for jk in site.data.journals %}
+  
+  <tr><th>{{ jk.kind }}</th><th>{{ jk.title }}</th></tr>
+  <tr><td></td>
+    <td>
+      <ul>
+      {% for i in jk.list %}
+      <li>
+	{{ i.name }}권 ({{ i.year }}년):
+	{% for v in i.vol %}
+	{% if v.page %}
+	<a href={{ site.url }}/journal/{{ i.year }}/{{ v.num }}.html>
+	  {{ v.num }}호
+	</a>
+	{% else %}
+	{{ v.num }}호
+	{% endif %}
+	{% endfor %}
+      </li>
+      {% endfor %}
+      </ul>
+  </td></tr>
+  {% endfor %}
+</table>

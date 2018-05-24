@@ -1,0 +1,50 @@
+body, table {
+  font-family: "Tahoma";
+  background: white;
+  font-size: 10pt;
+}
+
+h1 {
+  font-size: 20pt;
+  text-align: center;
+  color: "#605020";
+}
+h2 {
+  font-size: 16pt;
+  color: "#000040";
+  text-align: center;
+  background: #ddccaa;
+}
+h3 {
+  font-size: 16pt;
+  color: "#000040";
+  text-decoration: underline;
+}
+a:link, a:visited {
+  color: #ff8040;
+  text-decoration: none;
+}
+a:hover, a:active {
+  color: red;
+  text-decoration: underline;
+}
+li {
+  list-style: square;
+  margin: 0.2em 0em 0.2em 0em;
+}
+.navi {
+  font-size: 10pt;
+}
+
+th {
+  background-color: #dddddd;
+}
+
+th, td {
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  vertical-align: top;
+}
+
+.abstract {
+  font-size: 9pt;
+}
