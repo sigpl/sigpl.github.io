@@ -1,6 +1,6 @@
 ---
 layout: greeting
-permalink: /intro/greeting/
+permalink: /greeting/
 ---
 
 # 위원장 인사말

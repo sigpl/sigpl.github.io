@@ -1,7 +1,7 @@
 ---
 layout: default
 title: link
-permalink: /conn/link/
+permalink: /link/
 ---
 
 # 관련 연구실

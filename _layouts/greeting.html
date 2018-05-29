@@ -1,27 +1,10 @@
-<html>
-  <head>
-    <title>SIGPL</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" href="/css/styles.css">
-  </head>
+---
+layout: default-pre
+---
+<table width="640pt">
+  <tr> <td>
+      {{ content }}
 
-  <body>
-    {% include header.html %}
-
-    <div class="row">
-      {% include nav.html %}
-
-      <div class="main">
-	<table width="640pt">
-	  <tr> <td>
-	      {{ content }}
-
-	      {% include footer-greeting.html %}
-	  </td> </tr>
-	</table>
-      </div>
-
-    </div>
-
-  </body>
-</html>
+      {% include footer-greeting.html %}
+  </td> </tr>
+</table>

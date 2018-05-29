@@ -4,10 +4,9 @@
 
     <tr><th align="left">{{ sec.title }} </th> </tr>
     {% for subsec in sec.subsections %}
-    {% assign subsec_url = "/" | prepend:sec.sid | append:subsec.ssid %}
 
     <tr><td align="right">
-	<a href={{site.url}}/{{ subsec_url }} >{{ subsec.title }}</a>
+	<a href={{site.url}}/{{ subsec.ssid }} >{{ subsec.title }}</a>
     </td></tr>
 
     {% endfor %}

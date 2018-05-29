@@ -1,7 +1,7 @@
 ---
 layout: default
 title: notice
-permalink: /intro/notice/
+permalink: /notice/
 redirect_from: "/"
 ---
 
