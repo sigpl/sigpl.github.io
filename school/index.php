@@ -29,6 +29,10 @@
 <?php
 
 $list = array(
+ '2018.08.20-22' =>
+ '동국대학교;
+  SIGPL Summer School 2018;2018s;
+ 강좌10편',
  '2018.02.19-21' =>
  '충남대학교;
   SIGPL Winter School 2018;2018w;
