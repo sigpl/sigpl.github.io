@@ -89,10 +89,7 @@
 
 <ul>
   <li> 사전등록 마감: 8월 14일(화요일)
-  </li><li> 등록 방법
-<!---
-: <a href="http://www.kiise.or.kr/conference/conf/010/" target="_blank"><font color=red>등록  페이지</font></a>를 통하여 등록할 수 있습니다.
---->
+  </li><li> 등록 방법: <a href="http://www.kiise.or.kr/conference/conf/025/" target="_blank"><font color=red>등록  페이지</font></a>를 통하여 등록할 수 있습니다.
 <table border="1" bordercolor="#a0a0a0" cellspacing="0">
 <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
 <tr align="center"><th>사전 등록 </th><td>80,000원</td><td>100,000원</td></tr>
