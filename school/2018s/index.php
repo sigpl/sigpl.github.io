@@ -64,7 +64,7 @@
   <tr><td bgcolor="white"> 15:00 ~ 15:15</td><td bgcolor="white"> 휴식</td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 15:15 ~ 16:15</td><td bgcolor="white"> 스마트 컨트랙트 분석 </td><td bgcolor="white"> 이종협 (가천대) </td></tr>
   <tr><td bgcolor="white"> 16:15 ~ 16:30</td><td bgcolor="white"> 휴식</td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:30 ~ 17:30</td><td bgcolor="white"> 안드로이드 보안 </td><td bgcolor="white"> 신인식 (KAIST)</td></tr>
+  <tr><td bgcolor="white"> 16:30 ~ 17:30</td><td bgcolor="white"> 스마트 컨트랙트를 작성할 때 고려해야 하는 블록체인의 특징 </td><td bgcolor="white"> 김재윤 (서울대)</td></tr>
   <tr><td bgcolor="white"> 17:30 ~ 19:00 </td><td bgcolor="white"> 저녁 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 19:00 ~ 21:00 </td><td bgcolor="white"> 포스터 세션 </td><td bgcolor="white"></td></tr>
   <tr><th colspan="3" align="left">8월 21일 (화요일)</th></tr>
