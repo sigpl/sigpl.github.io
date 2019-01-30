@@ -59,7 +59,7 @@ title: SIGPL 겨울학교 2019
   <tr><td bgcolor="white">  15:00 ~ 16:00  </td><td bgcolor="white">  (초청강연 2) Coordination Recipes for Tightly-Coupled Software Work in Open Source Software (OSS) Communities  </td><td bgcolor="white">  문은영 (KAIST)  </td></tr>
   <tr><td bgcolor="white">  16:00 ~ 16:15  </td><td bgcolor="white">  Break  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  16:15 ~ 16:40  </td><td bgcolor="white">  LLVM 중간언어의 정수 - 포인터 캐스팅을 잘 설명하는 메모리 모델  </td><td bgcolor="white">  이준영 (서울대)  </td></tr>
-  <tr><td bgcolor="white">  16:40 ~ 17:05  </td><td bgcolor="white">  Guiding Deep Learning System Testing using Surprise Adequacy  </td><td bgcolor="white">  김진한 (KAIST)  </td></tr>
+  <tr><td bgcolor="white">  16:40 ~ 17:05  </td><td bgcolor="white">  놀라움의 정도를 이용한 딥러닝 시스템 테스팅  </td><td bgcolor="white">  김진한 (KAIST)  </td></tr>
   <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  포스터 발표  </td><td bgcolor="white">  대학원생  </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 19일 (화요일)  </th></tr>
