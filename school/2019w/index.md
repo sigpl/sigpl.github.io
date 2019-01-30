@@ -47,57 +47,61 @@ title: SIGPL 겨울학교 2019
 
 <h2>프로그램</h2>
 
-| 2월 18일 (월요일) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ------------- |:-------------| :-----:|
-| 13:00 ~ 14:00 | 등록 | |
-| 14:00 ~ 15:00 | (초청강연 1) Coordinated and Efficient Huge Page Management with Ingens | 권영진 (KAIST) |
-| 15:00 ~ 16:00 | (초청강연 2) Coordination Recipes for Tightly-Coupled Software Work in Open Source Software (OSS) Communities | 문은영 (KAIST) |
-| 16:00 ~ 16:15 | Break | |
-| 16:15 ~ 16:40 | LLVM 중간언어의 정수 - 포인터 캐스팅을 잘 설명하는 메모리 모델 | 이준영 (서울대) |
-| 16:40 ~ 17:05 | Guiding Deep Learning System Testing using Surprise Adequacy | 김진한 (KAIST) |
-| 19:00 ~ 21:00 | 포스터 발표 | 대학원생 |
+<ul>
+  <table border="0" cellspacing="0">
+  <tbody><tr><td bgcolor="#cccccc">
+  <table border="0" cellspacing="1pt">
+<tbody>
 
-| ---- |
-| 2월 19일 (화요일) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ------------- |:-------------| :-----:|
-| 09:30 ~ 10:30 | (초청강연 3) 강화학습을 이용한 효과적 프로그램 줄이기 | 이우석 (한양대) |
-| 10:30 ~ 10:45 | Break | |
-| 10:45 ~ 11:10 | 바이너리 코드에 대한 그레이박스 콘콜릭 테스팅 | 최재승 (KAIST) |
-| 11:10 ~ 11:35 | Bounded Model Checking of Signal Temporal Logic | 이지아 (POSTECH) |
-| 11:35 ~ 12:00 | 바이너리 프로그램에서의 역테인트 분석 | 목성균 (충남대) |
-| 12:00 ~ 13:30 | 점심 식사 | |
-| 13:30 ~ 14:00 | (초청강연 4) 정적 분석 정확도 다시 보기 | 이욱세 (코드마인드(주)) |
-| 14:00 ~ 14:25 | 안드로이드 하이브리드 앱의 동작 이해하기 | 이성호 (KAIST) |
-| 14:25 ~ 14:50 | 정적 분석을 활용하여 메모리 해제 오류를 자동으로 패치하기 | 홍성준 (고려대) |
-| 14:50 ~ 15:05 | Break | |
-| 15:05 ~ 15:30 | 컨텍스트 터널링을 이용한 빠르고 정확한 정적 분석 | 전민석 (고려대) |
-| 15:30 ~ 15:55 | Eval 모나드 및 Cloud Haskell을 이용한 매니코어 병렬 프로그래밍 | 김연어 (부산대) |
-| 15:55 ~ 16:20 | 간단하고 빠른 ARM/RISC-V 동시성 메모리 모델 | 이성환 (서울대) |
-| 16:20 ~ 16:35 | Break | |
-| 16:35 ~ 17:00 | CreLLVM: LLVM 컴파일러의 최적화 과정 검증하기 | 김윤승 (서울대) |
-| 17:00 ~ 17:25 | 정적분석의 매개변수화 | 박지혁 (KAIST) |
+  <tr><th colspan="3" align="left"> 2월 18일 (월요일)  </th></tr>
+  <tr><td bgcolor="white">  13:00 ~ 14:00  </td><td bgcolor="white">  등록  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  14:00 ~ 15:00  </td><td bgcolor="white">  (초청강연 1) Coordinated and Efficient Huge Page Management with Ingens  </td><td bgcolor="white">  권영진 (KAIST)  </td></tr>
+  <tr><td bgcolor="white">  15:00 ~ 16:00  </td><td bgcolor="white">  (초청강연 2) Coordination Recipes for Tightly-Coupled Software Work in Open Source Software (OSS) Communities  </td><td bgcolor="white">  문은영 (KAIST)  </td></tr>
+  <tr><td bgcolor="white">  16:00 ~ 16:15  </td><td bgcolor="white">  Break  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  16:15 ~ 16:40  </td><td bgcolor="white">  LLVM 중간언어의 정수 - 포인터 캐스팅을 잘 설명하는 메모리 모델  </td><td bgcolor="white">  이준영 (서울대)  </td></tr>
+  <tr><td bgcolor="white">  16:40 ~ 17:05  </td><td bgcolor="white">  Guiding Deep Learning System Testing using Surprise Adequacy  </td><td bgcolor="white">  김진한 (KAIST)  </td></tr>
+  <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  포스터 발표  </td><td bgcolor="white">  대학원생  </td></tr>
 
-| ------------- |:-------------| :-----:|
-| 2월 20일 (수요일) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ------------- |:-------------| :-----:|
-| 09:30 ~ 10:30 | (초청강연 5) AI chip, Domain Specific Architecture and Domain Specific Language | 백준호 (Furiosa AI) |
-| 10:30 ~ 10:45 | Break | |
-| 10:45 ~ 11:10 | 학습된 확률모델을 통해 대규모 프로그램 합성을 가속화하기 | 이동권 (서울대) |
-| 11:10 ~ 11:35 | 메타 정보와 PAD를 이용한 프로그램 시각화 도구 | 천준석 (부산대) |
-| 11:35 ~ 12:00 | An Analysis of Dynamic Open Source Cross-site Scripting Filters as a Security Device in Web Applications | Nurul Atiqah Abu Talib (한양대) |
+  <tr><th colspan="3" align="left"> 2월 19일 (화요일)  </th></tr>
+  <tr><td bgcolor="white">  09:30 ~ 10:30  </td><td bgcolor="white">  (초청강연 3) 강화학습을 이용한 효과적 프로그램 줄이기  </td><td bgcolor="white">  이우석 (한양대)  </td></tr>
+  <tr><td bgcolor="white">  10:30 ~ 10:45  </td><td bgcolor="white">  Break  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  10:45 ~ 11:10  </td><td bgcolor="white">  바이너리 코드에 대한 그레이박스 콘콜릭 테스팅  </td><td bgcolor="white">  최재승 (KAIST)  </td></tr>
+  <tr><td bgcolor="white">  11:10 ~ 11:35  </td><td bgcolor="white">  Bounded Model Checking of Signal Temporal Logic  </td><td bgcolor="white">  이지아 (POSTECH)  </td></tr>
+  <tr><td bgcolor="white">  11:35 ~ 12:00  </td><td bgcolor="white">  바이너리 프로그램에서의 역테인트 분석  </td><td bgcolor="white">  목성균 (충남대)  </td></tr>
+  <tr><td bgcolor="white">  12:00 ~ 13:30  </td><td bgcolor="white">  점심 식사  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  13:30 ~ 14:00  </td><td bgcolor="white">  (초청강연 4) 정적 분석 정확도 다시 보기  </td><td bgcolor="white">  이욱세 (코드마인드(주))  </td></tr>
+  <tr><td bgcolor="white">  14:00 ~ 14:25  </td><td bgcolor="white">  안드로이드 하이브리드 앱의 동작 이해하기  </td><td bgcolor="white">  이성호 (KAIST)  </td></tr>
+  <tr><td bgcolor="white">  14:25 ~ 14:50  </td><td bgcolor="white">  정적 분석을 활용하여 메모리 해제 오류를 자동으로 패치하기  </td><td bgcolor="white">  홍성준 (고려대)  </td></tr>
+  <tr><td bgcolor="white">  14:50 ~ 15:05  </td><td bgcolor="white">  Break  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  15:05 ~ 15:30  </td><td bgcolor="white">  컨텍스트 터널링을 이용한 빠르고 정확한 정적 분석  </td><td bgcolor="white">  전민석 (고려대)  </td></tr>
+  <tr><td bgcolor="white">  15:30 ~ 15:55  </td><td bgcolor="white">  Eval 모나드 및 Cloud Haskell을 이용한 매니코어 병렬 프로그래밍  </td><td bgcolor="white">  김연어 (부산대)  </td></tr>
+  <tr><td bgcolor="white">  15:55 ~ 16:20  </td><td bgcolor="white">  간단하고 빠른 ARM/RISC-V 동시성 메모리 모델  </td><td bgcolor="white">  이성환 (서울대)  </td></tr>
+  <tr><td bgcolor="white">  16:20 ~ 16:35  </td><td bgcolor="white">  Break  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  16:35 ~ 17:00  </td><td bgcolor="white">  CreLLVM: LLVM 컴파일러의 최적화 과정 검증하기  </td><td bgcolor="white">  김윤승 (서울대)  </td></tr>
+  <tr><td bgcolor="white">  17:00 ~ 17:25  </td><td bgcolor="white">  정적분석의 매개변수화  </td><td bgcolor="white">  박지혁 (KAIST)  </td></tr>
+  <tr><th colspan="3" align="left"> 2월 20일 (수요일)  </th></tr>
+  <tr><td bgcolor="white">  09:30 ~ 10:30  </td><td bgcolor="white">  (초청강연 5) AI chip, Domain Specific Architecture and Domain Specific Language  </td><td bgcolor="white">  백준호 (Furiosa AI)  </td></tr>
+  <tr><td bgcolor="white">  10:30 ~ 10:45  </td><td bgcolor="white">  Break  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  10:45 ~ 11:10  </td><td bgcolor="white">  학습된 확률모델을 통해 대규모 프로그램 합성을 가속화하기  </td><td bgcolor="white">  이동권 (서울대)  </td></tr>
+  <tr><td bgcolor="white">  11:10 ~ 11:35  </td><td bgcolor="white">  메타 정보와 PAD를 이용한 프로그램 시각화 도구  </td><td bgcolor="white">  천준석 (부산대)  </td></tr>
+  <tr><td bgcolor="white">  11:35 ~ 12:00  </td><td bgcolor="white">  An Analysis of Dynamic Open Source Cross-site Scripting Filters as a Security Device in Web Applications  </td><td bgcolor="white">  Nurul Atiqah Abu Talib (한양대)  </td></tr>
+</tbody>
+  </table></td></tr></tbody></table>
+</ul>
 
 ## 등록
 
-- 사전등록 마감: 2월 12일(화요일)
-<!-- - 등록 방법: [등록 페이지]()를 통하여 등록할 수 있습니다. -->
-- 등록 방법: 등록 페이지가 추후 공지될 예정입니다.
+<ul>
+  <li> 사전등록 마감: 2월 12일(화요일)
+  </li><li> 등록 방법: <!-- <a href="http://www.kiise.or.kr/conference/conf/025/" target="_blank"><font color=red>등록  페이지</font></a>를 통하여 등록할 수 있습니다. -->
+      등록 페이지 추후 공지 예정입니다.
+    <table border="1" bordercolor="#a0a0a0" cellspacing="0">
+<tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
+<tr align="center"><th>사전 등록 </th><td>80,000원</td><td>100,000원</td></tr>
+<tr align="center"><th>현장 등록 </th><td>100,000원</td><td>120,000원</td></tr>
+</tbody></table>
+</li></ul>
 
-  | :----: | :----: | :----: |
-  | | 학생 | 일반 |
-  | :----: | :----: | :----: |
-  | 사전 등록 | 80,000원 | 100,000원 |
-  | 현장 등록 | 100,000원 | 120,000원 |
-  | -- | -- | -- |
 
 ## 숙박안내
 
@@ -110,27 +114,34 @@ title: SIGPL 겨울학교 2019
 
 경성대학교 누리생활관 (기숙사)는 2명이 숙박할 수 있도록 되어 있으며, 가격은 방을 기준으로 하고 있습니다 (1인이나 2인 모두 동일한 가격)
 
-1. 일반 사생실 (2인실) : 4만원/1박, 세면도구 제공 안하므로 각자 준비
-2. 게스트룸 (2인실, 9개) : 5만5천원/1박, 침실(2인)+거실, 세면도구 제공
-3. 게스트룸 (1인실, 2개) : 3만5천원/1박, 침실(1인)+거실, 세면도구 제공
-  - 호메르스호텔 (광안리, 1박기준) : 12만원~13만원(바닷가전망), 7만~8만원(바닷가 반대)
-  - 해운대그랜드 호텔(1박기준): 12만원, 15만원(비치뷰), 18만원, 21만원(스위트)
+- 교내 숙박
+  + 일반 사생실 (2인실) : 4만원/1박, 세면도구 제공 안하므로 각자 준비
+  + 게스트룸 (2인실, 9개) : 5만5천원/1박, 침실(2인)+거실, 세면도구 제공
+  + 게스트룸 (1인실, 2개) : 3만5천원/1박, 침실(1인)+거실, 세면도구 제공
+
+
+- 교외 숙박
+  + 호메르스호텔 (광안리, 1박기준) : 12만원~13만원(바닷가전망), 7만~8만원(바닷가 반대)
+  + 해운대그랜드 호텔 (1박기준): 12만원, 15만원(비치뷰), 18만원, 21만원(스위트)
 
 #### 숙박 예약
 
-1. 학교 숙박:  이메일로 예약 sbhk38641@ks.ac.kr (서봉환 조교)
+- 교내 숙박:  이메일로 예약 sbhk38641@ks.ac.kr (서봉환 조교)
   - 현금 결제만 가능하며, 2박 위주로 예약하기 바랍니다.
   - 계좌번호: 부산은행 101-2058-8132-01 (에금주: 소프트웨어학과 서봉환)
   - 문의 전화: 051-663-5140 (소프트웨어학과 사무실), 방학 중 오후 2시까지 근무
   - 송금 금액: 8만원 (사생실), 게스트룸 2인실 (11만원), 게스트룸 1인실 (7만원)
   - 숙박 영수증: 등록 데스크에서 영수증 발행
   - 이메일로 예약정보 제공:
-    1. 예약자 이름, 소속, 전화번호, 이메일 주소, 성별(남,여), 숙박인원(1인, 2인)
-    2. 숙박유형 선택 (사생실, 게스트룸 1인, 게스트룸 2인)
-    - 학생들은 사생실을 선택해 주기 바랍니다.
-    3. 송금일 및 송금자 이름
-2. 호메르스호텔 (051-750-8000) : “경성대 프로그래밍언어연구회” 예약시 할인금액 적용
-3. 해운대그랜드 호텔 예약: 전화로 학과 조교를 통해 예약하면 할인 금액 적용됨
+    + 예약자 이름, 소속, 전화번호, 이메일 주소, 성별(남,여), 숙박인원(1인, 2인)
+    + 숙박유형 선택 (사생실, 게스트룸 1인, 게스트룸 2인)
+      * 학생들은 사생실을 선택해 주기 바랍니다.
+    + 송금일 및 송금자 이름
+
+
+- 교외 숙박
+  + 호메르스호텔 (051-750-8000) : “경성대 프로그래밍언어연구회” 예약시 할인금액 적용
+  + 해운대그랜드 호텔 예약: 전화로 학과 조교를 통해 예약하면 할인 금액 적용됨
 
 ## 식사
 
@@ -139,13 +150,13 @@ title: SIGPL 겨울학교 2019
 
 ## 경성대학교 오는 방법
 
-1. 기차-버스: 부산역에서 시내버스 1001, 1003, 40, 27번 (경성대 하차, 약 30분)
-2. 비행기(김해공항): 리무진 (해운대행 -> 남천동 하차 -> 지하철)
-3. 기차-택시: 부산역->경성대(20분), 노포동시외버스터미널->경성대(40분)
-4. 기차-지하철: 부산역 1호선 -> 서면역에서 2호선으로 환승, 경성대부경대역에서 하차 (6번, 4번 출구)
-5. 자가용 (등록데스크에서 주차증 발급):
-   1. 경부고속도로 -> 도시고속도로(부두방향) ->대연램프(광안리방향)에서 진출. 약 300m 직진하다가 오른쪽 옆길로 들어와서 경성대 후문(용소초등학교 맞은편)으로 진입, 진입 후 좌회전 -> 200m 직진 –> 우회전 후 200m 직진
-   2. 남해고속도로 -> 동서고가도로 -> 황령산 터널 지나서, 약 500m 직진 후 오른쪽 옆길로 들어와서 경성대 후문(용소초등학교 맞은편)으로 진입. 진입 후 좌회전 -> 200m 직진 –> 우회전 후 200m 직진
+- 기차-버스: 부산역에서 시내버스 1001, 1003, 40, 27번 (경성대 하차, 약 30분)
+- 비행기(김해공항): 리무진 (해운대행 -> 남천동 하차 -> 지하철)
+- 기차-택시: 부산역->경성대(20분), 노포동시외버스터미널->경성대(40분)
+- 기차-지하철: 부산역 1호선 -> 서면역에서 2호선으로 환승, 경성대부경대역에서 하차 (6번, 4번 출구)
+- 자가용 (등록데스크에서 주차증 발급):
+   + 경부고속도로 -> 도시고속도로(부두방향) ->대연램프(광안리방향)에서 진출. 약 300m 직진하다가 오른쪽 옆길로 들어와서 경성대 후문(용소초등학교 맞은편)으로 진입, 진입 후 좌회전 -> 200m 직진 –> 우회전 후 200m 직진
+   + 남해고속도로 -> 동서고가도로 -> 황령산 터널 지나서, 약 500m 직진 후 오른쪽 옆길로 들어와서 경성대 후문(용소초등학교 맞은편)으로 진입. 진입 후 좌회전 -> 200m 직진 –> 우회전 후 200m 직진
 
 ![map](map.png)
 

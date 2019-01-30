@@ -1,0 +1,29 @@
+3
+| 13:00 ~ 14:00 | 등록 | |
+| 14:00 ~ 15:00 | (초청강연 1) Coordinated and Efficient Huge Page Management with Ingens | 권영진 (KAIST) |
+| 15:00 ~ 16:00 | (초청강연 2) Coordination Recipes for Tightly-Coupled Software Work in Open Source Software (OSS) Communities | 문은영 (KAIST) |
+| 16:00 ~ 16:15 | Break | |
+| 16:15 ~ 16:40 | LLVM 중간언어의 정수 - 포인터 캐스팅을 잘 설명하는 메모리 모델 | 이준영 (서울대) |
+| 16:40 ~ 17:05 | Guiding Deep Learning System Testing using Surprise Adequacy | 김진한 (KAIST) |
+| 19:00 ~ 21:00 | 포스터 발표 | 대학원생 |
+| 09:30 ~ 10:30 | (초청강연 3) 강화학습을 이용한 효과적 프로그램 줄이기 | 이우석 (한양대) |
+| 10:30 ~ 10:45 | Break | |
+| 10:45 ~ 11:10 | 바이너리 코드에 대한 그레이박스 콘콜릭 테스팅 | 최재승 (KAIST) |
+| 11:10 ~ 11:35 | Bounded Model Checking of Signal Temporal Logic | 이지아 (POSTECH) |
+| 11:35 ~ 12:00 | 바이너리 프로그램에서의 역테인트 분석 | 목성균 (충남대) |
+| 12:00 ~ 13:30 | 점심 식사 | |
+| 13:30 ~ 14:00 | (초청강연 4) 정적 분석 정확도 다시 보기 | 이욱세 (코드마인드(주)) |
+| 14:00 ~ 14:25 | 안드로이드 하이브리드 앱의 동작 이해하기 | 이성호 (KAIST) |
+| 14:25 ~ 14:50 | 정적 분석을 활용하여 메모리 해제 오류를 자동으로 패치하기 | 홍성준 (고려대) |
+| 14:50 ~ 15:05 | Break | |
+| 15:05 ~ 15:30 | 컨텍스트 터널링을 이용한 빠르고 정확한 정적 분석 | 전민석 (고려대) |
+| 15:30 ~ 15:55 | Eval 모나드 및 Cloud Haskell을 이용한 매니코어 병렬 프로그래밍 | 김연어 (부산대) |
+| 15:55 ~ 16:20 | 간단하고 빠른 ARM/RISC-V 동시성 메모리 모델 | 이성환 (서울대) |
+| 16:20 ~ 16:35 | Break | |
+| 16:35 ~ 17:00 | CreLLVM: LLVM 컴파일러의 최적화 과정 검증하기 | 김윤승 (서울대) |
+| 17:00 ~ 17:25 | 정적분석의 매개변수화 | 박지혁 (KAIST) |
+| 09:30 ~ 10:30 | (초청강연 5) AI chip, Domain Specific Architecture and Domain Specific Language | 백준호 (Furiosa AI) |
+| 10:30 ~ 10:45 | Break | |
+| 10:45 ~ 11:10 | 학습된 확률모델을 통해 대규모 프로그램 합성을 가속화하기 | 이동권 (서울대) |
+| 11:10 ~ 11:35 | 메타 정보와 PAD를 이용한 프로그램 시각화 도구 | 천준석 (부산대) |
+| 11:35 ~ 12:00 | An Analysis of Dynamic Open Source Cross-site Scripting Filters as a Security Device in Web Applications | Nurul Atiqah Abu Talib (한양대) |
