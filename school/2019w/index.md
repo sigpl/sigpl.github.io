@@ -80,7 +80,7 @@ title: SIGPL 겨울학교 2019
   <tr><td bgcolor="white">  16:35 ~ 17:00  </td><td bgcolor="white">  CreLLVM: LLVM 컴파일러의 최적화 과정 검증하기  </td><td bgcolor="white">  김윤승 (서울대)  </td></tr>
   <tr><td bgcolor="white">  17:00 ~ 17:25  </td><td bgcolor="white">  정적분석의 매개변수화  </td><td bgcolor="white">  박지혁 (KAIST)  </td></tr>
   <tr><th colspan="3" align="left"> 2월 20일 (수요일)  </th></tr>
-  <tr><td bgcolor="white">  09:30 ~ 10:30  </td><td bgcolor="white">  (초청강연 5) AI chip, Domain Specific Architecture and Domain Specific Language  </td><td bgcolor="white">  백준호 (Furiosa AI)  </td></tr>
+  <tr><td bgcolor="white">  09:30 ~ 10:30  </td><td bgcolor="white">  (초청강연 5) 인공지능 전용칩: 도메인 특화 아키텍처 그리고 도메인 특화 언어 </td><td bgcolor="white">  백준호 (Furiosa AI)  </td></tr>
   <tr><td bgcolor="white">  10:30 ~ 10:45  </td><td bgcolor="white">  Break  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  10:45 ~ 11:10  </td><td bgcolor="white">  학습된 확률모델을 통해 대규모 프로그램 합성을 가속화하기  </td><td bgcolor="white">  이동권 (서울대)  </td></tr>
   <tr><td bgcolor="white">  11:10 ~ 11:35  </td><td bgcolor="white">  메타 정보와 PAD를 이용한 프로그램 시각화 도구  </td><td bgcolor="white">  천준석 (부산대)  </td></tr>
