@@ -92,7 +92,7 @@ title: SIGPL 겨울학교 2019
 ## 등록
 
 <ul>
-  <li> 사전등록 마감: 2월 12일(화요일)
+    <li> 사전등록 마감: 2월 15일(금요일) <s>2월 12일(화요일)</s>
   </li><li> 등록 방법: <a href= "http://www.kiise.or.kr/conference/conf/044/" target="_blank"> <font color="red">등록 페이지</font> </a>를 통하여 등록할 수 있습니다.
 <table border="1" bordercolor="#a0a0a0" cellspacing="0">
 <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
