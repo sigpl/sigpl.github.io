@@ -14,4 +14,4 @@ permalink: /link/
 - [숙명여자대학교 유비쿼터스 소프트웨어 연구실](http://cs.sookmyung.ac.kr/~uslab){:target="_blank"}
 - [한국기술교육대학교 프로그래밍언어 연구실](http://pllab.kut.ac.kr){:target="_blank"}
 - [한양대학교 프로그래밍언어 연구실](http://plasse.hanyang.ac.kr){:target="_blank"}
-- [KAIST 프로그래밍언어 연구실](http://pllab.kaist.ac.kr){:target="_blank"}
+- [KAIST 프로그래밍언어 연구실](http://plrg.kaist.ac.kr){:target="_blank"}
