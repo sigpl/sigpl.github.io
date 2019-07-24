@@ -66,13 +66,13 @@ title: SIGPL 여름학교 2019
 
   <tr><th colspan="3" align="left"> 8월 27일 (화요일)  </th></tr>
 
-  <tr><td bgcolor="white">  09:30 ~ 10:45  </td><td bgcolor="white">  TBA  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
+  <tr><td bgcolor="white">  09:30 ~ 10:45  </td><td bgcolor="white">  Four forms of polymorphism: subtyping polymorphism  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
   <tr><td bgcolor="white">  10:45 ~ 11:00  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 12:15  </td><td bgcolor="white">  TBA  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 12:15  </td><td bgcolor="white">  Four forms of polymorphism: parametric polymorphism  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
   <tr><td bgcolor="white">  12:15 ~ 13:30  </td><td bgcolor="white">  점심 식사  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  13:30 ~ 14:45  </td><td bgcolor="white">  TBA  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
+  <tr><td bgcolor="white">  13:30 ~ 14:45  </td><td bgcolor="white">  Four forms of polymorphism: ad hoc polymorphism and set-theoretic types  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
   <tr><td bgcolor="white">  14:45 ~ 15:00  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  15:00 ~ 16:00  </td><td bgcolor="white">  TBA  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
+  <tr><td bgcolor="white">  15:00 ~ 16:00  </td><td bgcolor="white">  TBA  </td><td bgcolor="white">  김홍석 (Google Korea)  </td></tr>
   <tr><td bgcolor="white">  16:00 ~ 17:00  </td><td bgcolor="white">  Semantics-Based Automated Program Repair  </td><td bgcolor="white">  이주용 (UNIST)  </td></tr>
   <tr><td bgcolor="white">  17:00 ~ 17:15  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  17:15 ~ 18:15  </td><td bgcolor="white">  MR3 개발 사례로 Mythical Man-Month 검증하기  </td><td bgcolor="white">  박성우 (POSTECH)  </td></tr>
@@ -89,7 +89,7 @@ title: SIGPL 여름학교 2019
 
   <tr><th colspan="3" align="left"> 8월 28일 (수요일)  </th></tr>
 
-  <tr><td bgcolor="white">  09:30 ~ 10:45  </td><td bgcolor="white">  TBA  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
+  <tr><td bgcolor="white">  09:30 ~ 10:45  </td><td bgcolor="white">  Four forms of polymorphism: dynamic and gradual typing  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
   <tr><td bgcolor="white">  10:45 ~ 11:00  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  동시성 프로그램에서 쓰레기를 수집하는 세가지 방법  </td><td bgcolor="white">  강지훈 (KAIST)  </td></tr>
   <tr><td bgcolor="white">  12:00 ~  </td><td bgcolor="white">  사진 촬영  </td><td bgcolor="white">   </td></tr>
