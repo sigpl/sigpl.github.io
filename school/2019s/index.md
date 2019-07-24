@@ -76,6 +76,7 @@ title: SIGPL 여름학교 2019
   <tr><td bgcolor="white">  16:00 ~ 17:00  </td><td bgcolor="white">  Semantics-Based Automated Program Repair  </td><td bgcolor="white">  이주용 (UNIST)  </td></tr>
   <tr><td bgcolor="white">  17:00 ~ 17:15  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  17:15 ~ 18:15  </td><td bgcolor="white">  MR3 개발 사례로 Mythical Man-Month 검증하기  </td><td bgcolor="white">  박성우 (POSTECH)  </td></tr>
+  <tr><td bgcolor="white">  18:15 ~ 20:00  </td><td bgcolor="white">  뱅킷  </td><td bgcolor="white">   </td></tr>
 
 <!-- <tr><td bgcolor="white">  09:30 ~ 10:45  </td><td bgcolor="white">  TBA  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr> -->
 <!-- <tr><td bgcolor="white">  10:45 ~ 11:00  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr> -->
