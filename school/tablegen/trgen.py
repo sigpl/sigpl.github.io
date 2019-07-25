@@ -1,6 +1,9 @@
+import sys
 import subprocess
 
-f = open ('data.txt', 'r')
+filename = sys.argv[1]
+
+f = open (filename, 'r')
 
 n = int(f.readline())
 print "n=" + str(n)

@@ -24,7 +24,18 @@
 
 ** Linux 환경에서 테스트하였음
 
-- ruby, jekyll 등 dependency 설치 (TODO: 상세 정보 추가)
+- ruby, jekyll 설치
+  ubuntu의 경우는 다음과 같았다.
+  `https://jekyllrb-ko.github.io/docs/installation/#ubuntu`
+  1. `sudo apt-get install ruby ruby-dev build-essential`
+  2. 아래의 명령을 shell에서 실행:
+  ```
+  echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+  echo 'export GEM_HOME=$HOME/gems' >> ~/.bashrc
+  echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc
+  source ~/.bashrc
+  ```
+  3. `gem install jekyll bundler jekyll-redirect-from`
 - sigpl.github.io 안에서 `jekyll serve` 명령 실행
 - 웹 브라우저를 실행한 후 주소 `localhost:4000` 로 이동하여 확인
 - 서버 실행 중에 페이지를 수정하면 jekyll이 자동으로 감지하여 페이지를 새로 생성하므로, 변화가 즉시 반영됨.

@@ -2,10 +2,10 @@
 
 - 목적: table의 한 row를 만드는 html 코드를 markdown 형식으로부터 자동 생성
 
-- input: data.txt
+- input: text file
   + 첫 줄은 column 개수를 의미함
-  + 예시 확인
+  + 예시 (data.txt) 확인
 
-- 실행: python2 trgen.py
-  + stdout으로 결과가 만들어짐
+- 실행: ex) python2 trgen.py data.txt
+  + stdout으로 결과 print
   + 현재는 <table> , </table> 태그는 직접 작성하여야 함
