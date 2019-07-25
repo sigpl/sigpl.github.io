@@ -25,8 +25,7 @@
 ** Linux 환경에서 테스트하였음
 
 - ruby, jekyll 설치
-  ubuntu의 경우는 다음과 같았다.
-  `https://jekyllrb-ko.github.io/docs/installation/#ubuntu`
+  + ubuntu의 경우는 다음과 같았다: [참고](https://jekyllrb-ko.github.io/docs/installation/#ubuntu)
   1. `sudo apt-get install ruby ruby-dev build-essential`
   2. 아래의 명령을 shell에서 실행:
   ```
