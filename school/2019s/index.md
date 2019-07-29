@@ -61,7 +61,7 @@ title: SIGPL 여름학교 2019
 <!-- <tr><td bgcolor="white">  14:00 ~ 15:00  </td><td bgcolor="white">  함수형 프로그래밍 과제 자동 채점 및 피드백 생성 시스템  </td><td bgcolor="white">  송도원 (고려대)  </td></tr> -->
 <!-- <tr><td bgcolor="white">  15:00 ~ 16:00  </td><td bgcolor="white">  Polymorphic Symmetric Multiple Dispatch with Variance  </td><td bgcolor="white">  홍재민 (KAIST)  </td></tr> -->
 <!-- <tr><td bgcolor="white">  16:00 ~ 16:30  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr> -->
-<!-- <tr><td bgcolor="white">  16:30 ~ 17:30  </td><td bgcolor="white">  TBA  </td><td bgcolor="white"> 김홍석 (Google Korea)  </td></tr> -->
+<!-- <tr><td bgcolor="white">  16:30 ~ 17:30  </td><td bgcolor="white">  Privacy, Transparency, and Formal Verification  </td><td bgcolor="white"> 김홍석 (Google Korea)  </td></tr> -->
 <!-- <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  패널 (TBA)  </td><td bgcolor="white">    </td></tr> -->
 
   <tr><th colspan="3" align="left"> 8월 27일 (화요일)  </th></tr>
