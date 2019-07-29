@@ -70,7 +70,7 @@ title: SIGPL 여름학교 2019
   <tr><td bgcolor="white">  12:15 ~ 13:30  </td><td bgcolor="white">  점심 식사  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  13:30 ~ 14:45  </td><td bgcolor="white">  Four forms of polymorphism: ad hoc polymorphism and set-theoretic types  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
   <tr><td bgcolor="white">  14:45 ~ 15:00  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  15:00 ~ 16:00  </td><td bgcolor="white">  TBA  </td><td bgcolor="white">  김홍석 (Google Research)  </td></tr>
+  <tr><td bgcolor="white">  15:00 ~ 16:00  </td><td bgcolor="white">  Privacy, Transparency, and Formal Verification </td><td bgcolor="white">  김홍석 (Google Research)  </td></tr>
   <tr><td bgcolor="white">  16:00 ~ 17:00  </td><td bgcolor="white">  Semantics-Based Automated Program Repair  </td><td bgcolor="white">  이주용 (UNIST)  </td></tr>
   <tr><td bgcolor="white">  17:00 ~ 17:15  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  17:15 ~ 18:15  </td><td bgcolor="white">  MR3 개발 사례로 Mythical Man-Month 검증하기  </td><td bgcolor="white">  박성우 (POSTECH)  </td></tr>
