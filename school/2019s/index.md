@@ -133,6 +133,11 @@ title: SIGPL 여름학교 2019
 
 5) 호텔 / 트윈 : 130,000원
 
+## 오시는길
+
+평창 피닉스 파크 <a href="https://phoenixhnr.co.kr/page/main/pyeongchang">웹사이트</a>를 참고하세요.
+
+
 <!--
 
 - 일자: 2019년 2월 18(월) – 20(수)
