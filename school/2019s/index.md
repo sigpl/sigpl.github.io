@@ -135,7 +135,7 @@ title: SIGPL 여름학교 2019
 
 ## 오시는길
 
-평창 피닉스 파크 <a href="https://phoenixhnr.co.kr/page/main/pyeongchang">웹사이트</a>를 참고하세요.
+평창 휘닉스 파크 <a href="https://phoenixhnr.co.kr/page/main/pyeongchang">웹사이트</a>를 참고하세요.
 
 
 <!--
