@@ -114,7 +114,9 @@ title: SIGPL 여름학교 2019
 <tr align="center"><th>사전 등록 </th><td>80,000원</td><td>100,000원</td></tr>
 <tr align="center"><th>현장 등록 </th><td>100,000원</td><td>120,000원</td></tr>
 </tbody></table>
-</li></ul>
+</li>
+<li>무료 제공되는 식사는 화요일 저녁 뱅킷뿐 입니다.</li>
+</ul>
 
 ## 숙박안내
 
