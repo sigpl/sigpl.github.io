@@ -67,7 +67,7 @@ title: SIGPL 여름학교 2019
   <tr><th colspan="3" align="left"> 8월 27일 (화요일)  </th></tr>
 
   <tr><td bgcolor="white">  09:30 ~ 10:45  </td><td bgcolor="white">  <a href='slides/Giuseppe-Castagna.pdf' download>
-Four forms of polymorphism: subtyping polymorphism  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
+Four forms of polymorphism: subtyping polymorphism</a>  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
   <tr><td bgcolor="white">  10:45 ~ 11:00  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:15  </td><td bgcolor="white">  Four forms of polymorphism: parametric polymorphism  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
   <tr><td bgcolor="white">  12:15 ~ 13:30  </td><td bgcolor="white">  점심 식사  </td><td bgcolor="white">   </td></tr>
