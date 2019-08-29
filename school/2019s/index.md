@@ -55,7 +55,7 @@ title: SIGPL 여름학교 2019
   <tr><td bgcolor="white">  15:00 ~ 16:00  </td><td bgcolor="white">  <a href='slides/0826-02-Hong.pdf' download>Polymorphic Symmetric Multiple Dispatch with Variance</a>  </td><td bgcolor="white">  홍재민 (KAIST)  </td></tr>
   <tr><td bgcolor="white">  16:00 ~ 16:30  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  16:30 ~ 17:30  </td><td bgcolor="white">  번개발표  </td><td bgcolor="white">  대학원생  </td></tr>
-  <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  <a href="/school/2019s/poster.html">포스터 발표</a>  </td><td bgcolor="white">  대학원생  </td></tr>
+  <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  <a href="poster.html">포스터 발표</a>  </td><td bgcolor="white">  대학원생  </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 27일 (화요일)  </th></tr>
 
@@ -76,7 +76,7 @@ Four forms of polymorphism: subtyping polymorphism</a>  </td><td bgcolor="white"
 
   <tr><td bgcolor="white">  09:30 ~ 10:45  </td><td bgcolor="white">  Four forms of polymorphism: dynamic and gradual typing  </td><td bgcolor="white">  Giuseppe Castagna (CNRS)  </td></tr>
   <tr><td bgcolor="white">  10:45 ~ 11:00  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  동시성 프로그램에서 쓰레기를 수집하는 세가지 방법  </td><td bgcolor="white">  강지훈 (KAIST)  </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  <a href='slides/0828-02-Kang.pdf' download>동시성 프로그램에서 쓰레기를 수집하는 세가지 방법</a>  </td><td bgcolor="white">  강지훈 (KAIST)  </td></tr>
   <tr><td bgcolor="white">  12:00 ~  </td><td bgcolor="white">  사진 촬영  </td><td bgcolor="white">   </td></tr>
 
 </tbody>
