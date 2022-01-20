@@ -102,7 +102,8 @@ title: SIGPL 겨울학교 2021
 둘째날 오후에는 <a href="http://www.jejuolle.org/trail/kor/olle_trail/default.asp?search_idx=9">올레길 7코스</a>를 함께 산책합니다.
 호텔을 출발하여 동쪽으로 5km 떨어진 폭풍의 언덕에 도착하는 것이 목표입니다.
 탁트인 바닷길을 같이 걸으며 즐거운 이야기 많이 나누길 기대합니다.
-![map](map.png){: width="100%" height="100%"}
+
+![map](map.png){: width="50%"}
 
 ## 숙박안내
 
