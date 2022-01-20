@@ -75,11 +75,9 @@ title: SIGPL 겨울학교 2021
 </tbody></table>
 </li><li>무료 제공되는 식사는 일요일 저녁 만찬뿐입니다.</ul>
 
-
 ## 숙박안내
 
-학회 장소인 더그랜드섬오름 호텔에 개별적으로 예약해주시길 바랍니다.
-      <a href="http://www.sumorum.com" target="_blank">홈페이지</a>
+학회 장소인 <a href="http://www.sumorum.com" target="_blank">더그랜드섬오름</a> 호텔에 개별적으로 예약해주시길 바랍니다.
 
 ## 식사안내
 
@@ -88,7 +86,6 @@ title: SIGPL 겨울학교 2021
   <li>섬오름 카페 & 레스토랑 (호텔 별관)</li>
 </ul>
 
-
 ## 오시는 길
 
-호텔 <a href="http://www.sumorum.com/introduction/location">홈페이지</a>를 참조해 주시기 바랍니다.
+호텔 <a href="http://www.sumorum.com/introduction/location">홈페이지</a>를 참고해 주시기 바랍니다.
