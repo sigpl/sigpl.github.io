@@ -61,14 +61,14 @@ title: SIGPL 겨울학교 2021
   <tr><td bgcolor="white">  15:00 ~ 15:30  </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  15:30 ~ 17:30  </td><td bgcolor="white">  번개발표 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  17:30 ~ 19:00  </td><td bgcolor="white">  저녁 </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  포스터 발표 </td><td bgcolor="white">   </td> 대학원생</tr>
+  <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  포스터 발표 </td><td bgcolor="white">  대학원생 </td> </tr>
 
   <tr><th colspan="3" align="left"> 2월 13일 (일요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 2)  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">   </td><td bgcolor="white">  </td></tr>
   <tr><td bgcolor="white">  12:00 ~ 13:30  </td><td bgcolor="white">  점심  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  13:30 ~ 15:30  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
-  <tr><td bgcolor="white">  15:30 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">   </td>올레길 7코스 (폭풍의 언덕)</tr>
+  <tr><td bgcolor="white">  15:30 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">  올레길 7코스 (폭풍의 언덕) </td></tr>
   <tr><td bgcolor="white">  18:00 ~        </td><td bgcolor="white">  만찬 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 24일 (월요일)  </th></tr>
