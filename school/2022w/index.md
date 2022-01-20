@@ -71,7 +71,7 @@ title: SIGPL 겨울학교 2021
   <tr><td bgcolor="white">  15:30 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">  올레길 7코스 (폭풍의 언덕) </td></tr>
   <tr><td bgcolor="white">  18:00 ~        </td><td bgcolor="white">  만찬 </td><td bgcolor="white">   </td></tr>
 
-  <tr><th colspan="3" align="left"> 2월 24일 (월요일)  </th></tr>
+  <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 3)  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">   </td><td bgcolor="white">  </td></tr>
   <tr><td bgcolor="white">  12:00 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
