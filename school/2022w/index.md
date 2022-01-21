@@ -1,18 +1,18 @@
 ---
 layout: default
-title: SIGPL 겨울학교 2021
+title: SIGPL 겨울학교 2022
 ---
 
 <h1>
 <center>
 한국정보과학회 프로그래밍언어연구회 겨울학교
-<br> (SIGPL Winter School 2021)
+<br> (SIGPL Winter School 2022)
 </center>
 </h1>
 <center><table><tbody><tr><th align="left">
 <ul>
 <li>
-    일시: 2021년 2월 12일(토) ~ 2021년 2월 14일(월)
+    일시: 2022년 2월 12일(토) ~ 2022년 2월 14일(월)
 </li><li>
     장소: 제주 더그랜드섬오름
 </li><li>
