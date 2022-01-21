@@ -112,7 +112,11 @@ title: SIGPL 겨울학교 2022
 ## 식사안내
 
 <ul>
-  <li>바솔트 레스토랑 (호텔 신관 1층)</li>
+  <li><a href="http://www.sumorum.com/upload/contents/BasaltRestaurant.pdf">바솔트 레스토랑</a> (호텔 신관 1층)</li>
+  <li><a href="https://map.naver.com/v5/entry/place/1592243122?placePath=%2Fhome&c=14082835.3292459,3926221.9972572,17,0,0,0,dh">제주양반갈비</a></li> (갈비 전문 한식당, 도보 10분 거리)
+  <li><a href="https://map.naver.com/v5/entry/place/1926787057?placePath=%2Fhome&c=14082220.9347123,3926367.0877228,15,0,0,0,dh">다도</a></li> (전복 요리 전문점, 도보 10분거리)
+  <li><a href="https://map.naver.com/v5/entry/place/37289095?placePath=%2Fhome&c=14082216.4708007,3926544.9730715,15,0,0,0,dh">다도</a></li> (흑돼지 삼겹살 전문점점, 도보 15분 거리)
+  <li><a href="https://map.naver.com/v5/search/%EC%9B%94%EB%93%9C%EC%BB%B5%ED%9D%91%EB%8F%BC%EC%A7%80/place/36938066?c=14081555.5447200,3927605.9134877,15,0,0,0,dh&placePath=%3Fentry%253Dbmp">월드컵 흑돼지</a></li> (흑돼지 삼겹살 전문점점, 자동차 5분 거리)
   <li>섬오름 카페 & 레스토랑 (호텔 별관)</li>
 </ul>
 
