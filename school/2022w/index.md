@@ -65,7 +65,7 @@ title: SIGPL 겨울학교 2022
 
   <tr><th colspan="3" align="left"> 2월 13일 (일요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 2)  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">   </td><td bgcolor="white">  </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  주요연구 발표</td><td bgcolor="white">  </td></tr>
   <tr><td bgcolor="white">  12:00 ~ 13:30  </td><td bgcolor="white">  점심  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  13:30 ~ 15:30  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
   <tr><td bgcolor="white">  15:30 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">  올레길 7코스 (폭풍의 언덕) </td></tr>
@@ -73,7 +73,7 @@ title: SIGPL 겨울학교 2022
 
   <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 3)  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">   </td><td bgcolor="white">  </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  번개발표</td><td bgcolor="white">  </td></tr>
   <tr><td bgcolor="white">  12:00 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
 
 </tbody>
