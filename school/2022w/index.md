@@ -99,9 +99,11 @@ title: SIGPL 겨울학교 2022
 자유롭게 <a href="https://forms.gle/trWbVnjQq2w4BDSM9">설문지</a>에 남겨주시면 됩니다.
 선배 연구자들께서 여러분을 위해 기꺼이 귀 기울여 주시기로 했습니다.
 ### 산책
-둘째날 오후에는 <a href="http://www.jejuolle.org/trail/kor/olle_trail/default.asp?search_idx=9">올레길 7코스</a>를 함께 산책합니다.
+"영감은 길에서 나온다" 말이 있습니다. 새로운 곳에서 새로운 사람들과 걷다보면 번뜩이는 아이디어 불꽃이 종종 튈 때가 있지요.
+그래서 둘째날 오후에는 <a href="http://www.jejuolle.org/trail/kor/olle_trail/default.asp?search_idx=9">올레길 7코스</a>를 함께 산책하려고 합니다.
 호텔을 출발하여 동쪽으로 5km 떨어진 폭풍의 언덕에 도착하는 것이 목표입니다.
 탁트인 바닷길을 같이 걸으며 즐거운 이야기 많이 나누길 기대합니다.
+올레길에서 마주친 풍경과 동료들을 찍은 사진도 <a href="https://photos.app.goo.gl/KoYpXQCQEVDamsYm9">앨범</a>에 공유해주세요.
 
 ![map](map.png){: width="100%"}
 
