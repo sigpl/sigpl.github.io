@@ -72,7 +72,7 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  18:00 ~        </td><td bgcolor="white">  만찬 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
-  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  초청강연 </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  AI 반도체 스타트업의 도전 </td><td bgcolor="white"> 정영범 (FuriosaAI)   </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  번개발표</td><td bgcolor="white">  </td></tr>
   <tr><td bgcolor="white">  12:00 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
 
