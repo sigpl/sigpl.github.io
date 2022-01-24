@@ -56,7 +56,7 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  등록  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  SIGPL 운영위원회 </td><td bgcolor="white">  SIGPL 운영위원  </td></tr>
   <tr><td bgcolor="white">  12:00 ~ 13:00  </td><td bgcolor="white">  점심  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  13:00 ~ 14:00  </td><td bgcolor="white">  (초청강연 1)  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  13:00 ~ 14:00  </td><td bgcolor="white">  LLVM과 MLIR 컴파일러 번역 검산하기  </td> 이준영 (Crypto Lab)<td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  14:00 ~ 15:00  </td><td bgcolor="white">  주요연구 발표 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  15:00 ~ 15:30  </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  15:30 ~ 17:30  </td><td bgcolor="white">  번개발표 </td><td bgcolor="white">   </td></tr>
@@ -64,7 +64,7 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  포스터 발표 </td><td bgcolor="white">  대학원생 </td> </tr>
 
   <tr><th colspan="3" align="left"> 2월 13일 (일요일)  </th></tr>
-  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 2)  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  End-toend formatl verification on pKVM  </td>김지응 (Google)<td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  주요연구 발표</td><td bgcolor="white">  </td></tr>
   <tr><td bgcolor="white">  12:00 ~ 13:30  </td><td bgcolor="white">  점심  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  13:30 ~ 15:30  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
@@ -72,7 +72,7 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  18:00 ~        </td><td bgcolor="white">  만찬 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
-  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 3)  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  초청강연 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  번개발표</td><td bgcolor="white">  </td></tr>
   <tr><td bgcolor="white">  12:00 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
 
