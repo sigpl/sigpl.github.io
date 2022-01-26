@@ -57,7 +57,7 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  SIGPL 운영위원회 </td><td bgcolor="white">  SIGPL 운영위원  </td></tr>
   <tr><td bgcolor="white">  12:00 ~ 13:00  </td><td bgcolor="white">  점심  </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  13:00 ~ 14:00  </td><td bgcolor="white">  LLVM과 MLIR 컴파일러 번역 검산하기  </td> <td bgcolor="white"> 이준영 (Crypto Lab)  </td></tr>
-  <tr><td bgcolor="white">  14:00 ~ 15:00  </td><td bgcolor="white">  주요연구 발표 </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  14:00 ~ 15:00  </td><td bgcolor="white">  코딩 과제물 평가 시스템 - 현실과 이슈 </td><td bgcolor="white"> 조환규 (부산대)  </td></tr>
   <tr><td bgcolor="white">  15:00 ~ 15:30  </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  15:30 ~ 17:30  </td><td bgcolor="white">  번개발표 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  17:30 ~ 19:00  </td><td bgcolor="white">  저녁 </td><td bgcolor="white">   </td></tr>
