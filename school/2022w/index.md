@@ -14,7 +14,7 @@ title: SIGPL 겨울학교 2022
 <li>
     일시: 2022년 2월 12일(토) ~ 2022년 2월 14일(월)
 </li><li>
-    장소: 제주 더그랜드섬오름
+    장소: 제주 더그랜드섬오름 범섬홀
 </li><li>
     주최: 한국정보과학회 프로그래밍언어연구회
 </li><li>
@@ -59,16 +59,19 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  13:00 ~ 14:00  </td><td bgcolor="white">  LLVM과 MLIR 컴파일러 번역 검산하기  </td> <td bgcolor="white"> 이준영 (Crypto Lab)  </td></tr>
   <tr><td bgcolor="white">  14:00 ~ 15:00  </td><td bgcolor="white">  코딩 과제물 평가 시스템 - 현실과 이슈 </td><td bgcolor="white"> 조환규 (부산대)  </td></tr>
   <tr><td bgcolor="white">  15:00 ~ 15:30  </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  15:30 ~ 17:30  </td><td bgcolor="white">  번개발표 </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  15:30 ~ 17:30  </td><td bgcolor="white">  <a href="lightening.html">번개발표</a></td><td bgcolor="white"> 대학원생 (각 10 분)   </td></tr>
   <tr><td bgcolor="white">  17:30 ~ 19:00  </td><td bgcolor="white">  저녁 </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  포스터 발표 </td><td bgcolor="white">  대학원생 </td> </tr>
-
+  <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  <a href="poster.html">포스터 발표</a></td><td bgcolor="white">  대학원생 </td> </tr>
   <tr><th colspan="3" align="left"> 2월 13일 (일요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  End-to-end formal verification on pKVM  </td><td bgcolor="white">  김지응 (Google) </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  주요연구 발표</td><td bgcolor="white">  </td></tr>
-  <tr><td bgcolor="white">  12:00 ~ 13:30  </td><td bgcolor="white">  점심  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  13:30 ~ 15:30  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
-  <tr><td bgcolor="white">  15:30 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">  올레길 7코스 (폭풍의 언덕) </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  TBD  </td><td bgcolor="white">  김재원 (Elice) </td></tr>
+  <tr><td bgcolor="white">  12:00 ~ 13:30  </td><td bgcolor="white">  점심</td><td bgcolor="white">  </td></tr>
+	<tr><td bgcolor="white">  13:30 ~ 13:50  </td><td bgcolor="white"> JavaScript Static Analysis for Evolving Language Specifications</td>	<td bgcolor="white">  박지혁 (KAIST) </td></tr>
+	<tr><td bgcolor="white">  13:50 ~ 14:10  </td><td bgcolor="white"> 프로그램 자동탐색 기법을 이용한 동형암호 회로 최적화</td>	<td bgcolor="white">  이동권 (서울대) </td></tr>
+	<tr><td bgcolor="white">  14:10 ~ 14:30  </td><td bgcolor="white"> BayeSmith: 정적 분석 알람을 위한 확률 모델 학습</td>	<td bgcolor="white">  김현수 (KAIST) </td></tr>
+  <tr><td bgcolor="white">  14:30 ~ 14:45  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  14:45 ~ 16:00  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
+  <tr><td bgcolor="white">  16:00 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">  올레길 7코스 (폭풍의 언덕) </td></tr>
   <tr><td bgcolor="white">  18:00 ~        </td><td bgcolor="white">  만찬 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
