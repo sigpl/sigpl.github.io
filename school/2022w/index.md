@@ -54,31 +54,32 @@ title: SIGPL 겨울학교 2022
 
   <tr><th colspan="3" align="left"> 2월 12일 (토요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  등록  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  SIGPL 운영위원회 </td><td bgcolor="white">  SIGPL 운영위원  </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  SIGPL 운영위원회 </td><td bgcolor="white">  SIGPL 운영위원 (본관 The Library)  </td></tr>
   <tr><td bgcolor="white">  12:00 ~ 13:00  </td><td bgcolor="white">  점심  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  13:00 ~ 14:00  </td><td bgcolor="white">  LLVM과 MLIR 컴파일러 번역 검산하기  </td> <td bgcolor="white"> 이준영 (Crypto Lab)  </td></tr>
-  <tr><td bgcolor="white">  14:00 ~ 15:00  </td><td bgcolor="white">  코딩 과제물 평가 시스템 - 현실과 이슈 </td><td bgcolor="white"> 조환규 (부산대)  </td></tr>
+  <tr><td bgcolor="white">  13:00 ~ 14:00  </td><td bgcolor="white">  (초청강연 1) LLVM과 MLIR 컴파일러 번역 검산하기  </td> <td bgcolor="white"> 이준영 (Crypto Lab)  </td></tr>
+  <tr><td bgcolor="white">  14:00 ~ 15:00  </td><td bgcolor="white">  (초청강연 2) 코딩 과제물 평가 시스템 - 현실과 이슈 </td><td bgcolor="white"> 조환규 (부산대학교)  </td></tr>
   <tr><td bgcolor="white">  15:00 ~ 15:30  </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  15:30 ~ 17:30  </td><td bgcolor="white">  <a href="lightening.html">번개발표</a></td><td bgcolor="white"> 대학원생 (각 10 분)   </td></tr>
   <tr><td bgcolor="white">  17:30 ~ 19:00  </td><td bgcolor="white">  저녁 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  19:00 ~ 21:00  </td><td bgcolor="white">  <a href="poster.html">포스터 발표</a></td><td bgcolor="white">  대학원생 </td> </tr>
   <tr><th colspan="3" align="left"> 2월 13일 (일요일)  </th></tr>
-  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  End-to-end formal verification on pKVM  </td><td bgcolor="white">  김지응 (Google) </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  TBD  </td><td bgcolor="white">  김재원 (Elice) </td></tr>
+  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 3) End-to-end formal verification on pKVM  </td><td bgcolor="white">  김지응 (Google) </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  (초청강연 4) TBD  </td><td bgcolor="white">  김재원 (Elice) </td></tr>
   <tr><td bgcolor="white">  12:00 ~ 13:30  </td><td bgcolor="white">  점심</td><td bgcolor="white">  </td></tr>
-	<tr><td bgcolor="white">  13:30 ~ 13:50  </td><td bgcolor="white"> JavaScript Static Analysis for Evolving Language Specifications</td>	<td bgcolor="white">  박지혁 (KAIST) </td></tr>
-	<tr><td bgcolor="white">  13:50 ~ 14:10  </td><td bgcolor="white"> 프로그램 자동탐색 기법을 이용한 동형암호 회로 최적화</td>	<td bgcolor="white">  이동권 (서울대) </td></tr>
-	<tr><td bgcolor="white">  14:10 ~ 14:30  </td><td bgcolor="white"> BayeSmith: 정적 분석 알람을 위한 확률 모델 학습</td>	<td bgcolor="white">  김현수 (KAIST) </td></tr>
+	<tr><td bgcolor="white">  13:30 ~ 13:50  </td><td bgcolor="white">  JavaScript Static Analysis for Evolving Language Specifications</td>	<td bgcolor="white">  박지혁 (KAIST) </td></tr>
+	<tr><td bgcolor="white">  13:50 ~ 14:10  </td><td bgcolor="white">  프로그램 자동탐색 기법을 이용한 동형암호 회로 최적화</td>	<td bgcolor="white">  이동권 (서울대학교) </td></tr>
+	<tr><td bgcolor="white">  14:10 ~ 14:30  </td><td bgcolor="white">  BayeSmith: 정적 분석 알람을 위한 확률 모델 학습</td>	<td bgcolor="white">  김현수 (KAIST) </td></tr>
   <tr><td bgcolor="white">  14:30 ~ 14:45  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  14:45 ~ 16:00  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
+  <tr><td bgcolor="white">  14:45 ~ 16:00  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대학교), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
   <tr><td bgcolor="white">  16:00 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">  올레길 7코스 (폭풍의 언덕) </td></tr>
   <tr><td bgcolor="white">  18:00 ~        </td><td bgcolor="white">  만찬 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
-  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  AI 반도체 스타트업의 도전 </td><td bgcolor="white"> 정영범 (FuriosaAI)   </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  번개발표</td><td bgcolor="white">  </td></tr>
+  <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 5) AI 반도체 스타트업의 도전 </td><td bgcolor="white"> 정영범 (FuriosaAI)   </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 11:20  </td><td bgcolor="white">  실시간 분산 시스템을 위한 미들웨어 검증하기</td><td bgcolor="white">김윤승 (서울대학교) </td></tr>
+  <tr><td bgcolor="white">  11:20 ~ 11:40  </td><td bgcolor="white">  싹수 분석으로 프로그램 합성 보조하기</td><td bgcolor="white">윤용호 (서울대학교) </td></tr>
+  <tr><td bgcolor="white">  11:40 ~ 12:00  </td><td bgcolor="white">  A programming language-based approach to machine learning on graphs</td><td bgcolor="white">전민석 (고려대학교) </td></tr>
   <tr><td bgcolor="white">  12:00 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
-
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
