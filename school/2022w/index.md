@@ -69,7 +69,8 @@ title: SIGPL 겨울학교 2022
   <tr><th colspan="3" align="left"> 2월 13일 (일요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 3) End-to-end formal verification on pKVM  </td><td bgcolor="white">  김지응 (Google) </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  (초청강연 4) TBD  </td><td bgcolor="white">  김재원 (Elice) </td></tr>
-  <tr><td bgcolor="white">  12:00 ~ 13:30  </td><td bgcolor="white">  점심</td><td bgcolor="white">  </td></tr>
+  <tr><td bgcolor="white">  12:00 ~ 13:10  </td><td bgcolor="white">  점심</td><td bgcolor="white">  </td></tr>
+	<tr><td bgcolor="white">  13:10 ~ 13:30  </td><td bgcolor="white">  바이너리 정적 분석을 활용한 효과적인 윈도우 커널 퍼징 기법</td>	<td bgcolor="white">  최재승 (KAIST) </td></tr>
 	<tr><td bgcolor="white">  13:30 ~ 13:50  </td><td bgcolor="white">  JavaScript Static Analysis for Evolving Language Specifications</td>	<td bgcolor="white">  박지혁 (KAIST) </td></tr>
 	<tr><td bgcolor="white">  13:50 ~ 14:10  </td><td bgcolor="white">  프로그램 자동탐색 기법을 이용한 동형암호 회로 최적화</td>	<td bgcolor="white">  이동권 (서울대학교) </td></tr>
 
