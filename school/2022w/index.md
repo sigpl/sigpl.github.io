@@ -63,7 +63,7 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  15:40 ~ 16:05  </td><td bgcolor="white">  싹수 분석으로 프로그램 합성 보조하기</td><td bgcolor="white">윤용호 (서울대학교) </td></tr>
   <tr><td bgcolor="white">  16:05 ~ 16:30  </td><td bgcolor="white">  Sequential Reasoning for Optimizing Compilers Under Weak Memory Concurrency</td><td bgcolor="white">이성환 (서울대학교) </td></tr>
   <tr><td bgcolor="white">  16:30 ~ 16:40  </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  16:40 ~ 18:16  </td><td bgcolor="white">  <a href="lightening.html">번개발표</a></td><td bgcolor="white"> 대학원생 (각 8 분)   </td></tr>
+  <tr><td bgcolor="white">  16:40 ~ 18:16  </td><td bgcolor="white">  <a href="lightening.html">번개발표 1</a></td><td bgcolor="white"> 대학원생 (각 8 분)   </td></tr>
   <tr><td bgcolor="white">  18:16 ~ 19:30  </td><td bgcolor="white">  저녁 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  19:30 ~ 21:00  </td><td bgcolor="white">  <a href="poster.html">포스터 발표</a></td><td bgcolor="white">  대학원생 </td> </tr>
   <tr><th colspan="3" align="left"> 2월 13일 (일요일)  </th></tr>
@@ -81,9 +81,10 @@ title: SIGPL 겨울학교 2022
 
   <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 5) AI 반도체 스타트업의 도전 </td><td bgcolor="white"> 정영범 (FuriosaAI)   </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 11:25  </td><td bgcolor="white">  실시간 분산 시스템을 위한 미들웨어 검증하기</td><td bgcolor="white">김윤승 (서울대학교) </td></tr>
-  <tr><td bgcolor="white">  11:25 ~ 11:50  </td><td bgcolor="white">  A programming language-based approach to machine learning on graphs</td><td bgcolor="white">전민석 (고려대학교) </td></tr>
-  <tr><td bgcolor="white">  11:50 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 11:16  </td><td bgcolor="white">  <a href="lightening2.html">번개발표 2</a></td><td bgcolor="white"> 대학원생 (각 8 분)   </td></tr>
+  <tr><td bgcolor="white">  11:16 ~ 11:41  </td><td bgcolor="white">  실시간 분산 시스템을 위한 미들웨어 검증하기</td><td bgcolor="white">김윤승 (서울대학교) </td></tr>
+  <tr><td bgcolor="white">  11:41 ~ 12:06  </td><td bgcolor="white">  A programming language-based approach to machine learning on graphs</td><td bgcolor="white">전민석 (고려대학교) </td></tr>
+  <tr><td bgcolor="white">  12:06 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
