@@ -79,10 +79,10 @@ title: SIGPL 겨울학교 2022
 
   <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 5) AI 반도체 스타트업의 도전 </td><td bgcolor="white"> 정영범 (FuriosaAI)   </td></tr>
-  <tr><td bgcolor="white">  11:00 ~ 11:16  </td><td bgcolor="white">  <a href="lightening2.html">번개발표 2</a></td><td bgcolor="white"> 대학원생 (각 8 분)   </td></tr>
-  <tr><td bgcolor="white">  11:16 ~ 11:41  </td><td bgcolor="white">  실시간 분산 시스템을 위한 미들웨어 검증하기</td><td bgcolor="white">김윤승 (서울대학교) </td></tr>
-  <tr><td bgcolor="white">  11:41 ~ 12:06  </td><td bgcolor="white">  A programming language-based approach to machine learning on graphs</td><td bgcolor="white">전민석 (고려대학교) </td></tr>
-  <tr><td bgcolor="white">  12:06 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
+  <tr><td bgcolor="white">  11:00 ~ 11:24  </td><td bgcolor="white">  <a href="lightening2.html">번개발표 2</a></td><td bgcolor="white"> 대학원생 (각 8 분)   </td></tr>
+  <tr><td bgcolor="white">  11:24 ~ 11:49  </td><td bgcolor="white">  실시간 분산 시스템을 위한 미들웨어 검증하기</td><td bgcolor="white">김윤승 (서울대학교) </td></tr>
+  <tr><td bgcolor="white">  11:49 ~ 12:14  </td><td bgcolor="white">  A programming language-based approach to machine learning on graphs</td><td bgcolor="white">전민석 (고려대학교) </td></tr>
+  <tr><td bgcolor="white">  12:14 ~        </td><td bgcolor="white">  폐회  </td><td bgcolor="white">   </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
