@@ -71,12 +71,10 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  (초청강연 4) 플랫폼 중심 프로그래밍 교육 운영 사례 </td><td bgcolor="white">  김재원 (Elice) </td></tr>
   <tr><td bgcolor="white">  12:00 ~ 13:10  </td><td bgcolor="white">  점심</td><td bgcolor="white">  </td></tr>
 	<tr><td bgcolor="white">  13:10 ~ 13:30  </td><td bgcolor="white">  바이너리 정적 분석을 활용한 효과적인 윈도우 커널 퍼징 기법</td>	<td bgcolor="white">  최재승 (KAIST) </td></tr>
-	<tr><td bgcolor="white">  13:30 ~ 13:50  </td><td bgcolor="white">  JavaScript Static Analysis for Evolving Language Specifications</td>	<td bgcolor="white">  박지혁 (KAIST) </td></tr>
-	<tr><td bgcolor="white">  13:50 ~ 14:10  </td><td bgcolor="white">  프로그램 자동탐색 기법을 이용한 동형암호 회로 최적화</td>	<td bgcolor="white">  이동권 (서울대학교) </td></tr>
-
-  <tr><td bgcolor="white">  14:30 ~ 14:45  </td><td bgcolor="white">  휴식  </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  14:45 ~ 16:00  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대학교), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
-  <tr><td bgcolor="white">  16:00 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">  올레길 7코스 (폭풍의 언덕) </td></tr>
+	<tr><td bgcolor="white">  13:30 ~ 13:55  </td><td bgcolor="white">  JavaScript Static Analysis for Evolving Language Specifications</td>	<td bgcolor="white">  박지혁 (KAIST) </td></tr>
+	<tr><td bgcolor="white">  13:55 ~ 14:20  </td><td bgcolor="white">  프로그램 자동탐색 기법을 이용한 동형암호 회로 최적화</td>	<td bgcolor="white">  이동권 (서울대학교) </td></tr>
+  <tr><td bgcolor="white">  14:20 ~ 15:30  </td><td bgcolor="white">  <a href="https://forms.gle/trWbVnjQq2w4BDSM9">무엇이든 물어보세요</a> </td><td bgcolor="white"> 이광근 (서울대학교), 류석영 (KAIST), 정영범 (FuriosaAI)  </td></tr>
+  <tr><td bgcolor="white">  15:30 ~ 18:00  </td><td bgcolor="white">  단체 산책 </td><td bgcolor="white">  올레길 7코스 (폭풍의 언덕) </td></tr>
   <tr><td bgcolor="white">  18:00 ~        </td><td bgcolor="white">  만찬 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 14일 (월요일)  </th></tr>
