@@ -65,7 +65,7 @@ title: SIGPL 겨울학교 2022
   <tr><td bgcolor="white">  16:30 ~ 16:40  </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
   <tr><td bgcolor="white">  16:40 ~ 18:16  </td><td bgcolor="white">  <a href="lightening.html">번개발표 1</a></td><td bgcolor="white"> 대학원생 (각 8 분)   </td></tr>
   <tr><td bgcolor="white">  18:16 ~ 19:30  </td><td bgcolor="white">  저녁 </td><td bgcolor="white">   </td></tr>
-  <tr><td bgcolor="white">  19:30 ~ 21:00  </td><td bgcolor="white">  <a href="poster.html">포스터 발표</a></td><td bgcolor="white">  대학원생 </td> </tr>
+  <tr><td bgcolor="white">  19:30 ~ 22:00  </td><td bgcolor="white">  <a href="poster.html">포스터 발표</a></td><td bgcolor="white">  대학원생 </td> </tr>
   <tr><th colspan="3" align="left"> 2월 13일 (일요일)  </th></tr>
   <tr><td bgcolor="white">  10:00 ~ 11:00  </td><td bgcolor="white">  (초청강연 3) End-to-end formal verification on pKVM  </td><td bgcolor="white">  김지응 (Google) </td></tr>
   <tr><td bgcolor="white">  11:00 ~ 12:00  </td><td bgcolor="white">  (초청강연 4) 플랫폼 중심 프로그래밍 교육 운영 사례 </td><td bgcolor="white">  김재원 (Elice) </td></tr>
