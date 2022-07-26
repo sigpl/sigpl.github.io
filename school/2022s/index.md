@@ -39,9 +39,11 @@ title: SIGPL 여름학교 2022
 프로그램위원장: 강지훈(KAIST)
 </p>
 
-<h2>프로그램</h2>
+## 프로그램
 
-<ul>
+프로그램 확정 후 작성 예정
+
+<!-- <ul>
   <table border="0" cellspacing="0">
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
@@ -84,7 +86,7 @@ title: SIGPL 여름학교 2022
 
 </tbody>
   </table></td></tr></tbody></table>
-</ul>
+</ul> -->
 
 ## 등록
 
