@@ -34,7 +34,7 @@
   echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc
   source ~/.bashrc
   ```
-  3. `gem install jekyll bundler jekyll-redirect-from`
+  3. `gem install jekyll bundler jekyll-redirect-from webrick`
 - sigpl.github.io 안에서 `jekyll serve` 명령 실행
 - 웹 브라우저를 실행한 후 주소 `localhost:4000` 로 이동하여 확인
 - 서버 실행 중에 페이지를 수정하면 jekyll이 자동으로 감지하여 페이지를 새로 생성하므로, 변화가 즉시 반영됨.
