@@ -107,10 +107,10 @@ title: SIGPL 여름학교 2022
 ## 교내 숙박 안내
 
 <table border="1" bordercolor="#a0a0a0" cellspacing="0">
-<tbody><tr><th>장소</th><th>인원</th><th>가격/1박</th></tr>
-<tr align="center"><th> 학생기숙사BTL </th><td>1인 1실</td><td>28,000원 (1인)</td></tr>
-<tr align="center"><th> &nbsp; </th><td>2인 1실</td><td>44,000원 (2인)</td></tr>
-<tr align="center"><th> G&R 게스트하우스 </th><td>1인 1실</td><td>35,000원 (1인)</td></tr>
+<tbody><tr><th>장소</th><th>인원</th><th>1박</th><th>2박</th><th>구성</th></tr>
+<tr align="center"><th> 학생기숙사BTL </th><td>1인 1실</td><td>28,000원</td><td>45,000원</td><td>(1인 x 17,000원/박 x N박 + 이불대여료 11,000원)		</td></tr>
+<tr align="center"><th> &nbsp; </th><td>2인 1실</td><td>44,000원</td><td>66,000원</td><td>(2인 x 11,000원/박 x N박 + 2인 x 이불대여료 11,000원)</td></tr>
+<tr align="center"><th> G&R 게스트하우스 </th><td>1인 1실</td><td>35,000원</td><td>70,000원</td><td>(1인 x 35,000원/박 x N박)</td></tr>
 </tbody></table>
 
 [교내 숙박 등록 홈페이지](https://forms.gle/fnH1rtMh36BzWdE36)
