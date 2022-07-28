@@ -41,9 +41,21 @@ title: SIGPL 여름학교 2022
 
 ## 프로그램
 
-- ML4PL 초청 강연: 오학주 (고려대), 차수영 (성균관대), 허기홍 (KAIST), 홍신 (한동대), 미정
-- ML4PL 학생 발표: 김진우 (서울대), 주호영 (서울대), 전민석 (고려대)
 - <a href="lightening.html">번개발표 </a>
+- ML4PL 초청 강연: 오학주 (고려대), 차수영 (성균관대), 허기홍 (KAIST), 홍신 (한동대), 미정
+- ML4PL 학생 발표: 주호영 (서울대), 전민석 (고려대)
+<table border="1" bordercolor="#a0a0a0" cellspacing="0">
+  <tr>
+  <td bgcolor="white"> 주호영 </td>
+  <td bgcolor="white"> PyTorch Internals and JIT Compilers </td>
+  <td bgcolor="white"> 서울대학교 </td>
+  </tr>
+    <tr>
+  		<td bgcolor="white"> 전민석 </td>
+  		<td bgcolor="white"> 특화언어 기반 그래프 데이터 기계학습 방법 </td>
+  		<td bgcolor="white"> 고려대학교 </td>
+  	</tr>
+  </table>
 
 세부 시간표는 프로그램 확정 후 작성 예정
 
