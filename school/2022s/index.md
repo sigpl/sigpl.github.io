@@ -26,40 +26,25 @@ title: SIGPL 여름학교 2022
 <p>
   한국정보과학회 프로그래밍언어연구회에서 주최하는 2022 여름학교에 여러분을 초대합니다.
   프로그래밍언어연구회에서는 매년 최신 연구 동향 소개와 함께 참가자들이 교류할 수 있는 자리를 마련해 왔습니다.
-  이번 여름학교에서는 특별히 ML4PL(Machine Learning for Programming Languages) 주제로 초청강연을 준비하였고, 다양한 최신 연구 결과 발표 및 교류가 있을 예정입니다.
+  이번 여름학교에서는 특별히
+  <strong>ML4PL (Machine Learning for Programming Languages)</strong> 주제로 초청강연 및 학생발표를,
+  <strong>PL 교과과정</strong>을 주제로 토의를 준비했습니다.
+  또한 5분 <a href="lightening.html">번개발표</a>를 통해 다양한 최신 연구 결과 공유 및 교류가 있을 예정입니다.
   프로그래밍언어 2022 여름학교에 여러분의 많은 참여와 관심을 바랍니다.
 </p>
 
 <p align="right">
-한국정보과학회 프로그래밍언어연구회 공동운영위원장 오학주(고려대), 임현승(강원대)
+한국정보과학회 프로그래밍언어연구회 공동운영위원장 오학주 (고려대), 임현승 (강원대)
 </p>
 
 <p align="right">
-조직위원장: 최광훈(전남대)<br>
-프로그램위원장: 강지훈(KAIST)
+조직위원장: 최광훈 (전남대)<br>
+프로그램위원장: 강지훈 (KAIST)
 </p>
 
 ## 프로그램
 
-- <a href="lightening.html">번개발표 </a>
-- ML4PL 초청 강연: 오학주 (고려대), 차수영 (성균관대), 허기홍 (KAIST), 홍신 (한동대), 미정
-- ML4PL 학생 발표: 주호영 (서울대), 전민석 (고려대)
-<table border="1" bordercolor="#a0a0a0" cellspacing="0">
-  <tr>
-  <td bgcolor="white"> 주호영 </td>
-  <td bgcolor="white"> PyTorch Internals and JIT Compilers </td>
-  <td bgcolor="white"> 서울대학교 </td>
-  </tr>
-    <tr>
-  		<td bgcolor="white"> 전민석 </td>
-  		<td bgcolor="white"> 특화언어 기반 그래프 데이터 기계학습 방법 </td>
-  		<td bgcolor="white"> 고려대학교 </td>
-  	</tr>
-  </table>
-
-세부 시간표는 프로그램 확정 후 작성 예정
-
-<!-- <ul>
+<ul>
   <table border="0" cellspacing="0">
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
@@ -68,41 +53,42 @@ title: SIGPL 여름학교 2022
   <tr><th colspan="3" align="left"> 8월 22일 (월요일)  </th></tr>
 
 <tr><td bgcolor="white"> 12:00-13:00 </td><td bgcolor="white">  등록 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 13:00-14:00 </td><td bgcolor="white">  초청강연 #1 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 14:00-14:15 </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 14:15-15:15 </td><td bgcolor="white">  초청강연 #2 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 15:15-15:30 </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 15:30-16:18 </td><td bgcolor="white">  번개 발표 (8분 * 6개) </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 16:18-16:30 </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 16:30-17:10 </td><td bgcolor="white">  번개 발표 (8분 * 5개) </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 17:10-17:20 </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 17:20-18:00 </td><td bgcolor="white">  번개 발표 (8분 * 5개) </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 13:00-13:55 </td><td bgcolor="white">  [ML4PL 초청강연] 홍신 (한동대): 지능적 코드 변형을 통한 디버깅 자동화 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 13:55-14:10 </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 14:10-15:05 </td><td bgcolor="white">  [ML4PL 초청강연] 윤영석 (Google): MLIR을 통한 머신러닝 모델 최적화 기법 소개 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 15:05-15:20 </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 15:20-16:10 </td><td bgcolor="white">  <a href="lightening.html">번개발표 </a> (5분 * 10개) </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 16:10-16:20 </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 16:20-17:05 </td><td bgcolor="white">  <a href="lightening.html">번개발표 </a> (5분 * 9개) </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 17:05-17:15 </td><td bgcolor="white">  휴식 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 17:15-18:00 </td><td bgcolor="white">  <a href="lightening.html">번개발표 </a> (5분 * 9개) </td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 18:00-19:30 </td><td bgcolor="white">  저녁 </td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 19:30-22:00 </td><td bgcolor="white">  포스터 발표 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 23일 (화요일)  </th></tr>
 
-<tr><td bgcolor="white"> 10:00-11:00 </td><td bgcolor="white"> 초청강연 #3 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 11:00-11:15 </td><td bgcolor="white"> 휴식 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 11:15-12:15 </td><td bgcolor="white"> 초청강연 #4 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 12:15-13:15 </td><td bgcolor="white"> 점심 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 13:15-14:15 </td><td bgcolor="white"> 학생 발표 (15분 * 4개) </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 14:15-14:30 </td><td bgcolor="white"> 휴식 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 14:30-15:00 </td><td bgcolor="white"> PL 교과과정 주제발표 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 15:00-18:00 </td><td bgcolor="white"> 외부 활동 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 10:00-10:55 </td><td bgcolor="white"> [ML4PL 초청강연] 오학주 (고려대): 데이터 기반 정적 분석 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 10:55-11:05 </td><td bgcolor="white"> 휴식 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 11:05-12:00 </td><td bgcolor="white"> [ML4PL 초청강연] 차수영 (성균관대): 데이터 기반 기호 실행 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 12:00-13:00 </td><td bgcolor="white"> 점심 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 13:00-15:00 </td><td bgcolor="white"> PL 교과과정 토의 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 15:00-18:00 </td><td bgcolor="white"> 외부 활동: 죽녹원 나들이 </td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 18:00-19:30 </td><td bgcolor="white"> 저녁 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 24일 (수요일)  </th></tr>
 
-<tr><td bgcolor="white"> 10:00-11:00 </td><td bgcolor="white"> 초청강연 #5 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 11:00-11:15 </td><td bgcolor="white"> 휴식 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 11:15-11:30 </td><td bgcolor="white"> PL 교과과정 사례발표 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 11:30-12:00 </td><td bgcolor="white"> PL 교과과정 패널토의 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 10:00-10:55 </td><td bgcolor="white"> [ML4PL 초청강연] 허기홍 (KAIST): 정적 분석을 위한 확률 모델 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 10:55-11:10 </td><td bgcolor="white"> 휴식 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 11:10-11:30 </td><td bgcolor="white"> <a href="lightening.html">번개발표 </a> (5분 * 4개) </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 11:30-11:45 </td><td bgcolor="white"> [ML4PL 학생 발표] 주호영 (서울대): PyTorch Internals and JIT Compilers</td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 11:45-12:00 </td><td bgcolor="white"> [ML4PL 학생 발표] 전민석 (고려대): 특화언어 기반 그래프 데이터 기계학습 방법</td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 12:00-	</td><td bgcolor="white"> 폐회 </td><td bgcolor="white">   </td></tr>
 
 </tbody>
   </table></td></tr></tbody></table>
-</ul> -->
+</ul>
+
+
 
 ## 등록
 
