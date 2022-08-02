@@ -28,7 +28,7 @@ title: SIGPL 여름학교 2022
   프로그래밍언어연구회에서는 매년 최신 연구 동향 소개와 함께 참가자들이 교류할 수 있는 자리를 마련해 왔습니다.
   이번 여름학교에서는 특별히
   <strong>ML4PL (Machine Learning for Programming Languages)</strong> 주제로 초청강연 및 학생발표를,
-  <strong>PL 교과과정</strong>을 주제로 토의를 준비했습니다.
+  <strong>PL 교과서</strong>를 주제로 토론을 준비했습니다.
   또한 5분 <a href="lightening.html">번개발표</a>를 통해 다양한 최신 연구 결과 공유 및 교류가 있을 예정입니다.
   프로그래밍언어 2022 여름학교에 여러분의 많은 참여와 관심을 바랍니다.
 </p>
@@ -71,7 +71,7 @@ title: SIGPL 여름학교 2022
 <tr><td bgcolor="white"> 10:55-11:05 </td><td bgcolor="white"> 휴식 </td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 11:05-12:00 </td><td bgcolor="white"> [ML4PL 초청강연] 차수영 (성균관대): 데이터 기반 기호 실행 </td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 12:00-13:00 </td><td bgcolor="white"> 점심 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 13:00-15:00 </td><td bgcolor="white"> PL 교과과정 토의 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 13:00-15:00 </td><td bgcolor="white"> <a href="textbook.html">PL 교과서 난상토론</a>: 뭘 위해, 누굴 위해, 어떻게</td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 15:00-18:00 </td><td bgcolor="white"> 외부 활동: 죽녹원 나들이 </td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 18:00-19:30 </td><td bgcolor="white"> 저녁 </td><td bgcolor="white">   </td></tr>
 
