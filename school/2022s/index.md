@@ -71,9 +71,10 @@ title: SIGPL 여름학교 2022
 <tr><td bgcolor="white"> 10:55-11:05 </td><td bgcolor="white"> 휴식 </td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 11:05-12:00 </td><td bgcolor="white"> [ML4PL 초청강연] 차수영 (성균관대): 데이터 기반 기호 실행 </td><td bgcolor="white">   </td></tr>
 <tr><td bgcolor="white"> 12:00-13:00 </td><td bgcolor="white"> 점심 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 13:00-15:00 </td><td bgcolor="white"> <a href="textbook.html">PL 교과서 난상토론</a>: 뭘 위해, 누굴 위해, 어떻게</td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 15:00-18:00 </td><td bgcolor="white"> 외부 활동: 죽녹원 나들이 </td><td bgcolor="white">   </td></tr>
-<tr><td bgcolor="white"> 18:00-19:30 </td><td bgcolor="white"> 저녁 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 13:00-13:20 </td><td bgcolor="white"> 정영범 (FuriosaAI): 회사 소개   </td></tr>
+<tr><td bgcolor="white"> 13:20-15:20 </td><td bgcolor="white"> <a href="textbook.html">PL 교과서 난상토론</a>: 뭘 위해, 누굴 위해, 어떻게</td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 15:20-18:20 </td><td bgcolor="white"> 외부 활동: 죽녹원 나들이 </td><td bgcolor="white">   </td></tr>
+<tr><td bgcolor="white"> 18:20-19:30 </td><td bgcolor="white"> 저녁 </td><td bgcolor="white">   </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 24일 (수요일)  </th></tr>
 
