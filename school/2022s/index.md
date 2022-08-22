@@ -116,6 +116,12 @@ title: SIGPL 여름학교 2022
 <br>
 (여름학교 행사 등록과 별도로 신청하고 비용을 계좌 이체 - 선착순 배정)
 
+
+## 오픈 채팅방
+
+<https://open.kakao.com/o/ghpNl4ve>
+암호: 현장에서 알려드립니다.
+
 ## 오시는 길
 
 [전남대학교 광주 용봉동 캠퍼스](https://www.jnu.ac.kr/MainIntro/CampusInfo/Way)
