@@ -58,6 +58,13 @@ title: SIGPL 겨울학교 2023
 <li>무료 제공되는 식사는 수요일 저녁 만찬뿐입니다.</li>
 </ul>
 
+## 숙박안내 
+
+시내 호텔등에 개별적으로 예약해주시기 바랍니다.
+<ul>
+<li><a href="https://www.hotelahill.com/">아리랑힐 호텔 동대문</a></li> (대중교통 15분, 도보 25분)
+</ul>
+
 <!--
 ## 교내 숙박 안내
 
@@ -80,8 +87,7 @@ title: SIGPL 겨울학교 2023
 -->
 
 ## 오시는 길
-<!--
-[전남대학교 광주 용봉동 캠퍼스](https://www.jnu.ac.kr/MainIntro/CampusInfo/Way)
+
+[행사장소: 
+<a href="https://map.naver.com/v5/search/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90%20%EC%84%9C%EC%9A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%95%98%EB%82%98%EC%8A%A4%ED%80%98%EC%96%B4/place/18902329?c=18,0,0,0,dh&isCorrectAnswer=true">고려대학교 서울캠퍼스 하나스퀘어</a> (강당, B112호)]
 <br>
-[행사 장소 건물(사범대학 교육융합관)](https://naver.me/Gnjm6UjQ)
--->
