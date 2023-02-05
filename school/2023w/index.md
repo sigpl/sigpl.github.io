@@ -70,7 +70,7 @@ title: SIGPL 겨울학교 2023
   <tr><td bgcolor="white"> 11:35-11:40 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 11:40-12:10 </td> <td bgcolor="white"> 실행 가능한 파일을 파악하고 조작하는 여러 가지 방법 </td><td bgcolor="white"> 조은선 교수 연구실 </td></tr>
   <tr><td bgcolor="white"> 12:10-13:40 </td> <td bgcolor="white"> 점심 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:40-14:35 </td> <td bgcolor="white"> [초청강연] TBD </td><td bgcolor="white"> 한형석 박사 </td></tr>
+  <tr><td bgcolor="white"> 13:40-14:35 </td> <td bgcolor="white"> [초청강연] TBD </td><td bgcolor="white"> 한형석 (KAIST) </td></tr>
   <tr><td bgcolor="white"> 14:35-14:45 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:45-15:40 </td> <td bgcolor="white"> 믿고 쓰는 프로그래밍 환경 </td><td bgcolor="white"> 허기홍 교수 연구실 </td></tr>
   <tr><td bgcolor="white"> 15:40-15:45 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
