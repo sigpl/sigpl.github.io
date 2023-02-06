@@ -44,11 +44,57 @@ title: SIGPL 겨울학교 2023
 
 ## 프로그램
 
+<ul>
+  <table border="0" cellspacing="0">
+  <tbody><tr><td bgcolor="#cccccc">
+  <table border="0" cellspacing="1pt">
+<tbody>
+
+  <tr><th colspan="3" align="left"> 2월 22일 (수요일)  </th></tr>
+  <tr><td bgcolor="white"> 12:00-13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 13:00-13:55 </td> <td bgcolor="white"> [초청강연] Formal verification and modeling of concurrent systems </td><td bgcolor="white"> 김지응 (인하대학교) </td></tr>
+  <tr><td bgcolor="white"> 13:55-14:00 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 14:00-14:55 </td> <td bgcolor="white"> 병렬 프로그램 디자인 및 검증 </td><td bgcolor="white"> 강지훈 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 14:55-15:00 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 15:00-15:55 </td> <td bgcolor="white"> 논리 기반 정형명세 및 모델검증 </td><td bgcolor="white"> 배경민 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 15:55-16:00 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 16:00-16:30 </td> <td bgcolor="white"> 한양대학교 프로그램 합성 연구 소개 </td><td bgcolor="white"> 이우석 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 16:30-16:35 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 16:35-17:30 </td> <td bgcolor="white"> 프로그램분석 + 쉬운전문용어 포털 소개 </td><td bgcolor="white"> 이광근 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 17:30-20:00 </td> <td bgcolor="white"> 저녁 만찬 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 20:00-22:00 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><th colspan="3" align="left"> 2월 23일 (목요일)  </th></tr>
+  <tr><td bgcolor="white"> 10:00-10:55 </td> <td bgcolor="white"> [초청강연] 회상 + 음악 프로그래밍 </td><td bgcolor="white"> 도경구 (한양대 ERICA) </td></tr>
+  <tr><td bgcolor="white"> 10:55-11:05 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 11:05-11:35 </td> <td bgcolor="white"> (산업체 동향) 코드마인드와 프로그래밍 언어 기술 </td><td bgcolor="white"> 신승철 (코드마인드) </td></tr>
+  <tr><td bgcolor="white"> 11:35-11:40 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 11:40-12:10 </td> <td bgcolor="white"> 실행 가능한 파일을 파악하고 조작하는 여러 가지 방법 </td><td bgcolor="white"> 조은선 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 12:10-13:40 </td> <td bgcolor="white"> 점심 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 13:40-14:35 </td> <td bgcolor="white"> [초청강연] TBD </td><td bgcolor="white"> 한형석 박사 </td></tr>
+  <tr><td bgcolor="white"> 14:35-14:45 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 14:45-15:40 </td> <td bgcolor="white"> 믿고 쓰는 프로그래밍 환경 </td><td bgcolor="white"> 허기홍 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 15:40-15:45 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 15:45-16:40 </td> <td bgcolor="white"> TBD </td><td bgcolor="white"> 오학주 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 16:40-16:45 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 16:45-18:10 </td> <td bgcolor="white"> [난상토론] ChatGPT 어디까지 해봤니? </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 18:10-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
+  <tr><th colspan="3" align="left"> 2월 24일 (금요일)  </th></tr>
+  <tr><td bgcolor="white"> 10:00-10:55 </td> <td bgcolor="white"> [초청강연] 한글 모아쓰기에 관하여 </td><td bgcolor="white"> 최광무 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 10:55-11:05 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 11:05-12:00 </td> <td bgcolor="white"> 안전한 소프트웨어를 위한 프로그래밍 언어 </td><td bgcolor="white"> 류석영 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 12:00-12:05 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 12:05-13:00 </td> <td bgcolor="white"> 소프트웨어 검증을 위한 기반 다지기 </td><td bgcolor="white"> 허충길 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 13:00       </td> <td bgcolor="white"> 폐회 </td><td bgcolor="white"> </td></tr>
+</tbody>
+  </table></td></tr></tbody></table>
+</ul>
 
 ## 등록
+
 <ul>
 
     <li> 사전등록 마감: 2월 10일 (금요일)
+
   </li><li> 등록 방법: <a href= "http://www.kiise.or.kr/conference/conf/122/" target="_blank"> <font color="red">등록 페이지</font> </a>를 통하여 등록할 수 있습니다.
 <table border="1" bordercolor="#a0a0a0" cellspacing="0">
 <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
@@ -61,9 +107,10 @@ title: SIGPL 겨울학교 2023
 -->
 </ul>
 
-## 숙박안내 
+## 숙박안내
 
 시내 호텔등에 개별적으로 예약해주시기 바랍니다.
+
 <ul>
 <li><a href="https://www.hotelahill.com/">아리랑힐 호텔 동대문</a></li> (대중교통 15분, 도보 25분)
 </ul>
@@ -91,6 +138,6 @@ title: SIGPL 겨울학교 2023
 
 ## 오시는 길
 
-[행사장소: 
+[행사장소:
 <a href="https://map.naver.com/v5/search/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90%20%EC%84%9C%EC%9A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%95%98%EB%82%98%EC%8A%A4%ED%80%98%EC%96%B4/place/18902329?c=18,0,0,0,dh&isCorrectAnswer=true">고려대학교 서울캠퍼스 하나스퀘어</a> (강당, B112호)]
 <br>
