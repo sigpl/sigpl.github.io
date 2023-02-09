@@ -74,7 +74,7 @@ title: SIGPL 겨울학교 2023
   <tr><td bgcolor="white"> 14:35-14:45 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:45-15:40 </td> <td bgcolor="white"> 믿고 쓰는 프로그래밍 환경 </td><td bgcolor="white"> 허기홍 교수 연구실 </td></tr>
   <tr><td bgcolor="white"> 15:40-15:45 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:45-16:40 </td> <td bgcolor="white"> TBD </td><td bgcolor="white"> 오학주 교수 연구실 </td></tr>
+  <tr><td bgcolor="white"> 15:45-16:40 </td> <td bgcolor="white"> 소프트웨어 오류 자동 수정 기술</td><td bgcolor="white"> 오학주 교수 연구실 </td></tr>
   <tr><td bgcolor="white"> 16:40-16:45 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 16:45-18:10 </td> <td bgcolor="white"> [난상토론] ChatGPT 어디까지 해봤니? </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 18:10-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
