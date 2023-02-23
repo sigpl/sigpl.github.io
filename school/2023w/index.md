@@ -89,6 +89,11 @@ title: SIGPL 겨울학교 2023
   </table></td></tr></tbody></table>
 </ul>
 
+## 사진
+<ul>
+<li><a href="https://photos.app.goo.gl/3MUq3wvVrKXZ8zcy9">링크</a></li>
+</ul>
+
 ## 등록
 
 <b>2023.02.14: 등록 가능 인원이 마감되어 사전등록이 종료되었으며, 현장등록을 진행하지 않습니다.</b>
