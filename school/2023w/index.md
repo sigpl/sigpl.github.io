@@ -91,7 +91,7 @@ title: SIGPL 겨울학교 2023
 
 ## 사진
 <ul>
-<li><a href="https://photos.app.goo.gl/3MUq3wvVrKXZ8zcy9">링크</a></li>
+<li></li>
 </ul>
 
 ## 등록
