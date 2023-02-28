@@ -91,7 +91,7 @@ title: SIGPL 겨울학교 2023
 
 ## 사진
 <ul>
-<li></li>
+<li><a href="https://salbox.korea.ac.kr/drive/d/s/sXrJZnPv4FrIRoNfJ7pIQulj831bhBSS/jT2hjUh2wj75D-uqcKk4riWTn-oO4n-h-BbegYzQIQAo">링크</a></li>
 </ul>
 
 ## 등록
