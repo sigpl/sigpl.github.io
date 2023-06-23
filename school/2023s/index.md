@@ -23,16 +23,14 @@ title: SIGPL 여름학교 2023
 
 <h2>초대의 글</h2>
 
-<!--
 <p>
-  한국정보과학회 프로그래밍언어연구회에서 주최하는 2023 겨울학교에 여러분을 초대합니다.
+  한국정보과학회 프로그래밍언어연구회에서 주최하는 2023 여름학교에 여러분을 초대합니다.
   프로그래밍언어연구회에서는 매년 최신 연구 동향 소개와 함께 참가자들이 교류할 수 있는 자리를 마련해 왔습니다.
-  이번 겨울학교에서는 특별히 정형검증, 음악프로그래밍, 소프트웨어 보안, 한글 모아쓰기 등 다양한
-   주제로 초청강연을 준비하였고 각 연구실에서 진행중인 연구들을 소개하는 시간을 마련하였습니다. 
-   또한 최근 주요 화두인 ChatGPT를 주제로 토론을 준비했습니다.  
-  프로그래밍언어 2023 겨울학교에 여러분의 많은 참여와 관심을 바랍니다.
+  이번 여름학교에서는 최근 화제가 되고 있는 large language model 에 대한 강연, 한국을 대표하는 머신러닝
+  가속기 스타트업들의 개발 동향 강연 및 패널 토론, 이번 해 PLDI에서 좋은 성과를 낸 본 연구회 소속 분들의 연구
+  접근 방법 등에 대한 강연, 각 연구실에서 진행중인 연구들을 소개하는 시간을 마련하였습니다. 프로그래밍언어 
+  2023 여름학교에 여러분의 많은 참여와 관심을 바랍니다.
 </p>
--->
 
 <p align="right">
 한국정보과학회 프로그래밍언어연구회 공동운영위원장 오학주 (고려대), 임현승 (강원대)
@@ -51,53 +49,37 @@ title: SIGPL 여름학교 2023
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
 <tbody>
-<!--
-  <tr><th colspan="3" align="left"> 2월 22일 (수요일)  </th></tr>
-  <tr><td bgcolor="white"> 12:00-13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:00-13:55 </td> <td bgcolor="white"> [초청강연] Formal verification and modeling of concurrent systems </td><td bgcolor="white"> 김지응 (인하대학교) </td></tr>
-  <tr><td bgcolor="white"> 13:55-14:00 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:00-14:55 </td> <td bgcolor="white"> 병렬 프로그램 디자인 및 검증 </td><td bgcolor="white"> 강지훈 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 14:55-15:00 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:00-15:55 </td> <td bgcolor="white"> 논리 기반 정형명세 및 모델검증 </td><td bgcolor="white"> 배경민 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 15:55-16:00 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 16:00-16:30 </td> <td bgcolor="white"> 한양대학교 프로그램 합성 연구 소개 </td><td bgcolor="white"> 이우석 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 16:30-16:35 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 16:35-17:30 </td> <td bgcolor="white"> 프로그램분석 + 쉬운전문용어 포털 소개 </td><td bgcolor="white"> 이광근 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 17:30-20:00 </td> <td bgcolor="white"> 저녁 만찬 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 20:00-22:00 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생 </td></tr>
-  <tr><th colspan="3" align="left"> 2월 23일 (목요일)  </th></tr>
-  <tr><td bgcolor="white"> 10:00-10:55 </td> <td bgcolor="white"> [초청강연] 회상 + 음악 프로그래밍 </td><td bgcolor="white"> 도경구 (한양대 ERICA) </td></tr>
-  <tr><td bgcolor="white"> 10:55-11:05 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 11:05-11:35 </td> <td bgcolor="white"> (산업체 동향) 코드마인드와 프로그래밍 언어 기술 </td><td bgcolor="white"> 신승철 (코드마인드) </td></tr>
-  <tr><td bgcolor="white"> 11:35-11:40 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 11:40-12:10 </td> <td bgcolor="white"> 실행 가능한 파일을 파악하고 조작하는 여러 가지 방법 </td><td bgcolor="white"> 조은선 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 12:10-13:40 </td> <td bgcolor="white"> 점심 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:40-14:35 </td> <td bgcolor="white"> [초청강연] Symbolic Query on Decompiled Code for Finding Bugs in COTS Binaries </td><td bgcolor="white"> 한형석 (KAIST) </td></tr>
-  <tr><td bgcolor="white"> 14:35-14:45 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:45-15:40 </td> <td bgcolor="white"> 믿고 쓰는 프로그래밍 환경 </td><td bgcolor="white"> 허기홍 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 15:40-15:45 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:45-16:40 </td> <td bgcolor="white"> 소프트웨어 오류 자동 수정 기술</td><td bgcolor="white"> 오학주 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 16:40-16:45 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 16:45-18:10 </td> <td bgcolor="white"> [난상토론] ChatGPT 어디까지 해봤니? </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 18:10-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
-  <tr><th colspan="3" align="left"> 2월 24일 (금요일)  </th></tr>
-  <tr><td bgcolor="white"> 10:00-10:55 </td> <td bgcolor="white"> [초청강연] 한글 모아쓰기에 관하여 </td><td bgcolor="white"> 최광무 (KAIST) </td></tr>
-  <tr><td bgcolor="white"> 10:55-11:05 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 11:05-12:00 </td> <td bgcolor="white"> 안전한 소프트웨어를 위한 프로그래밍 언어 </td><td bgcolor="white"> 류석영 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 12:00-12:05 </td> <td bgcolor="white"> 5분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 12:05-13:00 </td> <td bgcolor="white"> 소프트웨어 검증을 위한 기반 다지기 </td><td bgcolor="white"> 허충길 교수 연구실 </td></tr>
-  <tr><td bgcolor="white"> 13:00       </td> <td bgcolor="white"> 폐회 </td><td bgcolor="white"> </td></tr>
+
+  <tr><th colspan="3" align="left"> 8월 23일 (수요일)  </th></tr>
+  <tr><td bgcolor="white"> 12:00-13:30 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 13:00-13:20 </td> <td bgcolor="white"> Large Language Model 특강 </td><td bgcolor="white"> 류연희 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 14:20-14:30 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 14:30-15:20 </td> <td bgcolor="white"> Large Language Model 특강  </td><td bgcolor="white"> 류연희 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 15:20-15:30 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 15:30-16:20 </td> <td bgcolor="white"> Large Language Model 특강 </td><td bgcolor="white"> 류연희 (KAIST)  </td></tr>
+  <tr><td bgcolor="white"> 16:20-16:30 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 16:30-18:00 </td> <td bgcolor="white"> 번개발표 </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 18:00-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 19:30~21:30 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생  </td></tr>
+  <tr><th colspan="3" align="left"> 8월 24일 (목요일)  </th></tr>
+  <tr><td bgcolor="white"> 10:30-11:25 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr>
+  <tr><td bgcolor="white"> 10:25-11:35 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 11:35~12:00 </td> <td bgcolor="white"> PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 윤용호 (서울대학교) </td></tr>
+  <tr><td bgcolor="white"> 12:00-13:30 </td> <td bgcolor="white"> 점심 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 13:30-14:30 </td> <td bgcolor="white"> [초청강연] 머신러닝 가속기 스타트업 특강 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순 </td></tr>
+  <tr><td bgcolor="white"> 14:30-15:30 </td> <td bgcolor="white">  [초청강연]  머신러닝 가속기 스타트업 패널 톡 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순, 진행: 류석영 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 15:30-18:30 </td> <td bgcolor="white"> 자유시간 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 18:30- </td> <td bgcolor="white"> 저녁 (banquet) </td><td bgcolor="white"> </td></tr>
+  <tr><th colspan="3" align="left"> 8월 25일 (금요일)  </th></tr>
+  <tr><td bgcolor="white"> 10:30-10:55 </td> <td bgcolor="white"> PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 이성환 (서울대학교) </td></tr>
+  <tr><td bgcolor="white"> 10:55-11:10 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 11:10-11:35 </td> <td bgcolor="white"> PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 조민기 (서울대학교) </td></tr>
+  <tr><td bgcolor="white"> 11:35-12:00 </td> <td bgcolor="white"> PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 조경민 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 12:00       </td> <td bgcolor="white"> 폐회 </td><td bgcolor="white"> </td></tr>
 </tbody>
--->
   </table></td></tr></tbody></table>
 </ul>
 
-<!--
-## 사진
-<ul>
-<li><a href="https://salbox.korea.ac.kr/drive/d/s/sXrJZnPv4FrIRoNfJ7pIQulj831bhBSS/jT2hjUh2wj75D-uqcKk4riWTn-oO4n-h-BbegYzQIQAo">링크</a></li>
-</ul>
--->
 
 ## 등록
 
