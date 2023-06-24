@@ -67,7 +67,7 @@ title: SIGPL 여름학교 2023
   <tr><td bgcolor="white"> 11:35~12:00 </td> <td bgcolor="white"> PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 윤용호 (서울대학교) </td></tr>
   <tr><td bgcolor="white"> 12:00-13:30 </td> <td bgcolor="white"> 점심 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:30-14:30 </td> <td bgcolor="white"> [초청강연] 머신러닝 가속기 스타트업 특강 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순 </td></tr>
-  <tr><td bgcolor="white"> 14:30-15:30 </td> <td bgcolor="white">  [초청강연]  머신러닝 가속기 스타트업 패널 톡 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순, 진행: 류석영 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 14:30-15:30 </td> <td bgcolor="white">  [초청강연]  머신러닝 가속기 스타트업 패널 토론 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순, 진행: 류석영 (KAIST) </td></tr>
   <tr><td bgcolor="white"> 15:30-18:30 </td> <td bgcolor="white"> 자유시간 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 18:30- </td> <td bgcolor="white"> 저녁 (banquet) </td><td bgcolor="white"> </td></tr>
   <tr><th colspan="3" align="left"> 8월 25일 (금요일)  </th></tr>
