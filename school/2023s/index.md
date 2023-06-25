@@ -96,7 +96,6 @@ title: SIGPL 여름학교 2023
 <tr align="center"><th>사전 등록(2차) </th><td>170,000원</td><td>300,000원</td></tr>
 <tr align="center"><th>현장 등록 </th><td>200,000원</td><td>350,000원</td></tr>
 </tbody></table>
-</li>
 
 <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
 
