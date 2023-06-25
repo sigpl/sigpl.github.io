@@ -52,15 +52,13 @@ title: SIGPL 여름학교 2023
 
   <tr><th colspan="3" align="left"> 8월 23일 (수요일)  </th></tr>
   <tr><td bgcolor="white"> 12:00-13:30 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:30-14:20 </td> <td bgcolor="white"> [튜토리얼] Large Language Model 특강 (1) </td><td bgcolor="white"> 류연희 (KAIST) </td></tr>
-  <tr><td bgcolor="white"> 14:20-14:30 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:30-15:20 </td> <td bgcolor="white"> [튜토리얼] Large Language Model 특강 (2)  </td><td bgcolor="white"> 류연희 (KAIST) </td></tr>
-  <tr><td bgcolor="white"> 15:20-15:30 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:30-16:20 </td> <td bgcolor="white"> [튜토리얼] Large Language Model 특강 (3) </td><td bgcolor="white"> 류연희 (KAIST)  </td></tr>
-  <tr><td bgcolor="white"> 16:20-16:30 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 16:30-18:00 </td> <td bgcolor="white"> 번개발표 (5분 * 18개) </td><td bgcolor="white"> 대학원생 </td></tr>
-  <tr><td bgcolor="white"> 18:00-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 19:30-21:30 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생  </td></tr>
+  <tr><td bgcolor="white"> 13:30-14:45 </td> <td bgcolor="white"> [튜토리얼] Large Language Model 특강 (1) </td><td bgcolor="white"> 류연희 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 14:45-14:55 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 14:55-16:10 </td> <td bgcolor="white"> [튜토리얼] Large Language Model 특강 (2)  </td><td bgcolor="white"> 류연희 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 16:10-16:20 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 16:20-17:50 </td> <td bgcolor="white"> 번개발표 (5분 * 18개) </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 17:50-19:20 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 19:20-21:20 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생  </td></tr>
   <tr><th colspan="3" align="left"> 8월 24일 (목요일)  </th></tr>
   <tr><td bgcolor="white"> 10:30-11:20 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr>
   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 윤용호 (서울대학교) </td></tr>
