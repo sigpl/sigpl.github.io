@@ -60,7 +60,7 @@ title: SIGPL 여름학교 2023
   <tr><td bgcolor="white"> 17:50-19:20 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 19:20-21:20 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생  </td></tr>
   <tr><th colspan="3" align="left"> 8월 24일 (목요일)  </th></tr>
-  <tr><td bgcolor="white"> 10:30-11:20 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr>
+  <tr><td bgcolor="white"> 10:30-11:20 </td> <td bgcolor="white"> [초청강연] Feature-Sensitive Coverage for Conformance Testing of Programming Language Implementations </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr>
   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 윤용호 (서울대학교) </td></tr>
   <tr><td bgcolor="white"> 11:45-13:15 </td> <td bgcolor="white"> 점심 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:15-14:15 </td> <td bgcolor="white"> [초청강연] 머신러닝 가속기 스타트업 특강 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순 </td></tr>
@@ -69,7 +69,7 @@ title: SIGPL 여름학교 2023
   <tr><td bgcolor="white"> 18:00- </td> <td bgcolor="white"> 저녁 (banquet) </td><td bgcolor="white"> </td></tr>
   <tr><th colspan="3" align="left"> 8월 25일 (금요일)  </th></tr>
   <tr><td bgcolor="white"> 10:30-10:55 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 이성환 (서울대학교) </td></tr>
-  <tr><td bgcolor="white"> 10:55-11:20 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 조민기 (서울대학교) </td></tr>
+  <tr><td bgcolor="white"> 10:55-11:20 </td> <td bgcolor="white"> [초청강연] Fair Operational Semantics 뒷이야기 </td><td bgcolor="white"> 조민기 (서울대학교) </td></tr>
   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 조경민 (KAIST) </td></tr>
   <tr><td bgcolor="white"> 11:45- </td> <td bgcolor="white"> 폐회 </td><td bgcolor="white"> </td></tr>
 </tbody>
