@@ -86,16 +86,15 @@ title: SIGPL 여름학교 2023
   <li> 1차 사전등록 마감: 7월 21일 (금요일)</li>
   <li> 2차 사전등록 마감: 8월 11일 (금요일)</li>
   <li> 등록 방법: <a href= "https://www.kiise.or.kr/conference/conf/131/" target="_blank"> <font color="red">등록 페이지</font> </a>를 통하여 등록할 수 있습니다.
-</ul>
-<table border="1" bordercolor="#a0a0a0" cellspacing="0">
-<tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
-<tr align="center"><th>사전 등록(1차) </th><td>150,000원</td><td>250,000원</td></tr>
-<tr align="center"><th>사전 등록(2차) </th><td>170,000원</td><td>300,000원</td></tr>
-<tr align="center"><th>현장 등록 </th><td>200,000원</td><td>350,000원</td></tr>
-</tbody></table>
-
+  <table border="1" bordercolor="#a0a0a0" cellspacing="0">
+  <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
+  <tr align="center"><th>사전 등록(1차) </th><td>150,000원</td><td>250,000원</td></tr>
+  <tr align="center"><th>사전 등록(2차) </th><td>170,000원</td><td>300,000원</td></tr>
+  <tr align="center"><th>현장 등록 </th><td>200,000원</td><td>350,000원</td></tr>
+  </tbody></table>
+  </li>
 <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
-
+</ul>
 
 ## 숙박안내
 
@@ -129,6 +128,8 @@ title: SIGPL 여름학교 2023
 -->
 
 ## 오시는 길
+
+[행사장소: 공지 예정 입니다.]
 
 <!--
 [행사장소:
