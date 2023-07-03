@@ -79,9 +79,6 @@ title: SIGPL 여름학교 2023
 
 <h2>등록</h2>
 
-<!--
-<b>2023.02.14: 등록 가능 인원이 마감되어 사전등록이 종료되었으며, 현장등록을 진행하지 않습니다.</b>
--->
 <ul>
   <li> 1차 사전등록 마감: 7월 21일 (금요일)</li>
   <li> 2차 사전등록 마감: 8월 11일 (금요일)</li>
@@ -98,43 +95,9 @@ title: SIGPL 여름학교 2023
 
 <h2>숙박안내</h2>
 
-시내 호텔등에 개별적으로 예약해주시기 바랍니다.</br>
+시내 호텔등에 개별적으로 예약해주시기 바랍니다.<br>
 [추천 호텔: 공지 예정 입니다.]
-
-<!--
-<ul>
-<li><a href="https://www.hotelahill.com/">아리랑힐 호텔 동대문</a></li> (대중교통 15분, 도보 25분)
-</ul>
--->
-
-<!--
-## 교내 숙박 안내
-
-<table border="1" bordercolor="#a0a0a0" cellspacing="0">
-<tbody><tr><th>장소</th><th>인원</th><th>1박</th><th>2박</th><th>구성</th></tr>
-<tr align="center"><th> 학생기숙사BTL </th><td>1인 1실</td><td>28,000원</td><td>45,000원</td><td>(1인 x 17,000원/박 x N박 + 이불대여료 11,000원)		</td></tr>
-<tr align="center"><th> &nbsp; </th><td>2인 1실</td><td>44,000원</td><td>66,000원</td><td>(2인 x 11,000원/박 x N박 + 2인 x 이불대여료 11,000원)</td></tr>
-<tr align="center"><th> G&R 게스트하우스 </th><td>1인 1실</td><td>35,000원</td><td>70,000원</td><td>(1인 x 35,000원/박 x N박)</td></tr>
-</tbody></table>
-
-[교내 숙박 등록 홈페이지](https://forms.gle/fnH1rtMh36BzWdE36)
-<br>
-(여름학교 행사 등록과 별도로 신청하고 비용을 계좌 이체 - 선착순 배정)
-
-
-## 오픈 채팅방
-
-<https://open.kakao.com/o/ghpNl4ve>
-암호: 현장에서 알려드립니다.
--->
 
 <h2>오시는 길</h2>
 
-
 [행사장소: 공지 예정 입니다.]
-
-<!--
-[행사장소:
-<a href="https://map.naver.com/v5/search/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90%20%EC%84%9C%EC%9A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%95%98%EB%82%98%EC%8A%A4%ED%80%98%EC%96%B4/place/18902329?c=18,0,0,0,dh&isCorrectAnswer=true">고려대학교 서울캠퍼스 하나스퀘어</a> (강당, B112호)]
-<br>
--->
