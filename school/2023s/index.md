@@ -68,9 +68,9 @@ title: SIGPL 여름학교 2023
   <tr><td bgcolor="white"> 15:15-18:00 </td> <td bgcolor="white"> 자유시간 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 18:00- </td> <td bgcolor="white"> 저녁 (banquet) </td><td bgcolor="white"> </td></tr>
   <tr><th colspan="3" align="left"> 8월 25일 (금요일)  </th></tr>
-  <tr><td bgcolor="white"> 10:30-10:55 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 이성환 (서울대학교) </td></tr>
+  <tr><td bgcolor="white"> 10:30-10:55 </td> <td bgcolor="white"> [초청강연] PLDI 논문 좌충우돌 연구 경험 </td><td bgcolor="white"> 이성환 (서울대학교) </td></tr>
   <tr><td bgcolor="white"> 10:55-11:20 </td> <td bgcolor="white"> [초청강연] Fair Operational Semantics 뒷이야기 </td><td bgcolor="white"> 조민기 (서울대학교) </td></tr>
-  <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] PLDI 논문 연구 성과 발표 </td><td bgcolor="white"> 조경민 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] PLDI 논문 좌충우돌 연구 경험 </td><td bgcolor="white"> 조경민 (KAIST) </td></tr>
   <tr><td bgcolor="white"> 11:45- </td> <td bgcolor="white"> 폐회 </td><td bgcolor="white"> </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
@@ -100,6 +100,7 @@ title: SIGPL 여름학교 2023
 
 시내 호텔등에 개별적으로 예약해주시기 바랍니다.
 
+[추천 호텔: 공지 예정 입니다.]<br>
 <!--
 <ul>
 <li><a href="https://www.hotelahill.com/">아리랑힐 호텔 동대문</a></li> (대중교통 15분, 도보 25분)
