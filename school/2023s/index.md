@@ -27,9 +27,9 @@ title: SIGPL 여름학교 2023
   한국정보과학회 프로그래밍언어연구회에서 주최하는 2023 여름학교에 여러분을 초대합니다.
   프로그래밍언어연구회에서는 매년 최신 연구 동향 소개와 함께 참가자들이 교류할 수 있는 자리를 마련해 왔습니다.
   이번 여름학교에서는 최근 화제가 되고 있는 large language model에 대한 강연, 한국을 대표하는 머신러닝
-  가속기 스타트업들의 개발 동향 강연 및 패널 토론, 올해 PLDI에서 좋은 성과를 낸 본 연구회 소속 회원들의 연구
-  접근 방법 등에 대한 강연, 각 연구실에서 진행 중인 연구들을 소개하는 시간을 마련하였습니다. 
-  프로그래밍언어연구회 2023 여름학교에 여러분의 많은 관심과 참여를 바랍니다.
+  가속기 스타트업들의 개발 동향 강연 및 패널 토론, 올해 PLDI에서 좋은 성과를 낸 본 연구회 소속 회원들에게서 
+  해당 연구 과정 중에 겪은 좌충우돌과 값진 경험들을 나누는 시간을, 그리고 각 연구실에서 진행 중인 연구들을 
+  소개하는 시간을 마련하였습니다. 프로그래밍언어연구회 2023 여름학교에 여러분의 많은 관심과 참여를 바랍니다.
 </p>
 
 <p align="right">
@@ -52,13 +52,13 @@ title: SIGPL 여름학교 2023
 
   <tr><th colspan="3" align="left"> 8월 23일 (수요일)  </th></tr>
   <tr><td bgcolor="white"> 12:00-13:30 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:30-14:45 </td> <td bgcolor="white"> [튜토리얼] Large Language Model 특강 (1) </td><td bgcolor="white"> 류연희 (KAIST) </td></tr>
-  <tr><td bgcolor="white"> 14:45-14:55 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:55-16:10 </td> <td bgcolor="white"> [튜토리얼] Large Language Model 특강 (2)  </td><td bgcolor="white"> 류연희 (KAIST) </td></tr>
-  <tr><td bgcolor="white"> 16:10-16:20 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 16:20-17:50 </td> <td bgcolor="white"> 번개발표 (5분 * 18개) </td><td bgcolor="white"> 대학원생 </td></tr>
-  <tr><td bgcolor="white"> 17:50-19:20 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 19:20-21:20 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생  </td></tr>
+  <tr><td bgcolor="white"> 13:30-14:45 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 언어모델 구현</a> (1) </td><td bgcolor="white"> <a href="tutorial.html">류연희 (KAIST)</a> </td></tr>
+  <tr><td bgcolor="white"> 14:45-15:00 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 15:00-16:15 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 언어모델 구현</a> (2)  </td><td bgcolor="white"> <a href="tutorial.html">류연희 (KAIST)</a> </td></tr>
+  <tr><td bgcolor="white"> 16:15-16:30 </td> <td bgcolor="white"> 10분 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 16:30-18:00 </td> <td bgcolor="white"> 번개발표 (5분 * 18개) </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 18:00-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 19:30-21:30 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생  </td></tr>
   <tr><th colspan="3" align="left"> 8월 24일 (목요일)  </th></tr>
   <tr><td bgcolor="white"> 10:30-11:20 </td> <td bgcolor="white"> [초청강연] Feature-Sensitive Coverage for Conformance Testing of Programming Language Implementations </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr>
   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] 정적 분석으로 입출력 예제 기반 합성 문제 잘 풀기 </td><td bgcolor="white"> 윤용호 (서울대학교) </td></tr>
