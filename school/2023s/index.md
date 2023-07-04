@@ -96,7 +96,15 @@ title: SIGPL 여름학교 2023
 <h2>숙박안내</h2>
 
 시내 호텔등에 개별적으로 예약해주시기 바랍니다.<br>
-[추천 호텔: 공지 예정 입니다.]
+<ul>
+    <li><a href="https://www.google.com/travel/hotels/s/84AmJEnTmkYU5jGw8">호텔벤틀리</a>(도보 20분, 1박 기준): 6~8만원(2인실)</li>
+    <li><a href="https://www.istia.co.kr/">호텔이스티아</a>(대중교통 10분, 도보 25분, 1박 기준): 8~11만원(2인실)</li>
+    <li><a href="http://www.bomstay.com/">봄스테이</a>(대중교통 10분, 도보 30분, 1박 기준): 6~8만원(2인실)</li>
+    <li><a href="http://jacksonhotel.co.kr/">더잭슨나인스호텔</a>(차량 15분, 1박 기준): 8~12만원(2인실)</li>
+    <li><a href="https://ssmdstay.com/">상상마당 춘천 스테이 호텔</a>(차량 20분, 1박 기준): 9~15만원(2인실)</li>
+</ul>
+
+*대중교통: 교내에서 탑승 가능한 300번 시내버스
 
 <h2>오시는 길</h2>
 
