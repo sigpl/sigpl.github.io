@@ -56,9 +56,9 @@ title: SIGPL 여름학교 2023
   <tr><td bgcolor="white"> 14:45-15:00 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 15:00-16:15 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 언어모델 구현</a> (2)  </td><td bgcolor="white"> <a href="tutorial.html">류연희, 허기홍 (KAIST)</a> </td></tr>
   <tr><td bgcolor="white"> 16:15-16:30 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 16:30-18:00 </td> <td bgcolor="white"> 번개발표 (5분 * 18개) </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 16:30-18:00 </td> <td bgcolor="white"> <a href="lightening.html">번개발표 (5분 * 18개)</a> </td><td bgcolor="white"> 대학원생 </td></tr>
   <tr><td bgcolor="white"> 18:00-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 19:30-21:30 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생  </td></tr>
+  <tr><td bgcolor="white"> 19:30-21:30 </td> <td bgcolor="white"> <a href="poster.html">포스터 발표</a> </td><td bgcolor="white"> 대학원생  </td></tr>
   <tr><th colspan="3" align="left"> 8월 24일 (목요일)  </th></tr>
   <tr><td bgcolor="white"> 10:30-11:20 </td> <td bgcolor="white"> [초청강연] Feature-Sensitive Coverage for Conformance Testing of Programming Language Implementations </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr>
   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] 정적 분석으로 입출력 예제 기반 합성 문제 잘 풀기 </td><td bgcolor="white"> 윤용호 (서울대학교) </td></tr>
