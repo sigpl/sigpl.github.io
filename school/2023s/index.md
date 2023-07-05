@@ -60,7 +60,7 @@ title: SIGPL 여름학교 2023
   <tr><td bgcolor="white"> 18:00-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 19:30-21:30 </td> <td bgcolor="white"> <a href="poster.html">포스터 발표</a> </td><td bgcolor="white"> 대학원생  </td></tr>
   <tr><th colspan="3" align="left"> 8월 24일 (목요일)  </th></tr>
-  <tr><td bgcolor="white"> 10:30-11:20 </td> <td bgcolor="white"> [초청강연] Feature-Sensitive Coverage for Conformance Testing of Programming Language Implementations </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr>
+  <tr><td bgcolor="white"> 10:30-11:20 </td> <td bgcolor="white"> [초청강연] PL 구현체를 위한 새로운 커버리지를 제안하기까지의 여정 </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr>
   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] 정적 분석으로 입출력 예제 기반 합성 문제 잘 풀기 </td><td bgcolor="white"> 윤용호 (서울대학교) </td></tr>
   <tr><td bgcolor="white"> 11:45-13:15 </td> <td bgcolor="white"> 점심 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:15-14:15 </td> <td bgcolor="white"> [초청강연] 머신러닝 가속기 스타트업 특강 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순 </td></tr>
