@@ -68,7 +68,7 @@ title: SIGPL 여름학교 2023
   <tr><td bgcolor="white"> 15:15-18:00 </td> <td bgcolor="white"> 자유시간 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 18:00- </td> <td bgcolor="white"> 저녁 (banquet) </td><td bgcolor="white"> </td></tr>
   <tr><th colspan="3" align="left"> 8월 25일 (금요일)  </th></tr>
-  <tr><td bgcolor="white"> 10:30-10:55 </td> <td bgcolor="white"> [초청강연] PLDI 논문 좌충우돌 연구 경험 </td><td bgcolor="white"> 이성환 (서울대학교) </td></tr>
+  <tr><td bgcolor="white"> 10:30-10:55 </td> <td bgcolor="white"> [초청강연] 쉽고 간단한 동시성 메모리 모델을 만들기까지</td><td bgcolor="white"> 이성환 (서울대학교) </td></tr>
   <tr><td bgcolor="white"> 10:55-11:20 </td> <td bgcolor="white"> [초청강연] 공정한 실행의미(Fair Operational Semantics) - 논문 탄생 비화 </td><td bgcolor="white"> 조민기 (서울대학교) </td></tr>
   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] PLDI 논문 좌충우돌 연구 경험 </td><td bgcolor="white"> 조경민 (KAIST) </td></tr>
   <tr><td bgcolor="white"> 11:45- </td> <td bgcolor="white"> 폐회 </td><td bgcolor="white"> </td></tr>
