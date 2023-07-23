@@ -14,7 +14,7 @@ title: SIGPL 여름학교 2023
 <li>
     일시: 2023년 8월 23일 (수) ~ 2023년 8월 25일 (금)
 </li><li>
-    장소: 강원특별자치도 강원대학교 춘천캠퍼스
+    장소: 강원특별자치도 강원대학교 춘천캠퍼스 실사구시관
 </li><li>
     주최: 한국정보과학회 프로그래밍언어연구회
 </li><li>
@@ -82,7 +82,7 @@ title: SIGPL 여름학교 2023
 <h2>등록</h2>
 
 <ul>
-  <li> 1차 사전등록 마감: 7월 21일 (금요일)</li>
+  <li> 1차 사전등록 마감: 7월 28일 (금요일)</li>
   <li> 2차 사전등록 마감: 8월 11일 (금요일)</li>
   <li> 등록 방법: <a href= "https://www.kiise.or.kr/conference/conf/131/" target="_blank"> <font color="red">등록 페이지</font> </a>를 통하여 등록할 수 있습니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
@@ -109,5 +109,7 @@ title: SIGPL 여름학교 2023
 *대중교통: 교내에서 탑승 가능한 300번 시내버스
 
 <h2>오시는 길</h2>
-
-[행사장소: 공지 예정 입니다.]
+<p>
+    <li><a href="https://wwwk.kangwon.ac.kr/www/contents.do?key=59">강원대학교 춘천캠퍼스</a></li>
+    <li>행사장: <a href="https://naver.me/5MwydJUL">실사구시관</a></li>
+</p>
