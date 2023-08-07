@@ -54,9 +54,9 @@ title: SIGPL 여름학교 2023
 
   <tr><th colspan="3" align="left"> 8월 23일 (수요일)  </th></tr>
   <tr><td bgcolor="white"> 12:00-13:30 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:30-14:45 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 언어모델 구현</a> (1) </td><td bgcolor="white"> <a href="tutorial.html">류연희, 허기홍 (KAIST)</a> </td></tr>
+  <tr><td bgcolor="white"> 13:30-14:45 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 프로그래밍 언어 모델 구현</a> (1) </td><td bgcolor="white"> <a href="tutorial.html">류연희, 허기홍 (KAIST)</a> </td></tr>
   <tr><td bgcolor="white"> 14:45-15:00 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:00-16:15 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 언어모델 구현</a> (2)  </td><td bgcolor="white"> <a href="tutorial.html">류연희, 허기홍 (KAIST)</a> </td></tr>
+  <tr><td bgcolor="white"> 15:00-16:15 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 프로그래밍 언어 모델 구현</a> (2)  </td><td bgcolor="white"> <a href="tutorial.html">류연희, 허기홍 (KAIST)</a> </td></tr>
   <tr><td bgcolor="white"> 16:15-16:30 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 16:30-18:00 </td> <td bgcolor="white"> <a href="lightening.html">번개발표 (5분 * 18개)</a> </td><td bgcolor="white"> 대학원생 </td></tr>
   <tr><td bgcolor="white"> 18:00-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr>
