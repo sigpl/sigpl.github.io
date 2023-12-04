@@ -35,8 +35,8 @@ title: SIGPL 겨울학교 2024
 </p>
 
 <p align="right">
-조직위원장: 강지훈 (KAIST)<br>
-프로그램위원: 이성호 (충남대, 위원장), TBA
+조직위원장: [강지훈](https://www.fearless.systems/jeehoon.kang/) (KAIST)<br>
+프로그램위원: [이성호](https://sites.google.com/view/sat-lab/sungholee) (충남대, 위원장), [황성재](https://softsec.skku.edu/) (성균관대), [박지혁](https://plrg.korea.ac.kr/members/jihyeok.park.html) (고려대)
 </p>
 
 <h2>프로그램</h2>
