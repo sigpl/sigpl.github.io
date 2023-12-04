@@ -31,12 +31,12 @@ title: SIGPL 겨울학교 2024
 </p>
 
 <p align="right">
-한국정보과학회 프로그래밍언어연구회 공동운영위원장 [오학주](http://prl.korea.ac.kr/~pronto/home/) (고려대), [임현승](https://pl.kangwon.ac.kr/hsim/) (강원대)
+한국정보과학회 프로그래밍언어연구회 공동운영위원장 <a href="http://prl.korea.ac.kr/~pronto/home/">오학주</a> (고려대), <a href="https://pl.kangwon.ac.kr/hsim/">임현승</a> (강원대)
 </p>
 
 <p align="right">
-조직위원장: [강지훈](https://www.fearless.systems/jeehoon.kang/) (KAIST)<br>
-프로그램위원: [이성호](https://sites.google.com/view/sat-lab/sungholee) (충남대, 위원장), [황성재](https://softsec.skku.edu/) (성균관대), [박지혁](https://plrg.korea.ac.kr/members/jihyeok.park.html) (고려대)
+조직위원장: <a href="https://www.fearless.systems/jeehoon.kang/">강지훈</a> (KAIST)<br>
+프로그램위원: <a href="https://sites.google.com/view/sat-lab/sungholee">이성호</a> (충남대, 위원장), <a href="https://softsec.skku.edu/">황성재</a> (성균관대), <a href="https://plrg.korea.ac.kr/members/jihyeok.park.html">박지혁</a> (고려대)
 </p>
 
 <h2>프로그램</h2>
