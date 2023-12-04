@@ -31,7 +31,7 @@ title: SIGPL 겨울학교 2024
 </p>
 
 <p align="right">
-한국정보과학회 프로그래밍언어연구회 공동운영위원장 오학주 (고려대), 임현승 (강원대)
+한국정보과학회 프로그래밍언어연구회 공동운영위원장 [오학주](http://prl.korea.ac.kr/~pronto/home/) (고려대), [임현승](https://pl.kangwon.ac.kr/hsim/) (강원대)
 </p>
 
 <p align="right">
