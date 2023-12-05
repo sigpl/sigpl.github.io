@@ -78,7 +78,7 @@ TBA
 <h2>등록</h2>
 
 <ul>
-  <li> 1차 사전등록 마감: 2023년 12월 26일 (금요일)</li>
+  <li> 1차 사전등록 마감: 2023년 12월 29일 (금요일)</li>
   <li> 2차 사전등록 마감: 2024년 1월 19일 (금요일)</li>
   <li> 등록 방법: TBA
   <!-- <a href= "https://www.kiise.or.kr/conference/conf/131/" target="_blank"><font color="red">등록 페이지</font></a>를 통하여 등록할 수 있습니다. -->
