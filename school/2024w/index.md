@@ -35,7 +35,7 @@ title: SIGPL 겨울학교 2024
 </p>
 
 <p align="right">
-조직위원장: <a href="https://www.fearless.systems/jeehoon.kang/">강지훈</a> (KAIST)<br>
+조직위원: <a href="https://www.fearless.systems/jeehoon.kang/">강지훈</a> (KAIST)<br>
 프로그램위원: <a href="https://sites.google.com/view/sat-lab/sungholee">이성호</a> (충남대, 위원장), <a href="https://softsec.skku.edu/">황성재</a> (성균관대), <a href="https://plrg.korea.ac.kr/members/jihyeok.park.html">박지혁</a> (고려대)
 </p>
 
@@ -95,4 +95,4 @@ TBA
 <h2>숙박안내</h2>
 
 시내 호텔 등에 개별적으로 예약해주시기 바랍니다.
-<a href="https://www.dcckorea.or.kr/page.do?pageId=153&menuNo=63">차로 5-10분거리에 있는 호텔 목록</a> 참고바랍니다.
+<a href="https://www.dcckorea.or.kr/content/view.do?contentKey=71&menuKey=116">차로 5-10분거리에 있는 호텔 목록</a> 참고바랍니다.
