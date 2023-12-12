@@ -80,8 +80,7 @@ TBA
 <ul>
   <li> 1차 사전등록 마감: 2023년 12월 29일 (금요일)</li>
   <li> 2차 사전등록 마감: 2024년 1월 19일 (금요일)</li>
-  <li> 등록 방법: TBA
-  <!-- <a href= "https://www.kiise.or.kr/conference/conf/131/" target="_blank"><font color="red">등록 페이지</font></a>를 통하여 등록할 수 있습니다. -->
+  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/141/">등록 페이지</a>를 통해 부탁드립니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>사전 등록(1차) </th><td>150,000원</td><td>250,000원</td></tr>
@@ -95,4 +94,12 @@ TBA
 <h2>숙박안내</h2>
 
 시내 호텔 등에 개별적으로 예약해주시기 바랍니다.
-<a href="https://www.dcckorea.or.kr/content/view.do?contentKey=71&menuKey=116">차로 5-10분거리에 있는 호텔 목록</a> 참고바랍니다.
+<ul>
+    <li><a href="https://www.dcckorea.or.kr/content/view.do?contentKey=71&menuKey=116">차로 5-10분거리에 있는 호텔 목록</a> 참고바랍니다.</li>
+    <li>
+    <a href="https://www.hotelinterciti.com/">호텔 인터시티</a>: 홈페이지에서 프로모션코드 "KAIST1"를 넣으시면 할인된 가격에 예약할 수 있습니다.
+    </li>
+    <li>
+    <a href="http://hotel.hotelicc.com/">호텔 ICC</a>: <a href="mailto:hotelicc@naver.com">이메일</a>을 통해 <a href="https://docs.google.com/document/d/11Ykacw4dijxFyUFVus7L4wfuwFunXzKX/edit?usp=sharing&ouid=102096615356641196121&rtpof=true&sd=true">지정된 예약폼</a>으로 할인된 가격에 예약할 수 있습니다.
+    </li>
+</ul>
