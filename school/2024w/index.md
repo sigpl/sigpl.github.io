@@ -51,24 +51,24 @@ title: SIGPL 겨울학교 2024
   <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:00 ~ 13:10 </td> <td bgcolor="white"> 개회사 </td><td bgcolor="white"> 강지훈 (KAIST) </td></tr>
   <tr><td bgcolor="white"> 13:10 ~ 13:20 </td> <td bgcolor="white"> 전체 프로그램 설명 </td><td bgcolor="white"> 이성호 (충남대) </td></tr>
-  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1) 다중 노드 환경에서 빅데이터 스트리밍 엔진의 성능 평가 방법 </td><td bgcolor="white"> 양신형 (연세대) </td></tr>
+  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1) 딥 전이학습 기반 프로그램 자동 수정: 산업 적용 사례를 중심으로 </td><td bgcolor="white"> 김미수 (전남대) </td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:30 ~ 16:10 </td> <td bgcolor="white"> 번개 발표 </td><td bgcolor="white"> 대학원생 </td></tr>
   <tr><td bgcolor="white"> 16:10 ~ 18:00 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생 </td></tr>
   <tr><td bgcolor="white"> 18:00 ~       </td> <td bgcolor="white"> 저녁 및 조별 활동 </td><td bgcolor="white"> </td></tr>
   <tr><th colspan="3" align="left"> 12월 1일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연2) 임베디드 시스템을 위한 컴파일러 디자인 </td><td bgcolor="white"> 허선영 (경희대) </td></tr>
-  <tr><td bgcolor="white"> 11:10 ~ 11:50 </td> <td bgcolor="white"> (초청강연3) TBA </td><td bgcolor="white"> 박영준 (연세대) </td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 2) 임베디드 시스템을 위한 컴파일러 디자인 </td><td bgcolor="white"> 허선영 (경희대) </td></tr>
+  <tr><td bgcolor="white"> 11:10 ~ 11:50 </td> <td bgcolor="white"> (초청강연 3) TBA </td><td bgcolor="white"> 박영준 (연세대) </td></tr>
   <tr><td bgcolor="white"> 11:50 ~ 13:30 </td> <td bgcolor="white"> 점심식사 </td><td bgcolor="white"> <a href="https://naver.me/5pN0rsL1"> 교수회관 </a> </td></tr>
-  <tr><td bgcolor="white"> 13:30 ~ 14:10 </td> <td bgcolor="white"> (초청강연4) LeakPair: 단일페이지 웹 어플리케이션내의 메모리 누수를 고치기 위한 선제적 디버깅 </td><td bgcolor="white"> 김동선 (경북대) </td></tr>
-  <tr><td bgcolor="white"> 14:10 ~ 14:50 </td> <td bgcolor="white"> (초청강연5) 딥 전이학습 기반 프로그램 자동 수정: 산업 적용 사례를 중심으로 </td><td bgcolor="white"> 김미수 (전남대) </td></tr>
+  <tr><td bgcolor="white"> 13:30 ~ 14:10 </td> <td bgcolor="white"> (초청강연 4) LeakPair: 단일페이지 웹 어플리케이션내의 메모리 누수를 고치기 위한 선제적 디버깅 </td><td bgcolor="white"> 김동선 (경북대) </td></tr>
+  <tr><td bgcolor="white"> 14:10 ~ 14:50 </td> <td bgcolor="white"> (초청강연 5) 다중 노드 환경에서 빅데이터 스트리밍 엔진의 성능 평가 방법 </td><td bgcolor="white"> 양신형 (연세대) </td></tr>
   <tr><td bgcolor="white"> 14:50 ~ 15:00 </td> <td bgcolor="white"> 사진촬영 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:20 ~ 16:00 </td> <td bgcolor="white"> (초청강연6) 소프트 오류로부터의 신뢰성 향상을 위한 비트 단위 정적 분석 기법 </td><td bgcolor="white"> 고유선 (연세대) </td></tr>
+  <tr><td bgcolor="white"> 15:20 ~ 16:00 </td> <td bgcolor="white"> (초청강연 6) 소프트 오류로부터의 신뢰성 향상을 위한 비트 단위 정적 분석 기법 </td><td bgcolor="white"> 고유선 (연세대) </td></tr>
   <tr><td bgcolor="white"> 16:00 ~ 18:00 </td> <td bgcolor="white"> 조별활동 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 18:00 ~       </td> <td bgcolor="white"> 뱅큇 </td><td bgcolor="white"> <a href="https://naver.me/5pN0rsL1"> 교수회관 </a> </td></tr>
   <tr><th colspan="3" align="left"> 12월 2일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연7) 코드 속성 그래프의 부분 그래프 매칭을 통한 대규모 취약점 탐지 </td><td bgcolor="white"> 위성일 (UNIST) </td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 7) 코드 속성 그래프의 부분 그래프 매칭을 통한 대규모 취약점 탐지 </td><td bgcolor="white"> 위성일 (UNIST) </td></tr>
   <tr><td bgcolor="white"> 11:10 ~ 11:40 </td> <td bgcolor="white"> 조별활동 콘테스트 및 시상 / 포스터 시상 </td><td bgcolor="white"> 박지혁 (고려대) </td></tr>
   <tr><td bgcolor="white"> 11:40 ~ 11:50 </td> <td bgcolor="white"> 폐회사 </td><td bgcolor="white"> 강지훈 (KAIST) </td></tr>
 </tbody>
