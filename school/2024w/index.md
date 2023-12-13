@@ -41,39 +41,39 @@ title: SIGPL 겨울학교 2024
 
 <h2>프로그램</h2>
 
-<!-- <ul> -->
-<!--   <table border="0" cellspacing="0"> -->
-<!--   <tbody><tr><td bgcolor="#cccccc"> -->
-<!--   <table border="0" cellspacing="1pt"> -->
-<!-- <tbody> -->
+<ul>
+  <table border="0" cellspacing="0">
+  <tbody><tr><td bgcolor="#cccccc">
+  <table border="0" cellspacing="1pt">
+<tbody>
 
-<!--   <tr><th colspan="3" align="left"> 8월 23일 (수요일)  </th></tr> -->
-<!--   <tr><td bgcolor="white"> 12:00-13:30 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr> -->
-<!--   <tr><td bgcolor="white"> 13:30-14:45 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 프로그래밍 언어 모델 구현</a> (1) </td><td bgcolor="white"> <a href="tutorial.html">류연희, 허기홍 (KAIST)</a> </td></tr> -->
-<!--   <tr><td bgcolor="white"> 14:45-15:00 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr> -->
-<!--   <tr><td bgcolor="white"> 15:00-16:15 </td> <td bgcolor="white"> [튜토리얼] <a href="tutorial.html">손에 잡히는 프로그래밍 언어 모델 구현</a> (2)  </td><td bgcolor="white"> <a href="tutorial.html">류연희, 허기홍 (KAIST)</a> </td></tr> -->
-<!--   <tr><td bgcolor="white"> 16:15-16:30 </td> <td bgcolor="white"> 15분 휴식 </td><td bgcolor="white"> </td></tr> -->
-<!--   <tr><td bgcolor="white"> 16:30-18:00 </td> <td bgcolor="white"> <a href="lightening.html">번개발표 (15개)</a> </td><td bgcolor="white"> 대학원생 </td></tr> -->
-<!--   <tr><td bgcolor="white"> 18:00-19:30 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> </td></tr> -->
-<!--   <tr><td bgcolor="white"> 19:30-21:30 </td> <td bgcolor="white"> <a href="poster.html">포스터 발표</a> </td><td bgcolor="white"> 대학원생  </td></tr> -->
-<!--   <tr><th colspan="3" align="left"> 8월 24일 (목요일)  </th></tr> -->
-<!--   <tr><td bgcolor="white"> 10:30-11:20 </td> <td bgcolor="white"> [초청강연] PL 구현체를 위한 새로운 커버리지를 제안하기까지의 여정 </td><td bgcolor="white"> 박지혁 (고려대학교) </td></tr> -->
-<!--   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] 정적 분석으로 입출력 예제 기반 합성 문제 잘 풀기 </td><td bgcolor="white"> 윤용호 (서울대학교) </td></tr> -->
-<!--   <tr><td bgcolor="white"> 11:45-13:15 </td> <td bgcolor="white"> 점심 </td><td bgcolor="white"> </td></tr> -->
-<!--   <tr><td bgcolor="white"> 13:15-14:15 </td> <td bgcolor="white"> [초청강연] 머신러닝 가속기 스타트업 특강 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순 </td></tr> -->
-<!--   <tr><td bgcolor="white"> 14:15-15:15 </td> <td bgcolor="white"> [토론] 머신러닝 가속기 스타트업 패널 토론 </td><td bgcolor="white"> 김한준 CTO (퓨리오사AI), 오진욱 CTO (리벨리온), 황석중 기술 총괄 (사피온) - 가나다순, 진행: 류석영 (KAIST) </td></tr> -->
-<!--   <tr><td bgcolor="white"> 15:15-18:00 </td> <td bgcolor="white"> 자유시간 </td><td bgcolor="white"> </td></tr> -->
-<!--   <tr><td bgcolor="white"> 18:00- </td> <td bgcolor="white"> 저녁 (banquet) </td><td bgcolor="white"> </td></tr> -->
-<!--   <tr><th colspan="3" align="left"> 8월 25일 (금요일)  </th></tr> -->
-<!--   <tr><td bgcolor="white"> 10:30-10:55 </td> <td bgcolor="white"> [초청강연] 쉽고 간단한 동시성 메모리 모델을 만들기까지</td><td bgcolor="white"> 이성환 (서울대학교) </td></tr> -->
-<!--   <tr><td bgcolor="white"> 10:55-11:20 </td> <td bgcolor="white"> [초청강연] 공정한 실행의미(Fair Operational Semantics) - 논문 탄생 비화 </td><td bgcolor="white"> 조민기 (서울대학교) </td></tr> -->
-<!--   <tr><td bgcolor="white"> 11:20-11:45 </td> <td bgcolor="white"> [초청강연] 용 잡는 방법(영속성 메모리 프로그래밍)으로 논문 내기 </td><td bgcolor="white"> 조경민 (KAIST) </td></tr> -->
-<!--   <tr><td bgcolor="white"> 11:45- </td> <td bgcolor="white"> 폐회 </td><td bgcolor="white"> </td></tr> -->
-<!-- </tbody> -->
-<!--   </table></td></tr></tbody></table> -->
-<!-- </ul> -->
-
-TBA
+  <tr><th colspan="3" align="left"> 1월 31일 (수요일) </th></tr>
+  <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 13:00 ~ 13:10 </td> <td bgcolor="white"> 개회사 </td><td bgcolor="white"> 강지훈 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 13:10 ~ 13:20 </td> <td bgcolor="white"> 전체 프로그램 설명 </td><td bgcolor="white"> 이성호 (충남대) </td></tr>
+  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1) 다중 노드 환경에서 빅데이터 스트리밍 엔진의 성능 평가 방법 </td><td bgcolor="white"> 양신형 (연세대) </td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 14:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 14:30 ~ 16:10 </td> <td bgcolor="white"> 번개 발표 </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 16:10 ~ 18:00 </td> <td bgcolor="white"> 포스터 발표 </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 18:00 ~       </td> <td bgcolor="white"> 저녁 및 조별 활동 </td><td bgcolor="white"> </td></tr>
+  <tr><th colspan="3" align="left"> 12월 1일 (목요일) </th></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연2) 임베디드 시스템을 위한 컴파일러 디자인 </td><td bgcolor="white"> 허선영 (경희대) </td></tr>
+  <tr><td bgcolor="white"> 11:10 ~ 11:50 </td> <td bgcolor="white"> (초청강연3) TBA </td><td bgcolor="white"> 박영준 (연세대) </td></tr>
+  <tr><td bgcolor="white"> 11:50 ~ 13:30 </td> <td bgcolor="white"> 점심식사 </td><td bgcolor="white"> <a href="https://naver.me/5pN0rsL1"> 교수회관 </a> </td></tr>
+  <tr><td bgcolor="white"> 13:30 ~ 14:10 </td> <td bgcolor="white"> (초청강연4) LeakPair: 단일페이지 웹 어플리케이션내의 메모리 누수를 고치기 위한 선제적 디버깅 </td><td bgcolor="white"> 김동선 (경북대) </td></tr>
+  <tr><td bgcolor="white"> 14:10 ~ 14:50 </td> <td bgcolor="white"> (초청강연5) 딥 전이학습 기반 프로그램 자동 수정: 산업 적용 사례를 중심으로 </td><td bgcolor="white"> 김미수 (전남대) </td></tr>
+  <tr><td bgcolor="white"> 14:50 ~ 15:00 </td> <td bgcolor="white"> 사진촬영 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 15:00 ~ 15:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 15:20 ~ 16:00 </td> <td bgcolor="white"> (초청강연6) 소프트 오류로부터의 신뢰성 향상을 위한 비트 단위 정적 분석 기법 </td><td bgcolor="white"> 고유선 (연세대) </td></tr>
+  <tr><td bgcolor="white"> 16:00 ~ 18:00 </td> <td bgcolor="white"> 조별활동 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 18:00 ~       </td> <td bgcolor="white"> 뱅큇 </td><td bgcolor="white"> <a href="https://naver.me/5pN0rsL1"> 교수회관 </a> </td></tr>
+  <tr><th colspan="3" align="left"> 12월 2일 (금요일) </th></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연7) 코드 속성 그래프의 부분 그래프 매칭을 통한 대규모 취약점 탐지 </td><td bgcolor="white"> 위성일 (UNIST) </td></tr>
+  <tr><td bgcolor="white"> 11:10 ~ 11:40 </td> <td bgcolor="white"> 조별활동 콘테스트 및 시상 / 포스터 시상 </td><td bgcolor="white"> 박지혁 (고려대) </td></tr>
+  <tr><td bgcolor="white"> 11:40 ~ 11:50 </td> <td bgcolor="white"> 폐회사 </td><td bgcolor="white"> 강지훈 (KAIST) </td></tr>
+</tbody>
+  </table></td></tr></tbody></table>
+</ul>
 
 <h2>등록</h2>
 
