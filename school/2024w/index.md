@@ -58,7 +58,7 @@ title: SIGPL 겨울학교 2024
   <tr><td bgcolor="white"> 18:00 ~       </td> <td bgcolor="white"> 저녁 및 조별 활동 </td><td bgcolor="white"> </td></tr>
   <tr><th colspan="3" align="left"> 2월 1일 (목요일) </th></tr>
   <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 2) 임베디드 시스템을 위한 컴파일러 디자인 </td><td bgcolor="white"> 허선영 (경희대) </td></tr>
-  <tr><td bgcolor="white"> 11:10 ~ 11:50 </td> <td bgcolor="white"> (초청강연 3) TBA </td><td bgcolor="white"> 박영준 (연세대) </td></tr>
+  <tr><td bgcolor="white"> 11:10 ~ 11:50 </td> <td bgcolor="white"> (초청강연 3) 근사 컴퓨팅의 자동 적용을 위한 컴파일러 최적화 기법 </td><td bgcolor="white"> 박영준 (연세대) </td></tr>
   <tr><td bgcolor="white"> 11:50 ~ 13:30 </td> <td bgcolor="white"> 점심식사 </td><td bgcolor="white"> <a href="https://naver.me/5pN0rsL1"> 교수회관 </a> </td></tr>
   <tr><td bgcolor="white"> 13:30 ~ 14:10 </td> <td bgcolor="white"> (초청강연 4) LeakPair: 단일페이지 웹 어플리케이션내의 메모리 누수를 고치기 위한 선제적 디버깅 </td><td bgcolor="white"> 김동선 (경북대) </td></tr>
   <tr><td bgcolor="white"> 14:10 ~ 14:50 </td> <td bgcolor="white"> (초청강연 5) 다중 노드 환경에서 빅데이터 스트리밍 엔진의 성능 평가 방법 </td><td bgcolor="white"> 양신형 (연세대) </td></tr>
