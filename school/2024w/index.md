@@ -103,3 +103,9 @@ title: SIGPL 겨울학교 2024
     <a href="http://hotel.hotelicc.com/">호텔 ICC</a>: <a href="mailto:hotelicc@naver.com">이메일</a>을 통해 <a href="https://docs.google.com/document/d/11Ykacw4dijxFyUFVus7L4wfuwFunXzKX/edit?usp=sharing&ouid=102096615356641196121&rtpof=true&sd=true">지정된 예약폼</a>으로 할인된 가격에 예약할 수 있습니다.
     </li>
 </ul>
+
+<h2>후원</h2>
+
+<ul>
+    <li><a href="https://www.nshc.net/">NSHC</a> (<a href="https://www.dailysecu.com/news/articleView.html?idxno=141885">회사 관련 기사</a>): 2004년 해커들의 모임으로 시작된 NSHC는 2008년 법인 설립 후 아시아 최고의 정보보안기업이 되기 위한 목표를 가지고 보안 컨설팅, 모바일 보안 솔루션 개발, 악성코드 분석 및 취약점 정보 제공(ISAC) 분야에 집중하고 있는 정보보안 벤처기업입니다. 국내는 물론 싱가포르와 일본 등의 해외 지사를 통해 세계적인 IT 보안 전문 기업으로의 성장을 위해 노력하고 있습니다. 현재 모바일 보안 솔루션 시장에서는 점유율 1위를 차지하며, 국내 약 180개의 스마트폰 금융 애플리케이션에 제품을 공급하고 있으며, 금융보안 특화 정보보안 컨설팅 서비스도 제공하고 있습니다. 2023년 기준으로 89명의 임직원을 보유하고 연매출 94억을 달성하고 있으며, 특히 2017년 LLVM 4.0에 기반한 난독화 솔루션 개발을 시작하여, 최신 버전의 LLVM까지 Swift 지원을 포함한 안정적인 업데이트와 지원을 성공적으로 지속하고 있습니다. 2022년에는 LLVM 연구소를 설립하여 그동안 축적한 LLVM 기반 보안 솔루션을 다양한 분야에 적용하는 동시에, 정형검증과 웹어셈블리를 포함한 추가 연구개발에도 집중하고 있습니다.</li>
+</ul>
