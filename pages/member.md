@@ -2,6 +2,6 @@
 layout: member
 title: member
 permalink: /member/
-redirect_to: /member/2020/
+redirect_to: /member/2022/
 ---
 .
