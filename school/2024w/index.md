@@ -80,7 +80,7 @@ title: SIGPL 겨울학교 2024
 <ul>
   <li> 1차 사전등록 마감: 2023년 12월 29일 (금요일)</li>
   <li> 2차 사전등록 마감: 2024년 1월 19일 (금요일)</li>
-  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/141/">등록 페이지</a>를 통해 부탁드립니다.
+  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/141/"><font color="red">등록 페이지</font></a>를 통해 부탁드립니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>사전 등록(1차) </th><td>150,000원</td><td>250,000원</td></tr>
@@ -88,7 +88,8 @@ title: SIGPL 겨울학교 2024
   <tr align="center"><th>현장 등록 </th><td>200,000원</td><td>350,000원</td></tr>
   </tbody></table>
   </li>
-<li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
+  <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXBjpnXSe0n-rA6ieZLPBfi2R_4MftAiZ8EL2wQGTHksB9wg/viewform"><font color="red">번개 발표 / 포스터 등록</font></a> (마감: <s>1월 12일</s> 1월 19일로 연장)</li>
 </ul>
 
 <h2>숙박안내</h2>
