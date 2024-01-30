@@ -49,7 +49,7 @@ title: SIGPL 겨울학교 2024
 
   <tr><th colspan="3" align="left"> 1월 31일 (수요일) </th></tr>
   <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:00 ~ 13:10 </td> <td bgcolor="white"> 개회사 </td><td bgcolor="white"> 강지훈 (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 13:00 ~ 13:10 </td> <td bgcolor="white"> <a href="https://docs.google.com/presentation/d/1wdla4WafbMy2EgxdWJNzFRTdUvBYXjUwfiWRk4-u9rI/edit#slide=id.p">개회사</a> </td><td bgcolor="white"> 강지훈 (KAIST) </td></tr>
   <tr><td bgcolor="white"> 13:10 ~ 13:20 </td> <td bgcolor="white"> 전체 프로그램 설명 </td><td bgcolor="white"> 이성호 (충남대) </td></tr>
   <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1) 딥 전이학습 기반 프로그램 자동 수정: 산업 적용 사례를 중심으로 </td><td bgcolor="white"> 김미수 (전남대) </td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
