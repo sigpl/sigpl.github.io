@@ -19,7 +19,6 @@ title: SIGPL 겨울학교 2024
     주최: 한국정보과학회 프로그래밍언어연구회
 </li><li>
     후원: <a href="https://www.nshc.net/">NSHC</a>
-</li><li>
 </li></ul>
 </th></tr></tbody></table>
 </center>
