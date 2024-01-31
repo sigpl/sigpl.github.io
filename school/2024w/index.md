@@ -54,7 +54,7 @@ title: SIGPL 겨울학교 2024
   <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1) 딥 전이학습 기반 프로그램 자동 수정: 산업 적용 사례를 중심으로 </td><td bgcolor="white"> 김미수 (전남대) </td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:30 ~ 15:30 </td> <td bgcolor="white"> <a href="./lightening"> 번개 발표 1 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
-  <tr><td bgcolor="white"> 14:30 ~ 15:40 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 15:30 ~ 15:40 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 15:40 ~ 16:30 </td> <td bgcolor="white"> <a href="./lightening"> 번개 발표 2 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> <a href="./poster"> 포스터 발표 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
   <tr><td bgcolor="white"> 18:00 ~       </td> <td bgcolor="white"> 저녁 및 조별 활동 </td><td bgcolor="white"> </td></tr>
