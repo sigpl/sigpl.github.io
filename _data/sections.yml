@@ -14,8 +14,8 @@
   subsections:
           - title: 회원가입
             ssid: join
-          - title: 논문지투고
-            ssid: submit
+          - title: 연락처
+            ssid: contact
 - title: 행사
   sid: events
   subsections:
@@ -30,10 +30,3 @@
     ssid: journal
   - title: 번역용례
     ssid: term
-- title: 연결
-  sid: conn
-  subsections:
-  - title: 관련연구실
-    ssid: link
-  - title: 연락처
-    ssid: contact
