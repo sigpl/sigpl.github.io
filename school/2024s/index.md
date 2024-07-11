@@ -42,8 +42,8 @@ title: SIGPL 여름학교 2024
 
 
 <p style="text-align: right">
-조직위원: <a href="https://sal.skku.edu/">차수영</a> (성균관대)<br>
-프로그램위원: <a href="https://softsec.skku.edu/">황성재</a> (성균관대)
+조직위원장: <a href="https://sal.skku.edu/">차수영</a> (성균관대)<br>
+프로그램위원장: <a href="https://softsec.skku.edu/">황성재</a> (성균관대)
 </p>
 
 <h2>프로그램</h2>
@@ -79,8 +79,8 @@ title: SIGPL 여름학교 2024
   <tr><td bgcolor="white"> 18:00 ~ </td> <td bgcolor="white"> 뱅큇 </td><td bgcolor="white"> </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 23일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 10:55 </td> <td bgcolor="white"> (초청강연 7): 프레시 박사 진출 졸업생 </td><td bgcolor="white"> TBD </td></tr>
-  <tr><td bgcolor="white"> 10:55 ~ 11:20 </td> <td bgcolor="white"> (초청강연 8): 프레시 박사 진출 졸업생 </td><td bgcolor="white"> TBD </td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 10:55 </td> <td bgcolor="white"> (초청강연 7): 신규 박사학위 취득자 </td><td bgcolor="white"> TBD </td></tr>
+  <tr><td bgcolor="white"> 10:55 ~ 11:20 </td> <td bgcolor="white"> (초청강연 8): 신규 박사학위 취득자 </td><td bgcolor="white"> TBD </td></tr>
   <tr><td bgcolor="white"> 11:20 ~ 11:50 </td> <td bgcolor="white"> 시상 / 포스터 시상 </td><td bgcolor="white"> 황성재 (성균관대) </td></tr>
   <tr><td bgcolor="white"> 11:50 ~ 12:00 </td> <td bgcolor="white"> 폐회사 </td><td bgcolor="white"> 차수영 (성균관대) </td></tr>
 </tbody>
@@ -96,7 +96,7 @@ title: SIGPL 여름학교 2024
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th><th>비고</th></tr>
   <tr align="center"><th>사전 등록 </th><td>150,000원</td><td>250,000원</td><td></td></tr>
   <tr align="center"><th>현장 등록 </th><td>200,000원</td><td>350,000원</td><td></td></tr>
-  <tr align="center"><th>디스카운트 </th><td></td><td>10,000원</td><td style="font-weight: bold;">사유제출</td></tr>
+  <tr align="center"><th>특별 할인 </th><td>10,000원</td><td>10,000원</td><td style="font-weight: bold;">사유제출</td></tr>
   <tr align="center"><th>명예회원 </th><td></td><td>무료</td><td></td></tr>
   </tbody></table>
   </li>
