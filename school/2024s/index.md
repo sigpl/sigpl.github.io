@@ -100,7 +100,7 @@ title: SIGPL 여름학교 2024
   <tr align="center"><th>명예회원 </th><td></td><td>무료</td><td></td></tr>
   </tbody></table>
   </li>
-  <li> 디스카운트 사유제출은 황성재 교수(성균관대)님 이메일(sungjaeh@skku.edu)로 문의 부탁드립니다. 
+  <li> 특별 할인 사유제출은 황성재 교수(성균관대)님 이메일(sungjaeh@skku.edu)로 문의 부탁드립니다. 
   </li>
   <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
 
