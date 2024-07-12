@@ -93,11 +93,11 @@ title: SIGPL 여름학교 2024
   <li> 사전등록 마감: 2024년 8월 11일 (일요일)</li>
   <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/154/"><font color="red">등록 페이지</font></a>를 통해 부탁드립니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
-  <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th><th>비고</th></tr>
-  <tr align="center"><th>사전 등록 </th><td>150,000원</td><td>250,000원</td><td></td></tr>
-  <tr align="center"><th>현장 등록 </th><td>200,000원</td><td>350,000원</td><td></td></tr>
-  <tr align="center"><th>특별 할인 </th><td>10,000원</td><td>10,000원</td><td style="font-weight: bold;">사유제출</td></tr>
-  <tr align="center"><th>명예회원 </th><td></td><td>무료</td><td></td></tr>
+  <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
+  <tr align="center"><th>사전 등록 </th><td>150,000원</td><td>250,000원</td></tr>
+  <tr align="center"><th>현장 등록 </th><td>200,000원</td><td>350,000원</td></tr>
+  <tr align="center"><th>특별 할인 </th><td>10,000원</td><td>10,000원</td></tr>
+  <tr align="center"><th>명예회원 </th><td></td><td>무료</td></tr>
   </tbody></table>
   </li>
   <li> 특별 할인 사유제출은 황성재 교수(성균관대)님 이메일(sungjaeh@skku.edu)로 문의 부탁드립니다. 
