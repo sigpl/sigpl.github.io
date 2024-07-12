@@ -100,7 +100,13 @@ title: SIGPL 여름학교 2024
   <tr align="center"><th>명예회원 </th><td></td><td>무료</td></tr>
   </tbody></table>
   </li>
-  <li> 특별 할인 사유제출은 황성재 교수(성균관대)님 이메일(sungjaeh@skku.edu)로 문의 부탁드립니다. 
+  <li> 
+    특별 할인
+    <ul>
+        <li>최근 R&D 예산 삭감으로 많은 연구실이 연구비가 부족한 상황입니다. <br>"특별 할인"을 통해 연구비가 부족한 경우에 지원하고자 합니다. <br>지원을 위해서는 지도교수 추천서가 필요합니다.</li>
+        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeWs3ttyiVR5dyFEh9_Vqkj8zXNjNc42ebUlobZv7mbQZtkQA/viewform?usp=sf_link">구글폼</a>을 통해 지원하고 승인 메일을 받은 뒤 할인 가격으로 등록 부탁드립니다.</li>
+        <li>지원마감: 2024년 8월 1일</li>
+    </ul> 
   </li>
   <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
 
