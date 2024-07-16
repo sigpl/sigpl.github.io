@@ -29,21 +29,22 @@ title: SIGPL 여름학교 2024
 </p>
 
 <p>
-프로그래밍언어연구회에서는 매년 최신 연구 동향 소개와 함께 참가자들이 교류할 수 있는 자리를 마련해 왔습니다. 
-이번 여름학교는 "PL 분야 졸업생 어디로 갔는가"라는 테마입니다.  
+프로그래밍언어연구회에서는 매년 최신 연구 동향 소개와 함께 참가자들이 교류할 수 있는 자리를 마련해 왔습니다.
+이번 여름학교는 "PL 분야 졸업생 어디로 갔는가"라는 테마입니다.
 구체적으로, 최근 PL분야 졸업생들 중 "학계"와 "산업계"로 가신 분들을 초청하여 현재 대학원생들이 궁금할만한 다양한 이야기를 들어보고자 합니다.
-또한, 우수한 PL 분야 Fresh 박사분들을 초청하여, 대학원 생활 및 논문 작성에 대한 노하우를 공유할 수 있는 시간을 마련하였습니다.
-이를 통해, 학생들이 졸업 후의 미래 설계 및 남은 기간의 대학원 생활에 도움이 되었으면 합니다. 
+또한, 우수한 PL 분야 신진 박사분들을 초청하여, 대학원 생활 및 논문 작성에 대한 노하우를 공유할 수 있는 시간을 마련하였습니다.
+이를 통해, 학생들이 졸업 후의 미래 설계 및 남은 기간의 대학원 생활에 도움이 되었으면 합니다.
 프로그래밍언어연구회 2024 여름학교에 여러분의 많은 관심과 참여를 바랍니다.
 </p>
 <p style="text-align: right">
-한국정보과학회 프로그래밍언어연구회 운영위원장 허기홍 (KAIST) 드림 
+한국정보과학회 프로그래밍언어연구회 <br>
+운영위원장 <a href="https://kihongheo.kaist.ac.kr">허기홍</a> (KAIST)
 </p>
 
-
 <p style="text-align: right">
-조직위원장: <a href="https://sal.skku.edu/">차수영</a> (성균관대)<br>
-프로그램위원장: <a href="https://softsec.skku.edu/">황성재</a> (성균관대)
+2024 프로그래밍언어연구회 여름학교<br>
+조직위원장 <a href="https://sal.skku.edu/">차수영</a> (성균관대)<br>
+프로그램위원장 <a href="https://softsec.skku.edu/">황성재</a> (성균관대)
 </p>
 
 <h2>프로그램</h2>
@@ -100,7 +101,7 @@ title: SIGPL 여름학교 2024
   <tr align="center"><th>명예회원 </th><td></td><td>무료</td></tr>
   </tbody></table>
   </li>
-  <li> 
+  <li>
     특별 할인
     <ul>
         <li>최근 R&D 예산 삭감으로 많은 연구실이 연구비가 부족한 상황입니다. <br>"특별 할인"을 통해 연구비가 부족한 경우에 지원하고자 합니다. <br>지원을 위해서는 지도교수 추천서가 필요합니다.</li>
@@ -112,7 +113,7 @@ title: SIGPL 여름학교 2024
         </li>
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeWs3ttyiVR5dyFEh9_Vqkj8zXNjNc42ebUlobZv7mbQZtkQA/viewform?usp=sf_link">구글폼</a>을 통해 지원해 주시면 승인 시 메일에 결제 링크가 포함되어 전달됩니다.</li>
         <li>지원마감: 2024년 8월 1일</li>
-    </ul> 
+    </ul>
   </li>
   <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
 
@@ -127,7 +128,7 @@ title: SIGPL 여름학교 2024
       <tr><th>근처 역</th><th>호텔</th><th>가격 (아고다 기준)</th><th>대중교통</th><th>자동차</th></tr>
       <tr><th rowspan="2" style="text-align: center; vertical-align: middle;"> 수원역 </th><td> <a href="https://www.ambatel.com/novotel/suwon">노보텔 엠배서더 수원</a> </td><td> 144,500 </td><td> 18분 </td><td> 13분 </td></tr>
       <tr><td> <a href="http://www.suwonstayhotel.com/">에스 스테이 호텔</a> </td><td> 47,000 </td><td> 20분 </td><td> 13분 </td></tr>
-  </tbody>  
+  </tbody>
   <tbody>
       <tr><th rowspan="2" style="text-align: center; vertical-align: middle;"> 서수원 터미널 </th><td> <a href="https://and.jalib.site/"> 호텔 앤드</a> </td><td> 51,000 </td><td> 21분 </td><td> 5분 </td></tr>
       <tr><td> <a href="http://suwonamare.com/"> 호텔 아마레 </a> </td><td> 49,000 </td><td> 21분 </td><td> 5분 </td></tr>
@@ -140,4 +141,4 @@ title: SIGPL 여름학교 2024
   <li> 행사 장소: <a href="https://naver.me/FxLCt92i">성균관대학교 자연과학캠퍼스 삼성학술정보관 오디토리움 (B1)</a></li>
 </ul>
 
- 
+
