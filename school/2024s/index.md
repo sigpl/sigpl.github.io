@@ -104,6 +104,11 @@ title: SIGPL 여름학교 2024
     특별 할인
     <ul>
         <li>최근 R&D 예산 삭감으로 많은 연구실이 연구비가 부족한 상황입니다. <br>"특별 할인"을 통해 연구비가 부족한 경우에 지원하고자 합니다. <br>지원을 위해서는 지도교수 추천서가 필요합니다.</li>
+        <li><a href="https://www.kiise.or.kr/conference/conf/154/">등록 페이지</a>에서 동일하게 정보 작성하고 아래의 사항을 적용하여 등록합니다.</li>
+            <ul>
+                <li> 참가신청 결제 - 결제방법: 계좌이체 선택 </li>
+                <li> 입금 메모에 "특별할인" 기재</li>
+            </ul>
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeWs3ttyiVR5dyFEh9_Vqkj8zXNjNc42ebUlobZv7mbQZtkQA/viewform?usp=sf_link">구글폼</a>을 통해 지원해 주시면 승인 시 메일에 결제 링크가 포함되어 전달됩니다.</li>
         <li>지원마감: 2024년 8월 1일</li>
     </ul> 
