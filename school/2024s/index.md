@@ -57,9 +57,9 @@ title: SIGPL 여름학교 2024
   <tr><th colspan="3" align="left"> 8월 21일 (수요일) </th></tr>
   <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> 개회사 / 프로그램 설명 </td><td bgcolor="white">차수영 (성균관대)</td></tr>
-  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1): 학계 진출 졸업생 </td><td bgcolor="white">김지응 교수</td></tr>
+  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1): 흐르는 강물처럼 </td><td bgcolor="white">김지응 교수</td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:30 ~ 15:10 </td> <td bgcolor="white"> (초청강연 2): 흐르는 강물처럼 </td><td bgcolor="white"> 최재승 교수 </td></tr>
+  <tr><td bgcolor="white"> 14:30 ~ 15:10 </td> <td bgcolor="white"> (초청강연 2): 학계 진출 졸업생 </td><td bgcolor="white"> 최재승 교수 </td></tr>
   <tr><td bgcolor="white"> 15:10 ~ 15:50 </td> <td bgcolor="white"> (초청강연 3): 학계 진출 졸업생 </td><td bgcolor="white"> TBD </td></tr>
   <tr><td bgcolor="white"> 15:50 ~ 16:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 16:20 ~ 17:30 </td> <td bgcolor="white"> <a href="./lightening">번개 발표1</a> </td><td bgcolor="white">대학원생</td></tr>
