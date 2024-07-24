@@ -60,14 +60,14 @@ title: SIGPL 여름학교 2024
   <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1): 흐르는 강물처럼 </td><td bgcolor="white">김지응 교수</td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:30 ~ 15:10 </td> <td bgcolor="white"> (초청강연 2): 학계 진출 졸업생 </td><td bgcolor="white"> 최재승 교수 </td></tr>
-  <tr><td bgcolor="white"> 15:10 ~ 15:50 </td> <td bgcolor="white"> (초청강연 3): 학계 진출 졸업생 </td><td bgcolor="white"> TBD </td></tr>
+  <tr><td bgcolor="white"> 15:10 ~ 15:50 </td> <td bgcolor="white"> (초청강연 3): 학계 진출 졸업생 </td><td bgcolor="white"> 차수영 교수 </td></tr>
   <tr><td bgcolor="white"> 15:50 ~ 16:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 16:20 ~ 17:30 </td> <td bgcolor="white"> <a href="./lightening">번개 발표1</a> </td><td bgcolor="white">대학원생</td></tr>
   <tr><td bgcolor="white"> 17:30 ~ 19:00 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/21145911?placePath=%2Fhome&c=15.00,0,0,0,dh"> 신관B동 </a></td></tr>
-  <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> <a href="./poster"> 포스터 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> <a href="./poster"> 포스터1 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 22일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 4): 기업 진출 졸업생 </td><td bgcolor="white"> TBD </td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 4): 기업 진출 졸업생 </td><td bgcolor="white"> 이동권 박사 </td></tr>
   <tr><td bgcolor="white"> 11:10 ~ 11:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 11:30 ~ 12:40 </td> <td bgcolor="white"> <a href="./lightening">번개 발표2</a> </td><td bgcolor="white"> 대학원생 </td></tr>
   <tr><td bgcolor="white"> 12:40 ~ 12:50 </td> <td bgcolor="white"> 사진촬영 </td><td bgcolor="white"> </td></tr>
@@ -75,15 +75,14 @@ title: SIGPL 여름학교 2024
   <tr><td bgcolor="white"> 14:00 ~ 14:40 </td> <td bgcolor="white"> (초청강연 5): 기업 진출 졸업생 </td><td bgcolor="white"> 박준영 박사 </td></tr>
   <tr><td bgcolor="white"> 14:40 ~ 15:20 </td> <td bgcolor="white"> (초청강연 6): 기업 진출 졸업생 </td><td bgcolor="white"> 이성환 박사 </td></tr>
   <tr><td bgcolor="white"> 15:20 ~ 15:40 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:40 ~ 16:20 </td> <td bgcolor="white"> 무엇이든 물어보세요. </td><td bgcolor="white"> TBD </td></tr>
-  <tr><td bgcolor="white"> 16:20 ~ 18:00 </td> <td bgcolor="white"> 야외활동 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/1751677198?lng=126.9760421&lat=37.2883577&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh"> 일월 수목원</a> </td></tr>
-  <tr><td bgcolor="white"> 18:00 ~ </td> <td bgcolor="white"> 뱅큇 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 15:40 ~ 17:00 </td> <td bgcolor="white"> 야외활동 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/1751677198?lng=126.9760421&lat=37.2883577&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh"> 일월 수목원</a> </td></tr>
+  <tr><td bgcolor="white"> 17:00 ~ 18:30 </td> <td bgcolor="white"> <a href="./poster"> 포스터2 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 18:30 ~ </td> <td bgcolor="white"> 뱅큇 </td><td bgcolor="white"> </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 23일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 10:55 </td> <td bgcolor="white"> (초청강연 7): 신규 박사학위 취득자 </td><td bgcolor="white"> TBD </td></tr>
-  <tr><td bgcolor="white"> 10:55 ~ 11:20 </td> <td bgcolor="white"> (초청강연 8): 언어 디자인으로 문제 접근하기 </td><td bgcolor="white"> 전민석 박사 </td></tr>
-  <tr><td bgcolor="white"> 11:20 ~ 11:50 </td> <td bgcolor="white"> 시상 / 포스터 시상 </td><td bgcolor="white"> 황성재 (성균관대) </td></tr>
-  <tr><td bgcolor="white"> 11:50 ~ 12:00 </td> <td bgcolor="white"> 폐회사 </td><td bgcolor="white"> 차수영 (성균관대) </td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 7): 언어 디자인으로 문제 접근하기 </td><td bgcolor="white"> 전민석 박사 </td></tr>
+  <tr><td bgcolor="white"> 11:10 ~ 11:30 </td> <td bgcolor="white"> 시상 / 포스터 시상 </td><td bgcolor="white"> 황성재 (성균관대) </td></tr>
+  <tr><td bgcolor="white"> 11:30 ~ 11:40 </td> <td bgcolor="white"> 폐회사 </td><td bgcolor="white"> 차수영 (성균관대) </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
