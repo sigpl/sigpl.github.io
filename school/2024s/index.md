@@ -116,7 +116,7 @@ title: SIGPL 여름학교 2024
   </li>
   <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
 
-  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiQh6Mr8xHUi156n55Sgm8MJdeGEDibdPzC_SNuN_fNLyJRw/viewform"><font color="red">번개 발표 / 포스터 등록</font></a> (마감: 8월 2일)</li>
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiQh6Mr8xHUi156n55Sgm8MJdeGEDibdPzC_SNuN_fNLyJRw/viewform"><font color="red">번개 발표 / 포스터 등록</font></a> (마감: 8월 9일)</li>
 </ul>
 
 <h2>숙박안내</h2>
