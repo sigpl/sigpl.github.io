@@ -59,8 +59,8 @@ title: SIGPL 여름학교 2024
   <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> 개회사 / 프로그램 설명 </td><td bgcolor="white">차수영 (성균관대)</td></tr>
   <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1): 흐르는 강물처럼 </td><td bgcolor="white">김지응 (인하대)</td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:30 ~ 15:10 </td> <td bgcolor="white"> (초청강연 2): 학계 진출 졸업생 </td><td bgcolor="white"> 최재승 (서강대)</td></tr>
-  <tr><td bgcolor="white"> 15:10 ~ 15:50 </td> <td bgcolor="white"> (초청강연 3): 학계 진출 졸업생 </td><td bgcolor="white"> 차수영 (성균관대)</td></tr>
+  <tr><td bgcolor="white"> 14:30 ~ 15:10 </td> <td bgcolor="white"> (초청강연 2): 프로그래밍 언어와 보안의 만남 </td><td bgcolor="white"> 최재승 (서강대)</td></tr>
+  <tr><td bgcolor="white"> 15:10 ~ 15:50 </td> <td bgcolor="white"> (초청강연 3): 학계로 오세요. </td><td bgcolor="white"> 차수영 (성균관대)</td></tr>
   <tr><td bgcolor="white"> 15:50 ~ 16:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 16:20 ~ 17:30 </td> <td bgcolor="white"> <a href="./lightening">번개 발표1</a> </td><td bgcolor="white">대학원생</td></tr>
   <tr><td bgcolor="white"> 17:30 ~ 19:00 </td> <td bgcolor="white"> 저녁 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/21145911?placePath=%2Fhome&c=15.00,0,0,0,dh"> 신관B동 </a></td></tr>
