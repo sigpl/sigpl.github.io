@@ -79,6 +79,7 @@ title: SIGPL 겨울학교 2024
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
+<h2><a href="photo">단체 사진</a></h2>
 
 <h2>등록</h2>
 
