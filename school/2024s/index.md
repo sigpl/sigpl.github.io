@@ -17,6 +17,8 @@ title: SIGPL 여름학교 2024
     장소: 성균관대학교 자연과학캠퍼스 (<a href="https://www.skku.edu/skku/about/campusInfo/location02.do">지도</a>)
 </li><li>
     주최: 한국정보과학회 프로그래밍언어연구회
+</li><li>
+    후원: <a href="https://www.nshc.net/">NSHC</a>
 </li>
 </ul>
 </th></tr></tbody></table>
