@@ -69,6 +69,7 @@ title: SIGPL 여름학교 2024
   <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> <a href="./poster"> 포스터1 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 22일 (목요일) </th></tr>
+  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> 운영위원 회의</td><td bgcolor="white">TBD</td></tr>
   <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 4): 졸업후에 보이게 된 것들 </td><td bgcolor="white"> 이동권 (삼성리서치)</td></tr>
   <tr><td bgcolor="white"> 11:10 ~ 11:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 11:30 ~ 12:40 </td> <td bgcolor="white"> <a href="./lightening">번개 발표2</a> </td><td bgcolor="white"> 대학원생 </td></tr>
@@ -77,9 +78,10 @@ title: SIGPL 여름학교 2024
   <tr><td bgcolor="white"> 14:00 ~ 14:40 </td> <td bgcolor="white"> (초청강연 5): 코드에서 비즈니스로: PL 박사의 스타트업 생존기 </td><td bgcolor="white"> 박준영 (㈜까리용)</td></tr>
   <tr><td bgcolor="white"> 14:40 ~ 15:20 </td> <td bgcolor="white"> (초청강연 6): PL 전공자가 바라본 AI 컴파일러 </td><td bgcolor="white"> 이성환 (Rebellions)</td></tr>
   <tr><td bgcolor="white"> 15:20 ~ 15:40 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:40 ~ 17:00 </td> <td bgcolor="white"> 야외활동 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/1751677198?lng=126.9760421&lat=37.2883577&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh"> 일월 수목원</a> </td></tr>
-  <tr><td bgcolor="white"> 17:00 ~ 18:30 </td> <td bgcolor="white"> <a href="./poster"> 포스터2 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
-  <tr><td bgcolor="white"> 18:30 ~ </td> <td bgcolor="white"> 뱅큇 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/21145911?placePath=%2Fhome&c=15.00,0,0,0,dh"> 신관B동 </a> </td></tr>
+  <tr><td bgcolor="white"> 15:40 ~ 17:30 </td> <td bgcolor="white"> 야외활동 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/1751677198?lng=126.9760421&lat=37.2883577&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh"> 일월 수목원</a> </td></tr>
+  <tr><td bgcolor="white"> 17:30 ~ 18:30</td> <td bgcolor="white"> 뱅큇 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/21145911?placePath=%2Fhome&c=15.00,0,0,0,dh"> 신관B동 </a> </td></tr>
+  <tr><td bgcolor="white"> 18:30 ~ </td> <td bgcolor="white"> <a href="./poster"> 포스터2 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
+  
 
   <tr><th colspan="3" align="left"> 8월 23일 (금요일) </th></tr>
   <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 7): 될 때까지 개선하기 </td><td bgcolor="white"> 전민석 (고려대)</td></tr>
