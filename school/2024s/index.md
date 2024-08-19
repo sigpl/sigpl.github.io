@@ -123,6 +123,12 @@ title: SIGPL 여름학교 2024
   <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiQh6Mr8xHUi156n55Sgm8MJdeGEDibdPzC_SNuN_fNLyJRw/viewform"><font color="red">번개 발표 / 포스터 등록</font></a> (마감: 8월 9일)</li>
 </ul>
 
+<h2>세종 발표상</h2>
+<ul>
+  <li> 이번 여름학교에서는 번개발표/포스터 세션 발표에서 가장 우리말로 발표를 잘하는 학생에게 "세종 발표상"을 수여합니다. </li>
+  <li> 세종 발표상을 수여한 학생에게는 에어팟을 상품으로 제공해드릴 예정이며, SIGPL 홈페이지에 "최초로" 수상 기록이 남게됩니다.</li>
+</ul>
+
 <h2>숙박안내</h2>
 <ul>
   <li>시내 호텔 등에 개별적으로 예약해주시기 바랍니다.</li>
@@ -138,6 +144,7 @@ title: SIGPL 여름학교 2024
   </tbody>
   </table>
 </ul>
+
 
 <h3>오시는 길</h3>
 <ul>
