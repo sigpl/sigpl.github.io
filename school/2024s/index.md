@@ -58,7 +58,7 @@ title: SIGPL 여름학교 2024
 <tbody>
   <tr><th colspan="3" align="left"> 8월 21일 (수요일) </th></tr>
   <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> 개회사 / 프로그램 설명 </td><td bgcolor="white">차수영 (성균관대)</td></tr>
+  <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> <a href="https://drive.google.com/file/d/1VLrnkBOtT3xviOwYWORORLf0jw1id3au/view?usp=sharing">개회사 / 프로그램 설명</a> </td><td bgcolor="white">차수영 (성균관대)</td></tr>
   <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> (초청강연 1): 흐르는 강물처럼 </td><td bgcolor="white">김지응 (인하대)</td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:30 ~ 15:10 </td> <td bgcolor="white"> (초청강연 2): 프로그래밍 언어와 보안의 만남 </td><td bgcolor="white"> 최재승 (서강대)</td></tr>
@@ -69,7 +69,7 @@ title: SIGPL 여름학교 2024
   <tr><td bgcolor="white"> 19:30 ~ 20:45 </td> <td bgcolor="white"> <a href="./poster"> 포스터1 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 22일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> 운영위원 회의</td><td bgcolor="white">TBD</td></tr>
+  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> 운영위원 회의</td><td bgcolor="white"><a href="https://lib.skku.edu/suwon/#/guide/facilities/facilities-2f#firstChartset">솦:공방 인(2층)</a></td></tr>
   <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 4): 졸업후에 보이게 된 것들 </td><td bgcolor="white"> 이동권 (삼성리서치)</td></tr>
   <tr><td bgcolor="white"> 11:10 ~ 11:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 11:30 ~ 12:40 </td> <td bgcolor="white"> <a href="./lightening">번개 발표2</a> </td><td bgcolor="white"> 대학원생 </td></tr>
