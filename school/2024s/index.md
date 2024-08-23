@@ -48,7 +48,11 @@ title: SIGPL 여름학교 2024
 조직위원장 <a href="https://sal.skku.edu/">차수영</a> (성균관대)<br>
 프로그램위원장 <a href="https://softsec.skku.edu/">황성재</a> (성균관대)
 </p>
-
+<h2> 참가자 단체사진</h2>
+<img style="width: 55%" src ="photo/main.jpg">
+<ul>
+    <li>더 많은 사진은 <a href="https://drive.google.com/drive/folders/1OCpNvxkAC4EhOhsfTlhzPhK5olEui79b?usp=drive_link">링크</a>에서 확인할 수 있습니다.</li>
+</ul>
 <h2>프로그램</h2>
 
 <ul>
@@ -127,6 +131,7 @@ title: SIGPL 여름학교 2024
 <ul>
   <li> 이번 여름학교에서는 번개발표/포스터 세션 발표에서 쉬운 용어를 활용하여 이해하기 쉽게 발표를 잘하는 학생에게 세종 발표상을 수여합니다. </li>
   <li> 세종 발표상을 수여한 학생에게는 에어팟을 상품으로 제공해드릴 예정이며, SIGPL 홈페이지에 "최초로" 수상 기록이 남게됩니다.</li>
+  <li style="color: blue;"> 수상자: 류연희	(KAIST 프로그래밍 시스템 연구실)</li>
 </ul>
 
 <h2>숙박안내</h2>
