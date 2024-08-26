@@ -85,7 +85,7 @@ title: SIGPL 여름학교 2024
   <tr><td bgcolor="white"> 15:40 ~ 17:30 </td> <td bgcolor="white"> 야외활동 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/1751677198?lng=126.9760421&lat=37.2883577&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh"> 일월 수목원</a> </td></tr>
   <tr><td bgcolor="white"> 17:30 ~ 19:00</td> <td bgcolor="white"> 뱅큇 </td><td bgcolor="white"> <a href="https://map.naver.com/p/entry/place/21145911?placePath=%2Fhome&c=15.00,0,0,0,dh"> 신관B동 </a> </td></tr>
   <tr><td bgcolor="white"> 19:30 ~ 20:45</td> <td bgcolor="white"> <a href="./poster"> 포스터2 </a> </td><td bgcolor="white"> 대학원생 </td></tr>
-  
+
 
   <tr><th colspan="3" align="left"> 8월 23일 (금요일) </th></tr>
   <tr><td bgcolor="white"> 10:30 ~ 11:10 </td> <td bgcolor="white"> (초청강연 7): 될 때까지 개선하기 </td><td bgcolor="white"> 전민석 (고려대)</td></tr>
@@ -130,8 +130,14 @@ title: SIGPL 여름학교 2024
 <h2>세종 발표상</h2>
 <ul>
   <li> 이번 여름학교에서는 번개발표/포스터 세션 발표에서 쉬운 용어를 활용하여 이해하기 쉽게 발표를 잘하는 학생에게 세종 발표상을 수여합니다. </li>
-  <li> 세종 발표상을 수여한 학생에게는 에어팟을 상품으로 제공해드릴 예정이며, SIGPL 홈페이지에 "최초로" 수상 기록이 남게됩니다.</li>
-  <li style="color: blue;"> 수상자: 류연희	(KAIST 프로그래밍 시스템 연구실)</li>
+  <li> 세종 발표상을 수상한 학생에게는 에어팟을 상품으로 제공해드릴 예정이며, SIGPL 홈페이지에 "최초로" 수상 기록이 남게됩니다.</li>
+  <table border="1" bordercolor="#a0a0a0" cellspacing="0">
+  <tbody>
+  <tr align="center"><th>최우수상</th><td>류연희</td><td>KAIST 프로그래밍 시스템 연구실</td></tr>
+  <tr align="center"><th>우수상</th><td>이재호<br>김준겸</td><td>서울대 프로그래밍 연구실<br>고려대 프로그래밍 언어 연구실</td></tr>
+  <tr align="center"><th>장려상</th><td>엄하은<br>권재성/장봉준<br>전종욱<br>홍재민</td><td>성균관대 소프트웨어보안 연구실<br>KAIST 프로그래밍 시스템 연구실<br>KAIST 동시성 및 병렬성 연구실<br>KAIST PLRG</td></tr>
+  </tbody>
+  </table>
 </ul>
 
 <h2>숙박안내</h2>
@@ -151,7 +157,7 @@ title: SIGPL 여름학교 2024
 </ul>
 
 
-<h3>오시는 길</h3>
+<h2>오시는 길</h2>
 <ul>
   <li> 행사 장소: <a href="https://naver.me/FxLCt92i">성균관대학교 자연과학캠퍼스 삼성학술정보관 오디토리움 (B1)</a></li>
 </ul>
