@@ -133,9 +133,9 @@ title: SIGPL 여름학교 2024
   <li> 세종 발표상을 수상한 학생에게는 에어팟을 상품으로 제공해드릴 예정이며, SIGPL 홈페이지에 "최초로" 수상 기록이 남게됩니다.</li>
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody>
-  <tr align="center"><th>최우수상</th><td>류연희</td><td>KAIST 프로그래밍 시스템 연구실</td></tr>
-  <tr align="center"><th>우수상</th><td>이재호<br>김준겸</td><td>서울대 프로그래밍 연구실<br>고려대 프로그래밍 언어 연구실</td></tr>
-  <tr align="center"><th>장려상</th><td>엄하은<br>권재성/장봉준<br>전종욱<br>홍재민</td><td>성균관대 소프트웨어보안 연구실<br>KAIST 프로그래밍 시스템 연구실<br>KAIST 동시성 및 병렬성 연구실<br>KAIST PLRG</td></tr>
+  <tr align="center"><th>최우수상</th><td><a href="presentation/KAIST(류연희).pdf">류연희</a></td><td>KAIST 프로그래밍 시스템 연구실</td></tr>
+  <tr align="center"><th>우수상</th><td><a href="presentation/서울대(이재호).pdf">이재호</a><br>김준겸</td><td>서울대 프로그래밍 연구실<br>고려대 프로그래밍 언어 연구실</td></tr>
+  <tr align="center"><th>장려상</th><td>엄하은<br><a href="presentation/KAIST(권재성).pdf">권재성/장봉준</a><br><a href="presentation/KAIST(전종욱).pdf">전종욱</a><br><a href="presentation/KAIST(홍재민).pdf">홍재민</a></td><td>성균관대 소프트웨어보안 연구실<br>KAIST 프로그래밍 시스템 연구실<br>KAIST 동시성 및 병렬성 연구실<br>KAIST PLRG</td></tr>
   </tbody>
   </table>
 </ul>
