@@ -31,7 +31,7 @@ title: 프로그래밍언어 역사 워크샵
 <h2> 참가자 단체사진</h2>
 <img style="width: 55%" src ="https://lh3.googleusercontent.com/pw/AP1GczO7BYaP2uu9iokQQVoWho4_FjrEhErHykXwj3OpVPfElIZvg6bzIo2X0B3Q50_YAxxDP7R5ZphO2hU6JCou6uDG2DKtoUuakFaOCrvYvnVelZzg12iyCfNqPyyhKjP-T7E2WDgAUrNQeZc7rPcAIOjYY4kqk7xgS-JlJOE9PtceK-OkId2p-c-Y2B-8yRIFIZUhCNIBnxwqV2m4D4ePGU-Vq3r3tbFqzVbsJU_xYBrSiyWTtWeWUqwtVhHDtjOje9xkq6F0NhHppjwufm2iRf3UC9qqLJG7Lbj8wRSsPJy0jPYuqv63m0qtiZ-4Z31X0sAEGnvMhPTq2fkd4BjJM4PnrjACia7E4Bt9nsSGImI7MLjNhKWhOCB2DzXOplPi28oOQ5YpRcumHa96AusMS16jW8_KSH4kC1a3vWdreppuysNb4tTxgvwFUOQB1_bZnemvJw90Gw7rxuMLq1TqegRnjTj5KDArASGg-gxNmM1MQhvBTq0BSWuT7rrcka8nNkXThsl5o9_2F-sr6vqVMto3Ag6uO6eioHA9mM-KgE0A9KTJ8avQEZGEw7BwRG5XuvmMZ24DRDlIlYtqsOcQuzLKy_en9VkYdnzOCel7M3s5NpPvNv-13YE5Z_hunMRuDc-99-rqqO7UVmyjz56S-vRFuT-4VJUPZAYbNIt3dIvbnq_jQDsNUiwt93UxR4sRPswye-Y-TttAkxJYrRcG4NNPHbeyzrw6uzLEMmjO-xmLwQsqJ-K--lv76WD8v0hIe8Q-r0OpDdM8DvWVU2_pGEm99FJKZGXwBC1xKoHSRrGN3YwUd3CFoN8CmbtLvci7-B1PTRfdBK1LFipU2lnhEMzLdsKuBK3sX59wicB5R-7Ggkwhyd5uWFYc9cdIezrPG3a-0Rhor9jGu01LHUEXaFYFUCj7u_MJ_Oxho2ca_w7LsGsnGhJdyp87jFOQ=w2386-h1790-s-no?authuser=0">
 <ul>
-<li>더 많은 사진은 <a href="https://photos.app.goo.gl/YehVFBM4ex8QNMTB9">링크</a>에서 확인할 수 있습니다.</li>
+<li>더 많은 사진은 <a href="https://photos.app.goo.gl/YehVFBM4ex8QNMTB9">이 앨범</a>에서 확인할 수 있습니다.</li>
 </ul>
 <h2>프로그램</h2>
 
