@@ -50,7 +50,7 @@ title: 프로그래밍언어 역사 워크샵
   <tr><td bgcolor="white"> 15:00 ~ 15:30 </td> <td bgcolor="white"> <a href="presentation/shin.pdf">프로그램 분석과 검증: 이론에서 상용 도구로</a> </td><td bgcolor="white">신승철 (코드마인드)</td></tr>
   <tr><td bgcolor="white"> 15:30 ~ 16:00 </td> <td bgcolor="white"> <a href="presentation/yi.pdf">PL분야의 글로벌 실력과 쉬운 전문 용어</a> </td><td bgcolor="white">이광근 (서울대)</td></tr>
   <tr><th colspan="3" align="left"> 프로그래밍언어의 미래와 전망</th></tr>
-  <tr><td bgcolor="white"> 16:00 ~ 17:00 </td> <td bgcolor="white"> 패널 토론</td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 16:00 ~ 17:00 </td> <td bgcolor="white"> 패널 토론</td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 17:00 </td> <td bgcolor="white"> 폐회 </td><td bgcolor="white"> </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
