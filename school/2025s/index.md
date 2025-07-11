@@ -31,7 +31,7 @@ title: SIGPL 여름학교 2025
 
 <p style="text-align: right">
 한국정보과학회 프로그래밍언어연구회 <br>
-운영위원장 <a href="https://kihongheo.kaist.ac.kr">허기홍</a> (KAIST)
+운영위원장 <a href="https://psl.hanyang.ac.kr/">이우석</a> (한양대)
 </p>
 
 <p style="text-align: right">
