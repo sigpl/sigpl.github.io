@@ -50,9 +50,46 @@ title: SIGPL 여름학교 2025
 
 <h2>프로그램</h2>
 
-<p>
-준비중
-</p>
+<ul>
+  <table border="0" cellspacing="0">
+  <tbody><tr><td bgcolor="#cccccc">
+  <table border="0" cellspacing="1pt">
+<tbody>
+  <tr><th colspan="3" align="left"> 8월 20일 (수요일) </th></tr>
+  <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 13:00 ~ 13:15 </td> <td bgcolor="white">개회사</td><td bgcolor="white">최재승 (서강대)</td></tr>
+  <tr><td bgcolor="white"> 13:15 ~ 14:05 </td> <td bgcolor="white"> (초청강연 1): 미정 </td><td bgcolor="white">미정</td></tr>
+  <tr><td bgcolor="white"> 14:05 ~ 14:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 14:15 ~ 15:05 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
+  <tr><td bgcolor="white"> 15:05 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 15:15 ~ 16:05 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
+  <tr><td bgcolor="white"> 16:05 ~ 16:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 16:15 ~ 17:30 </td> <td bgcolor="white"> 난상 토론: AI가 바꾸는 프로그래밍의 미래 지형 </td><td bgcolor="white"> 미정 </td></tr>
+  <tr><td bgcolor="white"> 17:30 ~ 19:00 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
+
+  <tr><th colspan="3" align="left"> 8월 21일 (목요일) </th></tr>
+  <tr><td bgcolor="white"> 10:00 ~ 10:50 </td> <td bgcolor="white"> (초청강연 2): 미정 </td><td bgcolor="white">미정</td></tr>
+  <tr><td bgcolor="white"> 10:50 ~ 11:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 11:00 ~ 11:50 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
+  <tr><td bgcolor="white"> 11:50 ~ 12:00 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 13:00 ~ 13:50 </td> <td bgcolor="white"> (초청강연 3): 미정 </td><td bgcolor="white">미정</td></tr>
+  <tr><td bgcolor="white"> 13:50 ~ 14:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 14:50 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
+  <tr><td bgcolor="white"> 14:50 ~ 15:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 15:00 ~ 15:50 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
+  <tr><td bgcolor="white"> 15:50 ~ 16:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 16:00 ~ 17:30 </td> <td bgcolor="white"> 포스터 </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 17:30 ~ 19:00 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"> </td></tr>
+
+  <tr><th colspan="3" align="left"> 8월 22일 (금요일) </th></tr>
+  <tr><td bgcolor="white"> 10:00 ~ 10:50 </td> <td bgcolor="white"> (초청강연 4): 미정 </td><td bgcolor="white">미정</td></tr>
+  <tr><td bgcolor="white"> 10:50 ~ 11:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 11:00 ~ 11:30 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
+  <tr><td bgcolor="white"> 11:30 ~ 11:45 </td> <td bgcolor="white"> 폐회 및 포스터 시상 </td><td bgcolor="white"> 박지혁 (고려대) </td></tr>
+</tbody>
+  </table></td></tr></tbody></table>
+</ul>
 
 <h2>등록</h2>
 
