@@ -95,7 +95,7 @@ title: SIGPL 여름학교 2025
 
 <ul>
   <li> 사전등록 마감: 2025년 8월 11일 (월요일)</li>
-  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/XXX/"><font color="red">등록 페이지</font></a>(준비중)를 통해 부탁드립니다.
+  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/176/"><font color="red">등록 페이지</font></a>를 통해 부탁드립니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>사전 등록 </th><td>150,000원</td><td>250,000원</td></tr>
@@ -112,7 +112,7 @@ title: SIGPL 여름학교 2025
         올해에도 "특별 할인"을 통해 연구비가 부족한 경우에 지원하고자 합니다. <br>
         지원을 위해서는 지도교수 추천서가 필요합니다.
         </li>
-        <li><a href="https://www.kiise.or.kr/conference/conf/XXX/">등록 페이지</a>에서 동일하게 정보 작성하고 아래의 사항을 적용하여 등록합니다.
+        <li><a href="https://www.kiise.or.kr/conference/conf/176/">등록 페이지</a>에서 동일하게 정보 작성하고 아래의 사항을 적용하여 등록합니다.
             <ul>
                 <li> 참가신청 결제 - 결제방법: 계좌이체 선택 </li>
                 <li> 입금 메모에 "특별할인" 기재</li>
@@ -128,7 +128,7 @@ title: SIGPL 여름학교 2025
 
 <h2>세종 발표상</h2>
 <ul>
-  <li> 올해 여름학교에서도 작년처럼 번개발표/포스터 세션에서 쉬운 용어를 활용하여 좋은 발표를 진행한 학생에게 세종 발표상을 수여합니다. </li>
+  <li> 올해 여름학교에서도 작년처럼 포스터 세션에서 쉬운 용어로 좋은 발표를 진행한 학생에게 세종 발표상을 수여합니다. </li>
 </ul>
 
 <h2>숙박안내</h2>
@@ -161,7 +161,7 @@ title: SIGPL 여름학교 2025
 <li> 후원 기업 혜택 안내
   <ul>
     <li>프로그램 무료등록 및 발표 기회 제공 (후원 등급별 상이)</li>
-    <li>학술대회 홈페이지(현 페이지)에 후원사 소개 글 게재</li>
+    <li>현재 페이지 및 정보과학회 등록 페이지에 후원사 소개글 및 로고 게시</li>
     <li>행사장 현수막에 후원사 명기</li>
     <li>행사 전후 및 쉬는 시간에 후원사 로고 슬라이드 상영</li>
   </ul>
