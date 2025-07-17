@@ -95,7 +95,7 @@ title: SIGPL 여름학교 2025
 
 <ul>
   <li> 사전등록 마감: 2025년 8월 11일 (월요일)</li>
-  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/176/"><font color="red">등록 페이지</font></a>를 통해 부탁드립니다.
+  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/176/" target="_blank"><font color="red">등록 페이지</font></a>를 통해 신청 가능합니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>사전 등록 </th><td>150,000원</td><td>250,000원</td></tr>
@@ -126,20 +126,31 @@ title: SIGPL 여름학교 2025
 
 </ul>
 
-<h2>세종 발표상</h2>
+
+<h2>포스터 발표 신청</h2>
 <ul>
-  <li> 올해 여름학교에서도 작년처럼 포스터 세션에서 쉬운 용어로 좋은 발표를 진행한 학생에게 세종 발표상을 수여합니다. </li>
+  <li>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSci1vDwfJyWNx-0TNVogtSr8wVV1QFDXM3OnpN6DubkyFlBLg/viewform?usp=header" target="_blank">
+  <font color="red">포스터 신청 구글폼</font></a>을 통해 8월 11일(월요일)까지 신청해 주시기 바랍니다.
+  </li>
+  <li>
+  올해 여름학교는 별도의 번개발표 없이 포스터 발표만 진행됩니다. 그 대신
+  연구실 별로 진행하는 발표를 신청 받고 있으므로, 해당 세션을 통해 학생들의
+  다양한 발표를 들어볼 수 있기를 기대합니다.
+  </li>
+  <li>
+  작년과 마찬가지로, 포스터 세션에서 쉬운 용어로 좋은 발표를 진행한 학생에게 세종 발표상을 수여합니다.
+  </li>
 </ul>
 
 <h2>숙박안내</h2>
 <ul>
   <li>시내 호텔 등에 개별적으로 예약해주시기 바랍니다.</li>
   <table border="1" bordercolor="#a0a0a0"  cellspacing="0">
-<tr><th>근처 역</th><th>호텔</th><th>거리</th></tr>
-<tr><td bgcolor="white">   공덕역   </td><td bgcolor="white">   롯데시티호텔 마포        </td><td bgcolor="white">   대중교통 10분  </td></tr>
-<tr><td bgcolor="white">   신촌역   </td><td bgcolor="white">   브라운스위트 신촌센트럴  </td><td bgcolor="white">   자동차 5분     </td></tr>
-<tr><td bgcolor="white">   이대역   </td><td bgcolor="white">   에이치에비뉴호텔 이대점  </td><td bgcolor="white">   자동차 8분     </td></tr>
-
+  <tr><th>근처 역</th><th>호텔</th><th>거리</th></tr>
+  <tr><td bgcolor="white">   공덕역   </td><td bgcolor="white">   롯데시티호텔 마포        </td><td bgcolor="white">   대중교통 10분  </td></tr>
+  <tr><td bgcolor="white">   신촌역   </td><td bgcolor="white">   브라운스위트 신촌센트럴  </td><td bgcolor="white">   자동차 5분     </td></tr>
+  <tr><td bgcolor="white">   이대역   </td><td bgcolor="white">   에이치에비뉴호텔 이대점  </td><td bgcolor="white">   자동차 8분     </td></tr>
   </table>
 </ul>
 
@@ -161,7 +172,7 @@ title: SIGPL 여름학교 2025
 <li> 후원 기업 혜택 안내
   <ul>
     <li>프로그램 무료등록 및 발표 기회 제공 (후원 등급별 상이)</li>
-    <li>현재 페이지 및 정보과학회 등록 페이지에 후원사 소개글 및 로고 게시</li>
+    <li>현재 페이지 및 학술행사 등록페이지에 후원사 소개글 및 로고 게시</li>
     <li>행사장 현수막에 후원사 명기</li>
     <li>행사 전후 및 쉬는 시간에 후원사 로고 슬라이드 상영</li>
   </ul>
