@@ -71,7 +71,7 @@ title: SIGPL 여름학교 2025
   <tr><th colspan="3" align="left"> 8월 21일 (목요일) </th></tr>
   <tr><td bgcolor="white"> 09:15 ~ 10:15 </td> <td bgcolor="white"> (초청강연 2): 미정 </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
   <tr><td bgcolor="white"> 10:15 ~ 10:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 11:15 </td> <td bgcolor="white"> KAIST 프로그래밍 시스템 연구실 연구 발표 </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:15 </td> <td bgcolor="white"> 정적 분석의 효능 </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 11:30 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 11:30 ~ 13:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> (후원기업발표): NSHC </td><td bgcolor="white"><a href="https://www.nshc.net/">NSHC</a></td></tr>
