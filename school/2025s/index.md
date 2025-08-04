@@ -59,36 +59,36 @@ title: SIGPL 여름학교 2025
 <tbody>
   <tr><th colspan="3" align="left"> 8월 20일 (수요일) </th></tr>
   <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:00 ~ 13:15 </td> <td bgcolor="white">개회사</td><td bgcolor="white">최재승 (서강대)</td></tr>
-  <tr><td bgcolor="white"> 13:15 ~ 14:05 </td> <td bgcolor="white"> (초청강연 1): 미정 </td><td bgcolor="white">미정</td></tr>
-  <tr><td bgcolor="white"> 14:05 ~ 14:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 14:15 ~ 15:05 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
-  <tr><td bgcolor="white"> 15:05 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:15 ~ 16:05 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
-  <tr><td bgcolor="white"> 16:05 ~ 16:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:15 ~ 17:30 </td> <td bgcolor="white"> 난상 토론: AI가 바꾸는 프로그래밍의 미래 지형 </td><td bgcolor="white"> 미정 </td></tr>
-  <tr><td bgcolor="white"> 17:30 ~ 19:00 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 13:00 ~ 13:15 </td> <td bgcolor="white"> 개회사 </td><td bgcolor="white"><a href="https://islab-sogang.github.io/">최재승</a> (서강대)</td></tr>
+  <tr><td bgcolor="white"> 13:15 ~ 14:00 </td> <td bgcolor="white"> 미정 </td><td bgcolor="white"><a href="https://prl.korea.ac.kr/">오학주</a> (고려대)</td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 14:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 14:15 ~ 15:15 </td> <td bgcolor="white"> (초청강연 1): 미정 </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
+  <tr><td bgcolor="white"> 15:15 ~ 15:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 15:30 ~ 16:30 </td> <td bgcolor="white"> PLRG @ KAIST </td><td bgcolor="white"> <a href="https://plrg.kaist.ac.kr/">류석영</a> (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> 난상 토론: AI가 바꾸는 프로그래밍의 미래 지형 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 18:00 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
 
   <tr><th colspan="3" align="left"> 8월 21일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 10:00 ~ 10:50 </td> <td bgcolor="white"> (초청강연 2): 미정 </td><td bgcolor="white">미정</td></tr>
-  <tr><td bgcolor="white"> 10:50 ~ 11:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 11:00 ~ 11:50 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
-  <tr><td bgcolor="white"> 11:50 ~ 12:00 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:00 ~ 13:50 </td> <td bgcolor="white"> (초청강연 3): 미정 </td><td bgcolor="white">미정</td></tr>
-  <tr><td bgcolor="white"> 13:50 ~ 14:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 14:00 ~ 14:50 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
-  <tr><td bgcolor="white"> 14:50 ~ 15:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:00 ~ 15:50 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
-  <tr><td bgcolor="white"> 15:50 ~ 16:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:00 ~ 17:30 </td> <td bgcolor="white"> 포스터 </td><td bgcolor="white"> 대학원생 </td></tr>
-  <tr><td bgcolor="white"> 17:30 ~ 19:00 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 09:15 ~ 10:15 </td> <td bgcolor="white"> (초청강연 2): 미정 </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
+  <tr><td bgcolor="white"> 10:15 ~ 10:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:15 </td> <td bgcolor="white"> KAIST 프로그래밍 시스템 연구실 연구 발표 </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
+  <tr><td bgcolor="white"> 11:15 ~ 11:30 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 11:30 ~ 13:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> (후원기업발표): NSHC </td><td bgcolor="white"><a href="https://www.nshc.net/">NSHC</a></td></tr>
+  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> Deductive model checking: 모델검증을 통한 연역검증 </td><td bgcolor="white"><a href="https://sv.postech.ac.kr/">배경민</a> (POSTECH)</td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 14:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 14:15 ~ 15:00 </td> <td bgcolor="white"> 안전한 자바스크립트 언어 생태계 확보 기술 </td><td bgcolor="white"><a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대)</td></tr>
+  <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> 서울대 프로그래밍연구실 </td><td bgcolor="white"><a href="https://ropas.snu.ac.kr/">이광근</a> (서울대)</td></tr>
+  <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> 포스터 </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 18:00 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"> </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 22일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 10:00 ~ 10:50 </td> <td bgcolor="white"> (초청강연 4): 미정 </td><td bgcolor="white">미정</td></tr>
-  <tr><td bgcolor="white"> 10:50 ~ 11:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 11:00 ~ 11:30 </td> <td bgcolor="white"> 연구 발표 </td><td bgcolor="white"> 미정 </td></tr>
-  <tr><td bgcolor="white"> 11:30 ~ 11:45 </td> <td bgcolor="white"> 폐회 및 포스터 시상 </td><td bgcolor="white"> 박지혁 (고려대) </td></tr>
+  <tr><td bgcolor="white"> 09:15 ~ 10:15 </td> <td bgcolor="white"> (초청강연 3): 미정 </td><td bgcolor="white"><a href="https://gist-pal.github.io/">소순범</a> (고려대)</td></tr>
+  <tr><td bgcolor="white"> 10:15 ~ 10:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 11:15 </td> <td bgcolor="white"> PL과 LLM의 상호보완적 결합을 통한 프로그램 합성 및 분석 </td><td bgcolor="white"> <a href="https://psl.hanyang.ac.kr/">이우석</a> (한양대) </td></tr>
+  <tr><td bgcolor="white"> 11:15 ~ 11:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상 </td><td bgcolor="white"> <a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대) </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
