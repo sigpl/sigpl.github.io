@@ -47,7 +47,7 @@ title: SIGPL 여름학교 2025
 <p style="text-align: right">
 2025 프로그래밍언어연구회 여름학교<br>
 조직위원장 <a href="https://islab-sogang.github.io">최재승</a> (서강대)<br>
-프로그램위원장 <a href="https://plrg.korea.ac.kr/members/jihyeok.park">박지혁</a> (고려대)
+프로그램위원장 <a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대)
 </p>
 
 <h2>프로그램</h2>
@@ -61,10 +61,10 @@ title: SIGPL 여름학교 2025
   <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:00 ~ 13:15 </td> <td bgcolor="white"> 개회사 </td><td bgcolor="white"><a href="https://islab-sogang.github.io/">최재승</a> (서강대)</td></tr>
   <tr><td bgcolor="white"> 13:15 ~ 14:00 </td> <td bgcolor="white"> 미정 </td><td bgcolor="white"><a href="https://prl.korea.ac.kr/">오학주</a> (고려대)</td></tr>
-  <tr><td bgcolor="white"> 14:00 ~ 14:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 14:15 ~ 15:15 </td> <td bgcolor="white"> (초청강연 1): 미정 </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
-  <tr><td bgcolor="white"> 15:15 ~ 15:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:30 ~ 16:30 </td> <td bgcolor="white"> PLRG @ KAIST </td><td bgcolor="white"> <a href="https://plrg.kaist.ac.kr/">류석영</a> (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 14:10 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 14:10 ~ 15:10 </td> <td bgcolor="white"> (초청강연 1): 미정 </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
+  <tr><td bgcolor="white"> 15:10 ~ 15:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 15:20 ~ 16:30 </td> <td bgcolor="white"> 프로그래밍 언어 의미의 프로그램화 </td><td bgcolor="white"> <a href="https://plrg.kaist.ac.kr/">류석영</a> (KAIST) </td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> 난상 토론: AI가 바꾸는 프로그래밍의 미래 지형 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 18:00 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
 
