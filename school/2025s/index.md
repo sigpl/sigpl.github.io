@@ -69,7 +69,7 @@ title: SIGPL 여름학교 2025
   <tr><td bgcolor="white"> 18:00 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
 
   <tr><th colspan="3" align="left"> 8월 21일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 09:15 ~ 10:15 </td> <td bgcolor="white"> (초청강연 2): 미정 </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
+  <tr><td bgcolor="white"> 09:15 ~ 10:15 </td> <td bgcolor="white"> (초청강연 2): 컨텍스트 터널링: 고정관념에 도전하기 </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
   <tr><td bgcolor="white"> 10:15 ~ 10:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 10:30 ~ 11:15 </td> <td bgcolor="white"> 정적 분석의 효능 </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 11:30 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
