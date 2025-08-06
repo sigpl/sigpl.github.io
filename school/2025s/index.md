@@ -62,7 +62,7 @@ title: SIGPL 여름학교 2025
   <tr><td bgcolor="white"> 13:00 ~ 13:15 </td> <td bgcolor="white"> 개회사 </td><td bgcolor="white"><a href="https://islab-sogang.github.io/">최재승</a> (서강대)</td></tr>
   <tr><td bgcolor="white"> 13:15 ~ 14:00 </td> <td bgcolor="white"> 고려대 소프트웨어 분석 연구 소개 </td><td bgcolor="white"><a href="https://prl.korea.ac.kr/">오학주</a> (고려대)</td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:10 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 14:10 ~ 15:10 </td> <td bgcolor="white"> (초청강연 1): 미정 </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
+  <tr><td bgcolor="white"> 14:10 ~ 15:10 </td> <td bgcolor="white"> (초청강연 1): "연속적 계산"의 기초 다지기 </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
   <tr><td bgcolor="white"> 15:10 ~ 15:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 15:20 ~ 16:30 </td> <td bgcolor="white"> 프로그래밍 언어 의미의 기계화 </td><td bgcolor="white"> <a href="https://plrg.kaist.ac.kr/">류석영</a> (KAIST) </td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> 난상 토론: AI가 바꾸는 프로그래밍의 미래 지형 </td><td bgcolor="white"></td></tr>
