@@ -69,10 +69,10 @@ title: SIGPL 여름학교 2025
   <tr><td bgcolor="white"> 18:00 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 (<a href="https://naver.me/xeAfyQIL">거구장</a>)  </td><td bgcolor="white"></td></tr>
 
   <tr><th colspan="3" align="left"> 8월 21일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 09:15 ~ 10:15 </td> <td bgcolor="white"> (초청강연 2) 컨텍스트 터널링: 고정관념에 도전하기 </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
-  <tr><td bgcolor="white"> 10:15 ~ 10:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 11:15 </td> <td bgcolor="white"> 정적 분석의 효능 </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
-  <tr><td bgcolor="white"> 11:15 ~ 13:00 </td> <td bgcolor="white"> 점심 식사 (<a href="https://naver.me/xeAfyQIL">거구장</a>) </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> (초청강연 2) 컨텍스트 터널링: 고정관념에 도전하기 </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 10:45 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 10:45 ~ 11:30 </td> <td bgcolor="white"> 정적 분석의 효능 </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
+  <tr><td bgcolor="white"> 11:30 ~ 13:00 </td> <td bgcolor="white"> 점심 식사 (<a href="https://naver.me/xeAfyQIL">거구장</a>) </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> (후원기업발표) NSHC 소개 </td><td bgcolor="white"><a href="https://www.nshc.net/">NSHC</a></td></tr>
   <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> Deductive model checking: 모델검증을 통한 연역검증 </td><td bgcolor="white"><a href="https://sv.postech.ac.kr/">배경민</a> (POSTECH)</td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
@@ -85,10 +85,10 @@ title: SIGPL 여름학교 2025
   <tr><td bgcolor="white"> 18:10 ~ 19:30 </td> <td bgcolor="white"> 저녁 만찬 (<a href="https://naver.me/FzSyDucH">곤자가 컨벤션</a>) </td><td bgcolor="white"> </td></tr>
 
   <tr><th colspan="3" align="left"> 8월 22일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 09:15 ~ 10:15 </td> <td bgcolor="white"> (초청강연 3) 스마트 컨트랙트 취약점 탐지를 위한 기호실행 탐색공간 축소 기법 </td><td bgcolor="white"><a href="https://gist-pal.github.io/">소순범</a> (GIST)</td></tr>
-  <tr><td bgcolor="white"> 10:15 ~ 10:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 11:15 </td> <td bgcolor="white"> PL과 LLM의 상호보완적 결합을 통한 프로그램 합성 및 분석 </td><td bgcolor="white"> <a href="https://psl.hanyang.ac.kr/">이우석</a> (한양대) </td></tr>
-  <tr><td bgcolor="white"> 11:15 ~ 11:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상 </td><td bgcolor="white"> <a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대) </td></tr>
+  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> (초청강연 3) 스마트 컨트랙트 취약점 탐지를 위한 기호실행 탐색공간 축소 기법 </td><td bgcolor="white"><a href="https://gist-pal.github.io/">소순범</a> (GIST)</td></tr>
+  <tr><td bgcolor="white"> 10:30 ~ 10:45 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 10:45 ~ 11:30 </td> <td bgcolor="white"> PL과 LLM의 상호보완적 결합을 통한 프로그램 합성 및 분석 </td><td bgcolor="white"> <a href="https://psl.hanyang.ac.kr/">이우석</a> (한양대) </td></tr>
+  <tr><td bgcolor="white"> 11:30 ~ 11:45 </td> <td bgcolor="white"> 폐회 및 포스터 시상 </td><td bgcolor="white"> <a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대) </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
