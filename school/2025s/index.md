@@ -80,7 +80,7 @@ title: SIGPL 여름학교 2025
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> 서울대 프로그래밍연구실 </td><td bgcolor="white"><a href="https://ropas.snu.ac.kr/">이광근</a> (서울대)</td></tr>
   <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> 포스터 (<a href="https://naver.me/FzSyDucH">곤자가 컨벤션</a>) </td><td bgcolor="white"> 대학원생 </td></tr>
+  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> <a href="./poster.html">포스터</a> (<a href="https://naver.me/FzSyDucH">곤자가 컨벤션</a>) </td><td bgcolor="white"> 대학원생 </td></tr>
   <tr><td bgcolor="white"> 18:00 ~ 18:10 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 18:10 ~ 19:30 </td> <td bgcolor="white"> 저녁 만찬 (<a href="https://naver.me/FzSyDucH">곤자가 컨벤션</a>) </td><td bgcolor="white"> </td></tr>
 
