@@ -65,7 +65,7 @@ title: SIGPL 여름학교 2025
   <tr><td bgcolor="white"> 14:10 ~ 15:10 </td> <td bgcolor="white"> (초청강연 1) "연속적 계산"의 기초 다지기 </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
   <tr><td bgcolor="white"> 15:10 ~ 15:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 15:20 ~ 16:30 </td> <td bgcolor="white"> 프로그래밍 언어 의미의 기계화 </td><td bgcolor="white"> <a href="https://plrg.kaist.ac.kr/">류석영</a> (KAIST) </td></tr>
-  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> 난상 토론: AI가 바꾸는 프로그래밍의 미래 지형 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> <a href="./panel.html">난상 토론: AI가 바꾸는 프로그래밍의 미래 지형</a> </td><td bgcolor="white"><a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대)</td></tr>
   <tr><td bgcolor="white"> 18:00 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 (<a href="https://naver.me/xeAfyQIL">거구장</a>)  </td><td bgcolor="white"></td></tr>
 
   <tr><th colspan="3" align="left"> 8월 21일 (목요일) </th></tr>
