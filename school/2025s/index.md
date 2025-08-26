@@ -60,23 +60,23 @@ title: SIGPL 여름학교 2025
   <tr><th colspan="3" align="left"> 8월 20일 (수요일) </th></tr>
   <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:00 ~ 13:15 </td> <td bgcolor="white"> 개회사 </td><td bgcolor="white"><a href="https://islab-sogang.github.io/">최재승</a> (서강대)</td></tr>
-  <tr><td bgcolor="white"> 13:15 ~ 14:00 </td> <td bgcolor="white"> 고려대 소프트웨어 분석 연구 소개 </td><td bgcolor="white"><a href="https://prl.korea.ac.kr/">오학주</a> (고려대)</td></tr>
+  <tr><td bgcolor="white"> 13:15 ~ 14:00 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-hoh.pdf">고려대 소프트웨어 분석 연구 소개</a> </td><td bgcolor="white"><a href="https://prl.korea.ac.kr/">오학주</a> (고려대)</td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:10 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 14:10 ~ 15:10 </td> <td bgcolor="white"> (초청강연 1) "연속적 계산"의 기초 다지기 </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
+  <tr><td bgcolor="white"> 14:10 ~ 15:10 </td> <td bgcolor="white"> (초청강연 1) <a href="./slides/sigpl25s-invite-wlee.pdf">"연속적 계산"의 기초 다지기</a> </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
   <tr><td bgcolor="white"> 15:10 ~ 15:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:20 ~ 16:30 </td> <td bgcolor="white"> 프로그래밍 언어 의미의 기계화 </td><td bgcolor="white"> <a href="https://plrg.kaist.ac.kr/">류석영</a> (KAIST) </td></tr>
+  <tr><td bgcolor="white"> 15:20 ~ 16:30 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-sryu.pdf">프로그래밍 언어 의미의 기계화</a> </td><td bgcolor="white"> <a href="https://plrg.kaist.ac.kr/">류석영</a> (KAIST) </td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> <a href="./panel.html">난상 토론: AI가 바꾸는 프로그래밍의 미래 지형</a> </td><td bgcolor="white"><a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대)</td></tr>
   <tr><td bgcolor="white"> 18:00 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 (<a href="https://naver.me/xeAfyQIL">거구장</a>)  </td><td bgcolor="white"></td></tr>
 
   <tr><th colspan="3" align="left"> 8월 21일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> (초청강연 2) 컨텍스트 터널링: 고정관념에 도전하기 </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
+  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> (초청강연 2) <a href="./slides/sigpl25s-invite-mjeon.pdf">컨텍스트 터널링: 고정관념에 도전하기</a> </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
   <tr><td bgcolor="white"> 10:30 ~ 10:45 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 10:45 ~ 11:30 </td> <td bgcolor="white"> 정적 분석의 효능 </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
+  <tr><td bgcolor="white"> 10:45 ~ 11:30 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-kheo.pdf">정적 분석의 효능</a> </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
   <tr><td bgcolor="white"> 11:30 ~ 13:00 </td> <td bgcolor="white"> 점심 식사 (<a href="https://naver.me/xeAfyQIL">거구장</a>) </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> (후원기업발표) NSHC 소개 </td><td bgcolor="white"><a href="https://www.nshc.net/">NSHC</a></td></tr>
-  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> Deductive model checking: 모델검증을 통한 연역검증 </td><td bgcolor="white"><a href="https://sv.postech.ac.kr/">배경민</a> (POSTECH)</td></tr>
+  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-kbae.pdf">Deductive model checking: 모델검증을 통한 연역검증</a> </td><td bgcolor="white"><a href="https://sv.postech.ac.kr/">배경민</a> (POSTECH)</td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 14:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 14:15 ~ 15:00 </td> <td bgcolor="white"> 안전한 자바스크립트 언어 생태계 확보 기술 </td><td bgcolor="white"><a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대)</td></tr>
+  <tr><td bgcolor="white"> 14:15 ~ 15:00 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-jpark.pdf">안전한 자바스크립트 언어 생태계 확보 기술</a> </td><td bgcolor="white"><a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> 서울대 프로그래밍연구실 </td><td bgcolor="white"><a href="https://ropas.snu.ac.kr/">이광근</a> (서울대)</td></tr>
   <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
