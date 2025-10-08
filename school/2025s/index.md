@@ -88,7 +88,7 @@ title: SIGPL 여름학교 2025
   <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> (초청강연 3) 스마트 컨트랙트 취약점 탐지를 위한 기호실행 탐색공간 축소 기법 </td><td bgcolor="white"><a href="https://gist-pal.github.io/">소순범</a> (GIST)</td></tr>
   <tr><td bgcolor="white"> 10:30 ~ 10:45 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 10:45 ~ 11:30 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-wslee.pdf">PL과 LLM의 상호보완적 결합을 통한 프로그램 합성 및 분석</a> </td><td bgcolor="white"> <a href="https://psl.hanyang.ac.kr/">이우석</a> (한양대) </td></tr>
-  <tr><td bgcolor="white"> 11:30 ~ 11:45 </td> <td bgcolor="white"> 폐회 및 포스터 시상 </td><td bgcolor="white"> <a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대) </td></tr>
+  <tr><td bgcolor="white"> 11:30 ~ 11:45 </td> <td bgcolor="white"> 폐회 및 <a href="./slides/sigpl25s-poster-award.pdf">포스터 시상</a> </td><td bgcolor="white"> <a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대) </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
