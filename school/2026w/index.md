@@ -91,16 +91,16 @@ title: SIGPL 겨울학교 2026
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
-
+-->
 <h2>등록</h2>
 
 <ul>
-  <li> 사전등록 마감: 2025년 8월 11일 (월요일)</li>
+  <li> 사전등록 마감: 2026년 1월 23일 (금요일)</li>
   <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/176/" target="_blank"><font color="red">등록 페이지</font></a>를 통해 신청 가능합니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
-  <tr align="center"><th>사전 등록 </th><td>150,000원</td><td>250,000원</td></tr>
-  <tr align="center"><th>현장 등록 </th><td>200,000원</td><td>350,000원</td></tr>
+  <tr align="center"><th>사전 등록 </th><td>200,000원</td><td>300,000원</td></tr>
+  <tr align="center"><th>현장 등록 </th><td>250,000원</td><td>400,000원</td></tr>
   <tr align="center"><th>특별 할인 </th><td>10,000원</td><td>10,000원</td></tr>
   <tr align="center"><th>명예회원 </th><td></td><td>무료</td></tr>
   </tbody></table>
@@ -120,14 +120,14 @@ title: SIGPL 겨울학교 2026
             </ul>
         </li>
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc7y41FLZFmkgjnp7KciVklIS12AICzXYDbkkM31hY1jNQX8w/viewform?usp=header">구글폼</a>을 통해 지원해 주시면 승인 시 메일에 결제 링크가 포함되어 전달됩니다.</li>
-        <li>지원마감: 2025년 8월 8일(금)</li>
+        <li>지원마감: 2026년 1월 16일(금)</li>
     </ul>
   </li>
   <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
 
 </ul>
 
-
+<!--
 <h2>포스터 발표 신청</h2>
 <ul>
   <li>
@@ -143,24 +143,23 @@ title: SIGPL 겨울학교 2026
   작년과 마찬가지로, 포스터 세션에서 쉬운 용어로 좋은 발표를 진행한 학생에게 세종 발표상을 수여합니다.
   </li>
 </ul>
-
-<h2>숙박안내</h2>
-<ul>
-  <li>시내 호텔 등에 개별적으로 예약해주시기 바랍니다.</li>
-  <table border="1" bordercolor="#a0a0a0"  cellspacing="0">
-  <tr><th>근처 역</th><th>호텔</th><th>거리</th></tr>
-  <tr><td bgcolor="white">   공덕역   </td><td bgcolor="white">   롯데시티호텔 마포        </td><td bgcolor="white">   대중교통 10분  </td></tr>
-  <tr><td bgcolor="white">   신촌역   </td><td bgcolor="white">   브라운스위트 신촌센트럴  </td><td bgcolor="white">   자동차 5분     </td></tr>
-  <tr><td bgcolor="white">   이대역   </td><td bgcolor="white">   에이치에비뉴호텔 이대점  </td><td bgcolor="white">   자동차 8분     </td></tr>
-  </table>
-</ul>
-
+-->
 
 <h2>오시는 길</h2>
 <ul>
-  <li> 행사 장소: <a href="https://naver.me/5l7kWfmt" target="_blank">서강대학교 김대건관(K관) 302호</a></li>
+  <li> 행사 장소: <a href="https://www.ambatel.com/mercure/ulsan/ko/main.do" target="_blank">머큐어 앰버서더 울산</a></li>
 </ul>
 
+<h2>숙박안내</h2>
+<ul>
+  <li>행사장소인 머큐어 앰버서더 울산 호텔에 묵으실 경우 수페리어 더블/트윈/패밀리 객실을 1박당 90,000에 예약하실 수 있습니다.
+      예약 시 "프로그래밍언어연구회" 라고 말씀해 주셔아 해당 요금으로 적용됩니다.
+  </li>
+  <li>그 외의 경우, 시내 호텔 등에 개별적으로 예약해주시기 바랍니다.</li>
+</ul>
+
+
+<!--
 <h2>후원사 소개</h2>
 <ul>
 <li>
