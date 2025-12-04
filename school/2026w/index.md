@@ -68,13 +68,13 @@ title: SIGPL 겨울학교 2026
   <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> 포스터 세션 </td><td bgcolor="white"></td></tr>
 
   <tr><th colspan="3" align="left"> 2월 5일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 4) </td><td bgcolor="white"><a href="https://hjaem.info">홍재민</a>(KAIST/Yale University)</td></tr>
+  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 4) </td><td bgcolor="white"><a href="https://hjaem.info">홍재민</a>(KAIST / Yale University)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> (초청강연 5) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 12:15 ~ 14:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> (초청강연 6) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> (후원기업발표) </td><td bgcolor="white"></a></td></tr>
+  <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> (후원기업발표) </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> Not-So-New Faculty Talks </td><td bgcolor="white">
 <a href="https://psl.hanyang.ac.kr">이우석</a>(한양대)
@@ -88,7 +88,7 @@ title: SIGPL 겨울학교 2026
   <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 7) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> (초청강연 8) </td><td bgcolor="white"> <a href="https://unisthailab.notion.site">정두영</a>(KAIST) </td></tr>
-  <tr><td bgcolor="white"> 12:15 ~ 12:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상</a> </td><td bgcolor="white"> 
+  <tr><td bgcolor="white"> 12:15 ~ 12:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상</td><td bgcolor="white"> 
 <a href="https://plrg.kaist.ac.kr/">류석영</a>(KAIST) </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
