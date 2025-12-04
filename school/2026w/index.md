@@ -48,6 +48,7 @@ title: SIGPL 겨울학교 2026
 <ul>
     <li>더 많은 사진은 <a href="https://drive.google.com/drive/folders/1vm2vUbVDa6Gej3t4EGxYcF130jbHMNg7" target="_blank">링크</a>에서 확인할 수 있습니다.</li>
 </ul>
+-->
 
 <h2>프로그램</h2>
 
@@ -56,42 +57,43 @@ title: SIGPL 겨울학교 2026
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
 <tbody>
-  <tr><th colspan="3" align="left"> 8월 20일 (수요일) </th></tr>
-  <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:00 ~ 13:15 </td> <td bgcolor="white"> 개회사 </td><td bgcolor="white"><a href="https://islab-sogang.github.io/">최재승</a> (서강대)</td></tr>
-  <tr><td bgcolor="white"> 13:15 ~ 14:00 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-hoh.pdf">고려대 소프트웨어 분석 연구 소개</a> </td><td bgcolor="white"><a href="https://prl.korea.ac.kr/">오학주</a> (고려대)</td></tr>
-  <tr><td bgcolor="white"> 14:00 ~ 14:10 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 14:10 ~ 15:10 </td> <td bgcolor="white"> (초청강연 1) <a href="./slides/sigpl25s-invite-wlee.pdf">"연속적 계산"의 기초 다지기</a> </td><td bgcolor="white"> <a href="https://wonyeol.github.io/">이원열</a> (POSTECH) </td></tr>
-  <tr><td bgcolor="white"> 15:10 ~ 15:20 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:20 ~ 16:30 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-sryu.pdf">프로그래밍 언어 의미의 기계화</a> </td><td bgcolor="white"> <a href="https://plrg.kaist.ac.kr/">류석영</a> (KAIST) </td></tr>
-  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> <a href="./panel.html">난상 토론: AI가 바꾸는 프로그래밍의 미래 지형</a> </td><td bgcolor="white"><a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대)</td></tr>
-  <tr><td bgcolor="white"> 18:00 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 (<a href="https://naver.me/xeAfyQIL">거구장</a>)  </td><td bgcolor="white"></td></tr>
-
-  <tr><th colspan="3" align="left"> 8월 21일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> (초청강연 2) <a href="./slides/sigpl25s-invite-mjeon.pdf">컨텍스트 터널링: 고정관념에 도전하기</a> </td><td bgcolor="white"><a href="https://minseokjgit.github.io/">전민석</a> (DGIST)</td></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 10:45 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 10:45 ~ 11:30 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-kheo.pdf">정적 분석의 효능</a> </td><td bgcolor="white"><a href="https://prosys.kaist.ac.kr/">허기홍</a> (KAIST)</td></tr>
-  <tr><td bgcolor="white"> 11:30 ~ 13:00 </td> <td bgcolor="white"> 점심 식사 (<a href="https://naver.me/xeAfyQIL">거구장</a>) </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 13:00 ~ 13:20 </td> <td bgcolor="white"> (후원기업발표) NSHC 소개 </td><td bgcolor="white"><a href="https://www.nshc.net/">NSHC</a></td></tr>
-  <tr><td bgcolor="white"> 13:20 ~ 14:00 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-kbae.pdf">Deductive model checking: 모델검증을 통한 연역검증</a> </td><td bgcolor="white"><a href="https://sv.postech.ac.kr/">배경민</a> (POSTECH)</td></tr>
-  <tr><td bgcolor="white"> 14:00 ~ 14:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 14:15 ~ 15:00 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-jpark.pdf">안전한 자바스크립트 언어 생태계 확보 기술</a> </td><td bgcolor="white"><a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대)</td></tr>
+  <tr><th colspan="3" align="left"> 2월 4일 (수요일) </th></tr>
+  <tr><td bgcolor="white"> 13:00 ~ 14:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> (초청강연 1) </td><td bgcolor="white"><a href="https://seclab.skku.edu/people/hyoungshick-kim/">김형식</a>(성균관대)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> 서울대 프로그래밍연구실 </td><td bgcolor="white"><a href="https://ropas.snu.ac.kr/">이광근</a> (서울대)</td></tr>
+  <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> (초청강연 2) </td><td bgcolor="white"> TBD </td></tr>
   <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> <a href="./poster.html">포스터</a> (<a href="https://naver.me/FzSyDucH">곤자가 컨벤션</a>) </td><td bgcolor="white"> 대학원생 </td></tr>
-  <tr><td bgcolor="white"> 18:00 ~ 18:10 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 18:10 ~ 19:30 </td> <td bgcolor="white"> 저녁 만찬 (<a href="https://naver.me/FzSyDucH">곤자가 컨벤션</a>) </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 16:30 ~ 17:30 </td> <td bgcolor="white"> (초청강연 3) </td><td bgcolor="white"> <a href="https://www.linkedin.com/in/donghee-na-2b713b49">나동희</a>(당근) </td></tr>
+  <tr><td bgcolor="white"> 17:30 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> 포스터 세션 </td><td bgcolor="white"></td></tr>
 
-  <tr><th colspan="3" align="left"> 8월 22일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 09:30 ~ 10:30 </td> <td bgcolor="white"> (초청강연 3) 스마트 컨트랙트 취약점 탐지를 위한 기호실행 탐색공간 축소 기법 </td><td bgcolor="white"><a href="https://gist-pal.github.io/">소순범</a> (GIST)</td></tr>
-  <tr><td bgcolor="white"> 10:30 ~ 10:45 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 10:45 ~ 11:30 </td> <td bgcolor="white"> <a href="./slides/sigpl25s-lab-talk-wslee.pdf">PL과 LLM의 상호보완적 결합을 통한 프로그램 합성 및 분석</a> </td><td bgcolor="white"> <a href="https://psl.hanyang.ac.kr/">이우석</a> (한양대) </td></tr>
-  <tr><td bgcolor="white"> 11:30 ~ 11:45 </td> <td bgcolor="white"> 폐회 및 <a href="./slides/sigpl25s-poster-award.pdf">포스터 시상</a> </td><td bgcolor="white"> <a href="https://plrg.korea.ac.kr/">박지혁</a> (고려대) </td></tr>
+  <tr><th colspan="3" align="left"> 2월 5일 (목요일) </th></tr>
+  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 4) </td><td bgcolor="white"><a href="https://hjaem.info">홍재민</a>(KAIST/Yale University)</td></tr>
+  <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> (초청강연 5) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 12:15 ~ 14:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> (초청강연 6) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> (후원기업발표) </td><td bgcolor="white"></a></td></tr>
+  <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> Not-So-New Faculty Talks </td><td bgcolor="white">
+<a href="https://psl.hanyang.ac.kr">이우석</a>(한양대)
+<a href="https://prl.korea.ac.kr/">오학주</a> (고려대)
+<a href="https://sf.snu.ac.kr/gil.hur/">허충길</a>(서울대)
+<a href="https://plrg.kaist.ac.kr/">류석영</a>(KAIST) </td></tr>
+  <tr><td bgcolor="white"> 18:00 ~ 18:10 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 18:10 ~ 20:00 </td> <td bgcolor="white"> 저녁 만찬 </td><td bgcolor="white"> </td></tr>
+
+  <tr><th colspan="3" align="left"> 2월 6일 (금요일) </th></tr>
+  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 7) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> (초청강연 8) </td><td bgcolor="white"> <a href="https://unisthailab.notion.site">정두영</a>(KAIST) </td></tr>
+  <tr><td bgcolor="white"> 12:15 ~ 12:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상</a> </td><td bgcolor="white"> 
+<a href="https://plrg.kaist.ac.kr/">류석영</a>(KAIST) </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
--->
+
 <h2>등록</h2>
 
 <ul>
