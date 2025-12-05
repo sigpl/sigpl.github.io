@@ -6,7 +6,7 @@ title: SIGPL 겨울학교 2026
 <h1>
 <center>
 한국정보과학회 프로그래밍언어연구회 겨울학교
-<br> (SIGPL Summer School 2026)
+<br> (SIGPL Winter School 2026)
 </center>
 </h1>
 <center><table><tbody><tr><th align="left">
