@@ -88,7 +88,7 @@ title: SIGPL 겨울학교 2026
   <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 7) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> (초청강연 8) </td><td bgcolor="white"> <a href="https://unisthailab.notion.site">정두영</a>(KAIST) </td></tr>
-  <tr><td bgcolor="white"> 12:15 ~ 12:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상</td><td bgcolor="white"> 
+  <tr><td bgcolor="white"> 12:15 ~ 12:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상</td><td bgcolor="white">
 <a href="https://plrg.kaist.ac.kr/">류석영</a>(KAIST) </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
@@ -111,7 +111,7 @@ title: SIGPL 겨울학교 2026
     특별 할인
     <ul>
         <li>
-        올해에도 "특별 할인"을 통해 연구비가 부족한 경우에 지원하고자 합니다. <br>
+        올해에도 "특별 할인"을 통해 연구비가 부족한 경우에 지원하고자 합니다.
         지원을 위해서는 지도교수 추천서가 필요합니다.
         더 다양한 학생들에게 기회를 드리고자, 한 지도교수 당 최대 5명까지만 추천을 받습니다.
         </li>
