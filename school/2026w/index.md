@@ -98,7 +98,7 @@ title: SIGPL 겨울학교 2026
 
 <ul>
   <li> 사전등록 마감: 2026년 1월 23일 (금요일)</li>
-  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/176/" target="_blank"><font color="red">등록 페이지</font></a>를 통해 신청 가능합니다.
+  <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/185/" target="_blank"><font color="red">등록 페이지</font></a>를 통해 신청 가능합니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>사전 등록 </th><td>200,000원</td><td>300,000원</td></tr>
@@ -111,21 +111,21 @@ title: SIGPL 겨울학교 2026
     특별 할인
     <ul>
         <li>
-        최근 R&D 예산 삭감으로 많은 연구실이 연구비가 부족한 상황입니다. <br>
         올해에도 "특별 할인"을 통해 연구비가 부족한 경우에 지원하고자 합니다. <br>
         지원을 위해서는 지도교수 추천서가 필요합니다.
+        더 다양한 학생들에게 기회를 드리고자, 한 지도교수 당 최대 5명까지만 추천을 받습니다.
         </li>
-        <li><a href="https://www.kiise.or.kr/conference/conf/176/">등록 페이지</a>에서 동일하게 정보 작성하고 아래의 사항을 적용하여 등록합니다.
+        <li><a href="https://www.kiise.or.kr/conference/conf/185/">등록 페이지</a>에서 동일하게 정보 작성하고 아래의 사항을 적용하여 등록합니다.
             <ul>
                 <li> 참가신청 결제 - 결제방법: 계좌이체 선택 </li>
                 <li> 입금 메모에 "특별할인" 기재</li>
             </ul>
         </li>
-        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc7y41FLZFmkgjnp7KciVklIS12AICzXYDbkkM31hY1jNQX8w/viewform?usp=header">구글폼</a>을 통해 지원해 주시면 승인 시 메일에 결제 링크가 포함되어 전달됩니다.</li>
+        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdi8nE-Dilr33Ve5B-WBvGWlEC7d01u4YatTYIYqtKo91q8HA/viewform?usp=publish-editor">구글폼</a>을 통해 지원해 주시면 승인 시 메일에 결제 링크가 포함되어 전달됩니다.</li>
         <li>지원마감: 2026년 1월 16일(금)</li>
     </ul>
   </li>
-  <li>무료로 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
+  <li>계절학교에서 제공되는 식사는 수요일 저녁, 목요일 점심/저녁입니다.</li>
 
 </ul>
 
