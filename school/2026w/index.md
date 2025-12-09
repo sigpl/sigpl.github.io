@@ -74,7 +74,7 @@ title: SIGPL 겨울학교 2026
   <tr><td bgcolor="white"> 12:15 ~ 14:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> Inductive Testing of Compilers and Interpreters </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:15 ~ 15:35 </td> <td bgcolor="white"> Unlock Furiosa RNGD's Full Potential with Low-Level API </td><td bgcolor="white">강지훈(FuriosaAI)</td></tr>
+  <tr><td bgcolor="white"> 15:15 ~ 15:35 </td> <td bgcolor="white"> (후원기업발표) Unlock Furiosa RNGD's Full Potential with Low-Level API </td><td bgcolor="white">강지훈(FuriosaAI)</td></tr>
   <tr><td bgcolor="white"> 15:35 ~ 16:15 </td> <td bgcolor="white"> TBD </td><td bgcolor="white">TBD</td></tr>
   <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> Not-So-New Faculty Talks </td><td bgcolor="white">
