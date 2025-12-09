@@ -70,11 +70,12 @@ title: SIGPL 겨울학교 2026
   <tr><th colspan="3" align="left"> 2월 5일 (목요일) </th></tr>
   <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> C를 러스트로 번역하기: 분석으로, LLM으로, 아니면 함께? </td><td bgcolor="white"><a href="https://hjaem.info">홍재민</a>(KAIST / Yale University)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> (초청강연 5) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> Effective Testing of Confluence of a Rewriting System </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 12:15 ~ 14:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> (초청강연 6) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> Inductive Testing of Compilers and Interpreters </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> (후원기업발표) </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 15:15 ~ 15:35 </td> <td bgcolor="white"> Unlock Furiosa RNGD's Full Potential with Low-Level API </td><td bgcolor="white">강지훈(FuriosaAI)</td></tr>
+  <tr><td bgcolor="white"> 15:35 ~ 16:15 </td> <td bgcolor="white"> TBD </td><td bgcolor="white">TBD</td></tr>
   <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 18:00 </td> <td bgcolor="white"> Not-So-New Faculty Talks </td><td bgcolor="white">
 <a href="https://psl.hanyang.ac.kr">이우석</a>(한양대)
@@ -85,7 +86,7 @@ title: SIGPL 겨울학교 2026
   <tr><td bgcolor="white"> 18:10 ~ 20:00 </td> <td bgcolor="white"> 저녁 만찬 </td><td bgcolor="white"> </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 6일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 7) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> Using Numerical Optimization to Generate Test Data That Is Likely to Trigger a Bug </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> LLM 기반 심리상담 챗봇의 가능성과 한계 </td><td bgcolor="white"> <a href="https://unisthailab.notion.site">정두영</a>(KAIST) </td></tr>
   <tr><td bgcolor="white"> 12:15 ~ 12:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상</td><td bgcolor="white">
