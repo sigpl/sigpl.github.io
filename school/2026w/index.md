@@ -59,16 +59,16 @@ title: SIGPL 겨울학교 2026
 <tbody>
   <tr><th colspan="3" align="left"> 2월 4일 (수요일) </th></tr>
   <tr><td bgcolor="white"> 13:00 ~ 14:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> (초청강연 1) </td><td bgcolor="white"><a href="https://seclab.skku.edu/people/hyoungshick-kim/">김형식</a>(성균관대)</td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> Understanding Wasm Malware Detection and Evasion </td><td bgcolor="white"><a href="https://seclab.skku.edu/people/hyoungshick-kim/">김형식</a>(성균관대)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 15:15 ~ 16:15 </td> <td bgcolor="white"> (초청강연 2) </td><td bgcolor="white"> 장준언(삼성전자) </td></tr>
   <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:30 ~ 17:30 </td> <td bgcolor="white"> (초청강연 3) </td><td bgcolor="white"> <a href="https://www.linkedin.com/in/donghee-na-2b713b49">나동희</a>(당근) </td></tr>
+  <tr><td bgcolor="white"> 16:30 ~ 17:30 </td> <td bgcolor="white"> Practical Challenges of Python Core Team </td><td bgcolor="white"> <a href="https://www.linkedin.com/in/donghee-na-2b713b49">나동희</a>(당근) </td></tr>
   <tr><td bgcolor="white"> 17:30 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> 포스터 세션 </td><td bgcolor="white"></td></tr>
 
   <tr><th colspan="3" align="left"> 2월 5일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 4) </td><td bgcolor="white"><a href="https://hjaem.info">홍재민</a>(KAIST / Yale University)</td></tr>
+  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> C를 러스트로 번역하기: 분석으로, LLM으로, 아니면 함께? </td><td bgcolor="white"><a href="https://hjaem.info">홍재민</a>(KAIST / Yale University)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> (초청강연 5) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 12:15 ~ 14:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
@@ -87,7 +87,7 @@ title: SIGPL 겨울학교 2026
   <tr><th colspan="3" align="left"> 2월 6일 (금요일) </th></tr>
   <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> (초청강연 7) </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> (초청강연 8) </td><td bgcolor="white"> <a href="https://unisthailab.notion.site">정두영</a>(KAIST) </td></tr>
+  <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> LLM 기반 심리상담 챗봇의 가능성과 한계 </td><td bgcolor="white"> <a href="https://unisthailab.notion.site">정두영</a>(KAIST) </td></tr>
   <tr><td bgcolor="white"> 12:15 ~ 12:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상</td><td bgcolor="white">
 <a href="https://plrg.kaist.ac.kr/">류석영</a>(KAIST) </td></tr>
 </tbody>
