@@ -193,7 +193,7 @@ Meta, OpenAI, LG AI Research, UpstageAI, Aramco 등 세계 유수 기업들이 �
     </td>
   </tr>
   <tr>
-    <td bgcolor="white">리벨리온</td>
+    <td bgcolor="white"><img src="sponsor/rebellions.png" width="200"></td>
     <td bgcolor="white" style="width:800">
 리벨리온은 대규모 AI 시대에 필요한 에너지 효율성과 확장성을 갖춘 AI 전용 가속기를 개발하고 있습니다.
 LLM부터 멀티모달 AI까지, 리벨리온의 칩렛, 인터커넥트, 소프트웨어 스택은 하이퍼스케일 환경에서의 빠르고 확장 가능하며
