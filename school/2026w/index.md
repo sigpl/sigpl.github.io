@@ -104,6 +104,7 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
 <ul>
   <li> 사전등록 마감: 2026년 1월 23일 (금요일)</li>
   <li> 등록 방법: <a href="https://www.kiise.or.kr/conference/conf/185/" target="_blank"><font color="red">등록 페이지</font></a>를 통해 신청 가능합니다.
+  사전 등록 기간 이후에도 등록 페이지를 통해 일반 등록으로 신청하실 수 있습니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>사전 등록 </th><td>200,000원</td><td>300,000원</td></tr>
