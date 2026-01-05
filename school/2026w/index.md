@@ -107,9 +107,9 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>사전 등록 </th><td>200,000원</td><td>300,000원</td></tr>
-  <tr align="center"><th>현장 등록 </th><td>250,000원</td><td>400,000원</td></tr>
+  <tr align="center"><th>일반 등록 </th><td>250,000원</td><td>400,000원</td></tr>
   <tr align="center"><th>특별 할인 </th><td>10,000원</td><td>10,000원</td></tr>
-  <tr align="center"><th>명예회원 </th><td></td><td>무료</td></tr>
+  <tr align="center"><th>명예 회원 </th><td></td><td>무료</td></tr>
   </tbody></table>
   </li>
   <li>
