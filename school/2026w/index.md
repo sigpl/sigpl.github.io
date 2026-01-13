@@ -78,10 +78,12 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
   <tr><td bgcolor="white"> 12:15 ~ 14:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
   <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> Inductive Testing of Compilers and Interpreters </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:15 ~ 15:35 </td> <td bgcolor="white"> (후원기업발표) Unlock Furiosa RNGD's Full Potential with Low-Level API </td><td bgcolor="white">강지훈(FuriosaAI)</td></tr>
-  <tr><td bgcolor="white"> 15:35 ~ 15:45 </td> <td bgcolor="white"> (후원기업발표) NSHC LLVM 연구소 소개 </td><td bgcolor="white">최정필(NSHC)</td></tr>
-  <tr><td bgcolor="white"> 15:45 ~ 16:00 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:00 ~ 18:00 </td> <td bgcolor="white"> Not-So-New Faculty Talks </td><td bgcolor="white">
+  <tr><td bgcolor="white"> 15:15 ~ 15:25 </td> <td bgcolor="white"> (후원기업발표) NSHC LLVM 연구소 소개 </td><td bgcolor="white">최정필(NSHC)</td></tr>
+  <tr><td bgcolor="white"> 15:25 ~ 15:40 </td> <td bgcolor="white"> (후원기업발표) TBD </td><td bgcolor="white">TBD(ENERZAi)</td></tr>
+  <tr><td bgcolor="white"> 15:40 ~ 16:00 </td> <td bgcolor="white"> (후원기업발표) Unlock Furiosa RNGD's Full Potential with Low-Level API </td><td bgcolor="white">강지훈(FuriosaAI)</td></tr>
+
+  <tr><td bgcolor="white"> 16:00 ~ 16:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 16:15 ~ 18:00 </td> <td bgcolor="white"> Not-So-New Faculty Talks </td><td bgcolor="white">
 <a href="https://psl.hanyang.ac.kr">이우석</a>(한양대)
 <a href="https://prl.korea.ac.kr/">오학주</a> (고려대)
 <a href="https://sf.snu.ac.kr/gil.hur/">허충길</a>(서울대)
