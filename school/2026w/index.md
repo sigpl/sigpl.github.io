@@ -18,7 +18,7 @@ title: SIGPL 겨울학교 2026
 </li><li>
     주최: 한국정보과학회 프로그래밍언어연구회
 </li><li>
-    후원: FuriosaAI, 리벨리온, NSHC
+    후원: FuriosaAI, 리벨리온, 에너자이, NSHC
 </li>
 </ul>
 </th></tr></tbody></table>
@@ -205,6 +205,11 @@ LLM부터 멀티모달 AI까지, 리벨리온의 칩렛, 인터커넥트, 소프
 소버린AI와 상업 분야를 아우르는 미래 AI 인프라를 만들어가고 있습니다.
     </td>
   </tr>
+  <tr><th colspan="2" align="left"> 실버 후원사</th></tr>
+    <td bgcolor="white"><img src="sponsor/enerzai.png" width="200"></td>
+    <td bgcolor="white" style="width:800">
+    에너자이(ENERZAi)는 모델 디자인에서 양자화와 그래프 최적화, 커널 단위 컴파일 최적화에 이르기까지 전 과정을 포괄하는 풀스택 Edge AI 소프트웨어 솔루션을 제공합니다. 개별 Edge 하드웨어에 맞춰 모델을 극한까지 최적화된 머신 코드로 변환하는 추론 최적화 엔진 Optimium과 MLIR 기반 프로그래밍 언어 Nadya를 개발했으며, 이러한 기술을 바탕으로 1.58-bit 초경량 음성 인식 모델을 대규모 상용 환경에 성공적으로 배포했습니다. 에너자이는 ARM, Synaptics, Advantech 등 글로벌 파트너들과 함께 다양한 Edge 환경에서 AI의 성능과 효율을 확장해 나가고 있습니다.
+    </td>
   <tr><th colspan="2" align="left"> 브론즈 후원사</th></tr>
   <tr>
     <td bgcolor="white"><img src="sponsor/nshc.png" width="200"></td>
