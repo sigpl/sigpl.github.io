@@ -69,7 +69,7 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
   <tr><td bgcolor="white"> 16:15 ~ 16:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 17:30 </td> <td bgcolor="white"> Practical Challenges of Python Core Team </td><td bgcolor="white"> <a href="https://www.linkedin.com/in/donghee-na-2b713b49">나동희</a>(당근) </td></tr>
   <tr><td bgcolor="white"> 17:30 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> 포스터 세션 </td><td bgcolor="white"></td></tr>
+  <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> 포스터 세션 (<a href="https://forms.gle/3Njwt1xvsq3SaJcA6">투표</a>) </td><td bgcolor="white"></td></tr>
 
   <tr><th colspan="3" align="left"> 2월 5일 (목요일) </th></tr>
   <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> C를 러스트로 번역하기: 분석으로, LLM으로, 아니면 함께? </td><td bgcolor="white"><a href="https://hjaem.info">홍재민</a>(KAIST / Yale University)</td></tr>
