@@ -84,13 +84,13 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
   <tr><td bgcolor="white"> 16:00 ~ 16:20 </td> <td bgcolor="white"> (후원기업발표) Breaking Barriers with Open Source: Rebellions' SW Strategy </td><td bgcolor="white">박성현(Rebellions)</td></tr>
 
   <tr><td bgcolor="white"> 16:20 ~ 16:40 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:40 ~ 18:00 </td> <td bgcolor="white"> Not-So-New Faculty Talks </td><td bgcolor="white">
+  <tr><td bgcolor="white"> 16:40 ~ 18:20 </td> <td bgcolor="white"> Not-So-New Faculty Talks </td><td bgcolor="white">
 <a href="https://psl.hanyang.ac.kr">이우석</a>(한양대)
 <a href="https://prl.korea.ac.kr/">오학주</a> (고려대)
 <a href="https://sf.snu.ac.kr/gil.hur/">허충길</a>(서울대)
 <a href="https://plrg.kaist.ac.kr/">류석영</a>(KAIST) </td></tr>
-  <tr><td bgcolor="white"> 18:00 ~ 18:10 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 18:10 ~ 20:00 </td> <td bgcolor="white"> 저녁 만찬 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 18:20 ~ 18:30 </td> <td bgcolor="white"> 사진 촬영 </td><td bgcolor="white"> </td></tr>
+  <tr><td bgcolor="white"> 18:30 ~ 20:00 </td> <td bgcolor="white"> 저녁 만찬 </td><td bgcolor="white"> </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 6일 (금요일) </th></tr>
   <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> Using Numerical Optimization to Generate Test Data That Is Likely to Trigger a Bug </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
