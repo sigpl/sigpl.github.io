@@ -63,11 +63,11 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
 <tbody>
   <tr><th colspan="3" align="left"> 2월 4일 (수요일) </th></tr>
   <tr><td bgcolor="white"> 13:00 ~ 14:15 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:15 ~ 15:15 </td> <td bgcolor="white"> <a href="presentation/1-1Kim.pdf">Understanding Wasm Malware Detection and Evasion </td><td bgcolor="white"><a href="https://seclab.skku.edu/people/hyoungshick-kim/">김형식</a>(성균관대)</td></tr>
+  <tr><td bgcolor="white"> 14:15 ~ 15:15 </td> <td bgcolor="white"> <a href="presentation/1-1Kim.pdf">Understanding Wasm Malware Detection and Evasion</a> </td><td bgcolor="white"><a href="https://seclab.skku.edu/people/hyoungshick-kim/">김형식</a>(성균관대)</td></tr>
   <tr><td bgcolor="white"> 15:15 ~ 15:30 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 15:30 ~ 16:30 </td> <td bgcolor="white"> <a href="presentation/1-2Jang.pdf">The Journey from AIxCC to Samsung Internal AI-powered Security Solution </td><td bgcolor="white"> <a href="https://www.linkedin.com/in/joonun-jang">장준언</a>(삼성전자) </td></tr>
+  <tr><td bgcolor="white"> 15:30 ~ 16:30 </td> <td bgcolor="white"> <a href="presentation/1-2Jang.pdf">The Journey from AIxCC to Samsung Internal AI-powered Security Solution</a> </td><td bgcolor="white"> <a href="https://www.linkedin.com/in/joonun-jang">장준언</a>(삼성전자) </td></tr>
   <tr><td bgcolor="white"> 16:30 ~ 16:45 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 16:45 ~ 17:45 </td> <td bgcolor="white"> <a href="presentation/1-3Na.pdf">Practical Challenges of Python Core Team </td><td bgcolor="white"> <a href="https://www.linkedin.com/in/donghee-na-2b713b49">나동희</a>(당근) </td></tr>
+  <tr><td bgcolor="white"> 16:45 ~ 17:45 </td> <td bgcolor="white"> <a href="presentation/1-3Na.pdf">Practical Challenges of Python Core Team</a> </td><td bgcolor="white"> <a href="https://www.linkedin.com/in/donghee-na-2b713b49">나동희</a>(당근) </td></tr>
   <tr><td bgcolor="white"> 17:45 ~ 19:30 </td> <td bgcolor="white"> 저녁 식사 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 19:30 ~ 21:00 </td> <td bgcolor="white"> 포스터 세션 (<a href="https://forms.gle/3Njwt1xvsq3SaJcA6">투표</a>) </td><td bgcolor="white"></td></tr>
 
