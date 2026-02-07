@@ -76,7 +76,7 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> <a href="presentation/2-2Claessen.pdf">Effective Testing of Confluence of a Rewriting System</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 12:15 ~ 14:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> <a href=presentation/2-3Claessen.pdf">Inductive Testing of Compilers and Interpreters</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> <a href="presentation/2-3Claessen.pdf">Inductive Testing of Compilers and Interpreters</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 15:15 ~ 15:25 </td> <td bgcolor="white"> (후원기업발표) NSHC LLVM 연구소 소개 </td><td bgcolor="white">최정필(NSHC)</td></tr>
   <tr><td bgcolor="white"> 15:25 ~ 15:40 </td> <td bgcolor="white"> (후원기업발표) 튜닝 친화적인 ENERZAi의 프로그래밍 언어, Nadya 소개</td><td bgcolor="white">김재호(ENERZAi)</td></tr>
