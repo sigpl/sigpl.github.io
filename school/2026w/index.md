@@ -74,9 +74,9 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
   <tr><th colspan="3" align="left"> 2월 5일 (목요일) </th></tr>
   <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> <a href="presentation/2-1Hong.pdf">C를 러스트로 번역하기: 분석으로, LLM으로, 아니면 함께?</a> </td><td bgcolor="white"><a href="https://hjaem.info">홍재민</a>(KAIST / Yale University)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
-  <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> <a href="presentation/2-2Claessen.pdf">Effective Testing of Confluence of a Rewriting System</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> <a href="presentation/2-2Claessen.pdf">QuickChecking Confluence</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 12:15 ~ 14:00 </td> <td bgcolor="white"> 점심 식사 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> <a href="presentation/2-3Claessen.pdf">Inductive Testing of Compilers and Interpreters</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 14:00 ~ 15:00 </td> <td bgcolor="white"> <a href="presentation/2-3Claessen.pdf">Inductive Testing with applications to compiler/interpreter testing</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 15:00 ~ 15:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 15:15 ~ 15:25 </td> <td bgcolor="white"> (후원기업발표) NSHC LLVM 연구소 소개 </td><td bgcolor="white">최정필(NSHC)</td></tr>
   <tr><td bgcolor="white"> 15:25 ~ 15:40 </td> <td bgcolor="white"> (후원기업발표) 튜닝 친화적인 ENERZAi의 프로그래밍 언어, Nadya 소개</td><td bgcolor="white">김재호(ENERZAi)</td></tr>
@@ -92,7 +92,7 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
   <tr><td bgcolor="white"> 18:10 ~ 20:00 </td> <td bgcolor="white"> 저녁 만찬 </td><td bgcolor="white"> </td></tr>
 
   <tr><th colspan="3" align="left"> 2월 6일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> <a href="presentation/3-1Claessen.pdf">Using Numerical Optimization to Generate Test Data That Is Likely to Trigger a Bug</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
+  <tr><td bgcolor="white"> 10:00 ~ 11:00 </td> <td bgcolor="white"> <a href="presentation/3-1Claessen.pdf">Numerical Optimization for Generating Test Data</a> </td><td bgcolor="white"><a href="https://www.cse.chalmers.se/~koen/">Koen Claessen</a>(Chalmers University of Technology)</td></tr>
   <tr><td bgcolor="white"> 11:00 ~ 11:15 </td> <td bgcolor="white"> 휴식 </td><td bgcolor="white"></td></tr>
   <tr><td bgcolor="white"> 11:15 ~ 12:15 </td> <td bgcolor="white"> <a href="presentation/3-2Jung.pdf">LLM 기반 심리상담 챗봇의 가능성과 한계</a> </td><td bgcolor="white"> <a href="https://unisthailab.notion.site">정두영</a>(KAIST) </td></tr>
   <tr><td bgcolor="white"> 12:15 ~ 12:30 </td> <td bgcolor="white"> 폐회 및 포스터 시상</td><td bgcolor="white">
