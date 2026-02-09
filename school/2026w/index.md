@@ -46,13 +46,9 @@ PL 분야 여러 교수님들의 진솔한 이야기를 들을 수 있는 자리
 조직위원장 허기홍 (KAIST)<br>
 프로그램위원장 류석영 (KAIST)
 </p>
-<!--
+
 <h2> 참가자 단체사진</h2>
-<img style="width: 55%" src ="photo.jpg">
-<ul>
-    <li>더 많은 사진은 <a href="https://drive.google.com/drive/folders/1vm2vUbVDa6Gej3t4EGxYcF130jbHMNg7" target="_blank">링크</a>에서 확인할 수 있습니다.</li>
-</ul>
--->
+<img style="width: 50%" src ="photo.jpeg">
 
 <h2>프로그램</h2>
 
