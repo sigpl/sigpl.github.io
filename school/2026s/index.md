@@ -85,7 +85,6 @@ title: SIGPL 겨울학교 2026
   <tr align="center"><th>사전 등록 </th><td>270,000원</td><td> - </td></tr>
   <tr align="center"><th>일반 등록 </th><td>470,000원</td><td>400,000원</td></tr>
   <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr>
-  <tr align="center"><th>명예 회원 </th><td></td><td>무료</td></tr>
   </tbody></table>
   </li>
   <li>
