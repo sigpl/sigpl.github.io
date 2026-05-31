@@ -49,29 +49,85 @@ title: SIGPL 겨울학교 2026
 <h2>프로그램</h2>
 
 <ul>
-  <table border="0" cellspacing="0">
-  <tbody><tr><td bgcolor="#cccccc">
-  <table border="0" cellspacing="1pt">
-<tbody>
-  <tr><th colspan="3" align="left"> 8월 26일 (수요일) </th></tr>
-  <tr><td bgcolor="white"> 13:30 ~ 15:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td> TBA</tr>
-  <tr><td bgcolor="white"> 15:00 ~ 18:00 </td> <td bgcolor="white"> TBD </td> TBA</tr>  
-  <tr><td bgcolor="white"> 18:00 ~ 20:00 </td> <td bgcolor="white"> 석식 </td>TBA</tr>  
-  <tr><td bgcolor="white"> 20:00 ~ 22:00 </td> <td bgcolor="white"> 포스터 세션 </td>TBA</tr>  
+  <li>
+    <table border="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td bgcolor="#cccccc">
+            <table border="0" cellspacing="1pt">
+              <tbody>
+                <tr><th colspan="3" align="left"> 8월 26일 (수요일) </th></tr>
+                <tr>
+                  <td bgcolor="white"> 13:30 ~ 15:00 </td> 
+                  <td bgcolor="white"> 등록 </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 15:00 ~ 18:00 </td> 
+                  <td bgcolor="white"> TBD </td> 
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+                <tr>
+                  <td bgcolor="white"> 18:00 ~ 20:00 </td> 
+                  <td bgcolor="white"> 석식 </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+                <tr>
+                  <td bgcolor="white"> 20:00 ~ 22:00 </td> 
+                  <td bgcolor="white"> 포스터 세션 </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
 
-  <tr><th colspan="3" align="left"> 8월 27일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 7:30 ~ 8:30 </td> <td bgcolor="white"> 조식 </td>TBA</tr>  
-  <tr><td bgcolor="white"> 9:00 ~ 12:00 </td> <td bgcolor="white"> TBD </td>TBA</tr>  
-  <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 중식 </td>TBA</tr>  
-  <tr><td bgcolor="white"> 13:00 ~ 18:00 </td> <td bgcolor="white"> TBD </td>TBA</tr>  
-  <tr><td bgcolor="white"> 18:00 ~ 20:00 </td> <td bgcolor="white"> 석식 </td>TBA</tr>  
-  <tr><td bgcolor="white"> 20:00 ~ 22:00 </td> <td bgcolor="white"> 단체 프로그램 </td>TBA</tr>  
-  <tr><th colspan="3" align="left"> 8월 28일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 7:30 ~ 8:30 </td> <td bgcolor="white"> 조식 </td>TBA</tr>  
-  <tr><td bgcolor="white"> 9:00 ~ 11:30 </td> <td bgcolor="white"> TBD </td>TBA</tr>  
-<a href="https://plrg.kaist.ac.kr/">김지응</a>(연세대학교) </td></tr>
-</tbody>
-  </table></td></tr></tbody></table>
+                <tr><th colspan="3" align="left"> 8월 27일 (목요일) </th></tr>
+                <tr>
+                  <td bgcolor="white"> 7:30 ~ 8:30 </td> 
+                  <td bgcolor="white"> 조식 </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+                <tr>
+                  <td bgcolor="white"> 9:00 ~ 12:00 </td> 
+                  <td bgcolor="white"> TBD </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+                <tr>
+                  <td bgcolor="white"> 12:00 ~ 13:00 </td> 
+                  <td bgcolor="white"> 중식 </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+                <tr>
+                  <td bgcolor="white"> 13:00 ~ 18:00 </td> 
+                  <td bgcolor="white"> TBD </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+                <tr>
+                  <td bgcolor="white"> 18:00 ~ 20:00 </td> 
+                  <td bgcolor="white"> 석식 </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+                <tr>
+                  <td bgcolor="white"> 20:00 ~ 22:00 </td> 
+                  <td bgcolor="white"> 단체 프로그램 </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+
+                <tr><th colspan="3" align="left"> 8월 28일 (금요일) </th></tr>
+                <tr>
+                  <td bgcolor="white"> 7:30 ~ 8:30 </td> 
+                  <td bgcolor="white"> 조식 </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr>  
+                <tr>
+                  <td bgcolor="white"> 9:00 ~ 11:30 </td> 
+                  <td bgcolor="white"> TBD </td>
+                  <td bgcolor="white"> TBA </td>
+                </tr> 
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
 </ul>
 
 <h2>등록</h2>
