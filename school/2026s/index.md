@@ -54,21 +54,21 @@ title: SIGPL 겨울학교 2026
   <table border="0" cellspacing="1pt">
 <tbody>
   <tr><th colspan="3" align="left"> 8월 26일 (수요일) </th></tr>
-  <tr><td bgcolor="white"> 13:30 ~ 15:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td></tr>
-  <tr><td bgcolor="white"> 15:00 ~ 18:00 </td> <td bgcolor="white"> TBD </td></tr>  
-  <tr><td bgcolor="white"> 18:00 ~ 20:00 </td> <td bgcolor="white"> 석식 </td></tr>  
-  <tr><td bgcolor="white"> 20:00 ~ 22:00 </td> <td bgcolor="white"> 포스터 세션 </td></tr>  
+  <tr><td bgcolor="white"> 13:30 ~ 15:00 </td> <td bgcolor="white"> 등록 </td><td bgcolor="white"> </td> TBA</tr>
+  <tr><td bgcolor="white"> 15:00 ~ 18:00 </td> <td bgcolor="white"> TBD </td> TBA</tr>  
+  <tr><td bgcolor="white"> 18:00 ~ 20:00 </td> <td bgcolor="white"> 석식 </td>TBA</tr>  
+  <tr><td bgcolor="white"> 20:00 ~ 22:00 </td> <td bgcolor="white"> 포스터 세션 </td>TBA</tr>  
 
   <tr><th colspan="3" align="left"> 8월 27일 (목요일) </th></tr>
-  <tr><td bgcolor="white"> 7:30 ~ 8:30 </td> <td bgcolor="white"> 조식 </td></tr>  
-  <tr><td bgcolor="white"> 9:00 ~ 12:00 </td> <td bgcolor="white"> TBD </td></tr>  
-  <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 중식 </td></tr>  
-  <tr><td bgcolor="white"> 13:00 ~ 18:00 </td> <td bgcolor="white"> TBD </td></tr>  
-  <tr><td bgcolor="white"> 18:00 ~ 20:00 </td> <td bgcolor="white"> 석식 </td></tr>  
-  <tr><td bgcolor="white"> 20:00 ~ 22:00 </td> <td bgcolor="white"> 단체 프로그램 </td></tr>  
+  <tr><td bgcolor="white"> 7:30 ~ 8:30 </td> <td bgcolor="white"> 조식 </td>TBA</tr>  
+  <tr><td bgcolor="white"> 9:00 ~ 12:00 </td> <td bgcolor="white"> TBD </td>TBA</tr>  
+  <tr><td bgcolor="white"> 12:00 ~ 13:00 </td> <td bgcolor="white"> 중식 </td>TBA</tr>  
+  <tr><td bgcolor="white"> 13:00 ~ 18:00 </td> <td bgcolor="white"> TBD </td>TBA</tr>  
+  <tr><td bgcolor="white"> 18:00 ~ 20:00 </td> <td bgcolor="white"> 석식 </td>TBA</tr>  
+  <tr><td bgcolor="white"> 20:00 ~ 22:00 </td> <td bgcolor="white"> 단체 프로그램 </td>TBA</tr>  
   <tr><th colspan="3" align="left"> 8월 28일 (금요일) </th></tr>
-  <tr><td bgcolor="white"> 7:30 ~ 8:30 </td> <td bgcolor="white"> 조식 </td></tr>  
-  <tr><td bgcolor="white"> 9:00 ~ 11:30 </td> <td bgcolor="white"> TBD </td></tr>  
+  <tr><td bgcolor="white"> 7:30 ~ 8:30 </td> <td bgcolor="white"> 조식 </td>TBA</tr>  
+  <tr><td bgcolor="white"> 9:00 ~ 11:30 </td> <td bgcolor="white"> TBD </td>TBA</tr>  
 <a href="https://plrg.kaist.ac.kr/">김지응</a>(연세대학교) </td></tr>
 </tbody>
   </table></td></tr></tbody></table>
@@ -119,16 +119,14 @@ title: SIGPL 겨울학교 2026
 <!--  </li>-->
 <!--</ul>-->
 
-<h2>오시는 길</h2>
-<ul>
-  <li> 행사 장소: <a href="https://www.budcc.com/main.php" target="_blank">한국문화연수원 (공주)</a></li>
+<h2>오시는 길 및 숙박 안내</h2>
 </ul>
-
-<h2>숙박 안내</h2>
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="info/wholepics.jpg" alt="행사장 전경 사진" style="max-width: 100%; height: auto;">
 </div>
+
 <ul>
+  <li> 행사 장소: <a href="https://www.budcc.com/main.php" target="_blank">한국문화연수원 (공주)</a></li>
   <li>
     본 행사가 진행되는 "한국문화연수원"은 개인 예약이 어렵습니다. 따라서 운영진이 방 배정을 진행할 예정입니다. 아래 유의 사항을 참고해 주시기 바라며, 문의 사항은 아래 이메일로 연락 부탁드립니다.
     <ul>
