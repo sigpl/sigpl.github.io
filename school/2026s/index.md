@@ -140,7 +140,7 @@ title: SIGPL 여름학교 2026
 <ul>
   <li>사전 등록 마감: 2026년 8월 7일(금요일)</li>
   <li> 등록 방법: <a href="https://www.kiise.or.kr/" target="_blank"><font color="red">등록 페이지</font></a>를 통해 신청 가능합니다. 행사 장소의 특성상 등록비에는 숙박비가 포함되어 있습니다. 일반 등록자들에게는 1인 1실을 제공하고자 하며, 학생 등록자들은 성별/연구실/학교 순으로 매칭하여 3인 1실~6인 1실을 제공할 예정입니다. 원활한 배정을 위하여 모든 참석자분들은 아래 구글 폼을 필수로 작성해 주세요.<br><br>
-    일반 등록자들은 "현장 등록"은 가능하지만, 행사 장소의 특성상 숙박 제공을 해드리지 못합니다. 사전 등록을 못 하실 경우 주변 숙소를 이용하셔야 하며, 일정상 사전 등록이 힘드실 경우 조직위원장에게 이메일로 연락 부탁드립니다. 또한, 등록 시 일반 등록/후원사 등록/학생 등록 구분에 따라 아래 구글 폼을 필수로 작성 부탁드립니다. 연수원 숙박과 관련된 "숙박 안내" 유의 사항도 꼼꼼히 읽어주시기 바랍니다.
+    일반 등록자들은 "현장 등록"은 가능하지만, 행사 장소의 특성상 숙박 제공을 해드리지 못합니다. 사전 등록을 못 하실 경우 주변 숙소를 이용하셔야 하며, 일정상 사전 등록이 힘드실 경우 조직위원장에게 이메일로 연락 부탁드립니다. 또한, 등록 시 일반 등록/학생 등록 구분에 따라 아래 구글 폼을 필수로 작성 부탁드립니다. 연수원 숙박과 관련된 "숙박 안내" 유의 사항도 꼼꼼히 읽어주시기 바랍니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>사전 등록 </th><td>270,000원</td><td> 470,000원 </td></tr>
@@ -148,6 +148,10 @@ title: SIGPL 여름학교 2026
   <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr>
   </tbody></table>
   </li>
+  <ul>
+          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSewbXFQVxKoqzUJeTzHw6Ck1MxorSVdK7SwKwlrUBaup8N21A/viewform?usp=dialog" target="_blank">일반 등록자 참석 정보 작성 구글 폼</a></li>
+          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a></li>  
+  <\ul>
   <li>
     특별 할인
     <ul>
@@ -164,8 +168,6 @@ title: SIGPL 여름학교 2026
           <li>계절학교에서 제공되는 식사는 수요일 저녁, 목요일 아침/점심/저녁, 금요일 아침입니다.</li>
           <li>이번 계절학교부터는 환경 보호를 위해 개인 명찰을 일괄 배부하지 않습니다. 그러므로 되도록 개인 명찰(지난 계절학교 명찰, 혹은 다른 학회 명찰 등)을 지참해 주시기를 바랍니다. 개인 명찰이 없으신 분들에 한해 현장에서 명찰을 제공해 드립니다.</li>
           <li>이번 계절학교에서는 두 개의 단체 프로그램이 마련되어 있습니다: 1) 마곡사 나들이 2) 전통 문화 체험. 전통 문화 체험은 수업별로 인원수가 제한되어 있으니 구글 폼을 통해 필수로 선호도를 응답해 주세요.</li>
-          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSewbXFQVxKoqzUJeTzHw6Ck1MxorSVdK7SwKwlrUBaup8N21A/viewform?usp=dialog" target="_blank">일반 등록자 참석 정보 작성 구글 폼</a></li>
-          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a></li>
           <li>참가확인서가 필요한 분들은 행사 종료 후 한국정보과학회(담당: <a href="mailto:dareum89@kiise.or.kr">오다름 대리</a>)에 이메일로 요청해 주십시오.</li>
       </ul>
   </li>
