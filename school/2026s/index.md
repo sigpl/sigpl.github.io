@@ -143,7 +143,7 @@ title: SIGPL 여름학교 2026
     일반 등록자들은 "현장 등록"은 가능하지만, 행사 장소의 특성상 숙박 제공을 해드리지 못합니다. 사전 등록을 못 하실 경우 주변 숙소를 이용하셔야 하며, 일정상 사전 등록이 힘드실 경우 조직위원장에게 이메일로 연락 부탁드립니다. 또한, 등록 시 일반 등록/후원사 등록/학생 등록 구분에 따라 아래 구글 폼을 필수로 작성 부탁드립니다. 연수원 숙박과 관련된 "숙박 안내" 유의 사항도 꼼꼼히 읽어주시기 바랍니다.
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
-  <tr align="center"><th>사전 등록 </th><td>270,000원</td><td> 470,000 </td></tr>
+  <tr align="center"><th>사전 등록 </th><td>270,000원</td><td> 470,000원 </td></tr>
   <tr align="center"><th>현장 등록 </th><td> - </td><td>300,000원</td></tr>
   <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr>
   </tbody></table>
