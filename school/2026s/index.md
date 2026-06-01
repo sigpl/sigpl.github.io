@@ -148,9 +148,11 @@ title: SIGPL 여름학교 2026
   <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr>
   </tbody></table>
   <br>
+  </li>  
   <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSewbXFQVxKoqzUJeTzHw6Ck1MxorSVdK7SwKwlrUBaup8N21A/viewform?usp=dialog" target="_blank">일반 등록자 참석 정보 작성 구글 폼</a></li>
-  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a></li>  
-  <br>  
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a>
+    <br>  
+  </li>  
   <li>
     특별 할인
     <ul>
@@ -181,7 +183,6 @@ title: SIGPL 여름학교 2026
 <!--</ul>-->
 
 <h2>오시는 길 및 숙박 안내</h2>
-</ul>
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="info/wholepics.jpg" alt="행사장 전경 사진" style="max-width: 100%; height: auto;">
 </div>
