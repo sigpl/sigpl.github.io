@@ -147,11 +147,8 @@ title: SIGPL 여름학교 2026
   <tr align="center"><th>현장 등록 </th><td> - </td><td>300,000원</td></tr>
   <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr>
   </tbody></table>
-  </li>
-  <ul>
-          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSewbXFQVxKoqzUJeTzHw6Ck1MxorSVdK7SwKwlrUBaup8N21A/viewform?usp=dialog" target="_blank">일반 등록자 참석 정보 작성 구글 폼</a></li>
-          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a></li>  
-  <\ul>
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSewbXFQVxKoqzUJeTzHw6Ck1MxorSVdK7SwKwlrUBaup8N21A/viewform?usp=dialog" target="_blank">일반 등록자 참석 정보 작성 구글 폼</a></li>
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a></li>  
   <li>
     특별 할인
     <ul>
