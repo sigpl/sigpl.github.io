@@ -145,8 +145,8 @@ title: SIGPL 여름학교 2026
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
   <tr align="center"><th>1차 사전 등록 (~2026.07.31) </th><td>270,000원</td><td> 470,000원 </td></tr>
-  <tr align="center"><th>2차 사전 등록 (~2026.08.14) </th><td>320,000원</td><td> 570,000원 </td></tr>
-  <tr align="center"><th>현장 등록 </th><td> - </td><td>300,000원</td></tr>
+  <tr align="center"><th>2차 사전 등록 (~2026.08.14) </th><td>370,000원</td><td> 570,000원 </td></tr>
+  <tr align="center"><th>현장 등록 </th><td> - </td><td>350,000원</td></tr>
   <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr>
   </tbody></table>
   <br>  
