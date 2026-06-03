@@ -138,23 +138,25 @@ title: SIGPL 여름학교 2026
 <h2>등록</h2>
 
 <ul>
-  <li>사전 등록 마감: 2026년 8월 7일(금요일)</li>
+  <li><b>1차 사전 등록 마감: 2026년 7월 31일(금요일)</b></li>
+  <li>2차 사전 등록 마감: 2026년 8월 14일(금요일)</li>
   <li> 등록 방법: <a href="https://www.kiise.or.kr/" target="_blank"><font color="red">등록 페이지</font></a>를 통해 신청 가능합니다. 행사 장소의 특성상 등록비에는 숙박비가 포함되어 있습니다. 일반 등록자들에게는 1인 1실을 제공하고자 하며, 학생 등록자들은 성별/연구실/학교 순으로 매칭하여 3인 1실~6인 1실을 제공할 예정입니다. 원활한 배정을 위하여 모든 참석자분들은 아래 구글 폼을 필수로 작성해 주세요.<br><br>
-    일반 등록자들은 "현장 등록"은 가능하지만, 행사 장소의 특성상 숙박 제공을 해드리지 못합니다. 사전 등록을 못 하실 경우 주변 숙소를 이용하셔야 하며, 일정상 사전 등록이 힘드실 경우 조직위원장에게 이메일로 연락 부탁드립니다. 또한, 등록 시 일반 등록/학생 등록 구분에 따라 아래 구글 폼을 필수로 작성 부탁드립니다. 연수원 숙박과 관련된 "숙박 안내" 유의 사항도 꼼꼼히 읽어주시기 바랍니다.<br>
+  일반 등록자들은 "현장 등록"은 가능하지만, 행사 장소의 특성상 숙박 제공을 해드리지 못합니다. 사전 등록을 못 하실 경우 주변 숙소를 이용하셔야 하며, 일정상 사전 등록이 힘드실 경우 조직위원장에게 이메일로 연락 부탁드립니다. 또한, 등록 시 일반 등록/학생 등록 구분에 따라 아래 구글 폼을 필수로 작성 부탁드립니다. 연수원 숙박과 관련된 "숙박 안내" 유의 사항도 꼼꼼히 읽어주시기 바랍니다.<br><br>
   <table border="1" bordercolor="#a0a0a0" cellspacing="0">
   <tbody><tr><th>&nbsp;</th><th>학생</th><th>일반</th></tr>
-  <tr align="center"><th>사전 등록 </th><td>270,000원</td><td> 470,000원 </td></tr>
+  <tr align="center"><th>1차 사전 등록 (~2026.07.31) </th><td>270,000원</td><td> 470,000원 </td></tr>
+  <tr align="center"><th>2차 사전 등록 (~2026.08.14) </th><td>320,000원</td><td> 570,000원 </td></tr>
   <tr align="center"><th>현장 등록 </th><td> - </td><td>300,000원</td></tr>
   <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr>
   </tbody></table>
-  <br>
+  <br>  
   </li>  
-  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSewbXFQVxKoqzUJeTzHw6Ck1MxorSVdK7SwKwlrUBaup8N21A/viewform?usp=dialog" target="_blank">일반 등록자 참석 정보 작성 구글 폼</a></li>
-  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a>
-    <br>  
-  </li>  
+  <li> <b>참석 정보 작성 서류 (필히 작성 부탁 드립니다.)</b>
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSewbXFQVxKoqzUJeTzHw6Ck1MxorSVdK7SwKwlrUBaup8N21A/viewform?usp=dialog" target="_blank">일반 등록자 참석 정보 작성 구글 폼</a></li>
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a></li>
+ </li>  
   <li>
-    특별 할인
+    <b>특별 할인</b>
     <ul>
         <li>
         올해에도 "특별 할인"을 통해 연구비가 부족한 경우에 지원하고자 합니다. 지원을 위해서는 지도교수 추천서가 필요합니다. 더 다양한 학생들에게 기회를 드리고자, 지도교수당 최대 3명까지만 추천을 받습니다. 특별 할인의 경우에도 숙박 제공 금액을 추가하여 80,000원으로 책정하였습니다.<br>        
@@ -164,7 +166,7 @@ title: SIGPL 여름학교 2026
         </li>
     </ul>
   </li>
-  <li>유의 사항
+  <li><b>유의 사항</b>
       <ul>
           <li>계절학교에서 제공되는 식사는 수요일 저녁, 목요일 아침/점심/저녁, 금요일 아침입니다.</li>
           <li>이번 계절학교부터는 환경 보호를 위해 개인 명찰을 일괄 배부하지 않습니다. 그러므로 되도록 개인 명찰(지난 계절학교 명찰, 혹은 다른 학회 명찰 등)을 지참해 주시기를 바랍니다. 개인 명찰이 없으신 분들에 한해 현장에서 명찰을 제공해 드립니다.</li>
