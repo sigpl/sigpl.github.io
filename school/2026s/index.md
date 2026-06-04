@@ -152,8 +152,10 @@ title: SIGPL 여름학교 2026
   <br>  
   </li>  
   <li> <b>참석 정보 작성 서류 (필히 작성 부탁 드립니다.)</b>
+  <ul>
     <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSewbXFQVxKoqzUJeTzHw6Ck1MxorSVdK7SwKwlrUBaup8N21A/viewform?usp=dialog" target="_blank">일반 등록자 참석 정보 작성 구글 폼</a></li>
     <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a></li>
+    </ul>
  </li>  
   <li>
     <b>특별 할인</b>
@@ -214,27 +216,27 @@ title: SIGPL 여름학교 2026
 <ul>
   <li>버스(고속/시외) 이용 시</li>
   <li>각 지역에서 출발 시 공주종합버스터미널로 이동</li>
-  <li>터미널 하차 후 최종 이동 (아래 시내버스 및 택시 연계 방법 참고)</li>
+  <li>터미널 하차 후 최종 이동 (아래 시내버스 및 택시 연계 방법 참고)
   <ul>
-    <li>시내버스 이용 시 (가장 경제적인 방법)</li>
+    <li>시내버스 이용 시 (가장 경제적인 방법)
     <ul>
       <li>공주종합버스터미널 버스정류장에서 770번 시내버스 탑승 (마곡사 행, 배차 간격 약 1시간)</li>
       <li>소요 시간: 1시간 30분 이상</li>
       <li>주의 사항: 마곡사 종점에서 하차 후 한국문화연수원까지는 도보로 약 30~40분(산책로 코스) 걸어 올라가셔야 합니다. 짐이 많으시다면 택시를 추천합니다.</li>    
-    </ul>  
-    <li>택시 이용 시 (가장 편안한 방법)</li>
+    </ul>  </li>
+    <li>택시 이용 시 (가장 편안한 방법)
     <ul>
       <li>공주종합버스터미널 출발: 약 35분 소요 (요금 약 32,000원 내외)</li>
       <li>콜택시 번호: 공주 운불련 (041-852-4000) / 유구 택시 (041-841-2027)</li>
-    </ul>
-  </ul>
+    </ul></li>
+  </ul></li>
   <li>기차(KTX/SRT/일반열차) </li>
   <li>이용 시 연수원과 가장 가까운 KTX역은 천안아산역</li>
-  <li>천안아산역은 버스 이용 시 시간이 너무 오래 걸려 택시 이용을 추천</li>
+  <li>천안아산역은 버스 이용 시 시간이 너무 오래 걸려 택시 이용을 추천
   <ul>
     <li>천안아산역(KTX/SRT) 또는 천안역(일반열차) 하차</li>
     <li>천안아산역 출발: 택시 이용 시 약 45분 소요 (요금 약 45,000원~50,000원 내외)</li>
-  </ul>
+  </ul></li>
 </ul>
 
 <h2>후원 모집</h2>
