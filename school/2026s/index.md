@@ -187,7 +187,7 @@ title: SIGPL 여름학교 2026
 
 <h2>숙박 안내</h2>
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="info/wholepics.jpg" alt="행사장 전경 사진" style="max-width: 100%; height: auto;">
+  <img src="info/wholepics.jpg" alt="행사장 전경 사진" style="max-width: 50%; height: auto;">
 </div>
 
 <ul>
