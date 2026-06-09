@@ -18,7 +18,7 @@ title: SIGPL 여름학교 2026
 </li><li>
     주최: 한국정보과학회 프로그래밍언어연구회
 </li><li>
-    후원: 리벨리온
+    후원: FuriosaAI, 리벨리온
 </li>
 </ul>
 </th></tr></tbody></table>
@@ -172,6 +172,8 @@ title: SIGPL 여름학교 2026
           <li>계절학교에서 제공되는 식사는 수요일 저녁, 목요일 아침/점심/저녁, 금요일 아침입니다.</li>
           <li>이번 계절학교부터는 환경 보호를 위해 개인 명찰을 일괄 배부하지 않습니다. 그러므로 되도록 개인 명찰(지난 계절학교 명찰, 혹은 다른 학회 명찰 등)을 지참해 주시기를 바랍니다. 개인 명찰이 없으신 분들에 한해 현장에서 명찰을 제공해 드립니다.</li>
           <li>이번 계절학교에서는 두 개의 단체 프로그램이 마련되어 있습니다: 1) 마곡사 나들이 2) 전통 문화 체험. 전통 문화 체험은 수업별로 인원수가 제한되어 있으니 구글 폼을 통해 필수로 선호도를 응답해 주세요.</li>
+            <li>작년과 마찬가지로, 포스터 세션에서 쉬운 용어로 좋은 발표를 진행한 학생에게 세종 발표상을 수여합니다. 쉬운 전문 용어가 궁금하다면 <a href="https://easyword.kr">여기</a>를 클릭 하세요.</li>
+          
           <li>참가확인서가 필요한 분들은 행사 종료 후 한국정보과학회(담당: <a href="mailto:dareum89@kiise.or.kr">오다름 대리</a>)에 이메일로 요청해 주십시오.</li>
       </ul>
   </li>
@@ -253,7 +255,7 @@ title: SIGPL 여름학교 2026
   <table border="0" cellspacing="1pt">
 <tbody>
   <tr><th colspan="2" align="left"> 골드 후원사</th></tr>
-  <!-- <tr>
+  <tr>
     <td bgcolor="white"><img src="sponsor/Furiosa_AI_h_rgb.png" width="200"></td>
     <td bgcolor="white" style="width:800">
 FuriosaAI는 대한민국을 대표하는 인공지능 반도체 기업으로서 이재명 정부 1호 유니콘 기업이 되었습니다.
@@ -261,7 +263,7 @@ FuriosaAI는 대한민국을 대표하는 인공지능 반도체 기업으로서
 Meta, OpenAI, LG AI Research, UpstageAI, Aramco 등 세계 유수 기업들이 관심을 보일 정도로 높은 기술력과 인지도를 인정받으며,
 글로벌 AI 반도체 시장에서 혁신을 주도하는 기업으로 자리매김하고 있습니다.
     </td>
-  </tr> -->
+  </tr>
   <tr>
     <td bgcolor="white"><img src="sponsor/rebellions.png" width="200"></td>
     <td bgcolor="white" style="width:800">
