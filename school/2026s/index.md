@@ -258,10 +258,7 @@ title: SIGPL 여름학교 2026
   <tr>
     <td bgcolor="white"><img src="sponsor/Furiosa_AI_h_rgb.png" width="200"></td>
     <td bgcolor="white" style="width:800">
-FuriosaAI는 대한민국을 대표하는 인공지능 반도체 기업으로서 이재명 정부 1호 유니콘 기업이 되었습니다.
-대규모 언어모델(LLM)을 고효율로 가속할 수 있는 2세대 AI 반도체 RNGD의 양산을 앞두고 있습니다.
-Meta, OpenAI, LG AI Research, UpstageAI, Aramco 등 세계 유수 기업들이 관심을 보일 정도로 높은 기술력과 인지도를 인정받으며,
-글로벌 AI 반도체 시장에서 혁신을 주도하는 기업으로 자리매김하고 있습니다.
+FuriosaAI는 대한민국을 대표하는 인공지능 반도체 유니콘 기업입니다. 대규모 언어모델(LLM)을 고효율로 가속할 수 있는 2세대 AI 반도체 RNGD는 26년 1월부터 양산되어 많은 고객이 찾고 있습니다. Broadcom, Meta, OpenAI, Aramco, LG AI Research, UpstageAI 등 국내외 및 세계 유수 기업들이 관심을 보일 정도로 높은 기술력과 인지도를 인정받으며 글로벌 AI 반도체 시장에서 혁신을 주도하는 기업으로 자리매김하고 있습니다.
     </td>
   </tr>
   <tr>
