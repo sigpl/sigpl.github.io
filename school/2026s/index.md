@@ -18,7 +18,7 @@ title: SIGPL 여름학교 2026
 </li><li>
     주최: 한국정보과학회 프로그래밍언어연구회
 </li><li>
-    후원: FuriosaAI, 리벨리온
+    후원: FuriosaAI, 리벨리온, TenX
 </li>
 </ul>
 </th></tr></tbody></table>
