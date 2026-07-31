@@ -57,74 +57,119 @@ title: SIGPL 여름학교 2026
               <tbody>
                 <tr><th colspan="3" align="left"> 8월 26일 (수요일) </th></tr>
                 <tr>
-                  <td bgcolor="white"> 13:30 ~ 15:00 </td> 
-                  <td bgcolor="white"> 등록 </td>
-                  <td bgcolor="white"> TBA </td>
+                  <td bgcolor="white"> 12:00 ~ 14:00 </td>
+                  <td bgcolor="white"> 도착 </td>
+                  <td bgcolor="white"> 개별 </td>
                 </tr>
                 <tr>
-                  <td bgcolor="white"> 15:00 ~ 18:00 </td> 
-                  <td bgcolor="white"> TBD </td> 
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> 14:00 ~ 14:30 </td>
+                  <td bgcolor="white"> 등록 </td>
+                  <td bgcolor="white"> 연수원 로비 </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 18:00 ~ 20:00 </td> 
-                  <td bgcolor="white"> 석식 </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> 14:30 ~ 14:40 </td>
+                  <td bgcolor="white"> 개회식 </td>
+                  <td bgcolor="white"> 이성호 교수 (SIGPL 위원장)<br>김지응 교수 (여름학교 운영위원장) </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 20:00 ~ 22:00 </td> 
+                  <td bgcolor="white"> 14:50 ~ 15:50 </td>
+                  <td bgcolor="white"> 초청강연 I </td>
+                  <td bgcolor="white"> 허기홍 교수 (KAIST)<br>논리와 직관이 융합된 검증형 AI로 만들어 갈 미래 </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 16:00 ~ 17:00 </td>
+                  <td bgcolor="white"> 초청강연 II </td>
+                  <td bgcolor="white"> 허충길 교수 (서울대학교) </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 17:00 ~ 18:00 </td>
+                  <td bgcolor="white"> 번개 발표 세션 </td>
+                  <td bgcolor="white"> 라이트닝 토크 (1인 1분) </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 18:00 ~ 20:00 </td>
+                  <td bgcolor="white"> 환영 만찬 </td>
+                  <td bgcolor="white"> - </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 20:00 ~ 22:00 </td>
                   <td bgcolor="white"> 포스터 세션 </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> 포스터 발표 및 우수 포스터 심사 </td>
+                </tr>
 
                 <tr><th colspan="3" align="left"> 8월 27일 (목요일) </th></tr>
                 <tr>
-                  <td bgcolor="white"> 7:30 ~ 8:30 </td> 
+                  <td bgcolor="white"> 07:30 ~ 08:30 </td>
                   <td bgcolor="white"> 조식 </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> - </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 9:00 ~ 12:00 </td> 
-                  <td bgcolor="white"> TBD </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> 09:00 ~ 09:55 </td>
+                  <td bgcolor="white"> 초청강연 III </td>
+                  <td bgcolor="white"> 김윤승 교수 (DGIST)<br>컴퓨터 증명으로 AI의 실속만 챙기기 — 더 빠르고, 더 안전한 실시간 시스템을 향해 </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 12:00 ~ 13:00 </td> 
+                  <td bgcolor="white"> 10:10 ~ 11:05 </td>
+                  <td bgcolor="white"> 초청강연 IV </td>
+                  <td bgcolor="white"> 홍신 교수 (충북대학교) </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 11:15 ~ 12:00 </td>
+                  <td bgcolor="white"> 초청강연 V </td>
+                  <td bgcolor="white"> 정대룡 교수 (서울대학교)<br>계층 간 명세 불일치로 인한 보안 결함: 커널-하드웨어 경계의 두 가지 사례 연구 </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 12:00 ~ 13:00 </td>
                   <td bgcolor="white"> 중식 </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> - </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 13:00 ~ 16:00 </td> 
-                  <td bgcolor="white"> <a href="http://www.magoksa.or.kr/?asdf=home">마곡사</a> 투어 </td>
-                  <td bgcolor="white"> 개별 </td>
-                </tr>  
+                  <td bgcolor="white"> 13:00 ~ 16:00 </td>
+                  <td bgcolor="white"> <a href="http://www.magoksa.or.kr/?asdf=home">마곡사</a> 문화 투어 </td>
+                  <td bgcolor="white"> 백제권 천년고찰 (도보 이동) </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 16:00 ~ 18:00 </td> 
-                  <td bgcolor="white"> 후원사 발표 </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> 16:00 ~ 18:00 </td>
+                  <td bgcolor="white"> 후원 기업 발표 </td>
+                  <td bgcolor="white"> - </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 18:00 ~ 20:00 </td> 
-                  <td bgcolor="white"> 석식 </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> 18:00 ~ 20:00 </td>
+                  <td bgcolor="white"> 만찬 </td>
+                  <td bgcolor="white"> - </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 20:00 ~ 22:00 </td> 
-                  <td bgcolor="white"> 단체 프로그램 </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> 20:00 ~ 22:00 </td>
+                  <td bgcolor="white"> 단체 프로그램 또는 자유 시간 </td>
+                  <td bgcolor="white"> 한국문화연수원 자체 프로그램 (다도 · 명상 등) </td>
+                </tr>
 
                 <tr><th colspan="3" align="left"> 8월 28일 (금요일) </th></tr>
                 <tr>
-                  <td bgcolor="white"> 7:30 ~ 8:30 </td> 
-                  <td bgcolor="white"> 조식 </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr>  
+                  <td bgcolor="white"> 07:30 ~ 08:30 </td>
+                  <td bgcolor="white"> 조식 · 퇴실 준비 </td>
+                  <td bgcolor="white"> - </td>
+                </tr>
                 <tr>
-                  <td bgcolor="white"> 9:00 ~ 11:30 </td> 
-                  <td bgcolor="white"> TBD </td>
-                  <td bgcolor="white"> TBA </td>
-                </tr> 
+                  <td bgcolor="white"> 09:00 ~ 10:00 </td>
+                  <td bgcolor="white"> 미해결 문제 세션 </td>
+                  <td bgcolor="white"> 미해결 문제 발제 및 그룹 토의 </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 10:15 ~ 11:00 </td>
+                  <td bgcolor="white"> 패널 토의 </td>
+                  <td bgcolor="white"> 신뢰 가능한 AI를 위한 PL&amp;SE 연구 어젠다 </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 11:00 ~ 11:30 </td>
+                  <td bgcolor="white"> 우수 포스터 시상식 · 폐회식 </td>
+                  <td bgcolor="white"> - </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 12:00 ~ </td>
+                  <td bgcolor="white"> 해산 </td>
+                  <td bgcolor="white"> - </td>
+                </tr>
               </tbody>
             </table>
           </td>
