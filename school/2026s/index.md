@@ -18,7 +18,7 @@ title: SIGPL 여름학교 2026
 </li><li>
     주최: 한국정보과학회 프로그래밍언어연구회
 </li><li>
-    후원: FuriosaAI, 리벨리온, TenX
+    후원: FuriosaAI, 리벨리온, TenX, Upstage
 </li>
 </ul>
 </th></tr></tbody></table>
@@ -132,6 +132,38 @@ title: SIGPL 여름학교 2026
       </tbody>
     </table>
 </li>
+</ul>
+
+<h2>2. 발표 모집 — 포스터 · 번개 발표 · 미해결 문제 발제 (마감: 8월 9일(일))</h2>
+
+<p>
+이번 여름학교를 함께 채워 갈 세 가지 발표를 모집합니다. 아래 하나의 구글폼으로 모두 신청하실 수 있습니다.
+</p>
+
+<ul>
+  <li><b>신청 링크:</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLSetBnQx2C-Jzce3ZcrAB55XkRfdC169qIwFwI9L_HWzVH5UPQ/viewform" target="_blank">발표 신청 구글폼</a></li>
+  <li><b>신청 마감:</b> 8월 9일(일) 23:59</li>
+</ul>
+
+<h3>포스터 발표 (학부생, 대학원생 대상)</h3>
+<ul>
+  <li><b>일시:</b> 8월 26일(수) 저녁 (환영 만찬 후 야간 세션, 20:00~22:00)</li>
+  <li><b>대상:</b> 학부생, 대학원생 누구나 — 진행 중인 연구, 최근 발표 논문, 아이디어 단계 모두 환영합니다.</li>
+  <li>우수 포스터는 심사를 거쳐 폐회식(8/28)에서 시상합니다.</li>
+  <li>신청 시 제목·초록(3~5문장)·저자 정보를 받습니다.</li>
+</ul>
+
+<h3>번개 발표 (1분 발표)</h3>
+<ul>
+  <li><b>일시:</b> 8월 26일(수) 오후 (17:00~18:00)</li>
+  <li><b>형식:</b> 1분 내외로 본인의 연구 관심사를 한 줄 소개하는 짧은 발표입니다. 슬라이드 사용 여부는 선택입니다.</li>
+</ul>
+
+<h3>미해결 문제 발제</h3>
+<ul>
+  <li><b>일시:</b> 8월 28일(금) 오전 미해결 문제 세션 (09:00~10:00)</li>
+  <li><b>형식:</b> 5분 내외로 우리 분야의 미해결 문제 하나를 던져 주시면, 학생들이 그룹으로 함께 고민한 뒤 결과를 나눕니다.</li>
+  <li><b>대상:</b> 시니어 연구자에 한정하지 않습니다. 던지고 싶은 미해결 문제가 있는 분이라면 누구나 발제하실 수 있습니다. (4~5분 발제 슬롯)</li>
 </ul>
 
 <h2>등록</h2>
@@ -279,6 +311,13 @@ FuriosaAI는 대한민국을 대표하는 인공지능 반도체 유니콘 기�
 TenX Semi는 반도체 설계와 검증의 개발 속도를 10배 이상 높이고 디자인의 quality를 향상시키는 "Design & Verification AI Agent" 를 개발합니다. 스탠포드 Mitra 교수 연구그룹의 Formal Verification 알고리즘을 원천 기술로 하여, 기존 팹리스들이 잡기 어려웠던 Long-tail 버그 검증부터 Automatic Chip Design까지 반도체 설계의 미래를 혁신합니다. 2025년 설립되어 Stanford/서울대/KAIST 출신은 물론 Samsung, Google, Apple, Synopsys, Cadence, Broadcom, Qualcomm 등 글로벌 빅테크 출신의 최고 수준 전문가들로 팀이 구성되어 있으며, 기술력을 인정받아 미국 Tier-1 VC의 투자를 유치하며 빠르게 성장하고 있습니다.
     </td>
   </tr> 
+  <tr>
+    <td bgcolor="white"><img src="sponsor/upstage.png" width="200"></td>
+    <td bgcolor="white" style="width:800">
+(주)업스테이지(Upstage)는 대한민국의 인공지능(AI) 기술 스타트업입니다. 자체 개발한 경량 거대언어모델(LLM)인 ‘솔라(Solar)’ 시리즈와 인공지능 기반의 문서 처리 솔루션을 바탕으로 급성장하며 대한민국을 대표하는 AI 파운데이션 모델 기업으로 자리 잡았습니다
+    </td>
+  </tr>
+
 </tbody>
   </table></td></tr></tbody></table>
 </ul>
