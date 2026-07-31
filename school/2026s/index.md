@@ -178,7 +178,7 @@ title: SIGPL 여름학교 2026
   <tr align="center"><th>1차 사전 등록 (~2026.07.31) </th><td>270,000원</td><td> 470,000원 </td></tr>
   <tr align="center"><th>2차 사전 등록 (~2026.08.14) </th><td>320,000원</td><td> 570,000원 </td></tr>
   <tr align="center"><th>현장 등록 </th><td> - </td><td>300,000원</td></tr>
-  <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr>
+  <tr align="center"><th>특별 할인 </th><td>80,000원</td><td> - </td></tr> 
   </tbody></table>
   <br>  
   </li>  
@@ -188,7 +188,7 @@ title: SIGPL 여름학교 2026
     <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScuHM3o-2Z8QVfi1ZArncje7C_K_5kQfXpRkXESm0l9Ao9WOw/viewform?usp=dialog" target="_blank">학생 등록자 (특별할인 포함) 참석 정보 작성 구글 폼</a></li>
     </ul>
  </li>  
-  <li>
+  <!-- <li>
     <b>특별 할인</b>
     <ul>
         <li>
@@ -198,7 +198,7 @@ title: SIGPL 여름학교 2026
         - 결제 진행: <a href="https://www.kiise.or.kr/" target="_blank">등록 페이지</a>에서 동일하게 정보를 작성하고 참가 신청 결제 시 <strong>'계좌이체'</strong>를 선택한 뒤, 입금 메모에 <strong>"특별할인"</strong>을 기재해 주세요.
         </li>
     </ul>
-  </li>
+  </li> -->
   <li><b>유의 사항</b>
       <ul>
           <li>계절학교에서 제공되는 식사는 수요일 저녁, 목요일 아침/점심/저녁, 금요일 아침입니다.</li>
@@ -210,14 +210,6 @@ title: SIGPL 여름학교 2026
       </ul>
   </li>
 </ul>
-
-<!--<h2>포스터 발표 신청</h2>-->
-<!--<ul>-->
-<!--  <li>-->
-<!--  <a href="https://docs.google.com/forms/d/e/1FAIpQLSci1vDwfJyWNx-0TNVogtSr8wVV1QFDXM3OnpN6DubkyFlBLg/viewform?usp=header" target="_blank">-->
-<!--  <font color="red">포스터 신청 구글폼</font></a>을 통해 8월 11일(월요일)까지 신청해 주시기 바랍니다.-->
-<!--  </li>-->
-<!--</ul>-->
 
 <h2>숙박 안내</h2>
 <div style="text-align: center; margin-bottom: 30px;">
