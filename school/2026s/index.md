@@ -47,6 +47,8 @@ title: SIGPL 여름학교 2026
 </p>
 
 <h2>프로그램</h2>
+<ul>
+<li>
     <table border="0" cellspacing="0">
       <tbody>
         <tr>
@@ -174,6 +176,8 @@ title: SIGPL 여름학교 2026
         </tr>
       </tbody>
     </table>
+</li>
+</ul>
 
 <h2>발표 모집 — 포스터 · 번개 발표 · 미해결 문제 발제 (마감: 8월 9일(일))</h2>
 
