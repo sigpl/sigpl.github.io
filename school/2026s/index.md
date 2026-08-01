@@ -84,7 +84,7 @@ title: SIGPL 여름학교 2026
                 <tr>
                   <td bgcolor="white"> 17:00 ~ 18:00 </td>
                   <td bgcolor="white"> 번개 발표 세션 </td>
-                  <td bgcolor="white"> 라이트닝 토크 (1인 1분) </td>
+                  <td bgcolor="white"> 번개 발표 (1인 1분) </td>
                 </tr>
                 <tr>
                   <td bgcolor="white"> 18:00 ~ 20:00 </td>
