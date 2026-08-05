@@ -18,7 +18,7 @@ title: SIGPL 여름학교 2026
 </li><li>
     주최: 한국정보과학회 프로그래밍언어연구회
 </li><li>
-    후원: FuriosaAI, 리벨리온, TenX, Upstage
+    후원: FuriosaAI, 리벨리온, 하이퍼엑셀, TenX, Upstage
 </li>
 </ul>
 </th></tr></tbody></table>
@@ -336,6 +336,14 @@ FuriosaAI는 대한민국을 대표하는 인공지능 반도체 유니콘 기�
 리벨리온은 AI가속기, 컴파일러, vLLM 기반의 오픈소스 SW를 개발하는 스타트업입니다. 2025년 10월 기준으로MIT, Harvard, Stanford등 총 75명 이상의 박사들과 구글, 엔비디아, 메타 등 총 50명 이상의 해외 빅테크 출신들로 구성된 250명 규모의 개발자들로 구성되어 있습니다. 주력제품인 R100은 블랙웰 수준의 추론성능을 보다 뛰어난 전력 효율로 구현하였으며, 현재 일론 머스크의 xAI, 미국 투자은행 JP Morgan 등과 상용화를 진행하고 있습니다. 또한 Red Hat의 유일한 스타트업 공식 파트너로서, 오픈소스 SW를 통해 사우디의 소버린AI 데이터센터를 구축하고 있습니다.
     </td>
   </tr>
+  <tr>
+    <td bgcolor="white"><img src="sponsor/hyperaccel.png" width="200"></td>
+    <td bgcolor="white" style="width:800">
+하이퍼엑셀은 생성형 AI 추론(Inference)에 최적화된 LPU(LLM Processing Unit)를 개발하는 대한민국의 AI 반도체 스타트업입니다. 자체 개발한 AI 가속기와 소프트웨어 스택을 통해 대규모 언어모델(LLM)과 생성형 AI 서비스를 GPU 대비 더 높은 전력 효율과 비용 효율로 구현하며, 하드웨어부터 컴파일러·런타임까지 전 영역을 아우르는 시스템 최적화로 데이터센터부터 엣지 AI까지 다양한 환경에서 AI 인프라 혁신을 이끌고 있습니다. 네이버클라우드, LG전자, 삼성전자, 세미파이브, 어드밴텍, 인벤텍, HPE 등 국내외 주요 기업들과 협력하며 글로벌 AI 생태계를 확장하고 있으며, LPU 아키텍처 연구로 IEEE Micro 최우수 논문상(2025)을 수상하고 IEEE/ACM DAC 2023 공학부문 최고 발표상, 대만 ICTGC AI 코어 기술 부문 수상(2025) 등 세계적인 학회에서 기술력을 인정받았습니다. AI 인프라의 전력과 비용 문제를 하드웨어와 소프트웨어의 긴밀한 co-design으로 풀어가는 차세대 AI 반도체 기업으로서, 글로벌 시장에서 새로운 표준을 만들어가고 있습니다.
+
+    </td>
+  </tr>
+
   <!-- <tr><th colspan="2" align="left"> 실버 후원사</th></tr>
     <td bgcolor="white"><img src="sponsor/enerzai.png" width="200"></td>
     <td bgcolor="white" style="width:800">
