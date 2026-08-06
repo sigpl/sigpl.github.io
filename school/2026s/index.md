@@ -74,12 +74,12 @@ title: SIGPL 여름학교 2026
                 <tr>
                   <td bgcolor="white"> 14:50 ~ 15:50 </td>
                   <td bgcolor="white"> 초청강연 I </td>
-                  <td bgcolor="white"> 허기홍 교수 (KAIST)<br>논리와 직관이 융합된 검증형 AI로 만들어 갈 미래 </td>
+                  <td bgcolor="white"> 허충길 교수 (서울대학교)<br>AI와 프로그램 검증의 만남 </td>
                 </tr>
                 <tr>
                   <td bgcolor="white"> 16:00 ~ 17:00 </td>
                   <td bgcolor="white"> 초청강연 II </td>
-                  <td bgcolor="white"> 허충길 교수 (서울대학교) </td>
+                  <td bgcolor="white"> 허기홍 교수 (KAIST)<br>논리와 직관이 융합된 검증형 AI로 만들어 갈 미래 </td>
                 </tr>
                 <tr>
                   <td bgcolor="white"> 17:00 ~ 18:00 </td>
