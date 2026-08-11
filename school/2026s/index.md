@@ -111,7 +111,7 @@ title: SIGPL 여름학교 2026
                 <tr>
                   <td bgcolor="white"> 10:10 ~ 11:05 </td>
                   <td bgcolor="white"> 초청강연 IV </td>
-                  <td bgcolor="white"> 홍신 교수 (충북대학교) </td>
+                  <td bgcolor="white"> 홍신 교수 (충북대학교)<br>AI를 활용한 테스트 입력 합성 </td>
                 </tr>
                 <tr>
                   <td bgcolor="white"> 11:15 ~ 12:00 </td>
@@ -131,7 +131,7 @@ title: SIGPL 여름학교 2026
                 <tr>
                   <td bgcolor="white"> 16:00 ~ 18:00 </td>
                   <td bgcolor="white"> 후원 기업 발표 </td>
-                  <td bgcolor="white"> - </td>
+                  <td bgcolor="white"> FuriosaAI · 리벨리온 · 하이퍼엑셀 · TenX Semi · Upstage </td>
                 </tr>
                 <tr>
                   <td bgcolor="white"> 18:00 ~ 20:00 </td>
@@ -179,36 +179,404 @@ title: SIGPL 여름학교 2026
 </li>
 </ul>
 
-<h2>발표 모집 — 포스터 · 번개 발표 · 미해결 문제 발제 (마감: 8월 9일(일))</h2>
+<h2>발표 프로그램</h2>
 
 <p>
-이번 여름학교를 함께 채워 갈 세 가지 발표를 모집합니다. 아래 하나의 구글폼으로 모두 신청하실 수 있습니다.
+발표 신청이 마감되었습니다 (2026년 8월 9일). 신청해 주신 모든 분께 감사드립니다.<br>
+포스터 <b>47편</b>, 번개 발표 <b>12편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
 </p>
 
+<h3>포스터 발표 (8월 26일 수요일 20:00~22:00)</h3>
+<p>발표자는 저자 목록에서 <b>*</b>로 표시했습니다. 우수 포스터는 심사를 거쳐 폐회식(8/28)에서 시상합니다.</p>
 <ul>
-  <li><b>신청 링크:</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLSetBnQx2C-Jzce3ZcrAB55XkRfdC169qIwFwI9L_HWzVH5UPQ/viewform" target="_blank">발표 신청 구글폼</a></li>
-  <li><b>신청 마감:</b> 8월 9일(일) 23:59</li>
+  <table border="0" cellspacing="0">
+  <tbody><tr><td bgcolor="#cccccc">
+  <table border="0" cellspacing="1pt">
+  <tbody>
+    <tr><th bgcolor="#eeeeee" width="30">#</th><th bgcolor="#eeeeee" align="left">제목</th><th bgcolor="#eeeeee" align="left">저자</th><th bgcolor="#eeeeee" align="left">소속</th></tr>
+    <tr>
+      <td bgcolor="white" align="center"> 1 </td>
+      <td bgcolor="white"> 더 정밀하고 똑똑한 지향성 퍼징 맞춤형 값 덮이 </td>
+      <td bgcolor="white"> 김태은*, 최재승, 허기홍, 차상길 </td>
+      <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 2 </td>
+      <td bgcolor="white"> 하나를 보면 열을 아는 뉴로심볼릭 코드 모델 학습 </td>
+      <td bgcolor="white"> 류연희 </td>
+      <td bgcolor="white"> KAIST 허기홍 교수 연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 3 </td>
+      <td bgcolor="white"> 마크다운 좀 그만 씁시다 </td>
+      <td bgcolor="white"> 이동재, 정승현*, 허기홍 </td>
+      <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 4 </td>
+      <td bgcolor="white"> 검증된 프로그램 만들어줘 </td>
+      <td bgcolor="white"> 이동재*, 허기홍 </td>
+      <td bgcolor="white"> KAIST ProsysLab </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 5 </td>
+      <td bgcolor="white"> 확률적 프로그래밍을 통한 쉽고 효율적인 양자 사후 추론 </td>
+      <td bgcolor="white"> 전승민*, 류석영 </td>
+      <td bgcolor="white"> KAIST PLRG </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 6 </td>
+      <td bgcolor="white"> 실행 요약 의미 기반 오류 유발 단위 테스트 케이스 생성 </td>
+      <td bgcolor="white"> 장수진*, 류연희 </td>
+      <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 7 </td>
+      <td bgcolor="white"> 우리 Rust 월클 맞습니다 </td>
+      <td bgcolor="white"> 김현빈*, 장봉준*, 허기홍 </td>
+      <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 8 </td>
+      <td bgcolor="white"> 자바스크립트 트랜스파일러의 스코프 관련 버그 탐지 </td>
+      <td bgcolor="white"> 고성민*, 연현중 </td>
+      <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 9 </td>
+      <td bgcolor="white"> 자바스크립트 언어 명세의 구조 타입 추론을 통한 일치성 검사 테스트 합성 연구 </td>
+      <td bgcolor="white"> 김현준*, 이무궁 </td>
+      <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 10 </td>
+      <td bgcolor="white"> 최신 자바스크립트를 위한 명세 기반 자동화된 그림자 실행(Shadow Execution) </td>
+      <td bgcolor="white"> 최민석*, J. Pereira, 박성민, R. Gonçalves, L. Jia, 박지혁 </td>
+      <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 11 </td>
+      <td bgcolor="white"> MiniPoly: 언어 명세에서 효율적인 자바스크립트 폴리필 자동 추출하기 </td>
+      <td bgcolor="white"> 김정웅*, 조영민* </td>
+      <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 12 </td>
+      <td bgcolor="white"> 자바스크립트 기계화 명세로부터 증명언어 표현 자동 변환하기 </td>
+      <td bgcolor="white"> 최민석*, 하준서*, 박지혁 </td>
+      <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 13 </td>
+      <td bgcolor="white"> 검증된 코드 생성을 위한 세밀한 증명 실패 대응 </td>
+      <td bgcolor="white"> 신지호*, 오원석, 오학주 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 14 </td>
+      <td bgcolor="white"> 파이썬 공식 구현체의 동시성 버그 찾기 </td>
+      <td bgcolor="white"> 신해소진*, 변지석, 오학주 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 15 </td>
+      <td bgcolor="white"> 광역과 정밀 탐색 제대로 같이 쓰는 방법 </td>
+      <td bgcolor="white"> 안주영*, 오학주, 최재승, 차수영 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 16 </td>
+      <td bgcolor="white"> 목표 지점과 관련된 코드를 정확히 찾아 지향성 퍼징 개선하기 </td>
+      <td bgcolor="white"> 허준용*, 오학주 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 17 </td>
+      <td bgcolor="white"> 효과적인 프로그램 동등성 증명기 만들기 </td>
+      <td bgcolor="white"> 조민규*, 이석현, 오학주 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 18 </td>
+      <td bgcolor="white"> Fold and Unfold Annotation Synthesis for Separation-Logic-Based Verification </td>
+      <td bgcolor="white"> 이중훈 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 19 </td>
+      <td bgcolor="white"> MCP 서버에 있는 버그 찾기 </td>
+      <td bgcolor="white"> 임지민*, 오원석, 안가빈, 오학주 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 20 </td>
+      <td bgcolor="white"> VeriPy: 파이썬 정적검증기 </td>
+      <td bgcolor="white"> 이석호*, 송도원, 오학주 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 21 </td>
+      <td bgcolor="white"> 스펙트럼 조절을 통한 유니터리 행렬 양자회로 합성 </td>
+      <td bgcolor="white"> 강찬구*, 오학주 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 22 </td>
+      <td bgcolor="white"> 축적된 작업 경험을 활용한 코딩 에이전트 효율 개선 </td>
+      <td bgcolor="white"> 김민수*, 오학주 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 23 </td>
+      <td bgcolor="white"> 컴파일 전 오염 추적으로 컴파일된 프로그램의 GNI 증명하기 </td>
+      <td bgcolor="white"> 남연우*, 김용희, 심우진 </td>
+      <td bgcolor="white"> 서울대 소프트웨어원리연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 24 </td>
+      <td bgcolor="white"> 분산시스템 처음부터 끝까지 검증하기 </td>
+      <td bgcolor="white"> 이상현* </td>
+      <td bgcolor="white"> 서울대 소프트웨어원리연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 25 </td>
+      <td bgcolor="white"> 예언할 수 있게 스펙 길들이기 </td>
+      <td bgcolor="white"> 윤태영*, 허충길 </td>
+      <td bgcolor="white"> 서울대 소프트웨어원리연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 26 </td>
+      <td bgcolor="white"> 잘게 나눠 기억해두어 알뜰하게 실행하기 </td>
+      <td bgcolor="white"> 서장협* </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 27 </td>
+      <td bgcolor="white"> 분석기 재활용: 기존 언어 분석기로 정확한 새 언어 분석기 만들기 </td>
+      <td bgcolor="white"> 안중원*, 이재호, 오규혁, 박지혁, 이광근 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 28 </td>
+      <td bgcolor="white"> IAIA: Interrupt-Aware Index Analysis </td>
+      <td bgcolor="white"> 유형서 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 29 </td>
+      <td bgcolor="white"> AI를 활용한 안전한 정적 분석기 생성 </td>
+      <td bgcolor="white"> 신채환*, 이광근 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 30 </td>
+      <td bgcolor="white"> 따로분석 실제 분석기에 적용해보기 </td>
+      <td bgcolor="white"> 오규혁* </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 31 </td>
+      <td bgcolor="white"> 큰보폭 증명나무 합성을 통한 분석기 골탕먹이기 </td>
+      <td bgcolor="white"> 정원준 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 32 </td>
+      <td bgcolor="white"> LLM Agent Plan Code 생성을 위한 제약 기반 생성 </td>
+      <td bgcolor="white"> 조한결*, 이우석 </td>
+      <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 33 </td>
+      <td bgcolor="white"> 피처 엔지니어링 없는 정적 분석 알람 랭킹을 위한 트레이스 기반 대조 학습 </td>
+      <td bgcolor="white"> 이정훈*, 이우석 </td>
+      <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 34 </td>
+      <td bgcolor="white"> 컴파일러 구현체로부터 최적화 규칙을 에이전트 기반으로 추출하기 </td>
+      <td bgcolor="white"> 장준민*, 이우석 </td>
+      <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 35 </td>
+      <td bgcolor="white"> LLM 질의를 통한 정적분석 허위경보 줄이기 </td>
+      <td bgcolor="white"> 주강대*, 이정훈, 이우석 </td>
+      <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 36 </td>
+      <td bgcolor="white"> 언제 분석할까?: 속성 기반 제약 생성으로 의미 지키기 </td>
+      <td bgcolor="white"> 박준성*, 김진상* (공동 발표) </td>
+      <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 37 </td>
+      <td bgcolor="white"> 지도 기호 실행 </td>
+      <td bgcolor="white"> 차수영, 김정호 </td>
+      <td bgcolor="white"> 성균관대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 38 </td>
+      <td bgcolor="white"> 기호실행 도구에 프로그램 옵션이라는 날개를 달다 </td>
+      <td bgcolor="white"> 김민종*, 차수영 </td>
+      <td bgcolor="white"> 성균관대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 39 </td>
+      <td bgcolor="white"> 정규 표현식 합성을 통한 기호 실행 성능 향상 </td>
+      <td bgcolor="white"> 박지웅*, 차수영 </td>
+      <td bgcolor="white"> 성균관대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 40 </td>
+      <td bgcolor="white"> RSFuzz: 갔던 길은 이제 그만 </td>
+      <td bgcolor="white"> 윤재한*, 서윤지, 오학주, 차수영 </td>
+      <td bgcolor="white"> 성균관대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 41 </td>
+      <td bgcolor="white"> 대규모 스파이킹 신경망의 효율적 적대적 강건성 검증 방법 </td>
+      <td bgcolor="white"> 성백륜*, 임현승, 김지응, 고상기 </td>
+      <td bgcolor="white"> 서울시립대 계산지능및데이터분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 42 </td>
+      <td bgcolor="white"> ResMoE: LLM의 동작 보존 FFN 모듈화를 위한 잔차 보정 MoE 변환 </td>
+      <td bgcolor="white"> 성백륜, 홍정민*, 김지응, 고상기 </td>
+      <td bgcolor="white"> 서울시립대 계산지능및데이터분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 43 </td>
+      <td bgcolor="white"> Spec2Maude: SpecTec 기반 WebAssembly 의미론의 자동 변환과 모델체킹 </td>
+      <td bgcolor="white"> 이민성*, 배경민 </td>
+      <td bgcolor="white"> 포항공대 논리추론정형검증연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 44 </td>
+      <td bgcolor="white"> 확률적 멀티버스 속 암호 프로토콜 검증 </td>
+      <td bgcolor="white"> 손병호*, 배경민 </td>
+      <td bgcolor="white"> 포항공대 논리추론정형검증연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 45 </td>
+      <td bgcolor="white"> Transformer와 Opcode sequence를 이용한 난독화 기법 식별 </td>
+      <td bgcolor="white"> 조인우*, 김완주, 조은선 </td>
+      <td bgcolor="white"> 충남대 컴퓨터공학과 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 46 </td>
+      <td bgcolor="white"> UEFISpear: Ghidra 기반 통합 UEFI DXE 취약점 분석기 </td>
+      <td bgcolor="white"> 김서웅*, 문일광, 이용진, 황유민, 김동건, 안상준, 조은선 </td>
+      <td bgcolor="white"> 충남대 프로그래밍언어및시스템연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 47 </td>
+      <td bgcolor="white"> Go와 C 사이의 FFI 형식화 및 메모리 안전성 검증에 관한 연구 </td>
+      <td bgcolor="white"> 임기정*, 김신영, 이은수 </td>
+      <td bgcolor="white"> 연세대 FCAI랩 </td>
+    </tr>
+  </tbody>
+  </table></td></tr></tbody></table>
 </ul>
 
-<h3>포스터 발표 (학부생, 대학원생 대상)</h3>
+<h3>번개 발표 (8월 26일 수요일 17:00~18:00)</h3>
 <ul>
-  <li><b>일시:</b> 8월 26일(수) 저녁 (환영 만찬 후 야간 세션, 20:00~22:00)</li>
-  <li><b>대상:</b> 학부생, 대학원생 누구나 — 진행 중인 연구, 최근 발표 논문, 아이디어 단계 모두 환영합니다.</li>
-  <li>우수 포스터는 심사를 거쳐 폐회식(8/28)에서 시상합니다.</li>
-  <li>신청 시 제목·초록(3~5문장)·저자 정보를 받습니다.</li>
+  <table border="0" cellspacing="0">
+  <tbody><tr><td bgcolor="#cccccc">
+  <table border="0" cellspacing="1pt">
+  <tbody>
+    <tr><th bgcolor="#eeeeee" width="30">#</th><th bgcolor="#eeeeee" align="left">제목</th><th bgcolor="#eeeeee" align="left">발표자</th><th bgcolor="#eeeeee" align="left">소속</th></tr>
+    <tr>
+      <td bgcolor="white" align="center"> 1 </td>
+      <td bgcolor="white"> 양자 사후 추론을 쉽게 잘 이용할 수 있게 하기 </td>
+      <td bgcolor="white"> 전승민 </td>
+      <td bgcolor="white"> KAIST PLRG </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 2 </td>
+      <td bgcolor="white"> 잘게 나눠 기억해두어 알뜰하게 실행하기 </td>
+      <td bgcolor="white"> 서장협 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 3 </td>
+      <td bgcolor="white"> 기존 언어 분석기로 새 언어 분석기 만들기 </td>
+      <td bgcolor="white"> 안중원 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 4 </td>
+      <td bgcolor="white"> 하나의 통일된 타입 이론은 가능할까? </td>
+      <td bgcolor="white"> 신채환 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 5 </td>
+      <td bgcolor="white"> 따로분석 실제 분석기에 적용해보기 </td>
+      <td bgcolor="white"> 오규혁 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 6 </td>
+      <td bgcolor="white"> AI를 괴롭혀서 정적 분석기 공격하기 </td>
+      <td bgcolor="white"> 정원준 </td>
+      <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 7 </td>
+      <td bgcolor="white"> 정밀 조준 퍼징 </td>
+      <td bgcolor="white"> 허준용 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 8 </td>
+      <td bgcolor="white"> 실용적인 파이썬 분석기 만들기 </td>
+      <td bgcolor="white"> 이석현 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 9 </td>
+      <td bgcolor="white"> 버그 없는 Rust 컴파일러를 위하여 </td>
+      <td bgcolor="white"> 변지석 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 10 </td>
+      <td bgcolor="white"> 버그의 시발점을 찾아서 </td>
+      <td bgcolor="white"> 김동욱 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 11 </td>
+      <td bgcolor="white"> 파이썬 버그 찾기 </td>
+      <td bgcolor="white"> 오원석 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 12 </td>
+      <td bgcolor="white"> 대체 어떻게 대체 파이썬의 오류를 찾을까? </td>
+      <td bgcolor="white"> 임정섭 </td>
+      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
+    </tr>
+  </tbody>
+  </table></td></tr></tbody></table>
 </ul>
 
-<h3>번개 발표 (1분 발표)</h3>
+<h3>미해결 문제 발제 (8월 28일 금요일 09:00~10:00)</h3>
 <ul>
-  <li><b>일시:</b> 8월 26일(수) 오후 (17:00~18:00)</li>
-  <li><b>형식:</b> 1분 내외로 본인의 연구 관심사를 한 줄 소개하는 짧은 발표입니다. 슬라이드 사용 여부는 선택입니다.</li>
-</ul>
-
-<h3>미해결 문제 발제</h3>
-<ul>
-  <li><b>일시:</b> 8월 28일(금) 오전 미해결 문제 세션 (09:00~10:00)</li>
-  <li><b>형식:</b> 5분 내외로 우리 분야의 미해결 문제 하나를 던져 주시면, 학생들이 그룹으로 함께 고민한 뒤 결과를 나눕니다.</li>
-  <li><b>대상:</b> 시니어 연구자에 한정하지 않습니다. 던지고 싶은 미해결 문제가 있는 분이라면 누구나 발제하실 수 있습니다. (4~5분 발제 슬롯)</li>
+  <table border="0" cellspacing="0">
+  <tbody><tr><td bgcolor="#cccccc">
+  <table border="0" cellspacing="1pt">
+  <tbody>
+    <tr><th bgcolor="#eeeeee" align="left">발제 제목</th><th bgcolor="#eeeeee" align="left">발제자</th><th bgcolor="#eeeeee" align="left">소속</th></tr>
+    <tr>
+      <td bgcolor="white"> 3n+1 문제 </td>
+      <td bgcolor="white"> 전민석 </td>
+      <td bgcolor="white"> DGIST PLX Lab </td>
+    </tr>
+  </tbody>
+  </table></td></tr></tbody></table>
 </ul>
 
 <h2>등록</h2>
@@ -313,7 +681,7 @@ title: SIGPL 여름학교 2026
 </ul>
 
 <h2>후원 모집</h2>
-2026 SIGPL 겨울학교 후원 기업을 모집하고 있습니다.
+2026 SIGPL 여름학교 후원 기업을 모집하고 있습니다.
 후원에 관심이 있으신 기업에서는 조직위원장 <a href="mailto:jieungkim@yonsei.ac.kr">김지응 교수</a>에게 이메일로 문의해주시면 후원 혜택을 안내해드립니다.
 
 <h2>후원사 소개</h2>
