@@ -47,9 +47,7 @@ title: SIGPL 여름학교 2026
 </p>
 
 <h2>프로그램</h2>
-<ul>
-<li>
-    <table border="0" cellspacing="0">
+<table border="0" cellspacing="0">
       <tbody>
         <tr>
           <td bgcolor="#cccccc">
@@ -175,21 +173,26 @@ title: SIGPL 여름학교 2026
           </td>
         </tr>
       </tbody>
-    </table>
-</li>
-</ul>
+</table>
 
 <h2>발표 프로그램</h2>
 
 <p>
-발표 신청이 마감되었습니다 (2026년 8월 9일). 신청해 주신 모든 분께 감사드립니다.<br>
-포스터 <b>47편</b>, 번개 발표 <b>12편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
+현재까지 포스터 <b>47편</b>, 번개 발표 <b>12편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
+신청해 주신 모든 분께 감사드립니다.
 </p>
+
+<p>
+<b>추가 신청도 계속 받고 있습니다.</b> 아래 구글폼으로 신청해 주시면 프로그램에 반영해 드립니다.
+</p>
+
+<ul>
+  <li><b>신청 링크:</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLSetBnQx2C-Jzce3ZcrAB55XkRfdC169qIwFwI9L_HWzVH5UPQ/viewform" target="_blank">발표 신청 구글폼</a></li>
+</ul>
 
 <h3>포스터 발표 (8월 26일 수요일 20:00~22:00)</h3>
 <p>발표자는 저자 목록에서 <b>*</b>로 표시했습니다. 우수 포스터는 심사를 거쳐 폐회식(8/28)에서 시상합니다.</p>
-<ul>
-  <table border="0" cellspacing="0">
+<table border="0" cellspacing="0">
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
   <tbody>
@@ -477,12 +480,10 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white"> 연세대 FCAI랩 </td>
     </tr>
   </tbody>
-  </table></td></tr></tbody></table>
-</ul>
+</table></td></tr></tbody></table>
 
 <h3>번개 발표 (8월 26일 수요일 17:00~18:00)</h3>
-<ul>
-  <table border="0" cellspacing="0">
+<table border="0" cellspacing="0">
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
   <tbody>
@@ -560,12 +561,10 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
   </tbody>
-  </table></td></tr></tbody></table>
-</ul>
+</table></td></tr></tbody></table>
 
 <h3>미해결 문제 발제 (8월 28일 금요일 09:00~10:00)</h3>
-<ul>
-  <table border="0" cellspacing="0">
+<table border="0" cellspacing="0">
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
   <tbody>
@@ -576,8 +575,7 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white"> DGIST PLX Lab </td>
     </tr>
   </tbody>
-  </table></td></tr></tbody></table>
-</ul>
+</table></td></tr></tbody></table>
 
 <h2>등록</h2>
 
@@ -685,8 +683,7 @@ title: SIGPL 여름학교 2026
 후원에 관심이 있으신 기업에서는 조직위원장 <a href="mailto:jieungkim@yonsei.ac.kr">김지응 교수</a>에게 이메일로 문의해주시면 후원 혜택을 안내해드립니다.
 
 <h2>후원사 소개</h2>
-<ul>
-  <table border="0" cellspacing="0">
+<table border="0" cellspacing="0">
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
 <tbody>
@@ -730,5 +727,4 @@ TenX Semi는 반도체 설계와 검증의 개발 속도를 10배 이상 높이�
   </tr>
 
 </tbody>
-  </table></td></tr></tbody></table>
-</ul>
+</table></td></tr></tbody></table>
