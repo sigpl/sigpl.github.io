@@ -178,7 +178,7 @@ title: SIGPL 여름학교 2026
 <h2>발표 프로그램</h2>
 
 <p>
-현재까지 포스터 <b>47편</b>, 번개 발표 <b>12편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
+현재까지 포스터 <b>52편</b>, 번개 발표 <b>12편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
 신청해 주신 모든 분께 감사드립니다.
 </p>
 
@@ -439,42 +439,72 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 41 </td>
+      <td bgcolor="white"> 안드로이드 유저간 경계 침해 취약점 찾기 </td>
+      <td bgcolor="white"> 김재원*, 황성재 </td>
+      <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 42 </td>
+      <td bgcolor="white"> CARVE: Recovering and Reconstructing Deleted H.264/H.265 Video from Honeywell Surveillance Systems </td>
+      <td bgcolor="white"> Giri Pravas*, 윤진희, 황성재 </td>
+      <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 43 </td>
+      <td bgcolor="white"> Flutter 플러그인의 보안 위험: Dart–Android 경계에 대한 대규모 실증 연구 </td>
+      <td bgcolor="white"> 김성중 </td>
+      <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 44 </td>
+      <td bgcolor="white"> QESA: 양자 프로그램의 소스 코드 수준에서의 얽힘 분석기 </td>
+      <td bgcolor="white"> 라하람*, 황성재 </td>
+      <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 45 </td>
       <td bgcolor="white"> 대규모 스파이킹 신경망의 효율적 적대적 강건성 검증 방법 </td>
       <td bgcolor="white"> 성백륜*, 임현승, 김지응, 고상기 </td>
       <td bgcolor="white"> 서울시립대 계산지능및데이터분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 42 </td>
+      <td bgcolor="white" align="center"> 46 </td>
       <td bgcolor="white"> ResMoE: LLM의 동작 보존 FFN 모듈화를 위한 잔차 보정 MoE 변환 </td>
       <td bgcolor="white"> 성백륜, 홍정민*, 김지응, 고상기 </td>
       <td bgcolor="white"> 서울시립대 계산지능및데이터분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 43 </td>
+      <td bgcolor="white" align="center"> 47 </td>
       <td bgcolor="white"> Spec2Maude: SpecTec 기반 WebAssembly 의미론의 자동 변환과 모델체킹 </td>
       <td bgcolor="white"> 이민성*, 배경민 </td>
       <td bgcolor="white"> 포항공대 논리추론정형검증연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 44 </td>
+      <td bgcolor="white" align="center"> 48 </td>
       <td bgcolor="white"> 확률적 멀티버스 속 암호 프로토콜 검증 </td>
       <td bgcolor="white"> 손병호*, 배경민 </td>
       <td bgcolor="white"> 포항공대 논리추론정형검증연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 45 </td>
+      <td bgcolor="white" align="center"> 49 </td>
       <td bgcolor="white"> Transformer와 Opcode sequence를 이용한 난독화 기법 식별 </td>
       <td bgcolor="white"> 조인우*, 김완주, 조은선 </td>
       <td bgcolor="white"> 충남대 컴퓨터공학과 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 46 </td>
+      <td bgcolor="white" align="center"> 50 </td>
       <td bgcolor="white"> UEFISpear: Ghidra 기반 통합 UEFI DXE 취약점 분석기 </td>
       <td bgcolor="white"> 김서웅*, 문일광, 이용진, 황유민, 김동건, 안상준, 조은선 </td>
       <td bgcolor="white"> 충남대 프로그래밍언어및시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 47 </td>
+      <td bgcolor="white" align="center"> 51 </td>
+      <td bgcolor="white"> 실행해보며 LLM으로 지향성 테스트 입력 만들어가기 </td>
+      <td bgcolor="white"> 한나린*, 홍신 </td>
+      <td bgcolor="white"> 충북대 SDEV Lab </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 52 </td>
       <td bgcolor="white"> Go와 C 사이의 FFI 형식화 및 메모리 안전성 검증에 관한 연구 </td>
       <td bgcolor="white"> 임기정*, 김신영, 이은수 </td>
       <td bgcolor="white"> 연세대 FCAI랩 </td>
