@@ -526,7 +526,7 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 2 </td>
-      <td bgcolor="white"> Meta-Squaring: Meta-languages Need a Specification </td>
+      <td bgcolor="white"> 메타 제곱: 명세 메타 언어도 메타 언어로 명세해줘 </td>
       <td bgcolor="white"> 이재현 </td>
       <td bgcolor="white"> KAIST PLRG </td>
     </tr>
