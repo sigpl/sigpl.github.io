@@ -178,7 +178,7 @@ title: SIGPL 여름학교 2026
 <h2>발표 프로그램</h2>
 
 <p>
-현재까지 포스터 <b>52편</b>, 번개 발표 <b>12편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
+현재까지 포스터 <b>52편</b>, 번개 발표 <b>13편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
 신청해 주신 모든 분께 감사드립니다.
 </p>
 
@@ -451,8 +451,8 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 43 </td>
-      <td bgcolor="white"> Flutter 플러그인의 보안 위험: Dart–Android 경계에 대한 대규모 실증 연구 </td>
-      <td bgcolor="white"> 김성중 </td>
+      <td bgcolor="white"> Flutter 플러그인에서 경계를 넘는 보안 문제 찾기 </td>
+      <td bgcolor="white"> 김성중*, 황성재 </td>
       <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
     </tr>
     <tr>
@@ -526,66 +526,72 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 2 </td>
+      <td bgcolor="white"> Meta-Squaring: Meta-languages Need a Specification </td>
+      <td bgcolor="white"> 이재현 </td>
+      <td bgcolor="white"> KAIST PLRG </td>
+    </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 3 </td>
       <td bgcolor="white"> 잘게 나눠 기억해두어 알뜰하게 실행하기 </td>
       <td bgcolor="white"> 서장협 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 3 </td>
+      <td bgcolor="white" align="center"> 4 </td>
       <td bgcolor="white"> 기존 언어 분석기로 새 언어 분석기 만들기 </td>
       <td bgcolor="white"> 안중원 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 4 </td>
+      <td bgcolor="white" align="center"> 5 </td>
       <td bgcolor="white"> 하나의 통일된 타입 이론은 가능할까? </td>
       <td bgcolor="white"> 신채환 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 5 </td>
+      <td bgcolor="white" align="center"> 6 </td>
       <td bgcolor="white"> 따로분석 실제 분석기에 적용해보기 </td>
       <td bgcolor="white"> 오규혁 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 6 </td>
+      <td bgcolor="white" align="center"> 7 </td>
       <td bgcolor="white"> AI를 괴롭혀서 정적 분석기 공격하기 </td>
       <td bgcolor="white"> 정원준 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 7 </td>
+      <td bgcolor="white" align="center"> 8 </td>
       <td bgcolor="white"> 정밀 조준 퍼징 </td>
       <td bgcolor="white"> 허준용 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 8 </td>
+      <td bgcolor="white" align="center"> 9 </td>
       <td bgcolor="white"> 실용적인 파이썬 분석기 만들기 </td>
       <td bgcolor="white"> 이석현 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 9 </td>
+      <td bgcolor="white" align="center"> 10 </td>
       <td bgcolor="white"> 버그 없는 Rust 컴파일러를 위하여 </td>
       <td bgcolor="white"> 변지석 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 10 </td>
+      <td bgcolor="white" align="center"> 11 </td>
       <td bgcolor="white"> 버그의 시발점을 찾아서 </td>
       <td bgcolor="white"> 김동욱 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 11 </td>
+      <td bgcolor="white" align="center"> 12 </td>
       <td bgcolor="white"> 파이썬 버그 찾기 </td>
       <td bgcolor="white"> 오원석 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 12 </td>
+      <td bgcolor="white" align="center"> 13 </td>
       <td bgcolor="white"> 대체 어떻게 대체 파이썬의 오류를 찾을까? </td>
       <td bgcolor="white"> 임정섭 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
