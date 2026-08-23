@@ -361,7 +361,7 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 28 </td>
-      <td bgcolor="white"> IAIA: Interrupt-Aware Index Analysis </td>
+      <td bgcolor="white"> 끼어들기(Interrupt)를 고려한 인덱스 분석 </td>
       <td bgcolor="white"> 유형서 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
@@ -544,7 +544,7 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 5 </td>
-      <td bgcolor="white"> 하나의 통일된 타입 이론은 가능할까? </td>
+      <td bgcolor="white"> AI를 활용한 안전한 정적 분석기 생성 </td>
       <td bgcolor="white"> 신채환 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
