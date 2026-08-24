@@ -221,13 +221,7 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white"> 이동재*, 허기홍 </td>
       <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
-    <tr>
-      <td bgcolor="white" align="center"> 5 </td>
-      <td bgcolor="white"> 확률적 프로그래밍을 통한 쉽고 효율적인 양자 사후 추론 </td>
-      <td bgcolor="white"> 전승민*, 류석영 </td>
-      <td bgcolor="white"> KAIST PLRG </td>
-    </tr>
-    <tr>
+        <tr>
       <td bgcolor="white" align="center"> 6 </td>
       <td bgcolor="white"> 잘 만든 오답 노트로 오류 유발 테스트 떡잎 찾아가기 </td>
       <td bgcolor="white"> 장수진*, 류연희, 허기홍 </td>
@@ -239,6 +233,12 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white"> 김현빈*, 장봉준*, 허기홍 </td>
       <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
+    <tr>
+      <td bgcolor="white" align="center"> 5 </td>
+      <td bgcolor="white"> 확률적 프로그래밍을 통한 쉽고 효율적인 양자 사후 추론 </td>
+      <td bgcolor="white"> 전승민*, 류석영 </td>
+      <td bgcolor="white"> KAIST PLRG </td>
+    </tr>      
     <tr>
       <td bgcolor="white" align="center"> 8 </td>
       <td bgcolor="white"> 자바스크립트 트랜스파일러의 스코프 관련 버그 탐지 </td>
