@@ -206,8 +206,8 @@ title: SIGPL 여름학교 2026
     <tr>
       <td bgcolor="white" align="center"> 2 </td>
       <td bgcolor="white"> 하나를 보면 열을 아는 뉴로심볼릭 코드 모델 학습 </td>
-      <td bgcolor="white"> 류연희 </td>
-      <td bgcolor="white"> KAIST 허기홍 교수 연구실 </td>
+      <td bgcolor="white"> 류연희, 허기홍 </td>
+      <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 3 </td>
@@ -217,9 +217,9 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 4 </td>
-      <td bgcolor="white"> 검증된 프로그램 만들어줘 </td>
+      <td bgcolor="white"> 함께 만들어가는 증명과 구현 </td>
       <td bgcolor="white"> 이동재*, 허기홍 </td>
-      <td bgcolor="white"> KAIST ProsysLab </td>
+      <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 5 </td>
@@ -229,8 +229,8 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 6 </td>
-      <td bgcolor="white"> 실행 요약 의미 기반 오류 유발 단위 테스트 케이스 생성 </td>
-      <td bgcolor="white"> 장수진*, 류연희 </td>
+      <td bgcolor="white"> 잘 만든 오답 노트로 오류 유발 테스트 떡잎 찾아가기 </td>
+      <td bgcolor="white"> 장수진*, 류연희, 허기홍 </td>
       <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
