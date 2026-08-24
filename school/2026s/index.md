@@ -206,7 +206,7 @@ title: SIGPL 여름학교 2026
     <tr>
       <td bgcolor="white" align="center"> 2 </td>
       <td bgcolor="white"> 하나를 보면 열을 아는 뉴로심볼릭 코드 모델 학습 </td>
-      <td bgcolor="white"> 류연희, 허기홍 </td>
+      <td bgcolor="white"> 류연희*, 허기홍 </td>
       <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
