@@ -229,7 +229,7 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 7 </td>
-      <td bgcolor="white"> 증명된 코드입니다, 근데 이제 빠름도 곁들인 </td>
+      <td bgcolor="white"> 검증된 코드입니다, 근데 이제 빠름도 곁들인 </td>
       <td bgcolor="white"> 김현빈*, 장봉준*, 허기홍 </td>
       <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
