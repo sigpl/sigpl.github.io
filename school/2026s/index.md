@@ -178,7 +178,7 @@ title: SIGPL 여름학교 2026
 <h2>발표 프로그램</h2>
 
 <p>
-현재까지 포스터 <b>51편</b>, 번개 발표 <b>13편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
+현재까지 포스터 <b>50편</b>, 번개 발표 <b>13편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
 신청해 주신 모든 분께 감사드립니다.
 </p>
 
@@ -279,12 +279,6 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white" align="center"> 15 </td>
       <td bgcolor="white"> 광역과 정밀 탐색 제대로 같이 쓰는 방법 </td>
       <td bgcolor="white"> 안주영*, 오학주, 최재승, 차수영 </td>
-      <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
-    </tr>
-    <tr>
-      <td bgcolor="white" align="center"> 16 </td>
-      <td bgcolor="white"> 목표 지점과 관련된 코드를 정확히 찾아 지향성 퍼징 개선하기 </td>
-      <td bgcolor="white"> 허준용*, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
