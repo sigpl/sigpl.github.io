@@ -222,19 +222,19 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
         <tr>
-      <td bgcolor="white" align="center"> 6 </td>
+      <td bgcolor="white" align="center"> 5 </td>
       <td bgcolor="white"> 잘 만든 오답 노트로 오류 유발 테스트 떡잎 찾아가기 </td>
       <td bgcolor="white"> 장수진*, 류연희, 허기홍 </td>
       <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 7 </td>
+      <td bgcolor="white" align="center"> 6 </td>
       <td bgcolor="white"> 검증된 코드입니다, 근데 이제 빠름도 곁들인 </td>
       <td bgcolor="white"> 김현빈*, 장봉준*, 허기홍 </td>
       <td bgcolor="white"> KAIST 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 5 </td>
+      <td bgcolor="white" align="center"> 7 </td>
       <td bgcolor="white"> 확률적 프로그래밍을 통한 쉽고 효율적인 양자 사후 추론 </td>
       <td bgcolor="white"> 전승민*, 류석영 </td>
       <td bgcolor="white"> KAIST PLRG </td>
@@ -264,235 +264,235 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 13 </td>
+      <td bgcolor="white" align="center"> 12 </td>
       <td bgcolor="white"> 검증된 코드 생성을 위한 세밀한 증명 실패 대응 </td>
       <td bgcolor="white"> 신지호*, 오원석, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 14 </td>
+      <td bgcolor="white" align="center"> 13 </td>
       <td bgcolor="white"> 파이썬 공식 구현체의 동시성 버그 찾기 </td>
       <td bgcolor="white"> 신해소진*, 변지석, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 15 </td>
+      <td bgcolor="white" align="center"> 14 </td>
       <td bgcolor="white"> 광역과 정밀 탐색 제대로 같이 쓰는 방법 </td>
       <td bgcolor="white"> 안주영*, 오학주, 최재승, 차수영 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 17 </td>
+      <td bgcolor="white" align="center"> 15 </td>
       <td bgcolor="white"> 효과적인 프로그램 동등성 증명기 만들기 </td>
       <td bgcolor="white"> 조민규*, 이석현, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 18 </td>
+      <td bgcolor="white" align="center"> 16 </td>
       <td bgcolor="white"> Static Verification of Reference Management in CPython </td>
       <td bgcolor="white"> 이중훈*, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 19 </td>
+      <td bgcolor="white" align="center"> 17 </td>
       <td bgcolor="white"> MCP 서버에 있는 버그 찾기 </td>
       <td bgcolor="white"> 임지민*, 오원석, 안가빈, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 20 </td>
+      <td bgcolor="white" align="center"> 18 </td>
       <td bgcolor="white"> VeriPy: 파이썬 정적검증기 </td>
       <td bgcolor="white"> 이석호*, 송도원, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 21 </td>
+      <td bgcolor="white" align="center"> 19 </td>
       <td bgcolor="white"> 스펙트럼 조절을 통한 유니터리 행렬 양자회로 합성 </td>
       <td bgcolor="white"> 강찬구*, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 22 </td>
+      <td bgcolor="white" align="center"> 20 </td>
       <td bgcolor="white"> 축적된 작업 경험을 활용한 코딩 에이전트 효율 개선 </td>
       <td bgcolor="white"> 김민수*, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 23 </td>
+      <td bgcolor="white" align="center"> 21 </td>
       <td bgcolor="white"> 컴파일 전 오염 추적으로 컴파일된 프로그램의 GNI 증명하기 </td>
       <td bgcolor="white"> 남연우*, 김용희, 심우진 </td>
       <td bgcolor="white"> 서울대 소프트웨어원리연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 24 </td>
+      <td bgcolor="white" align="center"> 22 </td>
       <td bgcolor="white"> 분산시스템 처음부터 끝까지 검증하기 </td>
       <td bgcolor="white"> 이상현* </td>
       <td bgcolor="white"> 서울대 소프트웨어원리연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 25 </td>
+      <td bgcolor="white" align="center"> 23 </td>
       <td bgcolor="white"> 예언할 수 있게 스펙 길들이기 </td>
       <td bgcolor="white"> 윤태영*, 허충길 </td>
       <td bgcolor="white"> 서울대 소프트웨어원리연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 26 </td>
+      <td bgcolor="white" align="center"> 24 </td>
       <td bgcolor="white"> 잘게 나눠 기억해두어 알뜰하게 실행하기 </td>
       <td bgcolor="white"> 서장협* </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 27 </td>
+      <td bgcolor="white" align="center"> 25 </td>
       <td bgcolor="white"> 분석기 재활용: 기존 언어 분석기로 정확한 새 언어 분석기 만들기 </td>
       <td bgcolor="white"> 안중원*, 이재호, 오규혁, 박지혁, 이광근 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 28 </td>
+      <td bgcolor="white" align="center"> 26 </td>
       <td bgcolor="white"> 끼어들기(Interrupt)를 고려한 인덱스 분석 </td>
       <td bgcolor="white"> 유형서 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 29 </td>
+      <td bgcolor="white" align="center"> 27 </td>
       <td bgcolor="white"> AI를 활용한 안전한 정적 분석기 생성 </td>
       <td bgcolor="white"> 신채환*, 이광근 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 30 </td>
+      <td bgcolor="white" align="center"> 28 </td>
       <td bgcolor="white"> 따로분석 실제 분석기에 적용해보기 </td>
       <td bgcolor="white"> 오규혁* </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 31 </td>
+      <td bgcolor="white" align="center"> 29 </td>
       <td bgcolor="white"> 큰보폭 증명나무 합성을 통한 분석기 골탕먹이기 </td>
       <td bgcolor="white"> 정원준 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 32 </td>
+      <td bgcolor="white" align="center"> 30 </td>
       <td bgcolor="white"> LLM Agent Plan Code 생성을 위한 제약 기반 생성 </td>
       <td bgcolor="white"> 조한결*, 이우석 </td>
       <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 33 </td>
+      <td bgcolor="white" align="center"> 31 </td>
       <td bgcolor="white"> 피처 엔지니어링 없는 정적 분석 알람 랭킹을 위한 트레이스 기반 대조 학습 </td>
       <td bgcolor="white"> 이정훈*, 이우석 </td>
       <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 34 </td>
+      <td bgcolor="white" align="center"> 32 </td>
       <td bgcolor="white"> 컴파일러 구현체로부터 최적화 규칙을 에이전트 기반으로 추출하기 </td>
       <td bgcolor="white"> 장준민*, 이우석 </td>
       <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 35 </td>
+      <td bgcolor="white" align="center"> 33 </td>
       <td bgcolor="white"> LLM 질의를 통한 정적분석 허위경보 줄이기 </td>
       <td bgcolor="white"> 주강대*, 이정훈, 이우석 </td>
       <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 36 </td>
+      <td bgcolor="white" align="center"> 34 </td>
       <td bgcolor="white"> 언제 분석할까?: 속성 기반 제약 생성으로 의미 지키기 </td>
       <td bgcolor="white"> 박준성*, 김진상* (공동 발표) </td>
       <td bgcolor="white"> 한양대 프로그래밍시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 37 </td>
+      <td bgcolor="white" align="center"> 35 </td>
       <td bgcolor="white"> 지도 기호 실행 </td>
       <td bgcolor="white"> 차수영, 김정호 </td>
       <td bgcolor="white"> 성균관대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 38 </td>
+      <td bgcolor="white" align="center"> 36 </td>
       <td bgcolor="white"> 기호실행 도구에 프로그램 옵션이라는 날개를 달다 </td>
       <td bgcolor="white"> 김민종*, 차수영 </td>
       <td bgcolor="white"> 성균관대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 39 </td>
+      <td bgcolor="white" align="center"> 37 </td>
       <td bgcolor="white"> 정규 표현식 합성을 통한 기호 실행 성능 향상 </td>
       <td bgcolor="white"> 박지웅*, 차수영 </td>
       <td bgcolor="white"> 성균관대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 40 </td>
+      <td bgcolor="white" align="center"> 38 </td>
       <td bgcolor="white"> RSFuzz: 갔던 길은 이제 그만 </td>
       <td bgcolor="white"> 윤재한*, 서윤지, 오학주, 차수영 </td>
       <td bgcolor="white"> 성균관대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 41 </td>
+      <td bgcolor="white" align="center"> 39 </td>
       <td bgcolor="white"> 안드로이드 유저간 경계 침해 취약점 찾기 </td>
       <td bgcolor="white"> 김재원*, 황성재 </td>
       <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 42 </td>
+      <td bgcolor="white" align="center"> 40 </td>
       <td bgcolor="white"> CARVE: Recovering and Reconstructing Deleted H.264/H.265 Video from Honeywell Surveillance Systems </td>
       <td bgcolor="white"> Giri Pravas*, 윤진희, 황성재 </td>
       <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 43 </td>
+      <td bgcolor="white" align="center"> 41 </td>
       <td bgcolor="white"> Flutter 플러그인에서 경계를 넘는 보안 문제 찾기 </td>
       <td bgcolor="white"> 김성중*, 황성재 </td>
       <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 44 </td>
+      <td bgcolor="white" align="center"> 42 </td>
       <td bgcolor="white"> QESA: 양자 프로그램의 소스 코드 수준에서의 얽힘 분석기 </td>
       <td bgcolor="white"> 라하람*, 황성재 </td>
       <td bgcolor="white"> 성균관대 소프트웨어보안연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 45 </td>
-      <td bgcolor="white"> 대규모 스파이킹 신경망의 효율적 적대적 강건성 검증 방법 </td>
+      <td bgcolor="white" align="center"> 43 </td>
+      <td bgcolor="white"> 스파이킹 신경망이 교묘하게 바꾼 입력에도 속지 않는지 빠르게 확인하기 </td>
       <td bgcolor="white"> 성백륜*, 임현승, 김지응, 고상기 </td>
       <td bgcolor="white"> 서울시립대 계산지능및데이터분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 46 </td>
+      <td bgcolor="white" align="center"> 44 </td>
       <td bgcolor="white"> ResMoE: LLM의 동작 보존 FFN 모듈화를 위한 잔차 보정 MoE 변환 </td>
       <td bgcolor="white"> 성백륜, 홍정민*, 김지응, 고상기 </td>
       <td bgcolor="white"> 서울시립대 계산지능및데이터분석연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 47 </td>
+      <td bgcolor="white" align="center"> 45 </td>
       <td bgcolor="white"> Spec2Maude: SpecTec 기반 WebAssembly 의미론의 자동 변환과 모델체킹 </td>
       <td bgcolor="white"> 이민성*, 배경민 </td>
       <td bgcolor="white"> 포항공대 논리추론정형검증연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 48 </td>
+      <td bgcolor="white" align="center"> 46 </td>
       <td bgcolor="white"> 확률적 멀티버스 속 암호 프로토콜 검증 </td>
       <td bgcolor="white"> 손병호*, 배경민 </td>
       <td bgcolor="white"> 포항공대 논리추론정형검증연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 49 </td>
+      <td bgcolor="white" align="center"> 47 </td>
       <td bgcolor="white"> Transformer와 Opcode sequence를 이용한 난독화 기법 식별 </td>
       <td bgcolor="white"> 조인우*, 김완주, 조은선 </td>
       <td bgcolor="white"> 충남대 컴퓨터공학과 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 50 </td>
+      <td bgcolor="white" align="center"> 48 </td>
       <td bgcolor="white"> UEFISpear: Ghidra 기반 통합 UEFI DXE 취약점 분석기 </td>
       <td bgcolor="white"> 김서웅*, 문일광, 이용진, 황유민, 김동건, 안상준, 조은선 </td>
       <td bgcolor="white"> 충남대 프로그래밍언어및시스템연구실 </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 51 </td>
+      <td bgcolor="white" align="center"> 49 </td>
       <td bgcolor="white"> 실행해보며 LLM으로 지향성 테스트 입력 만들어가기 </td>
       <td bgcolor="white"> 한나린*, 홍신 </td>
       <td bgcolor="white"> 충북대 SDEV Lab </td>
     </tr>
     <tr>
-      <td bgcolor="white" align="center"> 52 </td>
+      <td bgcolor="white" align="center"> 50 </td>
       <td bgcolor="white"> Go와 C 사이의 FFI 형식화 및 메모리 안전성 검증에 관한 연구 </td>
       <td bgcolor="white"> 임기정*, 김신영, 이은수 </td>
       <td bgcolor="white"> 연세대 FCAI랩 </td>
