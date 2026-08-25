@@ -301,8 +301,8 @@ title: SIGPL 여름학교 2026
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 18 </td>
-      <td bgcolor="white"> Fold and Unfold Annotation Synthesis for Separation-Logic-Based Verification </td>
-      <td bgcolor="white"> 이중훈 </td>
+      <td bgcolor="white"> Static Verification of Reference Management in CPython </td>
+      <td bgcolor="white"> 이중훈*, 오학주 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
