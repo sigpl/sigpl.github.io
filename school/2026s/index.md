@@ -178,7 +178,7 @@ title: SIGPL 여름학교 2026
 <h2>발표 프로그램</h2>
 
 <p>
-현재까지 포스터 <b>52편</b>, 번개 발표 <b>13편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
+현재까지 포스터 <b>51편</b>, 번개 발표 <b>13편</b>, 미해결 문제 발제 <b>1편</b>이 접수되었습니다.
 신청해 주신 모든 분께 감사드립니다.
 </p>
 
@@ -261,12 +261,6 @@ title: SIGPL 여름학교 2026
       <td bgcolor="white" align="center"> 11 </td>
       <td bgcolor="white"> MiniPoly: 언어 명세에서 효율적인 자바스크립트 폴리필 자동 추출하기 </td>
       <td bgcolor="white"> 김정웅*, 조영민*, 박지혁 </td>
-      <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
-    </tr>
-    <tr>
-      <td bgcolor="white" align="center"> 12 </td>
-      <td bgcolor="white"> 자바스크립트 기계화 명세로부터 증명언어 표현 자동 변환하기 </td>
-      <td bgcolor="white"> 최민석*, 하준서*, 박지혁 </td>
       <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
     </tr>
     <tr>
