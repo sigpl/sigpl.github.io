@@ -242,13 +242,13 @@ title: SIGPL 여름학교 2026
     <tr>
       <td bgcolor="white" align="center"> 8 </td>
       <td bgcolor="white"> 자바스크립트 트랜스파일러의 스코프 관련 버그 탐지 </td>
-      <td bgcolor="white"> 고성민*, 연현중 </td>
+      <td bgcolor="white"> 고성민*, 연현중, 박지혁 </td>
       <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 9 </td>
       <td bgcolor="white"> 자바스크립트 언어 명세의 구조 타입 추론을 통한 일치성 검사 테스트 합성 연구 </td>
-      <td bgcolor="white"> 김현준*, 이무궁 </td>
+      <td bgcolor="white"> 김현준*, 이무궁, 박지혁 </td>
       <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
     </tr>
     <tr>
@@ -260,7 +260,7 @@ title: SIGPL 여름학교 2026
     <tr>
       <td bgcolor="white" align="center"> 11 </td>
       <td bgcolor="white"> MiniPoly: 언어 명세에서 효율적인 자바스크립트 폴리필 자동 추출하기 </td>
-      <td bgcolor="white"> 김정웅*, 조영민* </td>
+      <td bgcolor="white"> 김정웅*, 조영민*, 박지혁 </td>
       <td bgcolor="white"> 고려대 프로그래밍언어연구실 </td>
     </tr>
     <tr>
