@@ -149,9 +149,14 @@ title: SIGPL 여름학교 2026
                   <td bgcolor="white"> - </td>
                 </tr>
                 <tr>
-                  <td bgcolor="white"> 09:00 ~ 10:00 </td>
-                  <td bgcolor="white"> 미해결 문제 세션 </td>
-                  <td bgcolor="white"> 미해결 문제 발제 및 그룹 토의 </td>
+                  <td bgcolor="white"> 09:00 ~ 09:15 </td>
+                  <td bgcolor="white"> 미해결 문제 발제 </td>
+                  <td bgcolor="white"> 전민석 교수 (DGIST)<br>3n+1 문제 </td>
+                </tr>
+                <tr>
+                  <td bgcolor="white"> 09:15 ~ 10:00 </td>
+                  <td bgcolor="white"> 초청강연 VI </td>
+                  <td bgcolor="white"> 류석영 교수 (KAIST)<br>AI와 PL 연구 </td>
                 </tr>
                 <tr>
                   <td bgcolor="white"> 10:15 ~ 11:00 </td>
@@ -587,7 +592,7 @@ title: SIGPL 여름학교 2026
   </tbody>
 </table></td></tr></tbody></table>
 
-<h3>미해결 문제 발제 (8월 28일 금요일 09:00~10:00)</h3>
+<h3>미해결 문제 발제 (8월 28일 금요일 09:00~09:15)</h3>
 <table border="0" cellspacing="0">
   <tbody><tr><td bgcolor="#cccccc">
   <table border="0" cellspacing="1pt">
