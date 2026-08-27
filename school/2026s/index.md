@@ -47,6 +47,13 @@ title: SIGPL 여름학교 2026
 </p>
 
 <h2>프로그램</h2>
+
+<p style="border: 1px solid #a0a0a0; padding: 10px;">
+<b>패널 토의 사전 질문 접수 (8월 28일 금요일 10:15~11:00)</b><br>
+"신뢰 가능한 AI를 위한 PL&amp;SE 연구 어젠다" 패널 토의에서 다루었으면 하는 질문을 아래 링크로 남겨 주세요. 익명으로 작성할 수 있으며, 다른 분이 올린 질문에 투표할 수도 있습니다.<br>
+<a href="https://app.sli.do/event/g6czDxSwSmHVgqiqW2oHns" target="_blank"><b>질문 남기기 (Slido)</b></a>
+</p>
+
 <table border="0" cellspacing="0">
       <tbody>
         <tr>
@@ -161,7 +168,7 @@ title: SIGPL 여름학교 2026
                 <tr>
                   <td bgcolor="white"> 10:15 ~ 11:00 </td>
                   <td bgcolor="white"> 패널 토의 </td>
-                  <td bgcolor="white"> 신뢰 가능한 AI를 위한 PL&amp;SE 연구 어젠다<br>허충길 교수 (서울대학교) · 허기홍 교수 (KAIST) · 홍신 교수 (충북대학교) · 정대룡 교수 (서울대학교) </td>
+                  <td bgcolor="white"> 신뢰 가능한 AI를 위한 PL&amp;SE 연구 어젠다<br>허충길 교수 (서울대학교) · 허기홍 교수 (KAIST) · 홍신 교수 (충북대학교) · 정대룡 교수 (서울대학교)<br>사전 질문: <a href="https://app.sli.do/event/g6czDxSwSmHVgqiqW2oHns" target="_blank">Slido</a> </td>
                 </tr>
                 <tr>
                   <td bgcolor="white"> 11:00 ~ 11:30 </td>
