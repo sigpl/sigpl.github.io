@@ -46,6 +46,12 @@ title: SIGPL 여름학교 2026
 프로그램위원장 고상기 (서울시립대학교)
 </p>
 
+<h2> 참가자 단체사진</h2>
+<img style="width: 55%" src ="pic.JPG">
+<ul>
+    <li>더 많은 사진은 <a href="https://drive.google.com/drive/folders/1jNuMesiqe9eYqDCupmVhcnyfxiAfO-cd?usp=sharing" target="_blank">링크</a>에서 확인할 수 있습니다.</li>
+</ul>
+
 <h2>프로그램</h2>
 
 <p style="border: 1px solid #a0a0a0; padding: 10px;">
