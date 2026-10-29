@@ -526,79 +526,79 @@ title: SIGPL 여름학교 2026
     <tr><th bgcolor="#eeeeee" width="30">#</th><th bgcolor="#eeeeee" align="left">제목</th><th bgcolor="#eeeeee" align="left">발표자</th><th bgcolor="#eeeeee" align="left">소속</th></tr>
     <tr>
       <td bgcolor="white" align="center"> 1 </td>
-      <td bgcolor="white"> 양자 사후 추론을 쉽게 잘 이용할 수 있게 하기 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-01.pdf">양자 사후 추론을 쉽게 잘 이용할 수 있게 하기</a> </td>
       <td bgcolor="white"> 전승민 </td>
       <td bgcolor="white"> KAIST PLRG </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 2 </td>
-      <td bgcolor="white"> 메타 제곱: 명세 메타 언어도 메타 언어로 명세해줘 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-02.pdf">메타 제곱: 명세 메타 언어도 메타 언어로 명세해줘</a> </td>
       <td bgcolor="white"> 이재현 </td>
       <td bgcolor="white"> KAIST PLRG </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 3 </td>
-      <td bgcolor="white"> 잘게 나눠 기억해두어 알뜰하게 실행하기 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-03.pdf">잘게 나눠 기억해두어 알뜰하게 실행하기</a> </td>
       <td bgcolor="white"> 서장협 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 4 </td>
-      <td bgcolor="white"> 기존 언어 분석기로 새 언어 분석기 만들기 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-04.pdf">기존 언어 분석기로 새 언어 분석기 만들기</a> </td>
       <td bgcolor="white"> 안중원 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 5 </td>
-      <td bgcolor="white"> AI를 활용한 안전한 정적 분석기 생성 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-05.pdf">AI를 활용한 안전한 정적 분석기 생성</a> </td>
       <td bgcolor="white"> 신채환 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 6 </td>
-      <td bgcolor="white"> 따로분석 실제 분석기에 적용해보기 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-06.pdf">따로분석 실제 분석기에 적용해보기</a> </td>
       <td bgcolor="white"> 오규혁 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 7 </td>
-      <td bgcolor="white"> AI를 괴롭혀서 정적 분석기 공격하기 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-07.pdf">AI를 괴롭혀서 정적 분석기 공격하기</a> </td>
       <td bgcolor="white"> 정원준 </td>
       <td bgcolor="white"> 서울대 프로그래밍연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 8 </td>
-      <td bgcolor="white"> 정밀 조준 퍼징 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-08.pdf">정밀 조준 퍼징</a> </td>
       <td bgcolor="white"> 허준용 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 9 </td>
-      <td bgcolor="white"> 실용적인 파이썬 분석기 만들기 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-09.pdf">실용적인 파이썬 분석기 만들기</a> </td>
       <td bgcolor="white"> 이석현 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 10 </td>
-      <td bgcolor="white"> 버그 없는 Rust 컴파일러를 위하여 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-10.pdf">버그 없는 Rust 컴파일러를 위하여</a> </td>
       <td bgcolor="white"> 변지석 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 11 </td>
-      <td bgcolor="white"> 버그의 시발점을 찾아서 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-11.pdf">버그의 시발점을 찾아서</a> </td>
       <td bgcolor="white"> 김동욱 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 12 </td>
-      <td bgcolor="white"> 파이썬 버그 찾기 </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-12.pdf">파이썬 버그 찾기</a> </td>
       <td bgcolor="white"> 오원석 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
     <tr>
       <td bgcolor="white" align="center"> 13 </td>
-      <td bgcolor="white"> 대체 어떻게 대체 파이썬의 오류를 찾을까? </td>
+      <td bgcolor="white"> <a href="slides/sigpl26s-lightning-13.pdf">대체 어떻게 대체 파이썬의 오류를 찾을까?</a> </td>
       <td bgcolor="white"> 임정섭 </td>
       <td bgcolor="white"> 고려대 소프트웨어분석연구실 </td>
     </tr>
